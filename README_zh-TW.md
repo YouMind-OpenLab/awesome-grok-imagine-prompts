@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3359** |
+| 📝 提示詞總數 | **3373** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-12** |
 
@@ -189,6 +189,234 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 金髮刺蝟角色
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於創建金髮女性刺蝟角色的提示詞，靈感來自 1995 年的電影《柳林風聲》。
+
+#### 📝 提示詞
+
+```
+以 1995 年動畫電影《風中奇緣》（Wind in the Willows）為靈感，創造一位金髮的雌性刺蝟角色
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120723818004074496/img/NIA4TyLqPm98IuwO.jpg" width="600" alt="金髮刺蝟角色">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13775)**
+
+**作者:** [Mary Burton](https://x.com/MaryBurtonPCVB) | **來源:** [Link](https://x.com/MaryBurtonPCVB/status/2120723829920084054) | **發布時間:** Nov 12, 2026
+
+---
+### Grok Imagine Video 提示詞：金鼴鼠角色
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於建立 1995 年《柳林風聲》改編風格之動畫金鼴鼠女性角色的 Grok Imagine Video 提示詞。
+
+#### 📝 提示詞
+
+```
+建立一個以 1995 年《風中奇緣》（The Wind in the Willows）為靈感、金色鼴鼠造型的動畫女性角色
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120719276994662400/img/dq5gb2oQsEBS2cA5.jpg" width="600" alt="Grok Imagine Video 提示詞：金鼴鼠角色">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13772)**
+
+**作者:** [Mary Burton](https://x.com/MaryBurtonPCVB) | **來源:** [Link](https://x.com/MaryBurtonPCVB/status/2120719289405894861) | **發布時間:** Nov 12, 2026
+
+---
+### Grok Imagine Q版北極守護者變身影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成皮克斯風格3D Q版角色變身影片的完整提示詞，包含在冰封森林中組裝機械鎧甲的情節。
+
+#### 📝 提示詞
+
+```
+北極冰霜守護者
+一位可愛的 Q 版小男孩，留著銀色短髮，戴著略顯破舊的白色狼耳兜帽，圍著圍巾、提著小燈籠，正穿越一片冰封的森林。藍色的冰晶開始在他身旁飄浮。機械裝甲零件從雪地中升起，自動組裝到他身上。他的服裝瞬間變身為白藍相間的北極戰鬥裝甲，雙臂也出現了巨大的機械冰盾。
+
+超寫實 Pixar 風格 3D Q 版角色、可愛比例、超大且富有表現力的雙眼、精緻的布料紋理、照片級擬真機械零件、電影感科幻變身特效、HDR、體積光、8K、戲劇性氛圍、直式 9:16。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120708786948018176/img/ofMbER7M7O9LogFn.jpg" width="600" alt="Grok Imagine Q版北極守護者變身影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13770)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2120708844758130702) | **發布時間:** Nov 12, 2026
+
+---
+### 北歐女神湖中潛水
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的影片提示詞，描繪一位女子潛入佈滿睡蓮的湖泊，宛如北歐維京女神。
+
+#### 📝 提示詞
+
+```
+接著讓她從湖面上方開始，一頭潛入湖裡，水中要有睡蓮葉和花朵，最後讓她看向鏡頭。整體風格要更偏北歐風，像是一位女維京女神。整支影片都必須是同一位女性，沒錯，但是 m...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120690395109625856/img/xDReOJwExrqE4_xd.jpg" width="600" alt="北歐女神湖中潛水">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13776)**
+
+**作者:** [Joshua Ott](https://x.com/freddy_slicklow) | **來源:** [Link](https://x.com/freddy_slicklow/status/2120690412897911008) | **發布時間:** Nov 12, 2026
+
+---
+### Grok Imagine 坦克黑洞物理模擬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個描述坦克旋轉進入黑洞的超現實物理模擬創意提示詞。
+
+#### 📝 提示詞
+
+```
+Maus 坦克不斷加速旋轉，直到達到光速並坍縮成黑洞，摧毀了一座城市
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120688756705357825/img/OK_tdXkwIwZQswKi.jpg" width="600" alt="Grok Imagine 坦克黑洞物理模擬">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13773)**
+
+**作者:** [August Littell](https://x.com/AugustLittell) | **來源:** [Link](https://x.com/AugustLittell/status/2120688807154458980) | **發布時間:** Nov 12, 2026
+
+---
+### 二戰八號坦克「鼠式」連環畫面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細電影級影片提示，描繪荒原上一輛巨大的二戰超重型坦克。
+
+#### 📝 提示詞
+
+```
+電影級擬真 15 秒片段，畫面中一輛龐大的二戰 Panzer VIII Maus 超重型坦克（重達 188 噸、方正車體、配備長型 128 mm 砲管、斑駁的灰綠色塗裝，履帶與艙門細節清晰可見）靜止停放在一片荒蕪塵土飛揚的平原上...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120688702535974912/img/D4KfgvnnUKV3IX_e.jpg" width="600" alt="二戰八號坦克「鼠式」連環畫面">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13771)**
+
+**作者:** [August Littell](https://x.com/AugustLittell) | **來源:** [Link](https://x.com/AugustLittell/status/2120688754209833384) | **發布時間:** Nov 12, 2026
+
+---
+### 紫色暗影刺客 Q 版少女
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 賽博龐克場景詳細影片提示詞：Q 版少女變身隱形戰甲，搭配機械蜘蛛與電漿匕首。
+
+#### 📝 提示詞
+
+```
+一位神祕的 Q 版少女，戴著深紫色兜帽、頂著長長的狐狸耳朵，背著小背包穿梭在雨中的賽博龐克街道上。紫色的電流在她腳邊竄動。微型機械蜘蛛從她的背包裡爬出，攀附在她的衣物上。她全身的服裝瞬間幻化為俐落的紫色隱形裝甲，雙手也浮現出兩把閃耀的電漿匕首。
+
+影片免責聲明：
+本片為 AI 生成的虛構科幻角色與想像中的未來裝甲變身畫面，僅供娛樂用途。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120548874716884993/img/9R2wfIil1EoS6xrU.jpg" width="600" alt="紫色暗影刺客 Q 版少女">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13774)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2120551010137444804) | **發布時間:** Nov 11, 2026
+
+---
+### Grok Imagine 煙火約會影片提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 適用於 Grok Imagine 的詳細影片提示詞，用於創建帶有煙火的浪漫約會場景，並確保在多鏡頭中維持參考圖片的角色一致性。
+
+#### 📝 提示詞
+
+```
+全域設定：
+請完整保持女子（@Image1 與 @Image2）的一致性（相同五官、綁著紅色髮飾的黑色馬尾、白底花紋的深藍色浴衣）以及場景設定（夜晚海岸、背景煙火）。影片總長 6 秒（2 秒 x 3 個場景）。
+BGM：溫暖的木吉他與柔和平靜的原聲鋼琴合奏。
+
+[0-2s / 場景 1（中景）]
+背景的大型煙火照亮夜空與海面，@Image1 中的女子緩緩將手從胸前放下，彷彿感受著夜風般，輕輕將雙手交握於胸前。她仰望天空，神情中流露出令人動容的深意。
+
+[2-4s / 場景 2（腰部以上）]
+背景煙火絢麗綻放，@Image2 中的女子突然望向鏡頭，右手輕觸唇邊，擺出彷彿欲言又止、帶著慵懶氣息又迷人的姿態。
+
+[4-6s / 場景 3（特寫）]
+鏡頭推進至女子的臉部特寫。髮絲隨夜風輕輕飄動，雙眼映照著煙火的光芒。最後，她直視鏡頭露出微笑，用右眼俏皮地眨了一下，並擺出決定性的定格姿勢。
+```
+
+<img src="https://cms-assets.youmind.com/media/1794469220640_cwb6nw_HWz4DYhaEAA-c3T.jpg" width="600" alt="Grok Imagine 煙火約會影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13783)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2120464049095782448) | **發布時間:** Nov 11, 2026
+
+---
+### 錄音工作室雙人組
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段複雜的提示詞，描述一對年輕男女在錄音室中合唱的情景，並從參考圖片開始生成。
+
+#### 📝 提示詞
+
+```
+影片從 @image1 所定義的畫面開始：左邊是一位年輕男子，右邊是一位女子，兩人並肩站在錄音室裡，都戴著黑色耳罩式耳機，並將銀色復古風格的麥克風緊貼嘴邊……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120405874514538497/img/U2BTY1GoxcK_8MUc.jpg" width="600" alt="錄音工作室雙人組">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13777)**
+
+**作者:** [Maggie Juang ðŸ¦¢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2120405889450422661) | **發布時間:** Nov 11, 2026
+
+---
+### 金色天使戰士 Q 版變身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的詳細影片生成提示，描繪一名 Q 版女孩在古老寺廟場景中變身為帶有天使翅膀的金色機械裝甲。
+
+#### 📝 提示詞
+
+```
+黃金天使戰士
+一位金髮 Q 版小女孩，戴著沾滿汙垢的奶油色兜帽與兔耳朵，手提一盞古董燈籠，正在探索一座古老神殿。金色的全像符號照亮了地面。她身上的舊衣化為閃爍的光點逐漸消散，取而代之的是金色機械鎧甲一片片組裝成型。巨大的機械天使之翼從她背後展開，一把金色能量長槍也隨之出現在她手中。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120329878176407552/img/TsbogFKZAbJNeDHw.jpg" width="600" alt="金色天使戰士 Q 版變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13778)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2120329925702070425) | **發布時間:** Nov 11, 2026
+
+---
+### Q 版男孩龍甲變身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於 Grok Imagine 的影片生成提示，描繪一個可愛的 Q 版男孩在燃燒的村莊場景中，變身為帶有機械翅膀和火焰之劍的紅色龍甲。
+
+#### 📝 提示詞
+
+```
+紅龍戰鬥裝甲
+一名可愛的 Q 版小男孩，頂著一頭凌亂的黑髮，戴著破損的棕色狐狸耳兜帽，腳踩皮靴、背著木製背包，正穿行於烈焰吞噬的村莊之中。紅色雷射粒子開始環繞著他飛舞。機械龍鱗從他的背包中湧現，一片片拼裝覆蓋全身。他的服裝瞬間幻化為黑紅相間的龍形戰鬥裝甲。兩片巨大的機械雙翼在他身後展開，雙手同時啟動了閃耀著光芒的火焰劍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120187828344594433/img/3vN89BH6eh_aoGl-.jpg" width="600" alt="Q 版男孩龍甲變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13780)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2120187935815565436) | **發布時間:** Nov 10, 2026
+
+---
 ### 貓耳娘零食遊戲影片提示
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -210,6 +438,88 @@ Alerele，真是件奇妙的事呢。
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13722)**
 
 **作者:** [Cha1972](https://x.com/Cha1972j) | **來源:** [Link](https://x.com/Cha1972j/status/2120176451861549449) | **發布時間:** Nov 10, 2026
+
+---
+### Q版賽博龐克忍者變身影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，描繪一名 Q版女孩在廢棄的未来城市中變身為賽博龐克忍者的場景。畫面包含全息光環、機械裝甲組裝以及電漿武士刀的實體化過程，採用皮克斯風格的 3D 美學渲染。
+
+#### 📝 提示詞
+
+```
+一位嬌小的 Q 版女孩，戴著髒汙的白色兔耳兜帽、身穿破舊的灰色探險服，提著一盞老舊提燈，漫步在廢棄的未來城市中。突然間，藍色的全息光環在她周身浮現。數以百計的微型機械零件從她的背包中湧出，迅速覆蓋她的雙腿、手臂與胸口。她原本破爛的衣物瞬間幻化為華麗的藍銀配色戰鬥裝甲，手中更凝聚出一把閃耀著光芒的電漿武士刀。最終畫面：她宛如一名氣勢強大的賽博忍者般傲然佇立。
+
+超寫實 Pixar 風格 3D Q 版角色、可愛比例、超大且表情豐富的眼睛、精緻布料紋理、照片級擬真機械零件、電影感科幻變身特效、HDR、體積光、8K、戲劇性氛圍、直式 9:16。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120085203473289217/img/ggZ7H_P0xCjSbilr.jpg" width="600" alt="Q版賽博龐克忍者變身影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13781)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2120086222349459727) | **發布時間:** Nov 10, 2026
+
+---
+### K-Pop 舞蹈服裝變換影片提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 適用於 Grok Imagine 的詳細影片提示詞，呈現 K-Pop 風格舞蹈與服裝變換，並參考三張輸入圖片以確保角色一致性。
+
+#### 📝 提示詞
+
+```
+我不知道她 cos 的是誰，但...她真的好美 😊 為什麼要穿著 cosplay 服裝跳舞？別問這種傻問題啦 😆
+
+🎥 影片提示詞（Grok Imagine）
+整體設定：
+ * 風格與一致性：人物需與 @Image1、@Image2 和 @Image3 中的女性模特兒為同一人。請嚴格維持五官特徵、白色鮑伯頭、黑灰色哥德蘿莉洋裝及頭飾的一致性。
+ * BGM：節奏感強烈且輕快的 hip-hop K-POP 歌曲。
+ * 整體動作：K-POP 舞蹈，手臂與臀部流暢協調地舞動。展現強而有力的爆發性動作、瞬間靜止與柔軟姿態之間的對比張力。
+場景結構（總長 15 秒 / 4 個場景）：
+ * 場景 1（0:00 - 0:04）| 角度：中景 [@Image1 Base]
+   * 動作 1（0-2 秒）：配合輕快音樂，俐落地左右快速揮動手臂跳舞。
+   * 動作 2（2-4 秒）：突然停止動作，順暢地轉動手腕並將雙手收向胸前，自然過渡到柔軟的姿勢。
+ * 場景 2（0:04 - 0:08）| 角度：全身 [@Image2 Base]
+   * 動作 1（4-6 秒）：隨著節拍充滿活力且強而有力地左右擺動臀部。洋裝裙襬隨之飄逸搖曳。
+   * 動作 2（6-8 秒）：瞬間定格動作，將手放在頭上，以柔軟的姿態優雅扭動身體。
+ * 場景 3（0:08 - 0:12）| 角度：中景 [@Image3 Base]
+   * 動作 1（8-10 秒）：充滿活力的 hip-hop 編舞，跟著節奏用力揮動手臂與臀部。
+   * 動作 2（10-12 秒）：從瞬間靜止的姿勢開始，緩慢流暢地放下手臂，動作如行雲流水般自然。
+ * 場景 4（0:12 - 0:15）| 角度：中景 [@Image3 Base]
+   * 最終姿勢（12-15 秒）：在音樂結束時，從 @Image3 的角度俐落地定格動作，同時比出和平手勢並俏皮地眨右眼作結。
+```
+
+<img src="https://cms-assets.youmind.com/media/1794469190329_exbzo9_HWphioSakAAIm6R.jpg" width="600" alt="K-Pop 舞蹈服裝變換影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13779)**
+
+**作者:** [ã�¯ã‚‹](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2119995967185326364) | **發布時間:** Nov 10, 2026
+
+---
+### 機器人自主組裝影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示，展示自主機器人如何以磁吸精度組裝大型 Optimus 機身。
+
+#### 📝 提示詞
+
+```
+自組裝技術
+
+數百台自主機器人齊心協力，共同組裝出巨大的 Optimus 機體。金屬零件在空中飛舞，並以磁力精準吸附定位。
+
+免責聲明：
+本影片為 AI 生成的虛構科幻概念，僅供娛樂用途。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119974221870989312/img/gOSF_2wNTvuHQ3rZ.jpg" width="600" alt="機器人自主組裝影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13782)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2119974330063114595) | **發布時間:** Nov 10, 2026
 
 ---
 ### 霓虹武術女劍客提示詞
@@ -390,7 +700,7 @@ SpaceX – Beyond Earth
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt featuring a massive Optimus robot descending from clouds into a futuristic city, creating shockwaves, with dynamic camera movements and sound design.
+> Detailed video generation prompt describing Optimus Prime descending from clouds into a futuristic city with dramatic lighting and camera movement.
 
 #### 📝 提示詞
 
@@ -2293,371 +2603,6 @@ John Berkey 風格的太空無畏艦，佈滿歲月痕跡與戰鬥傷疤，在�
 **作者:** [Lala](https://x.com/keepgoingAnnie) | **來源:** [Link](https://x.com/keepgoingAnnie/status/2116265801279795385) | **發布時間:** Oct 30, 2026
 
 ---
-### 線性龍轉化為蝴蝶與蜂鳥
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片轉換提示詞，保留線性藝術風格，將龍morphing為蝴蝶和蜂鳥。
-
-#### 📝 提示詞
-
-```
-維持原本的線材做法，並將龍改成蝴蝶和蜂鳥
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116255961497456640/img/YRUalFp3eJOtmSjS.jpg" width="600" alt="線性龍轉化為蝴蝶與蜂鳥">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13255)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2116256026123264267) | **發布時間:** Oct 30, 2026
-
----
-### Grok Imagine 影片提示詞：Tesla 街頭追逐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的複雜動作場景提示詞，包含汽車、警方追擊及高速公路競速動態。
-
-#### 📝 提示詞
-
-```
-讓所有這些車在高速公路上展開街頭飆車追逐戰，前方由兩輛 Tesla Model Y 領頭狂飆，警察緊追著這兩輛 Tesla，而其他車輛則拼命閃避讓路。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116240408808202240/img/_b5-lWVXkaVUuj-m.jpg" width="600" alt="Grok Imagine 影片提示詞：Tesla 街頭追逐">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13249)**
-
-**作者:** [Sohailly Isabel Otero](https://x.com/hiworldsoso) | **來源:** [Link](https://x.com/hiworldsoso/status/2116240470640893967) | **發布時間:** Oct 30, 2026
-
----
-### 暗黑小紅帽影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的詳細影片生成提示，描繪一個黑暗童話風格的小紅帽故事。
-
-#### 📝 提示詞
-
-```
-照片級寫實的黑暗童話風格人像，描繪一位靈感源自小紅帽的年輕女子。她留著深棕色長髮，柔和的瀏海輕拂臉龐，膚色白皙，以無所畏懼的銳利眼神直視鏡頭；身上披著一件極長的深紅色連帽斗篷，自雙肩垂落並一路延伸至地面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116204089583513601/img/d5UTPK4Cs26iaqCu.jpg" width="600" alt="暗黑小紅帽影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13251)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2116204122051592519) | **發布時間:** Oct 30, 2026
-
----
-### 中世紀貴婦電影感台詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的影片提示，內容為中世紀貴婦台詞演出，包含特定的運鏡方式與光影效果。
-
-#### 📝 提示詞
-
-```
-一位膚色如焦糖拿鐵般的棕褐色美麗女子，佇立在擁有拱形穹頂的中世紀城堡裡。她身穿一襲紅色天鵝絨禮服，上頭繡著珍珠與鑽石。她的秀髮是栗棕色，並帶有金銀花般的金色挑染。雙唇呈現鮮明的紅潤色澤，榛果色的眼眸搭配著纖長的睫毛。一抹溫柔的微笑讓她的五官更加動人。光線從城堡的窗戶灑落，映亮了她的秀髮與衣裳。整座城堡寧靜而優美，巨大的蠟燭更襯托出城堡牆面的質感。
-
-這位女子朝鏡頭走來，直視鏡頭並開口說話。
-
-她說：「永遠為光明、自由與愛挺身而出。
-無論面對什麼——我們都將一起——共同面對。」
-
-「陰天漫射光」，85 mm 鏡頭，
-「緩慢推軌鏡頭（slow dolly-in）」，體積光，視差效果，發光效果，交叉淡化，高解析度輸出，原生音訊生成，物理模擬，慢動作，沉浸式光暈，--ar 16.9，超電影感 4k 風格影片
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116189730530324481/img/vTaENYnqSOQCB5IX.jpg" width="600" alt="中世紀貴婦電影感台詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13261)**
-
-**作者:** [Kim Maria](https://x.com/KimMaria8ry) | **來源:** [Link](https://x.com/KimMaria8ry/status/2116189762595766511) | **發布時間:** Oct 30, 2026
-
----
-### 女性變身白色 Optimus Prime 影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成女性變身白色 Optimus Prime 機器人轉換影片的詳細提示詞。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段次世代變形影片，內容為一名女性角色將自己變身為白色的 Optimus Prime。核心主體是這名女性，她主動啟動並完成自我變形，最終轉化為白色的 Optimus 機器人形態。
-
-[主體與關係]
-由單一女性完成整個自我變形過程。她起初為人類女性，最終完全轉變為白色的 Optimus Prime，過程中不會出現任何其他角色。變形由她自主啟動，且全程連續不中斷。
-
-[事件腳本]
-開場：女子站在開闊的工業或金屬場景中央，面朝前方、姿態自信，雙臂微微抬起，能量開始在她周身匯聚。
-主要事件：耀眼的白藍雙色能量從她的核心向外湧現。她的身體以流暢無縫的次世代序列進行重組——皮膚與衣物幻化為俐落的白色裝甲板，並點綴紅藍細節；四肢伸展並重新構型為強而有力的機械腿與機械臂；頭部逐漸形成頭盔與面罩，同時保留微妙的女性輪廓特徵；胸部浮現駕駛艙與 Autobot 風格的細節；車輛部件則組裝成經典的 Optimus 卡車與機器人混合結構，整體呈現純白色調與拋光金屬光澤。能量粒子、發光接縫與全像投影疊層不斷加速轉換過程，直到她徹底成為雙足站立的白色 Optimus 形態。
-結尾：完成變身的白色 Optimus 以同樣的姿勢巍然挺立、氣勢磅礡，裝甲完全鎖定，藍色護目鏡散發光芒，身上已無任何殘留的人類特徵，隨時準備投入行動。
-
-[保持一致性]
-維持「單一女性至機器人」的身分連貫性，以白色為主視覺色調，確保 Optimus 的輪廓與細節精準到位、空間方位穩定不變，且自我變形過程全程不中斷。
-
-免責聲明：
-本影片為 AI 生成的虛構科幻概念作品，僅供娛樂用途。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116152701612650497/img/SaQsQ7kOFepCUASS.jpg" width="600" alt="女性變身白色 Optimus Prime 影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13257)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116152840087650695) | **發布時間:** Oct 30, 2026
-
----
-### Grok Imagine 動態提示詞：賽博龐克萌娘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的詳細動態提示詞，描述一位未來感十足的賽博龐克／蒸汽龐克風格女性模特兒在螢幕前跳舞與工作。
-
-#### 📝 提示詞
-
-```
-音樂節奏感十足。畫面是一位以 waifu 美學為靈感的女性角色，留著粉紅色頭髮，採用中近景構圖；她一邊在螢幕前工作，一邊隨著節拍彈跳起舞。她身穿融合 cyberpunk 與 steampunk 風格的未來感服飾
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116139657570226176/img/wrxctVeVu0a7Tx4P.jpg" width="600" alt="Grok Imagine 動態提示詞：賽博龐克萌娘">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13478)**
-
-**作者:** [Lala](https://x.com/keepgoingAnnie) | **來源:** [Link](https://x.com/keepgoingAnnie/status/2116142171451543878) | **發布時間:** Oct 30, 2026
-
----
-### 黃玫瑰花瓣水窪影片剪輯
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個影片剪輯提示，將多片黃玫瑰花瓣整合至一個包含它們的小水窪中。
-
-#### 📝 提示詞
-
-```
-將水窪改為一個小水窪，裡面漂浮著黃色玫瑰花瓣，並移除其他所有的黃色玫瑰花瓣
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116136407186259970/img/rmUCpn211Hrr2QE_.jpg" width="600" alt="黃玫瑰花瓣水窪影片剪輯">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13258)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2116136478892019806) | **發布時間:** Oct 30, 2026
-
----
-### 女士手提包瞬間變身金屬鎧甲戰衣
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 此提示詞用於生成一段影片：當女士放下手提包時，包包會流暢地展開並變形為一套緊身貼合的金屬鎧甲戰衣。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段進階的變身序列。核心主角是一名女子，她將包包丟到地上；包包瞬間變形成一套完整的金屬裝甲，並由她穿上。
-
-[事件腳本]
-開場：女子站著手持包包，接著刻意將它丟落在自己前方的地面上。
-主要事件：包包撞擊地面後，立刻展開極具張力的變形過程。它翻摺、擴張，並以流體般的液態金屬動態變化，裝甲板一一卡扣定位，能量線條亮起光芒，各個組件向上延伸並環繞她的身體組裝，最終形成一套完整貼合的金屬裝甲。在變形完成的同時，她踏入裝甲之中，或被正在成形的裝甲完全包覆。
-結尾：她身穿光滑且帶有反射光澤的金屬裝甲站立。原本的包包已不再作為獨立物件存在，而是徹底化為了這套裝甲。她的姿態充滿力量，蓄勢待發。
-
-[保持一致性]
-全程維持女子的身份、五官特徵、身材比例與整體外觀連貫穩定。確保單一包包精確變形成唯一一套金屬裝甲。保持清晰的空間關係：包包起初在她手中，接著落地，最後向外擴張包覆全身。不得出現多餘的人物、包包或裝甲。整個變形過程必須流暢無縫、充滿爆發力且視覺效果震撼，同時不違背因果邏輯。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116124348071477249/img/HAyNwB1nOrpc1OWk.jpg" width="600" alt="女士手提包瞬間變身金屬鎧甲戰衣">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13262)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116124466593792234) | **發布時間:** Oct 30, 2026
-
----
-### 忍者決鬥二人組動作場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片提示，描繪兩人合力擊敗一名忍者後彼此對戰，最終以擁抱收場。
-
-#### 📝 提示詞
-
-```
-兩人聯手出擊擊敗了忍者，隨後又再次反目成仇。他們一邊大笑一邊互相打鬥，最後以一個擁抱收場。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="忍者決鬥二人組動作場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13208)**
-
-**作者:** [Michael Erikson](https://x.com/erikson_michael) | **來源:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **發布時間:** Oct 30, 2026
-
----
-### 男性進化成終極形態
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成連續變身影片的詳細提示詞，描述一名普通男性如何進化為終極形態以吸引女性。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段連續的進階蛻變影片。核心主角是一名起初平凡無奇的男子，最終蛻變為最極致的升級形態；主要事件是他層層遞進的蛻變過程，最後自信地站在女子身旁，準備兌現「只要我達成這個目標，我就娶她」的承諾。
-
-[事件腳本]
-開場：一名平凡的男子獨自佇立在簡約的中性空間裡，神情堅定卻毫不起眼。
-主要事件：他經歷一連串層層遞進的蛻變——首先是一股隱微的能量湧遍全身，接著他的衣著與體態升級為更強悍、更俐落的版本，隨後散發出更強大的氣場與更精緻的外貌。每個階段都讓他更上一層樓，直到完全蛻變為散發高價值感的最終形態。
-結尾：完成蛻變的他，高大自信地站在女子身旁，兩人的羈絆清晰可見，「只要我達成這個目標，我就娶她」的誓言就此實現。
-
-[保持一致性]
-在每個蛻變階段中，都必須維持男子的核心身分連貫不變；始終以同一位女子作為這份承諾的唯一對象；並確保最終的配對結果與升級後的呈現維持不變。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116016410371760128/img/MMj11ekfg-BKFtOi.jpg" width="600" alt="男性進化成終極形態">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13254)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116016843215241216) | **發布時間:** Oct 30, 2026
-
----
-### Grok Imagine 精緻禮服影片提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine 精緻禮服影片提示詞：以黑色荷葉邊洋裝女性為主角，結構化為 5 個場景，包含特定姿勢與背景音樂 (BGM) 指示。
-
-#### 📝 提示詞
-
-```
-影片全域設定
-* 長度：15 秒（3 秒 x 5 個場景）
-* 角色一致性：完整保留 @Image1、@Image2、@Image3 中模特兒的五官、髮型與服裝（黑色荷葉邊洋裝、黑色頭飾、黑色半紮髮、藍色眼睛）。
-* 背景音樂（BGM）：溫暖的木吉他搭配柔和平靜的原聲鋼琴合奏。
-
-場景 1（0:00 - 0:03）：中景
-* 基礎圖片：@Image3
-* 姿勢 1（0:00-0:01.5）：微微側頭，雙手輕放胸前，露出溫柔微笑。
-* 姿勢 2（0:01.5-0:03）：單手輕掩嘴角，展現可愛的驚訝表情。
-
-場景 2（0:03 - 0:06）：全景（全身）
-* 基礎圖片：@Image1
-* 姿勢 1（0:03-0:04.5）：輕提裙襬，優雅行屈膝禮（curtsy）。
-* 姿勢 2（0:04.5-0:06）：身體微向斜側扭轉，一腳向後收，突顯整體造型感。
-
-場景 3（0:06 - 0:09）：特寫
-* 基礎圖片：@Image2
-* 姿勢 1（0:06-0:07.5）：直視鏡頭，做出將頭髮撥至耳後的動作。
-* 姿勢 2（0:07.5-0:09）：單手輕托下巴，微微側頭，展現頸部線條與頭飾。
-
-場景 4（0:09 - 0:12）：中景至全景
-* 基礎圖片：@Image3 / @Image1
-* 姿勢 1（0:09-0:10.5）：從微背對鏡頭的角度，帶著笑容轉身。
-* 姿勢 2（0:10.5-0:12）：輕盈半轉身，讓裙襬隨之飄揚。
-
-場景 5（0:12 - 0:15）：壓軸絕美特寫
-* 基礎圖片：@Image2
-* 姿勢 1（0:12-0:13.5）：臉部緩緩靠近鏡頭，眼神回望。
-* 姿勢 2（0:13.5-0:15）：對著鏡頭擺出最完美的姿勢與最燦爛的笑容，俏皮地單眼眨眼後定格。
-```
-
-<img src="https://cms-assets.youmind.com/media/1793432017210_i1uq6z_HV2T1GYbAAEgnAZ.jpg" width="600" alt="Grok Imagine 精緻禮服影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13267)**
-
-**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2116013473108996400) | **發布時間:** Oct 30, 2026
-
----
-### Tesla Optimus 變身戰鬥模式 Optimus Prime 影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段用於生成電影感科幻影片的提示詞，描述 Tesla Optimus 在未來主義機庫中變身為戰鬥準備狀態的 Optimus Prime 配置。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-製作一段純科幻風格的次世代 Optimus 變形影片。核心主體為 Tesla Optimus，主要事件是它從流線型的人形外觀，徹底蛻變為高科技、全面進化且隨時可投入戰鬥的次世代 Optimus Prime 形態。
-
-[事件腳本]
-開場：Optimus 佇立於廣闊的未來感機庫中央，維持完整的人形比例，霧面黑與銀色裝甲板反射出冷冽的青色與洋紅色全息光芒。頭部呈現經典的平滑人形面罩。
-主要事件：變形程序啟動。胸甲以液壓般的精準度向兩側展開，露出發出藍光的能量核心與層層摺疊的裝甲組件。雙肩向外擴張並鎖定成巨大的 Prime 風格肩甲，手臂裝甲同步重組為重型護腕。雙腿拉長增厚，轉化為強而有力的趾行式支撐結構；腰部裝甲旋轉並鎖定，構成標誌性的卡車車頭軀幹。頭部外殼剝離重塑，化為配備湛藍發光目鏡的經典 Optimus 頭盔。排氣管自雙肩升起，Autobot 徽章以純粹的能量凝聚成形，整個身軀變得更加高大、裝甲更為厚重，氣勢呈指數級攀升。
-結尾：完成變形的次世代 Optimus 巍然矗立，身形高聳且蓄勢待發。藍色光學感測器熾烈閃耀，能量紋路在每一塊裝甲上脈動流轉，蒸氣與殘留的全息粒子在其腳邊繚繞翻騰。
-
-[視覺風格]
-超高保真度的電影級科幻美學。硬表面機械細節、金屬反光、體積感十足的藍色能量光暈、全息 UI 疊層，以及奈米機器人與光束交織的粒子軌跡。採用青紫（cyan-magenta）冷色調，搭配深邃陰影與銳利的鏡面高光。寫實材質與風格化的能量特效完美融合。
-
-[鏡頭]
-開場為寬廣的英雄式全身鏡頭。變形啟動時，攝影機緩慢順時針環繞並穩定推進。中段以動態低角度跟拍四肢的擴張與裝甲板的連鎖位移。最終畫面定格於極具張力的低角度英雄姿態，隨著最後幾塊裝甲鎖定、能量湧現，鏡頭微微向上傾斜。
-
-[音效]
-低沉的液壓聲與伺服馬達運轉聲，層層疊加上揚的電子能量湧動音效。每一次重大裝甲位移，都精準對應金屬撞擊與磁力鎖定的衝擊聲。結尾以渾厚深沉的低頻能量脈衝，以及共鳴迴盪的 Autobot 啟動音效作收。機庫的環境殘響與遠處的合成風聲，將科幻氛圍烘托至極致。無對白或字幕。
-
-[保持一致性]
-全程維持單一且連貫的主體身分：僅限一個 Optimus。輪廓與比例的演變必須清晰合理，呈現從人形到次世代 Prime 形態的流暢過渡。整段影片中，金屬材質、藍色能量特徵與科幻機庫環境皆須保持高度一致。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115849404607549441/img/HVZXNneM-ghBcJKW.jpg" width="600" alt="Tesla Optimus 變身戰鬥模式 Optimus Prime 影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13263)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2115849688876503049) | **發布時間:** Oct 29, 2026
-
----
-### 使用 Grok Imagine 實現繪畫中的 3D 導覽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 透過影片提示，在靜態繪畫中創造電影感的 3D 攝影機移動效果。上傳繪畫作為參考，保留原始構圖，同時增加深度與視差效果，且不會讓畫面中的元素產生動畫。
-
-#### 📝 提示詞
-
-```
-影片從所附畫作定義的畫面開始，並將其構圖、主體、色彩、光線與佈局完整保留，呈現為靜止的三維空間。
-
-畫中的人物、動物、物件、水流、枝葉、雲朵、火焰或任何其他繪製元素，皆不移動、不產生動畫，也不改變狀態。整個場景維持完全凍結，彷彿這幅畫已化為一座堅實且靜止的立體透視模型。
-
-攝影機在這片凝結的場景中進行連續的電影級 3D 運鏡：緩慢向前推進、輕柔環繞，並飄移經過主要主體與空間層次，展現景深、視差與立體量感，同時絕不改變或讓畫中任何內容產生動畫。
-伴隨鏡頭移動的僅有環境的空間氛圍；畫中任何元素皆不會發出對話、旁白、音樂或音效。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="使用 Grok Imagine 實現繪畫中的 3D 導覽">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13206)**
-
-**作者:** [Knight World](https://x.com/KnightWorld) | **來源:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **發布時間:** Oct 29, 2026
-
----
-### 新娘造型變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成新娘準備過程連續影片的詳細提示詞，包含化妝、髮型設計、穿著禮服及配戴飾品。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段連續影片，呈現一名女子準備婚禮、化身新娘的完整過程。
-
-[事件腳本]
-影片開頭，她靜靜坐在光線柔和的新娘房內，身穿簡約內衣或浴袍，長髮自然披散。接著，她細心畫上新娘妝容，並將頭髮梳理成優雅的盤髮或柔美波浪捲。隨後在他人協助下換上白色婚紗，一邊撫平布料讓裙襬自然垂落。她戴上珠寶首飾、頭紗或花朵配飾，接著站起身，對著全身鏡端詳自己。到了最後，她已完全做好新娘打扮，臉上帶著淺淺微笑，眼神中滿是期待的光采；婚紗與配飾一應俱全，準備好迎接婚禮。
-
-[保持一致性]
-全程須維持同一位女子，確保五官、膚色與身材比例一致不變。同時保持白色婚紗主題、優雅裝扮，以及私密的閨房場景設定。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115769473902780416/img/APqpQFVnu3Lu8SqB.jpg" width="600" alt="新娘造型變身">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13555)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **發布時間:** Oct 29, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2719,6 +2664,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-12T07:04:34.943Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-12T17:01:53.066Z</sub>
 
 </div>

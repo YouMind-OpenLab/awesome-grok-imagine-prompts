@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3359** |
+| 📝 Total Prompts | **3373** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-12** |
 
@@ -189,6 +189,231 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Personaje de Erizo Rubia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear un personaje de erizo rubio inspirado en la película El viento en los sauces de 1995.
+
+#### 📝 Prompt
+
+```
+Crea un personaje femenino de erizo rubio inspirado en la película animada Wind in the Willows de 1995
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120723818004074496/img/NIA4TyLqPm98IuwO.jpg" width="600" alt="Personaje de Erizo Rubia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13775)**
+
+**Author:** [Mary Burton](https://x.com/MaryBurtonPCVB) | **Source:** [Link](https://x.com/MaryBurtonPCVB/status/2120723829920084054) | **Published:** Nov 12, 2026
+
+---
+### Grok Imagine Video Prompt: Personaje Topo Dorado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para crear un personaje animado de topo dorado femenino al estilo de la adaptación de El viento en los sauces de 1995.
+
+#### 📝 Prompt
+
+```
+Crea un personaje femenino animado de topo dorado basado en El viento en los sauces de 1995
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120719276994662400/img/dq5gb2oQsEBS2cA5.jpg" width="600" alt="Grok Imagine Video Prompt: Personaje Topo Dorado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13772)**
+
+**Author:** [Mary Burton](https://x.com/MaryBurtonPCVB) | **Source:** [Link](https://x.com/MaryBurtonPCVB/status/2120719289405894861) | **Published:** Nov 12, 2026
+
+---
+### Video de Transformación Chibi Grok Imagine: Guardián del Ártico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt integral para generar un video de transformación de personaje chibi en estilo Pixar 3D, que incluye el ensamblaje de armadura robótica en un bosque helado.
+
+#### 📝 Prompt
+
+```
+Guardián del Hielo Ártico
+Un adorable chico Chibi de cabello plateado, con una desgastada capucha blanca con orejas de lobo, una bufanda y un pequeño farol, camina por un bosque congelado. Cristales de hielo azules comienzan a flotar a su alrededor. Piezas de armadura robótica emergen de la nieve y se acoplan a su cuerpo. Su atuendo se transforma en una armadura de combate ártica blanca y azul. Enormes escudos mecánicos de hielo aparecen en ambos brazos.
+
+Personaje Chibi 3D hiperrealista al estilo Pixar, proporciones adorables, ojos expresivos extragrandes, texturas de tela detalladas, componentes mecánicos fotorrealistas, transformación cinematográfica de ciencia ficción, HDR, iluminación volumétrica, 8K, atmósfera dramática, vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120708786948018176/img/ofMbER7M7O9LogFn.jpg" width="600" alt="Video de Transformación Chibi Grok Imagine: Guardián del Ártico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13770)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2120708844758130702) | **Published:** Nov 12, 2026
+
+---
+### Inmersión de Diosa Vikinga en el Lago
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para un video de una mujer sumergiéndose en un lago con nenúfares, con la apariencia de una diosa vikinga nórdica.
+
+#### 📝 Prompt
+
+```
+Luego haz que se lance en picado a un lago, como si empezara justo por encima del agua. Debería haber nenúfares con flores en el lago y, al final, que mire directamente a la cámara. Un estilo más nórdico, como una diosa vikinga. Tiene que ser la misma mujer durante todo el video, sí, pero m...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120690395109625856/img/xDReOJwExrqE4_xd.jpg" width="600" alt="Inmersión de Diosa Vikinga en el Lago">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13776)**
+
+**Author:** [Joshua Ott](https://x.com/freddy_slicklow) | **Source:** [Link](https://x.com/freddy_slicklow/status/2120690412897911008) | **Published:** Nov 12, 2026
+
+---
+### Simulación de Física Grok Imagine: Tanque Maus cayendo en un Agujero Negro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo que describe una simulación de física surrealista con un tanque girando hacia un agujero negro.
+
+#### 📝 Prompt
+
+```
+Un tanque Maus girando a toda velocidad hasta alcanzar la velocidad de la luz y colapsar en un agujero negro que destruye una ciudad
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120688756705357825/img/OK_tdXkwIwZQswKi.jpg" width="600" alt="Simulación de Física Grok Imagine: Tanque Maus cayendo en un Agujero Negro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13773)**
+
+**Author:** [August Littell](https://x.com/AugustLittell) | **Source:** [Link](https://x.com/AugustLittell/status/2120688807154458980) | **Published:** Nov 12, 2026
+
+---
+### Secuencia del Tanque Panzer VIII Maus de la Segunda Guerra Mundial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico detallado para Grok Imagine que representa un enorme tanque superpesado de la Segunda Guerra Mundial en una llanura árida.
+
+#### 📝 Prompt
+
+```
+Secuencia fotorrealista de estilo cinematográfico de 15 segundos de un enorme tanque superpesado Panzer VIII Maus de la Segunda Guerra Mundial (de 188 toneladas, casco cuadrado, largo cañón de 128 mm, pintura gris verdosa desgastada, orugas y escotillas detalladas) inmóvil en una llanura árida y polvorienta a...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120688702535974912/img/D4KfgvnnUKV3IX_e.jpg" width="600" alt="Secuencia del Tanque Panzer VIII Maus de la Segunda Guerra Mundial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13771)**
+
+**Author:** [August Littell](https://x.com/AugustLittell) | **Source:** [Link](https://x.com/AugustLittell/status/2120688754209833384) | **Published:** Nov 12, 2026
+
+---
+### Chica Chibi Asesina con Sombra Púrpura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video detallado para una escena cyberpunk que muestra a una chica chibi transformándose en armadura sigilosa con arañas robóticas y dagas de plasma.
+
+#### 📝 Prompt
+
+```
+Una misteriosa chica chibi con una capucha de color púrpura oscuro y largas orejas de zorro camina por una calle cyberpunk bajo la lluvia, cargando una pequeña mochila. Una electricidad violeta envuelve sus pies. Diminutas arañas robóticas salen de su mochila y se adhieren a su ropa. Todo su atuendo se transforma en una elegante armadura sigilosa de color púrpura. Dos dagas de plasma resplandecientes aparecen en sus manos.
+
+Aviso sobre el video:
+ Personajes ficticios de ciencia ficción generados por IA y transformaciones imaginarias de armaduras futuristas. Creado únicamente con fines de entretenimiento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120548874716884993/img/9R2wfIil1EoS6xrU.jpg" width="600" alt="Chica Chibi Asesina con Sombra Púrpura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13774)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2120551010137444804) | **Published:** Nov 11, 2026
+
+---
+### Prompt de Video de Cita con Fuegos Artificiales para Grok Imagine
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de video detallado para Grok Imagine que crea una escena romántica de cita con fuegos artificiales, manteniendo la consistencia de los personajes desde las imágenes de referencia en múltiples tomas.
+
+#### 📝 Prompt
+
+```
+Configuración global:
+Mantener una coherencia absoluta de la mujer (@Image1 y @Image2) (mismos rasgos faciales, coleta negra con accesorio rojo para el cabello, yukata azul marino con estampado floral blanco) y de la situación (costa nocturna, fuegos artificiales de fondo). Vídeo de 6 segundos (2 segundos x 3 escenas).
+BGM: Cálida guitarra acústica y un suave y sereno conjunto de piano acústico.
+[0-2s / Escena 1 (Plano medio)]
+Mientras grandes fuegos artificiales iluminan el cielo nocturno y la superficie del agua al fondo, la mujer de @Image1 baja lentamente la mano desde el pecho y entrelaza ambas manos con suavidad frente a él, como si sintiera la brisa de la noche. Su expresión es profundamente emotiva mientras contempla el cielo.
+[2-4s / Escena 2 (De cintura para arriba)]
+Con los fuegos artificiales estallando brillantemente de fondo, la mujer de @Image2 mira de repente hacia la cámara y se lleva delicadamente la mano derecha cerca de los labios en una pose atractiva y melancólica, como si estuviera a punto de decir algo.
+[4-6s / Escena 3 (Primer plano)]
+La cámara hace un zoom hacia el rostro de la mujer. Su cabello se mece ligeramente con el viento nocturno y la luz de los fuegos artificiales se refleja en sus ojos. Por último, sonríe mirando a la cámara, guiña con gracia el ojo derecho y adopta una pose final cautivadora.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794469220640_cwb6nw_HWz4DYhaEAA-c3T.jpg" width="600" alt="Prompt de Video de Cita con Fuegos Artificiales para Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13783)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2120464049095782448) | **Published:** Nov 11, 2026
+
+---
+### Dúo de Estudio de Grabación
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complejo que describe a un joven y una mujer cantando en un estudio de grabación, partiendo de una imagen de referencia.
+
+#### 📝 Prompt
+
+```
+El video comienza desde el encuadre definido por @image1: un joven a la izquierda y una mujer a la derecha están de pie, uno al lado del otro, en un estudio de grabación; ambos llevan auriculares negros supraaurales y sostienen micrófonos plateados de estilo vintage muy cerca de la boca,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120405874514538497/img/U2BTY1GoxcK_8MUc.jpg" width="600" alt="Dúo de Estudio de Grabación">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13777)**
+
+**Author:** [Maggie Juang ðŸ¦¢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2120405889450422661) | **Published:** Nov 11, 2026
+
+---
+### Transformación Chibi de Guerrera Ángel Dorada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para la generación de videos en Grok Imagine que muestra a una chica chibi transformándose en una armadura robótica dorada con alas de ángel en un antiguo templo.
+
+#### 📝 Prompt
+
+```
+Guerrera Ángel Dorada
+Una pequeña niña chibi de cabello rubio, con una capucha color crema sucia, orejas de conejo y un farolillo antiguo, explora un templo milenario. Símbolos holográficos dorados iluminan el suelo. Sus viejas ropas se desintegran en partículas resplandecientes mientras una armadura robótica dorada se ensambla pieza por pieza. Unas enormes alas mecánicas de ángel se despliegan desde su espalda. Una lanza de energía dorada aparece en su mano.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120329878176407552/img/TsbogFKZAbJNeDHw.jpg" width="600" alt="Transformación Chibi de Guerrera Ángel Dorada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13778)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2120329925702070425) | **Published:** Nov 11, 2026
+
+---
+### Transformación del Niño Chibi en Armadura de Dragón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de generación de video para Grok Imagine que muestra a un adorable niño chibi transformándose en una armadura de dragón rojo, en medio de una aldea en llamas con alas mecánicas y espadas de fuego.
+
+#### 📝 Prompt
+
+```
+Armadura de Combate del Dragón Rojo
+Un adorable chico chibi con el pelo negro alborotado, una capucha marrón con orejas de zorro desgarrada, botas de cuero y una mochila de madera camina por una aldea en llamas. Partículas láser rojas comienzan a orbitar a su alrededor. Escamas mecánicas de dragón emergen de su mochila y se ensamblan sobre su cuerpo. Su atuendo se transforma en una armadura de combate de dragón negra y roja. Dos enormes alas mecánicas se despliegan a su espalda y unas relucientes espadas de fuego se activan en ambas manos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120187828344594433/img/3vN89BH6eh_aoGl-.jpg" width="600" alt="Transformación del Niño Chibi en Armadura de Dragón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13780)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2120187935815565436) | **Published:** Nov 10, 2026
+
+---
 ### Prompt de video de juego de snacks con chica gato
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -210,6 +435,88 @@ Alerele, qué cosa tan rara.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13722)**
 
 **Author:** [Cha1972](https://x.com/Cha1972j) | **Source:** [Link](https://x.com/Cha1972j/status/2120176451861549449) | **Published:** Nov 10, 2026
+
+---
+### Prompt de Video: Transformación de Ninja Cibernética Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de generación de video para Grok Imagine que muestra a una chica chibi transformándose en una ninja cibernética en una ciudad futurista abandonada. La escena incluye anillos holográficos, ensamblaje de armadura robótica y la materialización de una katana de plasma, renderizados con una estética 3D al estilo Pixar.
+
+#### 📝 Prompt
+
+```
+Una pequeña niña Chibi con una capucha blanca de orejas de conejo sucia, ropa gris de exploradora desgarrada y cargando un viejo farol camina por una ciudad futurista abandonada. De repente, unos anillos holográficos azules aparecen alrededor de su cuerpo. Cientos de componentes robóticos microscópicos salen de su mochila y le cubren las piernas, los brazos y el pecho. Su ropa andrajosa se transforma en una hermosa armadura de combate azul y plateada. Una katana de plasma brillante se materializa en su mano. Escena final: posa como una poderosa ciberninja.
+
+Personaje 3D Chibi estilo Pixar ultrarrealista, proporciones adorables, ojos expresivos enormes, texturas de tela detalladas, componentes mecánicos fotorrealistas, transformación cinematográfica de ciencia ficción, HDR, iluminación volumétrica, 8K, atmósfera dramática, vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120085203473289217/img/ggZ7H_P0xCjSbilr.jpg" width="600" alt="Prompt de Video: Transformación de Ninja Cibernética Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13781)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2120086222349459727) | **Published:** Nov 10, 2026
+
+---
+### Prompt de video para vestuario de baile K-Pop
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de video detallado para Grok Imagine que presenta un baile estilo K-pop con cambios de vestuario, haciendo referencia a tres imágenes de entrada para mantener la consistencia del personaje.
+
+#### 📝 Prompt
+
+```
+No sé de qué cosplay se trata, pero... está preciosa 😊 ¿Por qué baila con un traje de cosplay? No hagas preguntas tontas 😆
+
+🎥 Video Prompt (Grok Imagine)
+Configuración general:
+ * Estilo y coherencia: La misma persona que las modelos femeninas de @Image1, @Image2 y @Image3. Mantener estrictamente la coherencia de los rasgos faciales, el corte bob blanco del cabello, el vestido gótico lolita en negro y gris, y el tocado.
+ * BGM: Canción de hip-hop K-POP rítmica y con tempo rápido.
+ * Movimiento general: Baile K-POP con movimientos fluidos que coordinen brazos y caderas. Expresar el contraste entre movimientos intensos y potentes, pausas momentáneas y gestos suaves.
+Estructura de escenas (Total 15 segundos / 4 escenas):
+ * Escena 1 (0:00 - 0:04) | Ángulo: Plano medio [@Image1 Base]
+   * Acción 1 (0-2 s): Baile marcado, moviendo los brazos rápidamente de izquierda a derecha al ritmo de la música rápida.
+   * Acción 2 (2-4 s): Detener el movimiento de golpe, girar las muñecas con fluidez mientras se llevan las manos al pecho, pasando a una pose más suave.
+ * Escena 2 (0:04 - 0:08) | Ángulo: Cuerpo entero [@Image2 Base]
+   * Acción 1 (4-6 s): Baile dinámico y potente, llevando las caderas de un lado a otro al compás del ritmo. El bajo del vestido se balancea.
+   * Acción 2 (6-8 s): Congelar el movimiento al instante, llevarse una mano a la cabeza y girar el cuerpo con elegancia en un gesto fluido.
+ * Escena 3 (0:08 - 0:12) | Ángulo: Plano medio [@Image3 Base]
+   * Acción 1 (8-10 s): Coreografía de hip-hop enérgica, moviendo brazos y caderas con fuerza al ritmo de la música.
+   * Acción 2 (10-12 s): Partiendo de una pose estática momentánea, bajar los brazos lenta y suavemente con un movimiento fluido.
+ * Escena 4 (0:12 - 0:15) | Ángulo: Plano medio [@Image3 Base]
+   * Pose final (12-15 s): Congelar el movimiento de forma tajante al final de la música desde el ángulo de @Image3, hacer la señal de la paz guiñando a la vez un ojo con gracia para terminar.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794469190329_exbzo9_HWphioSakAAIm6R.jpg" width="600" alt="Prompt de video para vestuario de baile K-Pop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13779)**
+
+**Author:** [ã�¯ã‚‹](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2119995967185326364) | **Published:** Nov 10, 2026
+
+---
+### Video de autoensamblaje robótico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de generación de video para Grok Imagine que muestra robots autónomos ensamblando un cuerpo grande de Optimus con precisión magnética.
+
+#### 📝 Prompt
+
+```
+Tecnología de autoensamblaje
+
+Cientos de robots autónomos trabajan en equipo para ensamblar un cuerpo colosal de Optimus. Las piezas metálicas surcan el aire y se acoplan con precisión magnética.
+
+Aviso legal: 
+Este video es un concepto ficticio de ciencia ficción generado por IA, creado únicamente con fines de entretenimiento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119974221870989312/img/gOSF_2wNTvuHQ3rZ.jpg" width="600" alt="Video de autoensamblaje robótico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13782)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119974330063114595) | **Published:** Nov 10, 2026
 
 ---
 ### Prompt de Espadachina de Artes Marciales Neón
@@ -2289,371 +2596,6 @@ Usa la foto subida como referencia exacta del personaje. Conserva a la perfecci�
 **Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2116265801279795385) | **Published:** Oct 30, 2026
 
 ---
-### Transformación de Dragón a Colibrí Mariposa en Arte de Alambre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de transformación de video que mantiene el estilo de arte de alambre mientras transforma dragones en una mariposa y un colibrí.
-
-#### 📝 Prompt
-
-```
-Mantén el trabajo de alambre igual y cambia los dragones por una mariposa y un colibrí
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116255961497456640/img/YRUalFp3eJOtmSjS.jpg" width="600" alt="Transformación de Dragón a Colibrí Mariposa en Arte de Alambre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13255)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2116256026123264267) | **Published:** Oct 30, 2026
-
----
-### Prompt de video de Grok Imagine: Persecución en la calle con Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de secuencia de acción compleja para Grok Imagine que involucra autos, persecución policial y dinámicas de carreras en autopista.
-
-#### 📝 Prompt
-
-```
-Haz que todos estos coches compitan en una carrera, con dos Tesla Model Y liderando una persecución por la autopista como si fuera una carrera callejera ilegal: los policías van detrás de los Tesla mientras el resto de los coches intenta apartarse para no estorbar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116240408808202240/img/_b5-lWVXkaVUuj-m.jpg" width="600" alt="Prompt de video de Grok Imagine: Persecución en la calle con Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13249)**
-
-**Author:** [Sohailly Isabel Otero](https://x.com/hiworldsoso) | **Source:** [Link](https://x.com/hiworldsoso/status/2116240470640893967) | **Published:** Oct 30, 2026
-
----
-### Video de Caperucita Roja Oscura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para la generación de video en Grok Imagine que representa una versión oscura del cuento de hadas de Caperucita Roja.
-
-#### 📝 Prompt
-
-```
-Retrato fotorrealista de cuento de hadas oscuro de una joven inspirada en Caperucita Roja, con cabello castaño oscuro y un flequillo suave que le enmarca el rostro, piel clara y una mirada intensa e intrépida directamente a la cámara. Lleva una capa con capucha carmesí muy larga y profunda, que le cae sobre los hombros y se despliega hasta el suelo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116204089583513601/img/d5UTPK4Cs26iaqCu.jpg" width="600" alt="Video de Caperucita Roja Oscura">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13251)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2116204122051592519) | **Published:** Oct 30, 2026
-
----
-### Discurso cinematográfico de una dama medieval
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video complejo que presenta a una dama medieval recitando líneas, con movimientos de cámara específicos y efectos de iluminación.
-
-#### 📝 Prompt
-
-```
-Una hermosa mujer morena, de piel color café con leche y caramelo, está de pie en un castillo medieval de techos abovedados. Lleva un vestido de terciopelo rojo bordado con perlas y diamantes. Su cabello es castaño con reflejos dorados como la madreselva. Sus labios lucen un rojo intenso y vibrante. Tiene los ojos color avellana y las pestañas largas. Una sonrisa suave realza sus facciones. La luz se filtra por las ventanas del castillo e ilumina su cabello y su vestimenta. El castillo está en silencio y es hermoso. Unas grandes velas ayudan a resaltar los muros de la fortaleza.
-
-La dama camina hacia la cámara, mirando directamente al objetivo, y habla.
-
-Ella dice: "Defiende siempre la luz, la libertad y el amor.
-Y sea lo que sea que enfrentemos, lo enfrentaremos juntos".
-
-"Overcast diffused light", lente de 85 mm, 
-"slow dolly-in", iluminación volumétrica, efecto parallax, efecto glow, cross fade, salida en alta resolución, generación de audio nativo, simulación de físicas, cámara lenta, brillo envolvente, --ar 16.9, estilo cinematográfico ultra 4k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116189730530324481/img/vTaENYnqSOQCB5IX.jpg" width="600" alt="Discurso cinematográfico de una dama medieval">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13261)**
-
-**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2116189762595766511) | **Published:** Oct 30, 2026
-
----
-### Prompt de Video: Mujer Transformándose en Optimus Prime Blanco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar un video de transformación de una mujer convirtiéndose en un robot Optimus Prime blanco.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Genera un video de transformación de otro nivel en el que un personaje femenino se convierte en un Optimus Prime blanco. El sujeto central es la mujer, quien inicia y completa por sí misma su transformación en la forma robótica de un Optimus blanco.
-
-[Sujetos y relaciones]
-Una sola mujer lleva a cabo la conversión completa. Comienza siendo una mujer humana y termina únicamente como un Optimus Prime blanco. No aparece ningún otro personaje. La transformación se inicia por sí misma y transcurre de forma continua.
-
-[Guion del evento]
-Al inicio: La mujer está de pie, centrada en un entorno industrial o metálico abierto, mirando al frente con una postura segura y los brazos ligeramente levantados mientras la energía empieza a acumularse a su alrededor.
-Evento principal: Una intensa energía blanca y azul brota desde su centro hacia el exterior. Su cuerpo se reestructura en una secuencia fluida y de otro nivel: la piel y la ropa se transforman en elegantes placas de armadura blanca con detalles en rojo y azul; las extremidades se alargan y reconfiguran para convertirse en potentes brazos y piernas robóticas; un casco y una placa facial se forman sobre su cabeza conservando sutiles rasgos de su silueta femenina; aparecen un cofre tipo cabina y detalles al estilo Autobot; y componentes similares a los de un vehículo se ensamblan hasta lograr la clásica estructura híbrida de camión-robot de Optimus, todo en blanco puro con un brillo metálico pulido. Partículas de energía, juntas luminosas y superposiciones holográficas aceleran la conversión hasta alcanzar una forma de Optimus blanco completamente bípeda.
-Al final: El Optimus blanco ya terminado se alza imponente y poderoso en la misma pose, con la armadura totalmente asegurada, el visor azul brillando y listo para la acción, sin ningún rastro humano restante.
-
-[Mantener la coherencia]
-Mantén ininterrumpida la identidad única de mujer a robot, el predominio de la paleta de colores blancos, la precisión de la silueta y los detalles de Optimus, la estabilidad de la orientación espacial y la continuidad del proceso de autotransformación.
-
-Aviso legal: 
-Este video es un concepto ficticio de ciencia ficción generado por IA, creado únicamente con fines de entretenimiento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116152701612650497/img/SaQsQ7kOFepCUASS.jpg" width="600" alt="Prompt de Video: Mujer Transformándose en Optimus Prime Blanco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13257)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116152840087650695) | **Published:** Oct 30, 2026
-
----
-### Prompt Dinámico de Grok Imagine: Cyberpunk Waifu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dinámico detallado para Grok Imagine que describe a una modelo femenina futurista de estilo cyberpunk/steampunk bailando y trabajando frente a una pantalla.
-
-#### 📝 Prompt
-
-```
-La música tiene un buen ritmo. Una modelo femenina inspirada en la estética waifu, con el pelo rosa, en un plano medio corto, mientras rebota y baila frente a una pantalla. Lleva ropa futurista de estilo cyberpunk steampunk.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116139657570226176/img/wrxctVeVu0a7Tx4P.jpg" width="600" alt="Prompt Dinámico de Grok Imagine: Cyberpunk Waifu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13478)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2116142171451543878) | **Published:** Oct 30, 2026
-
----
-### Edición de Video: Charco con Pétalos de Rosa Amarilla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de edición de video para consolidar múltiples pétalos de rosa amarilla en un pequeño charco que los contenga.
-
-#### 📝 Prompt
-
-```
-Cambia el charco por uno pequeño con pétalos de rosa amarilla flotando y elimina todos los demás pétalos de rosa amarilla
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116136407186259970/img/rmUCpn211Hrr2QE_.jpg" width="600" alt="Edición de Video: Charco con Pétalos de Rosa Amarilla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13258)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2116136478892019806) | **Published:** Oct 30, 2026
-
----
-### Bolso de mujer se transforma en un traje de armadura metálica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video donde una mujer deja caer su bolso, que luego se despliega fluidamente y se transforma en un traje de armadura metálica ajustado al cuerpo que ella viste.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Genera una secuencia de transformación de otro nivel. La protagonista es una mujer que deja caer su bolso al suelo; el bolso se transforma de repente en un traje metálico completo que ella termina vistiendo.
-
-[Guion de eventos]
-Al inicio: La mujer está de pie sosteniendo su bolso y, a propósito, lo deja caer al suelo frente a ella.
-Evento principal: El bolso impacta contra el suelo e inicia de inmediato una transformación espectacular. Se despliega, se expande y muta con un movimiento fluido similar al del metal líquido: las placas encajan en su sitio, las líneas de energía brillan y los componentes se ensamblan hacia arriba y alrededor de su cuerpo hasta formar una armadura metálica completa y ajustada. Ella entra en el traje o este la envuelve por completo mientras la transformación llega a su fin.
-Al final: Permanece de pie, totalmente cubierta por el elegante y reluciente traje metálico. El bolso ya no existe como objeto independiente; se ha convertido por completo en la armadura. Su postura transmite poder y disposición para la acción.
-
-[Mantener la coherencia]
-Mantén la identidad, los rasgos faciales, las proporciones corporales y el aspecto general de la mujer constantes y estables durante toda la escena. Asegúrate de que un único bolso se transforme exactamente en un solo traje metálico. Conserva relaciones espaciales claras: el bolso empieza en su mano, cae al suelo y luego se expande alrededor de su cuerpo. No deben aparecer personas, bolsos ni trajes adicionales. La transformación debe ser fluida, llena de energía y visualmente espectacular, sin romper la lógica causal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116124348071477249/img/HAyNwB1nOrpc1OWk.jpg" width="600" alt="Bolso de mujer se transforma en un traje de armadura metálica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13262)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116124466593792234) | **Published:** Oct 30, 2026
-
----
-### Secuencia de pelea del Ninja Fight Duo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video para Grok Imagine que muestra a un dúo derrotando a un ninja y luego luchando entre sí, terminando en un abrazo.
-
-#### 📝 Prompt
-
-```
-El dúo pasa al ataque y derrota a los ninjas, pero enseguida vuelven a enfrentarse entre ellos. Riendo mientras pelean, todo termina en un abrazo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="Secuencia de pelea del Ninja Fight Duo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13208)**
-
-**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **Published:** Oct 30, 2026
-
----
-### Transformación del Hombre a su Forma Definitiva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar un video de transformación continua donde un hombre común evoluciona hacia su forma final elevada para impresionar a una mujer.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Generar un video de transformación continua que suba de nivel. El protagonista es un hombre común que evoluciona hasta alcanzar su forma más elevada; el evento principal es su transformación progresiva, que culmina cuando se planta con seguridad junto a la mujer, listo para cumplir la promesa de «Si lo consigo, me casaré con ella».
-
-[Guion del evento]
-Al inicio: Un hombre corriente está solo en un espacio neutro y sencillo, con expresión decidida pero sin nada que lo haga destacar.
-Evento principal: Atraviesa transformaciones sucesivas que lo llevan al siguiente nivel: primero, una sutil descarga de energía ilumina su cuerpo; luego, su ropa y su físico evolucionan hacia una versión más fuerte y definida; después, proyecta un aura mucho más poderosa y un aspecto refinado. Cada etapa lo eleva un poco más hasta alcanzar su forma definitiva de máximo estatus.
-Al final: Ya completamente transformado, se mantiene erguido y seguro de sí mismo junto a la mujer. La conexión entre ambos es evidente y la promesa de «Si lo consigo, me casaré con ella» se hace realidad.
-
-[Mantener la coherencia]
-Conservar intacta la identidad esencial del hombre en cada etapa de la transformación, mantener a la misma mujer como destinataria constante de la promesa y asegurar que tanto la pareja final como el resultado de esta evolución no sufran alteraciones.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116016410371760128/img/MMj11ekfg-BKFtOi.jpg" width="600" alt="Transformación del Hombre a su Forma Definitiva">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13254)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116016843215241216) | **Published:** Oct 30, 2026
-
----
-### Prompt de video para Grok Imagine: Vestido elegante
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt detallado para crear videos con Grok Imagine, mostrando a una mujer en un vestido negro con volantes, estructurado en 5 escenas con poses específicas e instrucciones de música de fondo (BGM).
-
-#### 📝 Prompt
-
-```
-Configuración global del video
-* Duración: 15 segundos (3 s x 5 escenas)
-* Consistencia de los personajes: Mantener intactos los rasgos faciales, el peinado y el vestuario (vestido negro con volantes, tocado negro, cabello negro semirrecogido, ojos azules) de las modelos de @Image1, @Image2 y @Image3.
-* BGM: Conjunto de guitarra acústica cálida y piano acústico suave y tranquilo.
-
-Escena 1 (0:00 - 0:03): Plano medio
-* Imagen base: @Image3
-* Pose 1 (0:00-0:01.5): Inclinar ligeramente la cabeza, apoyar las manos suavemente sobre el pecho y sonreír con delicadeza.
-* Pose 2 (0:01.5-0:03): Llevar una mano cerca de la boca y mostrar una expresión tierna de sorpresa.
-
-Escena 2 (0:03 - 0:06): Plano general (cuerpo entero)
-* Imagen base: @Image1
-* Pose 1 (0:03-0:04.5): Levantar con suavidad el borde de la falda y hacer una reverencia elegante (curtsía).
-* Pose 2 (0:04.5-0:06): Girar un poco el cuerpo en diagonal y echar un pie hacia atrás para realzar el estilo.
-
-Escena 3 (0:06 - 0:09): Primer plano
-* Imagen base: @Image2
-* Pose 1 (0:06-0:07.5): Mirar a cámara y hacer el gesto de acomodarse el cabello detrás de la oreja.
-* Pose 2 (0:07.5-0:09): Apoyar suavemente la mano bajo la barbilla e inclinar la cabeza para lucir el cuello y el tocado.
-
-Escena 4 (0:09 - 0:12): De plano medio a plano general
-* Imagen base: @Image3 / @Image1
-* Pose 1 (0:09-0:10.5): Darse la vuelta con una sonrisa partiendo de una posición ligeramente de espaldas.
-* Pose 2 (0:10.5-0:12): Hacer un giro ligero y dejar que el vuelo de la falda se despliegue al aire.
-
-Escena 5 (0:12 - 0:15): Último primer plano espectacular
-* Imagen base: @Image2
-* Pose 1 (0:12-0:13.5): Acercar lentamente el rostro a la cámara mientras devuelve la mirada.
-* Pose 2 (0:13.5-0:15): Adoptar la mejor pose con la sonrisa más radiante hacia la pantalla, guiñar un ojo con ternura y congelar la imagen.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793432017210_i1uq6z_HV2T1GYbAAEgnAZ.jpg" width="600" alt="Prompt de video para Grok Imagine: Vestido elegante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13267)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2116013473108996400) | **Published:** Oct 30, 2026
-
----
-### Video de la transformación de Tesla Optimus a Optimus Prime listo para el combate
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video cinematográfico de ciencia ficción donde Tesla Optimus se transforma en una configuración lista para el combate de Optimus Prime dentro de un hangar futurista.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Genera un vídeo de transformación de Optimus de siguiente nivel con un estilo puramente SCI-FI. El sujeto principal es Tesla Optimus, y el evento central es su metamorfosis tecnológica completa: pasa de una elegante forma humanoide a una configuración de Optimus Prime totalmente evolucionada, de nueva generación y lista para el combate.
-
-[Guion del evento]
-Al inicio: Optimus se encuentra de pie en el centro de un enorme hangar futurista, manteniendo sus proporciones humanoides intactas, con placas de armadura en negro mate y plata que reflejan frías luces holográficas en cian y magenta. Su cabeza muestra la clásica placa facial humanoide de líneas lisas.
-Evento principal: Comienza la cascada de transformación. Las placas del pecho se abren con precisión hidráulica, revelando un núcleo de energía azul brillante y segmentos de armadura plegables. Los hombros se expanden y encajan formando enormes hombreras al estilo Prime, mientras las placas de los brazos se reconfiguran en pesados guanteletes. Las piernas se alargan y engrosan hasta convertirse en potentes soportes digitígrados, y la armadura de la cintura gira y se bloquea para formar el icónico torso con forma de cabina de camión. La carcasa de la cabeza se despliega hacia atrás y se moldea de nuevo en el clásico casco de Optimus, con su visor azul resplandeciente. De los hombros emergen tubos de escape, el emblema Autobot se materializa en pura energía y todo el cuerpo aumenta de tamaño, gana más blindaje y se vuelve exponencialmente más imponente.
-Al final: El Optimus de siguiente nivel, ya completamente transformado, se alza imponente y listo para la batalla; sus ópticas azules arden con intensidad, las líneas de energía laten por cada placa, y el vapor junto con partículas holográficas residuales se arremolinan alrededor de sus pies.
-
-[Estilo visual]
-Estética cinematográfica SCI-FI de altísima fidelidad. Detalle mecánico de superficies duras (hard-surface), reflejos metálicos, resplandores volumétricos de energía azul, superposiciones de interfaz holográfica y estelas de partículas de nanites y luz. Paleta de colores fríos en cian y magenta, con sombras profundas y brillos especulares muy definidos. Materiales fotorrealistas combinados con efectos de energía estilizados.
-
-[Cámara]
-Arranca con un plano general heroico de cuerpo entero. Al comenzar la transformación, la cámara orbita lentamente en sentido horario mientras avanza de forma constante hacia el sujeto. A mitad de la secuencia, emplea un seguimiento dinámico en contrapicado para captar la expansión de las extremidades y el desplazamiento en cascada de las placas. El plano final se asienta en una pose heroica dramática en contrapicado, con una ligera inclinación ascendente justo cuando las últimas placas encajan y la energía se dispara.
-
-[Sonido]
-Zumbidos profundos de sistemas hidráulicos y servomotores, superpuestos a crecientes sobretensiones electrónicas de potencia. Golpes metálicos e impactos de bloqueo magnético sincronizados con cada movimiento importante de la armadura. Culmina con un pulso de energía cargado de graves y el resonante tono de activación Autobot. La reverberación ambiental del hangar y un viento sintético lejano completan la atmósfera SCI-FI. Sin diálogos ni subtítulos.
-
-[Mantener coherencia]
-Conserva una única identidad continua del sujeto durante toda la escena: solo un Optimus. Mantén la evolución de la silueta y las proporciones como una progresión clara y lógica desde la forma humanoide hasta la versión Prime de siguiente nivel. Preserva la coherencia de los materiales metálicos, la firma de energía azul y el entorno del hangar SCI-FI a lo largo de toda la secuencia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115849404607549441/img/HVZXNneM-ghBcJKW.jpg" width="600" alt="Video de la transformación de Tesla Optimus a Optimus Prime listo para el combate">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13263)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115849688876503049) | **Published:** Oct 29, 2026
-
----
-### Navegación 3D en pinturas con Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que crea un movimiento de cámara cinematográfico en 3D a través de una pintura estática subida como referencia, preservando la composición original mientras añade profundidad y efectos de paralaje sin animar los elementos.
-
-#### 📝 Prompt
-
-```
-El video comienza a partir del encuadre definido por la pintura adjunta y conserva su composición, sujetos, colores, iluminación y disposición exactos como un espacio tridimensional estático.
-
-Ninguna persona, animal, objeto, agua, follaje, nube, llama ni cualquier otro elemento pintado se mueve, se anima o cambia de estado. Toda la escena permanece completamente congelada, como si la pintura simplemente se hubiera convertido en un diorama sólido e inmóvil.
-
-La cámara realiza un recorrido cinematográfico 3D continuo a través de esta escena congelada: avanza lentamente hacia adelante, orbita con suavidad y se desplaza junto a los sujetos principales y las capas espaciales, revelando profundidad, paralaje y volumen sin alterar ni animar jamás ningún contenido dentro de la pintura.
-Solo una presencia espacial ambiental acompaña el movimiento; no hay diálogos, narración, música ni efectos de sonido provenientes de ningún elemento de la pintura.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="Navegación 3D en pinturas con Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13206)**
-
-**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **Published:** Oct 29, 2026
-
----
-### Transformación de Preparación de la Novia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar un video continuo de una mujer preparándose como novia, incluyendo maquillaje, peinado, vestirse con un vestido de novia y añadir accesorios.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Generar un video continuo de una mujer preparándose y arreglándose como novia para su boda.
-
-[Guion del evento]
-Al principio, está sentada con calma en una habitación nupcial con iluminación suave, vistiendo ropa interior sencilla o una bata, y con el cabello suelto. Se aplica el maquillaje de novia con cuidado y luego se peina en un elegante recogido o con ondas suaves. Después, alguien la ayuda a ponerse un vestido de novia blanco, alisando la tela mientras esta cae en su lugar. Se coloca las joyas, el velo o los accesorios florales; luego se levanta y se mira en un espejo de cuerpo entero. Al final, está completamente lista como novia, sonriendo suavemente con una ilusión radiante, con el vestido y los accesorios perfectos, lista para casarse.
-
-[Mantener la coherencia]
-Mantener a la misma mujer, con sus rasgos faciales, tono de piel y proporciones corporales constantes durante todo el video. Conservar la temática nupcial en blanco, la vestimenta elegante y el entorno íntimo de la habitación nupcial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115769473902780416/img/APqpQFVnu3Lu8SqB.jpg" width="600" alt="Transformación de Preparación de la Novia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13555)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2715,6 +2657,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-12T07:04:41.039Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-12T17:01:57.234Z</sub>
 
 </div>
