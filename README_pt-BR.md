@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3373** |
+| 📝 Total Prompts | **3390** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-13** |
 
@@ -189,6 +189,264 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Vídeo: Cena Costeira Matinal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para geração de vídeo no Grok Imagine que dá continuidade a uma cena costeira tranquila com dois homens ao redor de uma fogueira, focando em conversas casuais e detalhes atmosféricos como vapor e névoa.
+
+#### 📝 Prompt
+
+```
+Dê continuidade à cena pacífica da manhã no litoral: os dois homens junto à fogueira continuam conversando e gesticulando de forma descontraída enquanto terminam o café da manhã, com a fumaça subindo da chaleira e das canecas, o fogo crepitando suavemente, uma leve névoa se espalhando pelo ar e as ondas quebrando mansamente na areia...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121135870376067072/img/GoEwViIAEZQQRIpc.jpg" width="600" alt="Prompt de Vídeo: Cena Costeira Matinal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13814)**
+
+**Author:** [SGT DONT PLAY ME](https://x.com/JohnHubkey72127) | **Source:** [Link](https://x.com/JohnHubkey72127/status/2121135904857473391) | **Published:** Nov 13, 2026
+
+---
+### Parque Aquático Steampunk Neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo detalhado para um parque aquático steampunk com acentos neon e estética industrial vitoriana.
+
+#### 📝 Prompt
+
+```
+Parque aquático steampunk, tudo em estilo steampunk, atrações de parque aquático com arte fluorescente, altamente detalhado, vibrantes detalhes em neon brilhante nas máquinas de latão e cobre, estética industrial vitoriana com elementos aquáticos, futurista e retrô ao mesmo tempo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121108909251584000/img/GSk3nUkwaPd9X-m3.jpg" width="600" alt="Parque Aquático Steampunk Neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13817)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2121108930772553847) | **Published:** Nov 13, 2026
+
+---
+### Vídeo de Decolagem de Natal do Espaço 1999
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado para o Grok Imagine, solicitando uma animação baseada em uma imagem de referência. O conteúdo apresenta personagens falando sobre o Natal, seguido pela decolagem de uma nave espacial com efeitos especiais retrô específicos.
+
+#### 📝 Prompt
+
+```
+Gere um novo vídeo para mim com base na imagem fornecida usando este prompt: "Imagine alive and speaking about Christmas morning then have the Space 1999 craft takeoff with exact same special effects" com as seguintes configurações: 720p, 15s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121107848776089600/img/KDz3mdihHSHVeAIe.jpg" width="600" alt="Vídeo de Decolagem de Natal do Espaço 1999">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13816)**
+
+**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2121107878287233362) | **Published:** Nov 13, 2026
+
+---
+### Desistência em Lista de Tarefas Claymation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para criar uma animação em claymation de 10 segundos com post-its desistindo, destinado a ferramentas como Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Clipe vertical de 10 segundos na proporção 9:16, animação em stop-motion com massinha.
+
+Cena: uma escrivaninha de madeira ao amanhecer, vista levemente de cima. Uma caneca de café, um notebook fechado e 5 post-its amarelos enfileirados. Cada post-it é um pequeno personagem de massinha com olhinhos de ponto.
+
+0-3s: Aproximação lenta da câmera. Os post-its acordam e se espreguiçam. Luz quente entrando pela janela à esquerda.
+
+3-7s: Um por um, os post-its marcham até uma lixeirinha de massinha e pulam para dentro, cada um fazendo um som suave de papel estalando. O último post-it para, olha para a câmera e então pula.
+
+7-10s: A câmera fica parada. A tampa do notebook abre sozinha. Vapor sobe da caneca.
+
+Estilo: animação artesanal em massinha, marcas de dedos visíveis no material, movimento levemente travado a 12 fps, sombras suaves, profundidade de campo rasa.
+Mantenha o mesmo design da escrivaninha, da caneca e dos post-its durante todo o vídeo. Sem texto na tela. Sem pessoas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121074448686370817/img/Gd7JBeNC-dqFtPS0.jpg" width="600" alt="Desistência em Lista de Tarefas Claymation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13819)**
+
+**Author:** [sotappp | AI for builders](https://x.com/sotappp9) | **Source:** [Link](https://x.com/sotappp9/status/2121074524171202890) | **Published:** Nov 13, 2026
+
+---
+### Animação de Personagem Pinguim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Anima a personagem pinguim chamada Pebbles falando com seu pai.
+
+#### 📝 Prompt
+
+```
+Anime a Pebbles, a pinguim, contando ao pai como os amigos dela são incríveis... @RealPenguin01
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121061535963295744/img/yZbyY17yHQur9MEq.jpg" width="600" alt="Animação de Personagem Pinguim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13815)**
+
+**Author:** [Sharon Champagne🇨🇦](https://x.com/chiarachampagne) | **Source:** [Link](https://x.com/chiarachampagne/status/2121061555554943154) | **Published:** Nov 13, 2026
+
+---
+### Kites de Dirigível e Aves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo adicionando corujas, águias e pipas a um fundo de dirigível.
+
+#### 📝 Prompt
+
+```
+Adicione uma coruja e uma águia voando ao passar pelo dirigível, e inclua no fundo uma pipa de papel crepom nas cores azul, rosa e branco, com uma rabiola feita de pedaços amarelos em formato de losango
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121053863960821760/img/IX-dfwy0VGopmEOi.jpg" width="600" alt="Kites de Dirigível e Aves">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13818)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2121053963869176020) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Vídeo: Invasão Alienígena pelo Portal de Saturno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de ficção científica descrevendo alienígenas chegando por um portal temporal próximo a Saturno e atacando a Terra.
+
+#### 📝 Prompt
+
+```
+Alienígenas atravessaram um portal temporal circular aberto ao redor dos anéis de Saturno, e algumas de suas naves já estão na nossa Lua. O ataque alienígena à Terra é iminente: outubro de 2029.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120987219280187392/img/c-TF9hhLvbv-7Mbo.jpg" width="600" alt="Prompt de Vídeo: Invasão Alienígena pelo Portal de Saturno">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13812)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2120987246354686163) | **Published:** Nov 12, 2026
+
+---
+### Gerador de Herói no Estilo Stan Lee
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo para transformar a foto do usuário em um herói original de quadrinhos no estilo Stan Lee, incluindo detalhes específicos de pose, roupa e fundo.
+
+#### 📝 Prompt
+
+```
+[Use a foto enviada como referência estrita de rosto e identidade. Mesma pessoa, mesmo rosto, mesma idade, mesmo gênero.
+
+Meu handle é [YOUR HANDLE]
+
+Leia esse handle e a vibe dele. Escolha o arquétipo de herói no estilo Stan Lee que melhor se encaixa, como um cara comum que balança em teias, um inventor genial de armadura, um andarilho cósmico, um mutante marginalizado, um rei com poderes de trovão, um lutador movido a radiação gama ou um feiticeiro místico. Invente um traje de herói original inspirado nesse arquétipo e vista essa pessoa com ele. Não cite nenhum personagem de quadrinhos existente. Não copie nenhum traje, logo, emblema de peito ou paleta de cores exata de personagens conhecidos. Não escreva o arquétipo, o handle nem qualquer outro texto na imagem.
+
+Apenas uma pessoa, em pose heroica num terraço, ao entardecer, em um telhado original dos estúdios de quadrinhos dos anos 1960: um pé apoiado no parapeito de tijolos, o outro no chão do telhado, joelhos levemente flexionados, corpo angulado em direção à câmera, queixo levemente erguido. Exatamente dois braços e duas pernas. Mão direita fechada em punho confiante na altura do peito, vazia e totalmente visível. Mão esquerda aberta e ligeiramente afastada para manter o equilíbrio, vazia e totalmente visível. Corpo inteiro enquadrado. Sorriso leve e confiante. Rosto totalmente visível e reconhecível; sem máscara ou capacete escondendo o rosto. Se o traje tiver uma capa curta ou casaco, deixe uma ponta esvoaçar ao vento.
+
+Roupa compatível com o gênero da foto: um traje de herói original e chamativo, inventado para esta pessoa no espírito do arquétipo escolhido, com suas próprias cores, formas e materiais, não sendo uma cópia direta das roupas da foto enviada. Sem logos, emblemas no peito, letras, números, listras ou marcas registradas.
+
+Ao fundo, um telhado de tijolos desgastado dos anos 1960, uma caixa d'água sem marcações, papel piche e uma claraboia do estúdio com luz quente, e o crepúsculo da cidade ao longe. Exatamente três páginas em branco de papel jornal creme estão voando ao vento acima do parapeito, sem desenhos ou textos. Nenhuma outra pessoa. Sem placas, faixas, bandeiras ou qualquer tipo de texto.
+
+Pôster 2:3, fotorrealista, nítido, iluminação cinematográfica com crepúsculo quente e um brilho suave e dourado vindo da claraboia. Marca d'água no canto inferior direito, pequena, sem cobrir o rosto: monograma KG dourado com uma coroa sobre o G, @lordfullgamut logo abaixo.
+
+Negativo: sem membros ou dedos extras, sem rostos distorcidos, sem outras pessoas, sem logos ou emblemas no peito, sem personagens ou trajes protegidos por direitos autorais, sem paletas de cores exatas de personagens conhecidos, sem rostos famosos, sem semelhança com Stan Lee, sem texto além da marca d'água, sem nome do arquétipo ou handle na imagem, sem letras no papel jornal, sem placas, sem murais, as roupas devem corresponder ao gênero da foto enviada, sem máscara que cubra todo o rosto, sem capacete escondendo o rosto.]
+```
+
+<img src="https://cms-assets.youmind.com/media/1794555435546_4l1wo2_HW7z_6jWgAAmWWF.jpg" width="600" alt="Gerador de Herói no Estilo Stan Lee">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13813)**
+
+**Author:** [�FG FullGamut](https://x.com/LordFullGamut) | **Source:** [Link](https://x.com/LordFullGamut/status/2120900759843729784) | **Published:** Nov 12, 2026
+
+---
+### Evitar Artefatos no Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um exemplo curto de prompt para o Grok Imagine que evita artefatos indesejados ao travar a câmera e os recursos durante ações de piscar ou sorrir.
+
+#### 📝 Prompt
+
+```
+Ela pisca lentamente e sorri de forma suave. Câmera fixa, enquadramento estável, iluminação e traços faciais consistentes do início ao fim.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120889668325818368/img/wh3hfJ9gcEaHmESg.jpg" width="600" alt="Evitar Artefatos no Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13828)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2120890943100662222) | **Published:** Nov 12, 2026
+
+---
+### Prompt de Vídeo do Grok Imagine: Rainha Elizabeth e Príncipe Philip em Campo de Papoulas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo para o Grok Imagine, apresentando a Rainha Elizabeth II e o Príncipe Philip caminhando por um campo de papoulas, com instruções específicas de diálogo.
+
+#### 📝 Prompt
+
+```
+A Rainha Elizabeth II e o Príncipe Philip caminham por um campo de papoulas, e a rainha diz que essas flores representam o grande povo do Reino Unido, que acredita na luta por suas liberdades internas, e o Príncipe Philip responde: para mim...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120853653669961728/img/S5Tta0fFcSwYz2KX.jpg" width="600" alt="Prompt de Vídeo do Grok Imagine: Rainha Elizabeth e Príncipe Philip em Campo de Papoulas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13820)**
+
+**Author:** [C.A.M VORE](https://x.com/DiakonosRichie) | **Source:** [Link](https://x.com/DiakonosRichie/status/2120853673743978844) | **Published:** Nov 12, 2026
+
+---
+### Guardião da Floresta Verde Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para o Grok Imagine descrevendo um garoto chibi se transformando em uma armadura mecânica esmeralda em uma floresta encantada.
+
+#### 📝 Prompt
+
+```
+Guardião da Floresta Verde
+Um garotinho Chibi de cabelo verde, usando um capuz de coelho marrom rasgado e uma mochila de madeira, caminha por uma floresta encantada. Uma energia verde se espalha pelo chão. Vinhas robóticas se enrolam em seus braços e pernas. Suas roupas se transformam em uma armadura biomecânica verde-esmeralda. Enormes asas de energia em formato de folha se abrem atrás dele.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120819740172271616/img/UjhvYqmSkt_zy-WD.jpg" width="600" alt="Guardião da Floresta Verde Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13826)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2120819798200439050) | **Published:** Nov 12, 2026
+
+---
+### Prompt de Vídeo: Transformação de Garota Chibi em Traje da Pantera Negra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo para o Grok Imagine mostrando uma pequena garota estilo chibi se transformando em um traje de combate brilhante inspirado na Pantera Negra, com garras mecânicas e olhos verdes brilhantes em uma cidade abandonada.
+
+#### 📝 Prompt
+
+```
+Traje de Combate Pantera Negra
+Uma garotinha chibi usando um capuz preto esfarrapado com orelhas de gato caminha por uma cidade escura e abandonada. De repente, sua mochila se abre e libera centenas de partículas metálicas pretas. Elas cobrem seu corpo e formam um traje de combate brilhante inspirado em uma pantera negra. Duas garras mecânicas se estendem de seus dedos, e olhos verdes luminosos são ativados em seu capacete.
+
+Aviso sobre o vídeo: 
+Personagens fictícios de ficção científica gerados por IA e transformações imaginárias de armaduras futuristas. Criado apenas para fins de entretenimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120772440276045824/img/J8ey3QU4p24Rv_Es.jpg" width="600" alt="Prompt de Vídeo: Transformação de Garota Chibi em Traje da Pantera Negra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13827)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2120773119656730876) | **Published:** Nov 12, 2026
+
+---
 ### Personagem Ouriça Loira
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -519,6 +777,72 @@ Este vídeo é um conceito fictício de ficção científica gerado por IA, cria
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119974330063114595) | **Published:** Nov 10, 2026
 
 ---
+### Prompt de Vídeo POV Caminhando em Times Square
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt abrangente para criar um vídeo POV de caminhada com câmera na mão de 4 segundos em Times Square usando Grok Imagine, incluindo especificações da câmera, detalhes da cena, ação, iluminação, áudio e restrições.
+
+#### 📝 Prompt
+
+```
+Formato: 16:9 horizontal, 4 segundos, iPhone 18 Pro 0.5x ultrawide, 4K 30fps, POV caminhando com câmera na mão.
+
+Cena: Caminhada pela Times Square durante o dia. Painéis luminosos gigantescos por todos os lados, multidões de turistas, táxis amarelos cruzando a via.
+
+Ação: 0-2s caminhando para frente no meio da multidão. 2-4s panorâmica lenta da esquerda para a direita sobre a parede de telas contra o céu azul.
+
+Iluminação: luz do dia intensa misturada ao brilho colorido das telas.
+
+Áudio: apenas diegético — burburinho da multidão, bateria de um artista de rua ao longe, buzinas de carros.
+Último Quadro: panorama amplo do "cânion" de painéis e da multidão. Todos os painéis exibem apenas cores e imagens abstratas, sem palavras legíveis. Sem texto na tela, sem legendas, sem logotipos, sem marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119818184048218112/img/EMr5_U0sEqalBgaQ.jpg" width="600" alt="Prompt de Vídeo POV Caminhando em Times Square">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13821)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2119818224338661830) | **Published:** Nov 9, 2026
+
+---
+### Correção de Prompt para Fundo Estático
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um trecho de prompt usado para evitar efeitos de partículas e manter o fundo estático em vídeos do Grok Imagine.
+
+#### 📝 Prompt
+
+```
+O fundo permanece totalmente estático e inalterado durante todo o vídeo. Sem partículas, sem faíscas, sem poeira brilhante, sem luzes flutuantes, sem efeitos de luz caindo e sem efeitos atmosféricos. Mantenha exatamente a mesma aparência do fundo do primeiro quadro. Apenas o personagem se move.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119588974729760768/img/K1NxpwqY16oouErY.jpg" width="600" alt="Correção de Prompt para Fundo Estático">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13823)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2119589115398406567) | **Published:** Nov 9, 2026
+
+---
+### Prompt de Engenheiros Robóticos da SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo de milhares de robôs humanoides trabalhando em uma fábrica da SpaceX usando o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Milhares de robôs humanoides avançados trabalham dentro de uma gigantesca fábrica de foguetes no estilo SpaceX. Eles montam motores, transportam componentes e constroem naves espaciais enormes com uma precisão incrível.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119361463886241792/img/qvt2TGKEQOwidkz9.jpg" width="600" alt="Prompt de Engenheiros Robóticos da SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13822)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119361779348496501) | **Published:** Nov 8, 2026
+
+---
 ### Prompt de Espadachim de Artes Marciais Neon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -536,6 +860,49 @@ Deixe as roupas dela amarelo-neon, o cabelo verde e faça ela executar alguns mo
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
 
 **Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
+### Vídeo Cinematográfico da Rede Global Starlink
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado para o Grok Imagine, retratando a Terra cercada por satélites Starlink, incluindo movimentos de câmera, especificações de qualidade visual e instruções de design sonoro.
+
+#### 📝 Prompt
+
+```
+Uma visão fotorrealista de tirar o fôlego da Terra vista do espaço sideral, cercada por milhares de satélites futuristas Starlink que se movem em formações orbitais sincronizadas. A câmera começa com um espetacular plano aberto do planeta azul antes de acelerar suavemente entre vários satélites, revelando suas estruturas metálicas detalhadas e os enormes painéis solares refletindo uma brilhante luz solar dourada. Milhares de satélites formam uma elegante rede orbital interconectada ao redor da Terra. Sutis feixes de comunicação azuis viajam entre os satélites e as estações terrestres, conectando montanhas remotas, oceanos, desertos e vilarejos isolados por todo o planeta. A câmera sobrevoa a constelação orbital antes de recuar para revelar a magnífica rede global de satélites iluminando a atmosfera terrestre. Encerra com uma vista espetacular da Terra cercada por uma constelação infinita de satélites.
+
+Qualidade visual e cinematografia:
+
+* Cinematografia de ficção científica hollywoodiana ultrarrealista.
+
+* 8K HDR, iluminação orbital realista e detalhes atmosféricos precisos.
+
+* Engenharia dos satélites e painéis solares altamente detalhados.
+
+* Reflexos realistas da luz solar e sombras profundas do espaço sideral.
+
+* Movimentos de câmera cinematográficos suaves e rastreamento orbital.
+
+* Sensação precisa de escala, profundidade e gravidade zero.
+
+* Sem efeitos de desenho animado, sem objetos com aparência artificial, sem satélites distorcidos.
+
+Design de som: Atmosfera espacial cinematográfica profunda, sons sutis de comunicação eletrônica, música atmosférica futurista e um clímax orquestral poderoso.
+
+Frase cinematográfica na tela:
+
+"MILHARES DE SATÉLITES. UM PLANETA CONECTADO. UM MUNDO SEM DISTÂNCIAS."
+
+Aviso: Esta é uma visualização cinematográfica fictícia inspirada na tecnologia de satélites Starlink. As formações orbitais e os feixes de comunicação são representações artísticas, não uma retratação ao vivo da rede real.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119228045643137024/img/bw1bc677I2mKSES0.jpg" width="600" alt="Vídeo Cinematográfico da Rede Global Starlink">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13824)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119228089809187247) | **Published:** Nov 8, 2026
 
 ---
 ### Transformação do Traje de Chuva da Female Optimus
@@ -582,6 +949,25 @@ céu azul brilhante, grama com flores, fita amarela presa na grama balançando a
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Prompt de Vídeo: Clima Melancólico na Janela do Carro com Chuva
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para o Grok Imagine criando uma cena melancólica de um homem olhando pela janela do carro com chuva, observando que a fonte da imagem era o Gemini.
+
+#### 📝 Prompt
+
+```
+a câmera faz um zoom lento na janela do carro em movimento, mostrando um homem com expressão entediada olhando para fora, o rosto parcialmente na sombra, clima sombrio, o reflexo da paisagem aparecendo de forma sutil no vidro, tempo escuro e chuvoso, a câmera se mov...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118927202855399424/img/J-681UUyaK-mmP5a.jpg" width="600" alt="Prompt de Vídeo: Clima Melancólico na Janela do Carro com Chuva">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13825)**
+
+**Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
 ### Montagem da SpaceX Além da Terra
@@ -2167,434 +2553,6 @@ Negativo: Não derreta antes do aquecimento começar; sem derretimento horizonta
 **Author:** [夏天爱福利](https://x.com/xiantian_xigua) | **Source:** [Link](https://x.com/xiantian_xigua/status/2116551653143007625) | **Published:** Oct 31, 2026
 
 ---
-### Equipe de Trenó com Cães na Natureza Selvagem
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para geração de vídeo no Grok Imagine, apresentando cães Pekingese e Yorkie puxando um trenó guiado por um elfo em uma paisagem congelada.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de uma equipe de cães de trenó das raças Pequinês e Yorkshire, puxando um pequeno trenó conduzido por um elfo, através de uma paisagem selvagem congelada
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116551100786749440/img/cmscFmnKWfpJqRBX.jpg" width="600" alt="Equipe de Trenó com Cães na Natureza Selvagem">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13328)**
-
-**Author:** [Richard Russell](https://x.com/zzenrocker) | **Source:** [Link](https://x.com/zzenrocker/status/2116551158043123741) | **Published:** Oct 31, 2026
-
----
-### Dia de folga à beira do lago com Optimus Prime em estilo steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de texto para vídeo focado no personagem, imaginando o Optimus Prime relaxando à beira de um lago usando uma roupa steampunk.
-
-#### 📝 Prompt
-
-```
-Optimus quis imaginar um dia de folga no lago usando seu traje e máscara steampunk
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116535479495806977/img/BlXUjJ9Lx_KnB9jR.jpg" width="600" alt="Dia de folga à beira do lago com Optimus Prime em estilo steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13330)**
-
-**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2116535497728328019) | **Published:** Oct 31, 2026
-
----
-### Cena do Banco com Cabeça de Abóbora
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma descrição narrativa de uma cena de Halloween onde uma mulher se junta a um visitante com cabeça de abóbora em um banco molhado pela chuva, destinada como prompt de vídeo para Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Alguns monstros só querem alguém para sentar do lado.
-
-Uma mulher de vestido bordô se junta ao nosso visitante com cabeça de abóbora num banco molhado pela chuva. Dois sorrisos ambarinos brilham enquanto eles se encostam um no outro.
-
-SOMEONE LIKE YOU — Bônus do Dia 6
-Desafio Grok Imagine (@grok). Ficção com IA.
-
-Nota do experimento: as duas abóboras acendem juntas antes de eles se inclinarem, em vez de só a dele acender depois.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116524277914554368/img/QPEjtoGl10Fh6RPK.jpg" width="600" alt="Cena do Banco com Cabeça de Abóbora">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13327)**
-
-**Author:** [Fenix AI Cinema](https://x.com/aiproducers) | **Source:** [Link](https://x.com/aiproducers/status/2116524811694248233) | **Published:** Oct 31, 2026
-
----
-### Prompt de Vídeo de Transformação do Optimus Prime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo para gerar um vídeo de transformação sci-fi de alta energia, onde uma mulher se transforma em um robô Optimus Prime feminino, incluindo instruções específicas de consistência visual.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere um vídeo de transformação sci-fi de alto nível e muita energia. O foco central é uma mulher que se transforma em um Optimus Prime com as mesmas cores.
-
-[Roteiro do Evento]
-No início: Uma mulher imponente está de pé, centralizada em um hangar sci-fi industrial escuro, com faíscas e partículas de energia azul flutuando ao seu redor. Ela ativa a transformação, seu corpo travando em uma postura rígida enquanto costuras brilhantes e placas geométricas de luz surgem por sua pele e roupas.
-Evento principal: Sua forma se expande e se reestrutura com conjuntos mecânicos em cascata. Placas de blindagem exatamente nas mesmas cores do Optimus Prime (vermelho e azul com detalhes em prata) se abrem e se encaixam sobre o corpo dela. A cabeça se reconstrói no icônico capacete do Optimus Prime, o peito na grade do caminhão e no símbolo dos Autobots, e os braços e pernas em membros robóticos pesados, tudo mantendo o mesmo esquema de cores vermelho-azul-prata. A energia da transformação irrompe para fora em ondas de luz e plasma. A sequência atinge o ápice quando as últimas peças se fecham com um estalo.
-No final: Ela está completamente transformada em uma versão feminina do Optimus Prime com as mesmas cores — uma silhueta gigantesca e heroica, faróis acesos, grade no peito completa e o símbolo Autobot iluminado. Ela ergue um dos braços em uma pose de vitória imponente, enquanto a energia residual crepita ao seu redor.
-
-[Manter Consistência]
-Mantenha a continuidade da identidade original dela durante toda a transformação, o exato esquema de cores vermelho-azul-prata do Optimus do início ao fim, sem alteração de gênero ou de silhueta após a conclusão, efeitos contínuos de partículas de energia e o ambiente do hangar sci-fi industrial estável.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116487312762880000/img/fiUXRyqkRubw7VtY.jpg" width="600" alt="Prompt de Vídeo de Transformação do Optimus Prime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13341)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116487554945986671) | **Published:** Oct 31, 2026
-
----
-### Prompt de Vídeo Cosplay Asuna no Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt de vídeo para o Grok Imagine apresentando um personagem em cosplay estilo Asuna. Gerado por meio de instruções do Gemini, ele descreve uma sequência de 15 segundos com 4 cenas focadas nos movimentos da parte superior do corpo e uma piscadela final.
-
-#### 📝 Prompt
-
-```
-🎬 Instruções para o Diretor Gemini
-Por favor, crie um prompt em japonês para um vídeo de 15 segundos (a 4ª cena tem 3 segundos de duração) que utilize com maestria as três imagens enviadas (corpo inteiro, close-up e plano médio) para fazer a transição entre 4 cenas. Mude para "poses chamativas com movimento da parte superior do corpo a cada 4 segundos (2 poses por cena), baseadas nos elementos contextuais das imagens". Termine com um close-up, uma pose marcante e uma piscadela com um olho. O BGM deve ter um violão acústico acolhedor e uma sensação de piano acústico suave e calmo.
-
-Por favor, mantenha a consistência no rosto e no penteado da pessoa. Não é necessário gerar imagens ou vídeos.
-
-No prompt, substitua Imagem 1 (corpo inteiro) por @Image1, Imagem 2 (close-up) por @Image2 e Imagem 3 (plano médio) por @Image3.
-
-🎥 Prompt de Vídeo (Grok Imagine)
-[Configurações Gerais e Consistência]
- * Personagem/Figurino: A mulher de @Image1 (corpo inteiro), @Image2 (close-up) e @Image3 (plano médio). Mantenha total consistência no rosto, no penteado e no figurino de estilo fantasia.
- * BGM: Som suave de um violão acústico acolhedor e um piano acústico calmo.
- * Movimento Geral: Desenvolva poses dinâmicas centradas na parte superior do corpo.
-[Composição das Cenas]
- * Cena 1 (0-4s / Corpo Inteiro - Baseada em @Image1)
-   * 0-2s: Partindo de uma posição com a mão apoiada no batente da porta, ela sorri gentilmente para a câmera e inclina a cabeça.
-   * 2-4s: Ela apoia levemente a mão no cabo da espada na cintura e faz uma pose imponente, com o peito estufado.
- * Cena 2 (4-8s / Plano Médio - Baseada em @Image3)
-   * 4-6s: Ela junta as mãos na frente do peito, inclina levemente a cabeça e dá um sorriso suave.
-   * 6-8s: Ela joga o cabelo para trás com uma das mãos e olha diretamente para a câmera.
- * Cena 3 (8-12s / Plano Americano - Baseada em @Image2)
-   * 8-10s: Ela acena discretamente com a mão ao lado do rosto, em direção à câmera.
-   * 10-12s: De uma expressão pensativa, com as pontas dos dedos no queixo, ela muda repentinamente para um sorriso radiante.
- * Cena 4 (12-15s / Close-Up - Pose Marcante)
-   * 12-15s: A câmera se aproxima rapidamente para um close-up do rosto. Enquanto faz um coração ou sinal de paz com a mão, ela dá uma piscadela fofa com um olho e congela na pose.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793518553052_pt5a9o_HV79iB5a4AAFrVM.jpg" width="600" alt="Prompt de Vídeo Cosplay Asuna no Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13345)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2116474007780561339) | **Published:** Oct 31, 2026
-
----
-### Abóboras Saltitantes em Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo apresentando abóboras saltitantes em Marte e uma rede capturando-as.
-
-#### 📝 Prompt
-
-```
-Uma rede gigante aparece e pega todos eles
-As Abóboras Saltitantes de Marte
-Feliz Halloween, terráqueos! 🤗🎈🎃🎃
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116469301922123777/img/KsdqkQbOAhKBudYv.jpg" width="600" alt="Abóboras Saltitantes em Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13331)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2116469387188191705) | **Published:** Oct 31, 2026
-
----
-### Roteiro de Vídeo sobre Transformação Energética
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt estruturado para geração de vídeo no Grok Imagine, detalhando uma transformação contínua da energia em uma obra-prima.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere um vídeo de transformação contínuo e de alto nível, no qual a energia criativa bruta evolui para uma forma superior de criação totalmente concretizada, culminando em uma obra-prima finalizada.
-
-[Roteiro do Evento]
-No início: Uma energia luminosa e sem forma gira e pulsa em um vazio escuro e infinito.
-Evento principal: A energia acelera, formando padrões geométricos complexos, e então se cristaliza em matéria sólida e radiante. Cor, luz e estrutura se expandem em cascata enquanto a forma avança por estágios sucessivos de refinamento, complexidade e potência.
-No final: A transformação se conclui em uma criação finalizada e brilhante, que permanece estável, deslumbrante e plenamente evoluída no centro do quadro.
-
-[Manter Consistência]
-Mantenha uma única sequência de transformação contínua. Preserve o fluxo ininterrupto da energia pura até a criação sólida final, sem interrupções, retrocessos ou fragmentações. A criação deve permanecer como uma entidade coerente durante toda a sua evolução.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116408123627827200/img/P1wk_K_O1EcEV0Gv.jpg" width="600" alt="Roteiro de Vídeo sobre Transformação Energética">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13253)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116409253216841916) | **Published:** Oct 31, 2026
-
----
-### Prompt de Vídeo do Grok Imagine: Cena da Camiseta do Superman
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para o Grok Imagine gerar um vídeo de uma pessoa vestindo uma camiseta do Superman na cama, com instruções específicas de edição.
-
-#### 📝 Prompt
-
-```
-@Image2 me coloque usando uma camisa do Superman, sentado na cama e bebendo Jack Daniels, tire o outro cara da foto, mude e coloque uma camisa do Superman em mim
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116387147515121664/img/6Ic-XY4s2aLR6ISJ.jpg" width="600" alt="Prompt de Vídeo do Grok Imagine: Cena da Camiseta do Superman">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13247)**
-
-**Author:** [American Patriot](https://x.com/brandel_kenneth) | **Source:** [Link](https://x.com/brandel_kenneth/status/2116387160391823498) | **Published:** Oct 31, 2026
-
----
-### Prompt de Vídeo de Menina Anime dos Sonhos
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt complexo em japonês para o Grok Imagine criar um vídeo de estilo anime de 15 segundos com poses, iluminação e instruções de BGM específicas baseadas em imagens de referência.
-
-#### 📝 Prompt
-
-```
-[Instruções Gerais]
- * Consistência: Manter rigorosamente os traços do rosto da personagem, o aspecto molhado dos cabelos pretos, o figurino (corset de renda preta, tiara com orelhas de coelha, gargantilha com cruz) e o fundo com luz suave filtrada pelas cortinas de renda em todas as cenas.
- * Atmosfera: Onírica e misteriosa, com um ar fantástico e delicado.
- * BGM: Um som calmo e suave, onde o timbre cristalino de uma caixinha de música se mistura às notas gentis de um violão acústico.
-[Linha do Tempo e Composição das Cenas (Total de 15 segundos)]
- * Cena 1 (0-4 seg / Referência: @Image1)
-   * Ângulo: Plano geral (corpo inteiro)
-   * Pose 1 (0-2 seg): Sob a luz suave, inclinar levemente a cabeça e sorrir de forma delicada enquanto toca o pingente de cruz no pescoço com as pontas dos dedos.
-   * Pose 2 (2-4 seg): Girar o corpo com graciosidade, unir as mãos suavemente na frente do peito e olhar para a câmera com ternura.
- * Cena 2 (4-8 seg / Referência: @Image3)
-   * Ângulo: Plano médio (da cintura para cima)
-   * Pose 1 (4-6 seg): Inclinar a cabeça para o lado com um olhar voltado para cima, apoiar uma das mãos na bochecha e exibir uma expressão sonhadora.
-   * Pose 2 (6-8 seg): Erguer os ombros de leve e entreabrir os lábios como se fosse soprar o ar.
- * Cena 3 (8-12 seg / Referência: @Image1)
-   * Ângulo: Plano geral (corpo inteiro)
-   * Pose 1 (8-10 seg): Estender a mão lentamente, pinçar a borda da cortina de renda com as pontas dos dedos e sorrir como se estivesse escondendo o corpo.
-   * Pose 2 (10-12 seg): Espiar por trás da cortina, colocar as mãos nas costas e adotar uma pose elegante, levemente inclinada para frente.
- * Cena 4 (12-15 seg / Referência: @Image2)
-   * Ângulo: Close-up (rosto e pescoço)
-   * Pose 1 (12-13 seg): Aproximar-se da câmera, inclinar a cabeça e dar um sorriso misterioso e enigmático.
-   * Pose 2 e Final (13-15 seg): Dar uma piscadela fofa para a câmera e congelar na melhor pose.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793432014893_7x3ghg_HV7Xjl-bAAAJvuI.jpg" width="600" alt="Prompt de Vídeo de Menina Anime dos Sonhos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13266)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2116372086595678521) | **Published:** Oct 31, 2026
-
----
-### Dreadnought Espacial de John Berkey
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para geração de vídeo no Grok Imagine, descrevendo uma nave espacial marcada por batalhas, no estilo de John Berkey.
-
-#### 📝 Prompt
-
-```
-Dreadnought espacial no estilo de John Berkey, exibindo marcas do tempo e cicatrizes de batalha, sombriamente iluminado pelo brilho da lua. Pintura branca encardida e laranja desbotada. A nave resplandece enquanto raspa a atmosfera externa no lado escuro de um planeta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116366754809061376/img/snhFquItdFzgnEhI.jpg" width="600" alt="Dreadnought Espacial de John Berkey">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13250)**
-
-**Author:** [Chris](https://x.com/d0gmah) | **Source:** [Link](https://x.com/d0gmah/status/2116366829090132231) | **Published:** Oct 31, 2026
-
----
-### Cena de Maquiagem no Camarim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo que retrata uma mulher aplicando batom em um camarim quando alguém bate na porta.
-
-#### 📝 Prompt
-
-```
-No camarim, fazendo a maquiagem. Passando batom vermelho. Alguém bate na porta...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116357467974057984/img/CKKNN3zO41NhfLwp.jpg" width="600" alt="Cena de Maquiagem no Camarim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13252)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2116357485166575633) | **Published:** Oct 31, 2026
-
----
-### Megaestrutura Steampunk Aérea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de filmagem aérea cinematográfica altamente detalhado, que mistura arquitetura futurista com elementos mecha steampunk.
-
-#### 📝 Prompt
-
-```
-Plano aéreo cinematográfico épico de uma colossal megaestrutura futurista erguendo-se de um penhasco montanhoso escarpado, mesclando uma arquitetura ultramoderna em branco e dourado com uma intrincada base mecha steampunk. As faces inferiores do penhasco estão inteiramente cobertas por placas mecânicas altamente detalhadas em latão, bronze, cobre e metal escuro, engrenagens gigantescas, pistões, blindagem rebitada, grossos tubos de vapor e incontáveis vigias circulares luminosas de vários tamanhos, emitindo uma luz dourada e acolhedora. Um vapor branco e suave sobe delicadamente das seções mecânicas.
-
-Estradas em formato de tubos cilíndricos transparentes de vidro e metal serpenteiam de maneira dramática ao redor e através da estrutura, com carros brancos e aerodinâmicos trafegando no interior dos dutos fechados. Um vibrante torii japonês vermelho repousa sobre uma plataforma circular próxima ao centro. Arranha-céus imponentes em branco e dourado, com espirais curvas elegantes e detalhes dourados, despontam rumo ao céu, interligados pelas rodovias tubulares.
-
-Fundo: montanhas dramáticas envoltas em névoa, vales verdes muito abaixo, céu azul brilhante com nuvens brancas e suaves. Fotorrealista, ultradetalhado, iluminação cinematográfica, escala épica, composição vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116320066719580161/img/JVZ1rWS1z6F6ZZcp.jpg" width="600" alt="Megaestrutura Steampunk Aérea">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13260)**
-
-**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2116320179701633287) | **Published:** Oct 31, 2026
-
----
-### Paisagem urbana cinematográfica sci-fi futurista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo sci-fi de alta qualidade apresentando uma vasta cidade futurista ao crepúsculo, com arranha-céus cromados, luzes neon, veículos flutuantes e efeitos atmosféricos detalhados.
-
-#### 📝 Prompt
-
-```
-Um vídeo puramente de ficção científica, cinematográfico e fotorrealista, mostrando uma vasta paisagem urbana futurista ao crepúsculo, com arranha-céus elegantes de cromo e vidro perfurando nuvens iluminadas por neon, veículos flutuantes deixando rastros de luz pelas rodovias em vários níveis e anúncios holográficos piscando nas ruas molhadas pela chuva lá embaixo.
-
-O visual apresenta uma iluminação ultrarrealista com névoa volumétrica, raios de sol volumétricos (god rays) cortando a bruma atmosférica, reflexos detalhados nas superfícies de metal e vidro molhados, efeitos sutis de partículas vindos de propulsores distantes e uma paleta de cores em tons frios de azul e roxo, com destaques quentes em neon para criar um contraste dramático.
-
-A câmera utiliza um plano geral aéreo panorâmico que avança lentamente entre as estruturas imponentes, acompanhando depois, de forma suave, uma única nave elegante enquanto ela ziguezagueia entre os prédios, até subir e revelar uma vista aberta da megacidade brilhante.
-
-O som inclui zumbidos ambientes profundos e ressonantes de tecnologia avançada, o ruído distante dos propulsores, o bater suave da chuva nas superfícies, drones eletrônicos em camadas e uma trilha orquestral-sintética sutil e crescente que constrói a tensão cinematográfica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116308881739841536/img/hQsIAzFo54uxNS9e.jpg" width="600" alt="Paisagem urbana cinematográfica sci-fi futurista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13248)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116308989868757500) | **Published:** Oct 30, 2026
-
----
-### Edição de Vídeo: Patas de Cachorro no Vestido de Bronze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de edição de vídeo para substituir mãos humanas por patas de cachorro em um personagem vestindo um vestido de bronze, garantindo que os laços combinem com o estilo do vestido.
-
-#### 📝 Prompt
-
-```
-Na segunda imagem, a do vestido bronze, troque as mãos de mulher do cachorro por patas e faça com que os laços combinem com cada vestido.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116299330281754625/img/6O98dB_qmH2p0Cij.jpg" width="600" alt="Edição de Vídeo: Patas de Cachorro no Vestido de Bronze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13256)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116299351639388363) | **Published:** Oct 30, 2026
-
----
-### Prompt de Vídeo de Dança de Halloween
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo vertical para uma dança solo de Halloween com música trap hip-hop, câmera fixa e instruções específicas de coreografia.
-
-#### 📝 Prompt
-
-```
-Dança solo de Halloween | Vertical 9:16 | Uma dançarina | Fundo fixo | Câmera fixa | Zoom e close sincronizados com a batida | Horror Trap Hip-Hop
-
-MÚSICA / ENERGIA:
-Uma batida intensa que entra de repente logo no início, trap hip-hop a 155 BPM. Bateria pesada, graves profundos, alta velocidade, acentos marcantes, energético e dinâmico.
-
-TRAVA ABSOLUTA:
-Mesmos rostos, corpos, penteados, figurinos, posições, fundo, iluminação, cores e sombras do início ao fim. Sem trocas, sem cruzar posições, sem morphing, sem dançarinos extras, sem cortes. O fundo nunca muda.
-
-Dança (Prioridade máxima):
-A dançarina estende os dois braços retos para frente na altura dos ombros, com os cotovelos esticados, dobra os pulsos exatamente 90 graus para baixo e abre os dedos de forma natural e reta, iniciando uma dança incrivelmente rápida, agressiva e de altíssima energia. A performance traz uma sequência de movimentos que inclui passos rápidos com as pernas rígidas e ações explosivas de ombros.
-No meio da música, ela vira de costas para a câmera, projeta o quadril para trás e o balança de forma sensual. De frente, uma série de movimentos rápidos se desenrola: chest pops secos e percussivos; movimentos bruscos e velozes de cabeça; elevações potentes de joelho; agachamentos com as pernas bem abertas; afundos repentinos; e um balanço dinâmico e ritmado do corpo inteiro — tudo acontecendo em sequência, um após o outro.
-Use footwork em DOUBLE-TIME a 155 BPM, acelerações rápidas, congelamentos abruptos, recomeços explosivos e acentos fortes na batida.
-
-REGRA DA DANÇA:
-mas elas não devem estar perfeitamente sincronizadas o tempo todo.
-Movem-se no mesmo ritmo geral, mas com leves defasagens de tempo, alternando acentos e com ações corporais diferentes.
-
-FINALIZAÇÃO (Últimos 0,2 segundos):
-Um close dela inclinando a cabeça, formando um coração com as mãos e fazendo uma expressão de beijo em direção à câmera.
-
-TRAVA DE APARÊNCIA — PRIORIDADE ABSOLUTA:
-Preserve exatamente os rostos originais, tons de pele naturais, penteados e maquiagem das duas dançarinas, conforme aparecem no quadro inicial. Não altere a aparência de nenhuma delas ao longo do vídeo.
-
-CÂMERA:
-Apenas câmera frontal fixa. Sem movimento de câmera, sem pan, sem tilt, sem dolly.
-Use apenas zooms ópticos rápidos de aproximação sincronizados com a batida, zooms de afastamento instantâneos e enquadramentos breves de close-up (punch-in) para criar velocidade e impacto, mantendo a posição da câmera fixa. Mantenha sempre o mesmo fundo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116232733513179136/img/XsNQfiypmO6re3Ds.jpg" width="600" alt="Prompt de Vídeo de Dança de Halloween">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13605)**
-
-**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2116289052164976917) | **Published:** Oct 30, 2026
-
----
-### Prompt de Pintura Surrealista Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para criar imagens e vídeos surrealistas cinematográficos baseados na frase 'Posso pintar uma imagem na minha cabeça tão vívida que posso fazer você ver uma realidade diferente'.
-
-#### 📝 Prompt
-
-```
-Crie uma imagem e um vídeo surreais e cinematográficos desta frase… Consigo pintar uma imagem na minha mente tão vívida que posso fazer você enxergar uma realidade diferente
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116268603435622400/img/RWrBlJf4OpsBcijf.jpg" width="600" alt="Prompt de Pintura Surrealista Cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13259)**
-
-**Author:** [TRUEDANE](https://x.com/REALTRUEDANE) | **Source:** [Link](https://x.com/REALTRUEDANE/status/2116268627964125417) | **Published:** Oct 30, 2026
-
----
-### Prompt de Edição de Foto para Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um conjunto detalhado de instruções para usar o Grok Imagine na edição de fotos enviadas, preservando a identidade e os traços faciais.
-
-#### 📝 Prompt
-
-```
-Use a foto enviada como referência exata do personagem. Preserve perfeitamente o rosto e a identidade da pessoa — mesma estrutura facial, formato e cor dos olhos, nariz, lábios, linha do maxilar, maçãs do rosto, testa, tom de pele, poros, textura sutil da pele e traços faciais únicos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116237598733598720/img/Cbz1YRvD2dBhc7Hf.jpg" width="600" alt="Prompt de Edição de Foto para Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13342)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2116265801279795385) | **Published:** Oct 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2656,6 +2614,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-13T01:19:09.130Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-13T12:20:03.021Z</sub>
 
 </div>
