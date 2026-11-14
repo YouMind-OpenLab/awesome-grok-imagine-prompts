@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3390** |
+| 📝 Total Prompts | **3400** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-14** |
 
@@ -189,6 +189,207 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Grok Imagine: Guerrero Escorpión Mecánico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para crear un video de transformación de ciencia ficción donde los insectos robóticos de un niño estilo chibi se ensamblan en una armadura y una cola de escorpión.
+
+#### 📝 Prompt
+
+```
+Guerrero Escorpión Mecánico
+Un pequeño niño Chibi con una capucha marrón polvorienta y orejas inspiradas en un escorpión explora un laboratorio abandonado en el desierto. Insectos robóticos dorados salen arrastrándose de su mochila. Se ensamblan para formar una armadura de combate desértica, y una enorme cola mecánica de escorpión se despliega a sus espaldas. De la punta emerge una brillante hoja de plasma.
+
+Aviso sobre el video: 
+Personajes ficticios de ciencia ficción generados por IA y transformaciones imaginarias de armaduras futuristas. Creado únicamente con fines de entretenimiento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121433024843960320/img/Tl6uAY2CL0Pn_anW.jpg" width="600" alt="Prompt de Grok Imagine: Guerrero Escorpión Mecánico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13856)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121433386321596728) | **Published:** Nov 14, 2026
+
+---
+### Prompt de video para Grok Imagine: El Coyote y el Correcaminos en el espacio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video narrativo donde el Coyote persigue al Correcaminos hasta una nave espacial, es propulsado al espacio exterior y entra en órbita.
+
+#### 📝 Prompt
+
+```
+Dame un video del Coyote persiguiendo al Correcaminos por un camino hasta llegar a la nave espacial, y luego el Correcaminos se detiene. El Coyote se sube a la nave y sale disparado por el cielo; después, el propulsor se desprende y el Coyote entra en órbita.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121390386119606272/img/V4204L_JyVhChdrd.jpg" width="600" alt="Prompt de video para Grok Imagine: El Coyote y el Correcaminos en el espacio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13852)**
+
+**Author:** [Josh Lelli](https://x.com/lellitech82) | **Source:** [Link](https://x.com/lellitech82/status/2121390407749615940) | **Published:** Nov 13, 2026
+
+---
+### Prompt de video para Grok Imagine: Thor, Tai Chi y martillo brillante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de acción dinámico que muestra a Thor realizando movimientos de tai chi con un martillo electrificado, luz azul brillante y una sonrisa hacia la cámara.
+
+#### 📝 Prompt
+
+```
+Continúa el movimiento de taichi con un martillo electrificado; Thor mismo empieza a brillar con una luz azul mientras mira a la cámara y sonríe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121344522474962944/img/ScEWNMzn_EAUqdmY.jpg" width="600" alt="Prompt de video para Grok Imagine: Thor, Tai Chi y martillo brillante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13851)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2121344645271601208) | **Published:** Nov 13, 2026
+
+---
+### Prompt de video para Grok Imagine: Mujer fumando un cigarro en español
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para Grok Imagine que muestra a una mujer fumando un cigarro y diciendo una frase específica en español con acento de Barcelona.
+
+#### 📝 Prompt
+
+```
+Haz que fume un cigarro, le dé una calada larga y luego diga en español "los tomates están en mis pantalones", ¡pero con acento de Barcelona!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121294223886655488/img/2z1KUOkNL2oIq_XB.jpg" width="600" alt="Prompt de video para Grok Imagine: Mujer fumando un cigarro en español">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13853)**
+
+**Author:** [Charlie Durnell](https://x.com/01101010001A) | **Source:** [Link](https://x.com/01101010001A/status/2121294280098800109) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Video de Baile Estilo Girl Crush de K-pop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt en inglés altamente detallado para generar un video de baile fotorrealista de estilo K-pop de 15 segundos, especificando los ritmos musicales, los cortes de cámara y la consistencia del personaje basándose en una imagen de referencia.
+
+#### 📝 Prompt
+
+```
+MV de K-pop estilo Girl Crush fotorrealista de 15 s con una sola mujer adulta que coincida con @Image1 (rostro, cabello, cuerpo, vestimenta, zapatos, accesorios). Ya está bailando desde el primer fotograma; la coreografía continúa más allá del clip. Una sola rutina continua, 6 cortes fluidos con coincidencia de acción. Sin final ni reinicio.
+
+Estudio: gris carbón uniforme, leve reflejo en el piso, luz principal blanca y suave, tenue borde de luz azul violáceo.
+
+Música: coro original de K-pop Girl Crush a 128 BPM en compás de 4/4 ya sonando. Bombo potente, bajo, palmas, sintetizadores y recortes vocales sin letra. Fragmento a mitad de canción; sin intro, letra, voces habladas, golpe final ni fundido.
+
+Baile: fluidez femenina, pasos firmes y potentes, movimientos amplios de brazos. Motivo recurrente: los brazos cruzados se despliegan en diagonal mientras las caderas hacen un contramovimiento. Rodillas flexibles, transferencias naturales de peso, ondas corporales desde las caderas hasta los hombros. Nunca dejar de moverse.
+
+Tiempos 1–8: Comenzar en pleno movimiento. Paso amplio a la derecha, abrir los brazos; trasladarse a la izquierda, girar los brazos hacia abajo; dos pasos al frente con acento de pecho; paso amplio, hundirse en un ocho de cadera.
+
+9–16: Ocho bajo, traslado derecha-izquierda-centro; la onda corporal guiada por la pelvis sube mientras los brazos la siguen; cruzar el pie derecho por delante del izquierdo, preparando un giro.
+
+17–24: Giro completo y fluido, los brazos se cierran y luego se abren; transición a una estocada a la derecha con el brazo izquierdo extendido hacia arriba; impulso de regreso al centro, barrer los brazos hacia abajo y asentarse a la izquierda.
+
+25–32: Acentos de cadera y pasos rápidos; paso amplio con la mayor apertura de brazos; girar los brazos hacia abajo, transferir el peso a la izquierda, iniciar el siguiente paso cruzado. Terminar en pleno movimiento.
+
+Cámara: Seis cortes en este orden: plano general angulado, encuadre de cintura/cadera, primer plano de rostro/hombros, plano general de giro y estocada, plano medio de cabeza a muslos, plano general. Movimiento lateral sutil de cámara. Mantener la continuidad del movimiento entre los cortes. Sin acercamientos a la entrepierna, acciones omitidas, temblores ni cámara lenta.
+
+Piel realista con brillo de sudor, movimiento natural del cabello y las telas, ligero desenfoque de movimiento. La música guía la escena, los pasos son sutiles.
+
+Evitar cambios de identidad o vestuario, duplicados, extremidades adicionales, articulaciones rígidas, poses sostenidas, deslizamiento de pies, flotación, dobleces antinaturales, aspecto de CGI, textos, logotipos, subtítulos y marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121277078465380353/img/BPK0X4YJOfxScOrr.jpg" width="600" alt="Prompt de Video de Baile Estilo Girl Crush de K-pop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13859)**
+
+**Author:** [ami](https://x.com/AmiSnugglebug) | **Source:** [Link](https://x.com/AmiSnugglebug/status/2121278984411631877) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Video: Transformación de Ángel Cibernético Azul Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para generar un video de una chica chibi transformándose en un ángel cibernético azul con alas holográficas y armadura de combate.
+
+#### 📝 Prompt
+
+```
+Blue Cyber Angel
+Una hermosa chica Chibi de cabello negro corto, capucha de encaje blanco y orejas de conejo gigantes está de pie en un jardín futurista. Un círculo holográfico azul aparece bajo sus pies. Plumas robóticas se ensamblan alrededor de su cuerpo y transforman su atuendo en una armadura de combate angelical blanca y azul. Seis alas mecánicas luminosas se despliegan a sus espaldas.
+
+Aviso sobre el video: 
+Personajes ficticios de ciencia ficción generados con IA y transformaciones imaginarias de armaduras futuristas. Creado únicamente con fines de entretenimiento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121259074704822273/img/YiN7xj3oZCZGV22C.jpg" width="600" alt="Prompt de Video: Transformación de Ángel Cibernético Azul Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13858)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Transformación del Caballero Oscuro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de escritura creativa para una secuencia de transformación en video donde un niño chibi se convierte en un caballero futurista, utilizado con Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Transformación del Caballero Oscuro
+Un pequeño niño chibi con una capucha negra rasgada y largas orejas de conejo lleva un viejo farol por un misterioso castillo medieval. Partículas metálicas negras emergen de las sombras. Todo su atuendo se transforma en una pesada armadura negra de caballero futurista. Un enorme escudo mecánico aparece en su brazo izquierdo y se activa una espada de energía roja brillante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121240438548135936/img/ucUSiDCIc85c2Gh4.jpg" width="600" alt="Prompt de Transformación del Caballero Oscuro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13857)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121240595507347962) | **Published:** Nov 13, 2026
+
+---
+### Video de Transformación del Comandante Lobo Cibernético
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detallado de ciencia ficción para generar un video donde una chica chibi se transforma en armadura de combate junto a lobos robóticos en una base nevada.
+
+#### 📝 Prompt
+
+```
+Cyber Wolf Commander
+Una tierna chica Chibi de cabello plateado y una capucha blanca con orejas de lobo desgarrada camina por una base militar nevada. Su mochila se abre y libera unos lobos robóticos en miniatura. Estos saltan sobre su cuerpo y se transforman en una armadura de combate blanca y plateada. Aparece un casco mecánico de lobo, mientras dos lobos robóticos compañeros se paran a su lado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121204665232842752/img/qq0EEb1LOpj_ccRl.jpg" width="600" alt="Video de Transformación del Comandante Lobo Cibernético">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13850)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121204732568178952) | **Published:** Nov 13, 2026
+
+---
+### Transformación de Chibi Boy a Samurai Plateado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de generación de video para Grok Imagine que muestra la transformación de un chibi boy en un samurái plateado con armadura robótica en una calle japonesa antigua.
+
+#### 📝 Prompt
+
+```
+Un pequeño niño chibi de cabello negro, con una sudadera gris desgastada con orejas de lobo y una espada de madera tradicional, camina por una antigua calle japonesa. De su mochila emergen placas robóticas plateadas que se ensamblan alrededor de su cuerpo. Su ropa raída se transforma en una armadura de samurái futurista. Una katana brillante se materializa en su mano y un casco mecánico se cierra sobre su cabeza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121180965745897472/img/X5iNr0i9S2YqZNNs.jpg" width="600" alt="Transformación de Chibi Boy a Samurai Plateado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13854)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121181023849578666) | **Published:** Nov 13, 2026
+
+---
 ### Prompt de Video: Escena Costera Matutina
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -903,6 +1104,49 @@ Aviso legal: Esta es una visualización cinematográfica ficticia inspirada en l
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13824)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119228089809187247) | **Published:** Nov 8, 2026
+
+---
+### Prompt de Grok Imagine: Transformación de Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado para una transformación cinematográfica a hipervelocidad de un camión futurista en un robot estilo Optimus Prime.
+
+#### 📝 Prompt
+
+```
+Transformación de Optimus a Hiper Velocidad – Prompt de Ciencia Ficción Cinematográfica
+
+Prompt de video:
+
+Un enorme camión futurista de carga pesada avanza a una velocidad increíble por un gigantesco túnel tecnológico iluminado con luces de neón. Sus potentes motores rugen mientras estelas de energía azul se desprenden detrás de las ruedas. De repente, el camión inicia una explosiva transformación en cámara lenta sin dejar de avanzar. Cientos de componentes mecánicos de ingeniería de precisión salen disparados hacia afuera, girando, desplazándose y reacomodándose en el aire. La parrilla frontal se divide para formar un poderoso pecho blindado, las ruedas rotan y se reposicionan sobre los hombros y las piernas, unos enormes brazos hidráulicos se despliegan y complejas estructuras metálicas encajan entre sí con una precisión asombrosa. Los núcleos de energía azul brillante se activan cuando la transformación llega a su etapa final. En cuestión de segundos, un gigantesco robot Optimus listo para el combate aterriza con fuerza sobre el suelo del túnel, generando chispas, ondas expansivas y una explosión de energía digna del cine. Se levanta en toda su estatura y camina con seguridad hacia la cámara mientras las luces del túnel iluminan su armadura metálica.
+
+Estilo visual:
+
+* CGI 3D ultrafotorrealista
+
+* Transformación mecánica de otro nivel
+
+* Acción a hiper velocidad con cámara lenta extrema
+
+* Engranajes, pistones y sistemas hidráulicos en movimiento con detalles intrincados
+
+* Desenfoque de movimiento cinematográfico y chispas realistas
+
+* 8K HDR, iluminación dramática, reflejos realistas
+
+* Seguimiento de cámara fluido y ángulos dinámicos
+
+Duración: 10–12 segundos Relación de aspecto: 9:16 Calidad: Realismo cinematográfico de nivel Hollywood. Importante: Una transformación continua y fluida de camión a robot. Sin cortes abruptos, sin piezas que desaparezcan ni anatomía distorsionada.
+
+Aviso legal: Este video fue generado por inteligencia artificial únicamente con fines de entretenimiento y creatividad. La transformación del camión en Optimus, la tecnología futurista y los efectos visuales son ficticios y no representan ingeniería ni eventos del mundo real.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119005860622110721/img/l3Xz4NGljZ7z9vIg.jpg" width="600" alt="Prompt de Grok Imagine: Transformación de Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13855)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119005911503245593) | **Published:** Nov 7, 2026
 
 ---
 ### Transformación de Traje de Lluvia Femenino Tipo Optimus
@@ -2301,258 +2545,6 @@ El carrusel gira de forma inquietante al compás de una música tensa, mientras 
 **Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
 
 ---
-### Video de baile victorioso de pavo real
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de un pavo real orgulloso pavoneándose y bailando al ritmo de música india.
-
-#### 📝 Prompt
-
-```
-El orgulloso pavo real se pasea como si fuera el dueño del lugar. Su baile de la victoria va al ritmo de música india.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683628768006144/img/W8FxcCtxtkq73qyy.jpg" width="600" alt="Video de baile victorioso de pavo real">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13336)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683745118040531) | **Published:** Nov 1, 2026
-
----
-### Caballo al galope con estela de color
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de generación de video para Grok Imagine que muestra un caballo galopando gallardamente, dejando una estela de color y levantando polvo, seguido por una manada de caballos similares.
-
-#### 📝 Prompt
-
-```
-El caballo galopa con gallardía dejando una estela de color, mientras sus cascos levantan polvo al guiar a una manada de caballos similares que lo siguen de cerca.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683079687540736/img/TiCIbgwiI_AqjVZQ.jpg" width="600" alt="Caballo al galope con estela de color">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13338)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683173350474086) | **Published:** Nov 1, 2026
-
----
-### Bailarina girando hacia el splash de la página
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video creativo para Grok Imagine donde una bailarina gira al ritmo de una sinfonía y salta a una página en un estallido de color.
-
-#### 📝 Prompt
-
-```
-La bailarina gira al compás de una sinfonía de notas y salta hacia la página en un estallido de color.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116682814477467649/img/4fgUeVjuAmvJWFUX.jpg" width="600" alt="Bailarina girando hacia el splash de la página">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13340)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **Published:** Nov 1, 2026
-
----
-### Plantilla de Generación de Video con Animación Natural
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Plantilla estructurada para generar videos continuos con movimiento sutil del sujeto, movimientos de cámara suaves y sonido ambiental a partir de una escena inicial o imagen de referencia.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Generar un video continuo con una animación natural a partir de una escena inicial o referencia, con movimientos sutiles del sujeto, desplazamientos suaves de cámara y sonido ambiental acorde al entorno.
-
-[Guion de eventos]
-Al inicio: los sujetos y objetos mantienen sus poses y posiciones iniciales dentro de la escena.
-Evento principal: los sujetos realizan movimientos naturales y sutiles, como respirar, cambiar ligeramente de postura o interactuar suavemente con el entorno; si hay iluminación y atmósfera, estas evolucionan de forma gradual.
-Al final: los sujetos se estabilizan en un estado tranquilo y continuo, mientras la composición general mantiene su coherencia.
-
-[Mantener consistencia]
-Mantener estables durante todo el video la identidad y cantidad de sujetos, la vestimenta, la pertenencia de los objetos, las relaciones espaciales y el estilo visual.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="Plantilla de Generación de Video con Animación Natural">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13414)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116643859744833763) | **Published:** Oct 31, 2026
-
----
-### Cleopatra Llorando Mientras Ve Partir a Marco Antonio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video dramático para Grok Imagine que muestra a Cleopatra llorando mientras observa a Marco Antonio partir para luchar por última vez.
-
-#### 📝 Prompt
-
-```
-Cleopatra llorando mientras ve a su Marco Antonio partir a la batalla por última vez
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116636125209006080/img/JtgZ1BtuDYGZpeJt.jpg" width="600" alt="Cleopatra Llorando Mientras Ve Partir a Marco Antonio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13339)**
-
-**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2116636143051788391) | **Published:** Oct 31, 2026
-
----
-### Detención brusca en círculo en autopista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt que instruye a un personaje a conducir en círculos por una autopista y detenerse con chirrido de frenos.
-
-#### 📝 Prompt
-
-```
-Que dé vueltas en círculo en medio de la autopista y frene en seco con un chirrido de llantas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116632577284972544/img/4D9gnngL0-O7DHXb.jpg" width="600" alt="Detención brusca en círculo en autopista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13337)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116632597333959048) | **Published:** Oct 31, 2026
-
----
-### Prompt de Video: Baile de Vampiros y Zombis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video para Grok Imagine que muestra a vampiros y zombis bailando mientras alguien toca un solo.
-
-#### 📝 Prompt
-
-```
-Vampiros y zombis se suman a la fiesta mientras él rompe todo con un solo increíble y todos bailan desenfrenados
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116627246517493761/img/52FuPwOYzGOZmXIE.jpg" width="600" alt="Prompt de Video: Baile de Vampiros y Zombis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13335)**
-
-**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116627359642362230) | **Published:** Oct 31, 2026
-
----
-### Prompt de Video de Retrato en Dormitorio
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt truncado para generar un video de 10 segundos de una mujer acostada en la cama, especificando rasgos faciales, vestimenta, consistencia y detalles de iluminación. El texto se corta a mitad de frase.
-
-#### 📝 Prompt
-
-```
-Prompt en chino (10.00 segundos)
-Personaje
-• Rostro: Seguir por completo, rasgos faciales, forma del rostro y color de cabello basados en la foto de primer plano; mantener el mismo rostro durante todo el video; cabello negro puro y largo suelto sobre la almohada, con un mechón suelto cayendo frente a la mejilla derecha; maquillaje con rubor rosa claro y labios rojos; sin collar ni joyas.
-• Vestimenta y cuerpo: Seguir por completo, camisola de encaje gris violáceo con un cárdigan de manga larga y hombros de encaje del mismo color; estilo, color y proporciones corporales sin cambios.
-• Consistencia: El rostro y la vestimenta del personaje no deben cambiar en ningún momento; expresiones naturales y realistas, sin gestos exagerados.
-
-Escena: Dormitorio interior, personaje semirrecostado con la cabeza apoyada en una almohada blanca de textura tejida, debajo y a su lado hay una manta gris de felpa larga, cojín beige al lado izquierdo del encuadre, fondo con cabecera gris oscuro. Iluminación: Luz interior cálida y tenue, luz principal desde arriba ligeramente...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116573763198480385/img/WbVZwj9MnMDo4Y0X.jpg" width="600" alt="Prompt de Video de Retrato en Dormitorio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13344)**
-
-**Author:** [magic](https://x.com/bingo967218) | **Source:** [Link](https://x.com/bingo967218/status/2116573833096466885) | **Published:** Oct 31, 2026
-
----
-### Video de Transformación de Armadura de Combate de Ciencia Ficción
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estructurado y altamente detallado para generar un video de ciencia ficción que muestra la transformación de armaduras de combate modulares y el despliegue de armas, incluyendo instrucciones específicas sobre estilo visual, cámara y sonido.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Genera un video de armadura de combate Sci-Fi Transformations de siguiente nivel. El sujeto central es una armadura de combate modular avanzada completamente equipada con armas integradas, y el evento principal es el ensamblaje, la transformación y el despliegue de todo su arsenal en una secuencia dinámica lista para el combate.
-
-[Guion del evento]
-Al inicio: Una placa base exoesquelética elegante y de alta tecnología descansa en un hangar metálico oscuro, inactiva y compacta.
-Evento principal: La armadura se transforma rápidamente capa por capa —las placas superpuestas de fibra de carbono y metal líquido encajan en su lugar, formando un traje de combate de cuerpo completo de nueva generación con conductos de energía brillantes, servomotores reforzados en las articulaciones y paneles de blindaje reactivo adaptativo. Las armas integradas cubren por completo el chasis: dos cañones de plasma gemelos montados en los antebrazos se extienden y se bloquean, los pods de misiles en los hombros se elevan y se arman, un cañón de riel de alta energía en la espalda se despliega con barriles giratorios, los proyectores de haz en la cadera se activan, las cuchillas de muñeca y los cuchillos de combate con filo de nanites salen disparados y se fijan, mientras que los propulsores y los emisores de escudos de energía se encienden con una luz pulsante. El traje completa su transformación en una configuración de combate sobrepotenciada y repleta de armas, luego cobra vida adoptando una postura de batalla con todos los sistemas en línea y las armas apuntando a sus objetivos.
-Al final: La armadura de combate Sci-Fi de siguiente nivel, ya totalmente transformada, permanece lista; cada arma desplegada brilla con energía, y su silueta imponente pero ágil se mantiene firme en posición de combate bajo la dramática iluminación del hangar.
-
-[Estilo visual]
-Estética Sci-Fi cinematográfica ultradetallada con placas negras y color acero bruñido de acabado brillante, líneas de energía en cian y naranja neón, elementos holográficos de HUD parpadeando sobre la superficie, rayos de luz volumétricos (god rays) y reflejos metálicos de alto contraste.
-
-[Cámara]
-Secuencia cinematográfica multiángulo: comienza con un acercamiento lento y dramático en contrapicado hacia la estructura inactiva, corta a tomas de seguimiento orbitales y dinámicas que acompañan el encaje de cada segmento de la armadura y el despliegue de cada arma, y termina con una potente toma heroica en contrapicado que rodea al traje completamente armado.
-
-[Sonido]
-Golpes mecánicos profundos de transformación y siseos hidráulicos, tonos electrónicos de encendido que van en aumento, zumbidos de carga de las armas y pitidos de fijación de objetivo, impactos pesados al bloquearse la armadura y el rugido grave y potente de un motor de combate, acompañado de un sutil crescendo de música cinematográfica.
-
-[Mantener consistencia]
-Mantén el diseño de la armadura cohesivo como un único traje de combate de siguiente nivel completamente equipado con armas durante toda la transformación: sin armas faltantes, con colores de energía, materiales de blindaje y silueta consistentes desde la forma base hasta el estado final listo para la batalla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116557500564807680/img/Ve4Cc9MaYv9q4FhW.jpg" width="600" alt="Video de Transformación de Armadura de Combate de Ciencia Ficción">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13332)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116557634891649244) | **Published:** Oct 31, 2026
-
----
-### Prompt de Video Silueta Caballo Escarcha Derretida
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt detallado para generar un video macro realista de cristales de escarcha en una ventana que se derriten en gotas de agua, revelando siluetas de caballos antes de despejarse para mostrar las cálidas luces de la calle afuera. Incluye instrucciones específicas de línea de tiempo y restricciones negativas.
-
-#### 📝 Prompt
-
-```
-Asunto:
-Vista nocturna interior a través de un vidrio de una sola hoja: densos cristales de escarcha húmeda y fría forman de manera natural la silueta difusa de una manada de caballos (aproximadamente varios, imposibles de contar individualmente con claridad) — sigue siendo el brillo real de los cristales de escarcha, no caballos de calcomanía ni formas talladas. Comienza completamente sin derretir; el primer cuadro es pura escarcha sin mostrar el borde superior del radiador. En general se percibe como una tendencia a la silueta de caballo, pero los bordes son pelusas cristalinas con forma de helecho o rama, sin buscar que "se cuenten claramente siete caballos". Después de unos dos segundos, el borde superior del radiador aparece en la parte inferior de la pantalla; el polvo de las ondas de calor sube desde el borde inferior, impulsando un derretimiento viscoso y continuo: la misma línea frontal orgánica trepa cuadro por cuadro de abajo hacia arriba, el frente es la misma punta dentada ascendente, el espacio entre los dientes cambia continuamente, definitivamente no es un borde brillante barriendo la imagen; detrás deja una película de agua legible, húmeda y similar a un espejo, seguida de gotas claras y casi redondas que se deslizan por el mismo vidrio debido a la gravedad. Donde la escarcha retrocede, se filtra un escudo de luz cálida amarillo sodio de las farolas del exterior. Sin manos humanas, hojas de arce, mazos, ídolos ni figuras; sin primeros planos de válvulas de latón ni accesorios de tuberías.
-
-Entorno:
-9:16 macro extremo fijo en un trozo de vidrio, ligeramente cenital, coaxial en todo momento. Cuando la escarcha está completa, afuera hay una noche azul fría; un amarillo cálido se filtra cerca del borde superior del radiador; después de que la escarcha retrocede, las luces cálidas de la calle brillan a través del vidrio húmedo. No cortar a otra ventana.
-
-Atmósfera:
-Legato descompresivo de calefacción — destello frío, respiración contenida, un empuje de derretimiento cremoso, gotas de agua suaves, calma cálida que se asienta.
-
-Sonido: Decirlo una vez para todo el segmento — siseo de la superficie de escarcha, zumbido del calefactor, siseo del derretimiento, golpeteo de las gotas de agua, ruido ambiente silencioso de la habitación; sin música, sin diálogos.
-
-Línea de tiempo:
-0:00-0:02: Primer plano extremo fijo, coaxial. Los cristales de escarcha húmeda y fría llenan la pantalla de inmediato, percibiéndose vagamente como siluetas de caballos sobre un fondo azul profundo; aún no hay radiador en la parte inferior. Único movimiento: un resplandor húmedo y frío que avanza lentamente por los bordes de los cristales — los cristales permanecen sólidos; la tendencia de la silueta no se desplaza ni se transforma en otros animales, pero no se requiere claridad individual. Sin goteo, sin calor, sin mostrar el borde superior del radiador.
-SFX: Siseo tenue de hielo y escarcha
-
-0:02-0:04: Coaxial, misma capa de escarcha. Ahora se ve el borde superior del radiador en la parte inferior; partículas de polvo amarillo cálido y cintas de ondas de calor ascienden continuamente desde ese borde. El calor sube, las sombras superiores de escarcha con forma de caballo permanecen intactas — sin frente de derretimiento, sin goteo, sin tuberías ni válvulas. Breve pausa de la respiración al final de la toma.
-SFX: Zumbido suave del calefactor
-
-0:04-0:07: Encuadre coaxial fijo. El borde inferior muestra primero un frente de derretimiento orgánico, luego trepa continuamente como crema espesa — la punta frontal realmente se desplaza cuadro por cuadro, la misma punta dentada ascendente de forma continua, definitivamente no un derretimiento en bloques horizontales escalonados, definitivamente no una disipación instantánea de luz, definitivamente no un barrido de transición con borde brillante; las formas de caballo se disuelven naturalmente a medida que la escarcha se adelgaza, definitivamente no mantienen la forma de caballo sin derretirse por separado ni desaparecen de golpe en un bloque entero. Debajo del frente, el vidrio húmedo y brillante se expande, dejando tras de sí reflejos en la película de agua. El borde superior del radiador permanece solo como una tira metálica cálida en el borde inferior, su contorno se desvanece a medida que disminuye la legibilidad del vidrio húmedo — definitivamente no se deforma, ni brilla convirtiéndose en una lámpara, ni se transforma en cuentas. Al final de esta toma, el mismo vidrio tiene película de agua y gotas formadas.
-SFX: Siseo suave del derretimiento; primeros golpeteos de gotas de agua
-
-0:07-0:09: Mismo vidrio húmedo continuo, misma luz. Gotas de agua claras y casi redondas forman hilos finos que se deslizan por gravedad, o tiemblan levemente antes de deslizarse — el recorrido es continuo, definitivamente no aparece todo el rastro de agua al instante. Los reflejos especulares ruedan con el flujo del agua. El impulso se asienta en un deslizamiento extremadamente lento + microrrodaje de reflejos; la punta frontal casi se detiene pero aún tiene un avance de subpíxel — prohibido congelarse en una sensación estática durante todo el segmento. Sin nuevo derretimiento, sin recongelación.
-SFX: Golpeteo de gota de agua -> silencio breve
-
-0:09-0:10: Mismo vidrio húmedo continuo. Un ligero acercamiento óptico de no más del 8 % penetra en el área transparente; la escarcha deja puntas residuales orgánicas irregulares y bordes húmedos duros que cruzan la mitad inferior — definitivamente no una banda horizontal ancha y prolija, definitivamente no una mirilla elíptica, definitivamente no una calcomanía con la forma completa de caballo que permanece intacta; la escarcha residual ya no se percibe como una forma completa de caballo. La luz cálida amarillo sodio de las farolas se distingue claramente a través del vapor de agua; detenerse al percibir la calidez.
-SFX: Ruido ambiente silencioso de la habitación
-
-Estilo: Descompresión macro realista, física de vidrio húmedo, confrontación frío-calor, una sola toma; el grupo de caballos solo como una sensación natural de silueta de cristales de escarcha, no buscar siete caballos contables.
-
-Negativo: No derretir antes de que comience la calefacción; sin derretimiento horizontal escalonado; sin barrido de transición con borde brillante; sin disipación instantánea de luz; sin aparición instantánea de gotas/rastros de agua; sin vidrio mate seco después del derretimiento; sin congelamiento casi estático en el segmento final; sin saltos de eje; sin segunda ventana; sin mirilla elíptica; sin banda residual ancha y prolija; sin válvulas de latón ni accesorios de tuberías; sin radiador deformándose en una escena callejera borrosa; sin formas completas de caballo tipo calcomanía/dibujo animado/tallado; sin mantener la forma de caballo sin derretirse durante el proceso; sin siete caballos tallados claramente contables; sin manos humanas, hojas de arce, mazos ni ídolos; sin música ni diálogos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116551528156954625/img/neNTetN8llirsF08.jpg" width="600" alt="Prompt de Video Silueta Caballo Escarcha Derretida">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13343)**
-
-**Author:** [夏天爱福利](https://x.com/xiantian_xigua) | **Source:** [Link](https://x.com/xiantian_xigua/status/2116551653143007625) | **Published:** Oct 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2614,6 +2606,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T01:07:55.206Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T11:36:40.386Z</sub>
 
 </div>

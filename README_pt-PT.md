@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3390** |
+| 📝 Total Prompts | **3400** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-14** |
 
@@ -189,6 +189,207 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Grok Imagine: Guerreiro Escorpião Mecânico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para criar um vídeo de transformação sci-fi onde os insetos robóticos de um menino chibi se montam em uma armadura e uma cauda de escorpião.
+
+#### 📝 Prompt
+
+```
+Guerreiro Escorpião Mecânico
+Um pequeno garoto Chibi, vestindo um capuz marrom empoeirado com orelhas inspiradas em escorpiões, explora um laboratório abandonado no deserto. Insetos robóticos dourados saem rastejando de sua mochila. Eles se unem para formar uma armadura de combate desértica, e uma enorme cauda mecânica de escorpião se desdobra atrás dele. Uma lâmina de plasma brilhante surge na ponta.
+
+Aviso sobre o vídeo: 
+Personagens fictícios de ficção científica gerados por IA e transformações imaginárias de armaduras futuristas. Criado apenas para fins de entretenimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121433024843960320/img/Tl6uAY2CL0Pn_anW.jpg" width="600" alt="Prompt Grok Imagine: Guerreiro Escorpião Mecânico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13856)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121433386321596728) | **Published:** Nov 14, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Coiote e Papa-Léguas no Espaço
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo narrativo onde o Papa-Léguas é perseguido pelo Coiote até uma nave espacial, sendo lançado para o espaço e entrando em órbita.
+
+#### 📝 Prompt
+
+```
+Me faça um vídeo do Coiote perseguindo o Papa-Léguas por uma estrada até a nave estelar, e então o Papa-Léguas para. O Coiote entra na nave estelar e é lançado pelo céu; em seguida, o propulsor se solta e o Coiote entra em órbita.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121390386119606272/img/V4204L_JyVhChdrd.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Coiote e Papa-Léguas no Espaço">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13852)**
+
+**Author:** [Josh Lelli](https://x.com/lellitech82) | **Source:** [Link](https://x.com/lellitech82/status/2121390407749615940) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Brilho do Martelo Taichi de Thor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de ação dinâmico apresentando Thor realizando movimentos de taichi com um martelo eletrificado, luz azul brilhante e sorrindo para a câmera.
+
+#### 📝 Prompt
+
+```
+Continua o movimento de tai chi com o martelo eletrificado, e o próprio Thor começa a brilhar com uma luz azul enquanto olha para a câmera e dá um sorriso
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121344522474962944/img/ScEWNMzn_EAUqdmY.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Brilho do Martelo Taichi de Thor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13851)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2121344645271601208) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Mulher Fumando Charuto em Espanhol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para geração de vídeo no Grok Imagine, apresentando uma mulher fumando charuto e falando uma frase específica em espanhol com sotaque de Barcelona.
+
+#### 📝 Prompt
+
+```
+Faça-a fumar um charuto, dar uma longa tragada e depois dizer em espanhol que os tomates estão nas minhas calças — e que o espanhol seja com sotaque de Barcelona!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121294223886655488/img/2z1KUOkNL2oIq_XB.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Mulher Fumando Charuto em Espanhol">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13853)**
+
+**Author:** [Charlie Durnell](https://x.com/01101010001A) | **Source:** [Link](https://x.com/01101010001A/status/2121294280098800109) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Vídeo de Dança K-pop Girl Crush
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt em inglês altamente detalhado para gerar um vídeo de dança fotorealista de 15 segundos no estilo K-pop, especificando batidas musicais, cortes de câmera e consistência de personagem com base em uma imagem de referência.
+
+#### 📝 Prompt
+
+```
+Videoclipe de K-pop estilo Girl Crush fotorrealista de 15s, com uma única mulher adulta correspondente à @Image1 (rosto, cabelo, corpo, figurino, sapatos e acessórios). Já dançando no primeiro quadro; o movimento continua além do clipe. Uma única coreografia contínua, 6 cortes contínuos perfeitamente alinhados pela ação. Sem finalização ou reinício.
+
+Estúdio: cinza-carvão contínuo, leve reflexo no chão, luz principal branca suave, contorno sutil em azul-violeta.
+
+Música: refrão original de K-pop Girl Crush em 4/4 a 128 BPM já tocando. Bumbo pesado, baixo, palmas, sintetizadores e vocal chops sem letra. Trecho do meio da música; sem introdução, letra, fala, batida final ou fade out.
+
+Dança: fluidez feminina, passos firmes e potentes, movimentos amplos de braços. Motivo recorrente: braços cruzados se abrem na diagonal enquanto o quadril faz o contramovimento. Joelhos flexionados, transferências naturais de peso, body waves do quadril aos ombros. Nunca parar de se mover.
+
+Batidas 1–8: Começar em pleno movimento. Passo largo para a direita, abrir os braços; transferir para a esquerda, girar os braços para baixo; dois passos à frente com marcação de peito; passo largo, afundar num oito com o quadril.
+
+9–16: Oito baixo, transferência direita-esquerda-centro; body wave iniciado pela pelve sobe enquanto os braços acompanham; cruzar o pé direito à frente do esquerdo, preparando um giro.
+
+17–24: Giro completo e fluido, braços fecham e depois abrem; transição para lunge à direita, braço esquerdo estendido para o alto; impulso de volta ao centro, varrer os braços para baixo, estabilizar à esquerda.
+
+25–32: Marcações de quadril e passos rápidos; passo largo com a maior abertura de braços; girar os braços para baixo, transferir o peso para a esquerda, iniciar o próximo passo cruzado. Terminar em pleno movimento.
+
+Câmera: Seis cortes nesta ordem: corpo inteiro em ângulo, enquadramento da cintura/quadril, close-up de rosto/ombros, corpo inteiro no giro e lunge, plano médio da cabeça às coxas, corpo inteiro. Movimento lateral sutil de câmera. Manter a continuidade do movimento entre os cortes. Sem zoom na virilha, ações puladas, tremores ou câmera lenta.
+
+Pele realista com brilho de suor, movimento natural do cabelo e dos tecidos, leve motion blur. A música conduz, passos sutis.
+
+Evitar mudanças de identidade ou figurino, duplicatas, membros extras, articulações rígidas, poses estáticas, deslizamento dos pés, flutuação, dobraduras antinaturais, aparência de CGI, textos, logotipos, legendas e marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121277078465380353/img/BPK0X4YJOfxScOrr.jpg" width="600" alt="Prompt de Vídeo de Dança K-pop Girl Crush">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13859)**
+
+**Author:** [ami](https://x.com/AmiSnugglebug) | **Source:** [Link](https://x.com/AmiSnugglebug/status/2121278984411631877) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Vídeo: Transformação de Anjo Cibernético Azul Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo de uma garota chibi se transformando em um anjo cibernético azul com asas holográficas e armadura de combate.
+
+#### 📝 Prompt
+
+```
+Anjo Cibernético Azul
+Uma linda garota Chibi de cabelo preto curto, capuz de renda branca e orelhas de coelho gigantes está em um jardim futurista. Um círculo holográfico azul surge sob seus pés. Penas robóticas se unem ao redor do seu corpo, transformando sua roupa em uma armadura de combate angelical nas cores branco e azul. Seis asas mecânicas luminosas se abrem atrás dela.
+
+Aviso sobre o vídeo: 
+Personagens fictícios de ficção científica gerados por IA e transformações imaginárias de armaduras futuristas. Criado apenas para fins de entretenimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121259074704822273/img/YiN7xj3oZCZGV22C.jpg" width="600" alt="Prompt de Vídeo: Transformação de Anjo Cibernético Azul Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13858)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **Published:** Nov 13, 2026
+
+---
+### Prompt de Transformação do Cavaleiro das Trevas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de escrita criativa para uma sequência de transformação em vídeo, envolvendo um menino chibi que se transforma em um cavaleiro futurista, utilizado com o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Transformação do Cavaleiro das Trevas
+Um pequeno garoto Chibi, vestindo um capuz preto rasgado com longas orelhas de coelho, carrega uma lanterna antiga por um misterioso castelo medieval. Partículas metálicas negras emergem das sombras. Todo o seu traje se transforma numa pesada armadura futurista de cavaleiro negro. Um enorme escudo mecânico surge no seu braço esquerdo e uma espada de energia vermelha brilhante é ativada.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121240438548135936/img/ucUSiDCIc85c2Gh4.jpg" width="600" alt="Prompt de Transformação do Cavaleiro das Trevas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13857)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121240595507347962) | **Published:** Nov 13, 2026
+
+---
+### Vídeo de Transformação do Comandante Cyber Wolf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de ficção científica para gerar um vídeo onde uma garota chibi se transforma em armadura de combate com lobos robóticos em uma base nevada.
+
+#### 📝 Prompt
+
+```
+Cyber Wolf Commander
+Uma garotinha Chibi fofa, de cabelos prateados e um capuz rasgado com orelhas de lobo branco, caminha por uma base militar coberta de neve. Sua mochila se abre, liberando lobos robóticos em miniatura. Eles saltam para o seu corpo e se transformam em uma armadura de combate branca e prateada. Um capacete mecânico de lobo surge, e dois companheiros lobos robóticos ficam de pé ao seu lado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121204665232842752/img/qq0EEb1LOpj_ccRl.jpg" width="600" alt="Vídeo de Transformação do Comandante Cyber Wolf">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13850)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121204732568178952) | **Published:** Nov 13, 2026
+
+---
+### Transformação de Menino Chibi em Samurai Prateado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo para Grok Imagine que retrata um menino chibi se transformando em um samurai prateado com armadura robótica em uma rua antiga do Japão.
+
+#### 📝 Prompt
+
+```
+Um pequeno menino Chibi de cabelo preto, vestindo um capuz cinza desgastado com orelhas de lobo e empunhando uma tradicional espada de madeira, caminha por uma antiga rua japonesa. Placas robóticas prateadas saem da sua mochila e se encaixam ao redor do seu corpo. As suas roupas esfarrapadas transformam-se numa armadura de samurai futurista. Uma katana brilhante materializa-se na sua mão, e um capacete mecânico fecha-se sobre a sua cabeça.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121180965745897472/img/X5iNr0i9S2YqZNNs.jpg" width="600" alt="Transformação de Menino Chibi em Samurai Prateado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13854)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121181023849578666) | **Published:** Nov 13, 2026
+
+---
 ### Prompt de Vídeo: Cena Costeira Matinal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -903,6 +1104,49 @@ Aviso legal: Esta é uma visualização cinematográfica fictícia inspirada na 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13824)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119228089809187247) | **Published:** Nov 8, 2026
+
+---
+### Prompt Grok Imagine: Transformação Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para uma transformação cinematográfica em hipervelocidade de um caminhão futurista em um robô estilo Optimus Prime.
+
+#### 📝 Prompt
+
+```
+Transformação Hyper-Speed do Optimus – Prompt de Ficção Científica Cinematográfica
+
+Prompt de Vídeo:
+
+Um enorme caminhão futurista de carga pesada avança a uma velocidade incrível por um gigantesco túnel high-tech iluminado a néon, com seus motores potentes rugindo enquanto rastros de energia azul fluem atrás das rodas. De repente, o caminhão inicia uma transformação explosiva em câmera lenta, ainda em pleno movimento. Centenas de componentes mecânicos de engenharia de precisão projetam-se para fora, girando, deslocando-se e reorganizando-se no ar. A grade frontal divide-se para formar um peito blindado imponente, as rodas giram e reposicionam-se nos ombros e nas pernas, braços hidráulicos gigantescos desdobram-se e estruturas metálicas complexas encaixam-se com uma precisão impressionante. Núcleos de energia azul brilhantes são ativados quando a transformação atinge sua fase final. Em questão de segundos, um robô Optimus colossal e pronto para o combate aterrissa pesadamente no chão do túnel, gerando faíscas, ondas de choque e uma explosão de energia digna do cinema. Ele ergue-se até sua altura máxima e caminha com confiança na direção da câmera, enquanto as luzes do túnel iluminam sua armadura metálica.
+
+Estilo Visual:
+
+* CGI 3D ultrafotorrealista
+
+* Transformação mecânica de outro nível
+
+* Ação hiper-rápida com câmera lenta extrema
+
+* Engrenagens, pistões e sistemas hidráulicos intrincados em movimento
+
+* Desfoque de movimento cinematográfico e faíscas realistas
+
+* 8K HDR, iluminação dramática, reflexos realistas
+
+* Acompanhamento de câmera fluido e ângulos dinâmicos
+
+Duração: 10–12 segundos Proporção: 9:16 Qualidade: Realismo cinematográfico de nível Hollywood. Importante: Uma única transformação contínua e fluida de caminhão para robô. Sem cortes secos, sem peças que desaparecem, sem anatomia distorcida.
+
+Aviso: Este vídeo foi gerado por IA exclusivamente para fins de entretenimento e criatividade. A transformação do caminhão em Optimus, a tecnologia futurista e os efeitos visuais são fictícios e não representam engenharia ou eventos do mundo real.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119005860622110721/img/l3Xz4NGljZ7z9vIg.jpg" width="600" alt="Prompt Grok Imagine: Transformação Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13855)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119005911503245593) | **Published:** Nov 7, 2026
 
 ---
 ### Transformação do Traje de Chuva da Female Optimus
@@ -2301,258 +2545,6 @@ O carrossel gira de forma inquietante ao som de uma música tensa, enquanto um c
 **Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
 
 ---
-### Vídeo de Dança da Vitória do Pavão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo de um pavão orgulhoso exibindo-se e dançando ao som de música indiana.
-
-#### 📝 Prompt
-
-```
-O pavão todo vaidoso desfila por aí como se fosse o dono do pedaço. A sua dança da vitória tem música indiana de fundo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683628768006144/img/W8FxcCtxtkq73qyy.jpg" width="600" alt="Vídeo de Dança da Vitória do Pavão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13336)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683745118040531) | **Published:** Nov 1, 2026
-
----
-### Cavalo Galopando com Rastro Colorido
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de geração de vídeo para Grok Imagine retratando um cavalo galopando galantemente, deixando um rastro de cores e levantando poeira, seguido por uma manada de cavalos semelhantes.
-
-#### 📝 Prompt
-
-```
-O cavalo galopa garbosamente, deixando um rastro de cores e levantando poeira com os cascos, à frente de uma manada de cavalos iguais que o segue de perto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683079687540736/img/TiCIbgwiI_AqjVZQ.jpg" width="600" alt="Cavalo Galopando com Rastro Colorido">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13338)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683173350474086) | **Published:** Nov 1, 2026
-
----
-### Bailarina girando para splash de página
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo para o Grok Imagine, onde uma bailarina gira ao som de sinfonias e salta para uma página em um respingo de cores.
-
-#### 📝 Prompt
-
-```
-A bailarina gira ao som de uma sinfonia de notas e salta para dentro da página numa explosão de cores.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116682814477467649/img/4fgUeVjuAmvJWFUX.jpg" width="600" alt="Bailarina girando para splash de página">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13340)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **Published:** Nov 1, 2026
-
----
-### Modelo de Geração de Vídeo com Animação Natural
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um modelo estruturado para gerar vídeos contínuos com movimento sutil do sujeito, movimentos de câmera suaves e som ambiente a partir de uma cena inicial ou imagem de referência.
-
-#### 📝 Prompt
-
-```
-[Objetivo de Geração]
-Gerar um vídeo contínuo com uma animação natural a partir de uma cena inicial ou referência, com movimentos sutis dos elementos, deslocamento suave da câmara e som ambiente em harmonia com o cenário.
-
-[Roteiro de Eventos]
-No início: os elementos e adereços mantêm as suas poses e posições iniciais na cena.
-Evento principal: os elementos executam movimentos naturais e subtis, como respirar, mudar ligeiramente de postura ou interagir suavemente com o ambiente; se presentes, a iluminação e a atmosfera evoluem de forma delicada.
-No final: os elementos estabilizam num estado calmo e contínuo, enquanto a composição geral se mantém coerente.
-
-[Manter a Consistência]
-Manter inalteradas, ao longo de todo o vídeo, as identidades e o número de elementos, o vestuário, a posse dos adereços, as relações espaciais e o estilo visual.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="Modelo de Geração de Vídeo com Animação Natural">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13414)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116643859744833763) | **Published:** Oct 31, 2026
-
----
-### Cleópatra Chorando ao Ver Marco Antônio Partir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo dramático para o Grok Imagine mostrando Cleópatra chorando enquanto assiste a Marco Antônio partir para lutar pela última vez.
-
-#### 📝 Prompt
-
-```
-Cleópatra em lágrimas ao ver o seu Marco António partir para a última batalha
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116636125209006080/img/JtgZ1BtuDYGZpeJt.jpg" width="600" alt="Cleópatra Chorando ao Ver Marco Antônio Partir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13339)**
-
-**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2116636143051788391) | **Published:** Oct 31, 2026
-
----
-### Parada brusca em curva na rodovia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que instrui um personagem a dirigir em círculos em uma rodovia e parar com um guincho de pneus.
-
-#### 📝 Prompt
-
-```
-Faça-a dirigir em círculos no meio da rodovia e parar cantando pneu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116632577284972544/img/4D9gnngL0-O7DHXb.jpg" width="600" alt="Parada brusca em curva na rodovia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13337)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116632597333959048) | **Published:** Oct 31, 2026
-
----
-### Prompt de Vídeo: Dança de Vampiros e Zumbis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo do Grok Imagine apresentando vampiros e zumbis dançando enquanto alguém toca um solo.
-
-#### 📝 Prompt
-
-```
-Vampiros e zombies juntam-se à festa enquanto ele arrasa num solo incrível, e todos dançam num frenesim
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116627246517493761/img/52FuPwOYzGOZmXIE.jpg" width="600" alt="Prompt de Vídeo: Dança de Vampiros e Zumbis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13335)**
-
-**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116627359642362230) | **Published:** Oct 31, 2026
-
----
-### Prompt de Vídeo Retrato de Quarto
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt truncado para gerar um vídeo de 10 segundos de uma mulher deitada na cama, especificando detalhes de traços faciais, roupas, consistência e iluminação. O texto é interrompido no meio da frase.
-
-#### 📝 Prompt
-
-```
-Prompt em chinês (10,00 segundos)
-Personagem
-• Rosto: Seguir integralmente; traços faciais, formato do rosto e cor do cabelo baseados na foto de rosto; manter o mesmo rosto ao longo de toda a cena; cabelos longos pretos puros espalhados de forma solta sobre o travesseiro, com uma mecha solta caindo à frente da bochecha direita; maquiagem leve com blush rosa e lábios vermelhos; sem colares ou joias.
-• Roupas e corpo: Seguir integralmente; camisola de renda cinza-arroxeada com cardigã de manga longa e ombros em renda da mesma cor; estilo, cores e proporções corporais inalterados.
-• Consistência: O rosto e as roupas da personagem não devem mudar em nenhum momento; expressões naturais e reais, sem exageros.
-
-Cenário: Quarto interno, personagem semirreclinada com a cabeça apoiada num travesseiro branco de textura em tricô; por baixo e ao lado dela, um cobertor cinza de pelúcia longa; almofada bege no lado esquerdo do enquadramento; ao fundo, cabeceira cinza-escuro. Iluminação: Luz interna quente e suave, luz principal vinda de cima ligeiramente...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116573763198480385/img/WbVZwj9MnMDo4Y0X.jpg" width="600" alt="Prompt de Vídeo Retrato de Quarto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13344)**
-
-**Author:** [magic](https://x.com/bingo967218) | **Source:** [Link](https://x.com/bingo967218/status/2116573833096466885) | **Published:** Oct 31, 2026
-
----
-### Vídeo de Transformação de Armadura de Combate Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt estruturado altamente detalhado para gerar um vídeo de ficção científica com armadura de combate modular que se transforma e implanta armas, incluindo instruções específicas de estilo visual, câmera e som.
-
-#### 📝 Prompt
-
-```
-[Objetivo de Geração]
-Gere um vídeo de armadura de combate Sci-Fi Transformations de outro nível. O elemento central é uma armadura de combate modular avançada, totalmente equipada com armas integradas, e o evento principal é a montagem, transformação e ativação de todo o seu arsenal em uma sequência dinâmica de prontidão para o combate.
-
-[Roteiro do Evento]
-No início: Uma base exoesquelética elegante e de alta tecnologia repousa em um hangar metálico escuro, inerte e compacta.
-Evento principal: A armadura se transforma rapidamente, camada por camada — placas sobrepostas de fibra de carbono e metal líquido se encaixam com precisão, formando um traje de combate de nova geração que cobre o corpo inteiro, com condutores de energia brilhantes, servomotores reforçados nas articulações e painéis de blindagem reativa adaptativa. As armas integradas cobrem toda a estrutura: canhões de plasma duplos montados nos antebraços se estendem e travam, cápsulas de mísseis nos ombros se erguem e são ativadas, um railgun de alta energia nas costas se desdobra com canos rotativos, projetores de feixe na cintura são acionados, lâminas de pulso e facas de combate com fio de nanites saltam e travam no lugar, enquanto os propulsores e emissores de escudo de energia ganham vida pulsando luz. O traje conclui sua transformação em uma configuração de combate absurdamente poderosa e repleta de armas, assumindo então uma postura de batalha com todos os sistemas online e armas travando alvos.
-No final: A armadura de combate Sci-Fi de outro nível, totalmente transformada, está pronta; cada arma acionada e brilhando com energia, uma silhueta imponente, mas ágil, travada em posição de combate sob a iluminação dramática do hangar.
-
-[Estilo Visual]
-Estética Sci-Fi cinematográfica ultradetalhada, com blindagem preta brilhante e cinza-arma, linhas de energia em neon ciano e laranja, elementos holográficos de HUD piscando pela superfície, raios de luz volumétricos (god rays) e reflexos metálicos de alto contraste.
-
-[Câmera]
-Sequência cinematográfica com múltiplos ângulos: começa com um lento e dramático zoom de baixo para cima na estrutura inerte, corta para movimentos orbitais dinâmicos que acompanham cada segmento da armadura se encaixando e cada arma sendo acionada, e termina em um poderoso plano heroico de baixo para cima, circulando o traje totalmente armado.
-
-[Som]
-Estrondos mecânicos profundos de transformação e chiados hidráulicos, tons eletrônicos de inicialização em escala crescente, zumbidos de carregamento de armas e bipes de travamento de alvo, impactos pesados das peças da armadura se encaixando e um ronido potente de motor de combate em baixa frequência, acompanhado por um sutil crescendo da trilha sonora cinematográfica.
-
-[Manter Consistência]
-Mantenha o design da armadura coeso como um único traje de combate de outro nível, totalmente equipado com armas, durante toda a transformação — sem armas faltando, com cores de energia, materiais de blindagem e silhueta consistentes desde a forma base até o estado final pronto para a batalha.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116557500564807680/img/Ve4Cc9MaYv9q4FhW.jpg" width="600" alt="Vídeo de Transformação de Armadura de Combate Sci-Fi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13332)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116557634891649244) | **Published:** Oct 31, 2026
-
----
-### Prompt de Vídeo Silhueta de Cavalo Gelo Derretido
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar um vídeo macro realista de cristais de gelo em uma janela derretendo em gotas d'água, revelando silhuetas de cavalos antes de clarear para mostrar as luzes quentes da rua do lado de fora. Inclui instruções específicas de cronologia e restrições negativas.
-
-#### 📝 Prompt
-
-```
-Assunto:
-Vista noturna interior através de vidro simples: cristais de geada densos, úmidos e frios formam naturalmente a silhueta vaga de uma manada de cavalos (aproximadamente vários, sem ser possível contá-los individualmente com clareza) — ainda o brilho real dos cristais de geada, não cavalos em adesivo ou formas esculpidas. Começa totalmente sem derreter; o primeiro quadro é geada pura, sem mostrar a borda superior do radiador. No geral, lê-se como uma tendência de silhueta de cavalo, mas as bordas são todas penugem cristalina semelhante a samambaias/galhos, sem buscar "contar claramente sete cavalos". Após cerca de dois segundos, a borda superior do radiador aparece na parte inferior da tela; poeira de ondas de calor sobe da borda inferior, provocando um derretimento viscoso e contínuo: a mesma linha de frente orgânica sobe quadro a quadro de baixo para cima, a frente é a mesma ponta dentada subindo, o espaçamento entre os dentes muda continuamente, absolutamente não é uma borda brilhante varrendo a imagem; atrás dela, deixa uma película de água legível, úmida e espelhada, seguida por gotas de água claras e quase redondas que escorregam pelo mesmo vidro devido à gravidade. Onde a geada recua, um escudo de luz quente amarelo-sódio da rua lá fora brilha através do vidro. Sem mãos humanas, folhas de bordo, martelos, ídolos ou figuras; sem closes de válvulas de latão ou conexões de tubulação.
-
-Ambiente:
-9:16 macro extremo travado num pedaço de vidro, ligeiramente de cima, coaxial durante toda a cena. Quando a geada está completa, o exterior é uma noite azul fria; o amarelo quente infiltra-se perto da borda superior do radiador; após o recuo da geada, as luzes quentes da rua brilham através do vidro molhado. Não cortar para outra janela.
-
-Clima:
-Legato de descompressão pelo aquecimento — flash frio, respiração suspensa, um empurrão cremoso de derretimento, gotas de água suaves, calor silencioso a assentar.
-
-Som: Dizer apenas uma vez para todo o segmento — chiado da superfície de geada, zumbido do aquecedor, chiado do derretimento, toque das gotas de água, ruído ambiente silencioso da sala; sem música, sem diálogo.
-
-Linha do tempo:
-0:00-0:02: Macro extremo travado, coaxial. Cristais de geada úmidos e frios preenchem imediatamente a tela, vagamente lidos como silhuetas de cavalos contra um azul profundo; ainda sem radiador na parte inferior. Único movimento: brilho úmido e frio rastejando lentamente pelas bordas dos cristais — os cristais permanecem sólidos; a tendência da silhueta não se desloca nem se transforma noutros animais, mas não exigir clareza individual. Sem pingar, sem calor, sem mostrar a borda superior do radiador.
-SFX: Chiado fraco de gelo e geada
-
-0:02-0:04: Coaxial, mesma camada de geada. Borda superior do radiador agora visível na parte inferior; partículas de poeira amarelas quentes e fitas de ondas de calor sobem continuamente dessa borda. O calor sobe, as sombras superiores da geada em forma de cavalo permanecem completas — sem frente de derretimento, sem pingar, sem tubos de válvulas. Breve suspensão da respiração no final do plano.
-SFX: Zumbido suave do aquecedor
-
-0:04-0:07: Travamento coaxial. A borda inferior revela primeiro uma frente de derretimento orgânica, depois sobe continuamente como creme pegajoso — a ponta da frente realmente se desloca quadro a quadro, a mesma ponta dentada subindo continuamente, absolutamente não um derretimento em blocos horizontais escalonados, absolutamente não uma dissipação instantânea de luz, absolutamente não uma varredura de borda brilhante; as formas dos cavalos dissolvem-se naturalmente à medida que a geada afina, absolutamente não mantendo a forma de cavalo separadamente sem derreter ou um bloco inteiro desaparecendo instantaneamente. Sob a frente, o vidro úmido e brilhante expande-se, arrastando reflexos da película de água. A borda superior do radiador permanece apenas como uma faixa metálica quente na borda inferior, o contorno desvanece-se à medida que a legibilidade do vidro molhado diminui — absolutamente não deformando, brilhando como uma lâmpada ou transformando-se em contas. No final deste plano, o mesmo vidro tem película de água e gotas formadas.
-SFX: Chiado suave de derretimento; primeiros toques de gotas de água
-
-0:07-0:09: Mesmo vidro molhado contínuo, mesma luz. Gotas de água claras e quase redondas formam filetes finos que escorregam pela gravidade, ou tremem levemente antes de escorregar — o trajeto é contínuo, absolutamente não o rastro de água inteiro aparecendo instantaneamente. Os reflexos espelhados rolam com o fluxo da água. O impulso assenta num deslizamento extremamente lento + microrrolamento dos reflexos; a ponta da frente quase para, mas ainda apresenta um rastejar subpixel — proibido congelar numa sensação estática ao longo de toda a cena. Sem novo derretimento, sem recongelamento.
-SFX: Toque de gota de água -> silêncio curto
-
-0:09-0:10: Mesmo vidro molhado contínuo. Ligeiro avanço ótico de não mais de 8% entra na área transparente; a geada deixa pontas residuais orgânicas irregulares e bordas duras e úmidas cruzando a metade inferior — absolutamente não uma faixa horizontal larga e alinhada, absolutamente não um buraco de fechadura elíptico, absolutamente não um adesivo com a forma completa de cavalo remanescente; a geada residual já não é legível como uma forma completa de cavalo. A luz quente amarelo-sódio da rua é claramente legível através do vapor de água; parar ao ver o calor.
-SFX: Ruído ambiente silencioso da sala
-
-Estilo: Descompressão macro realista, física de vidro molhado, confronto frio-quente, plano único; o grupo de cavalos apenas como uma sensação natural de silhueta de cristais de geada, não perseguir sete cavalos contáveis.
-
-Negativo: Não derreter antes do aquecimento começar; sem derretimento horizontal escalonado; sem varredura de borda brilhante; sem dissipação instantânea de luz; sem aparecimento instantâneo de gotas/rastros de água; sem vidro fosco seco após o derretimento; sem congelamento quase estático no segmento final; sem saltos de eixo; sem segunda janela; sem buraco de fechadura elíptico; sem faixa residual larga e alinhada; sem válvulas de latão ou conexões de tubulação; sem radiador deformando-se numa cena de rua desfocada; sem formas completas de cavalos em adesivo/desenho/escultura; sem manter a forma de cavalo sem derreter durante o derretimento; sem sete cavalos esculpidos claramente contáveis; sem mãos humanas, folhas de bordo, martelos, ídolos; sem música ou diálogo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116551528156954625/img/neNTetN8llirsF08.jpg" width="600" alt="Prompt de Vídeo Silhueta de Cavalo Gelo Derretido">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13343)**
-
-**Author:** [夏天爱福利](https://x.com/xiantian_xigua) | **Source:** [Link](https://x.com/xiantian_xigua/status/2116551653143007625) | **Published:** Oct 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2614,6 +2606,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T01:07:59.807Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T11:36:43.664Z</sub>
 
 </div>

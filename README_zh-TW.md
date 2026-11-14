@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3390** |
+| 📝 提示詞總數 | **3400** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-14** |
 
@@ -189,6 +189,208 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 提示詞：機械蠍子戰士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 詳細的提示詞，用於製作科幻變形影片：Q版男孩的機械昆蟲組合成鎧甲與蠍尾。
+
+#### 📝 提示詞
+
+```
+機械蠍子戰士
+一名身穿沙棕色兜帽、戴著蠍子造型耳朵的 Q 版小男孩，正在探索一座廢棄的沙漠實驗室。金色的機械昆蟲從他的背包裡爬出，組裝成一套沙漠戰鬥裝甲，身後也展開了一條巨大的機械蠍尾。尾端隨即彈出一把發光的電漿刀刃。
+
+影片免責聲明：
+本片為 AI 生成的虛構科幻角色與想像中的未來裝甲變身畫面，僅供娛樂用途。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121433024843960320/img/Tl6uAY2CL0Pn_anW.jpg" width="600" alt="Grok Imagine 提示詞：機械蠍子戰士">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13856)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2121433386321596728) | **發布時間:** Nov 14, 2026
+
+---
+### Grok Imagine 影片提示詞：Wiley Coyote Roadrunner Space
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事影片提示，描述 Wiley Coyote 追趕 Roadrunner 至星艦，被推進太空並進入軌道。
+
+#### 📝 提示詞
+
+```
+請幫我生成一段影片：Wiley Coyote 沿著道路追趕 Road Runner，一路追到太空船前，接著 Road Runner 突然停下。Wiley Coyote 登上太空船後被發射升空、衝向天際，隨後推進器脫離，Wiley Coyote 就此進入軌道。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121390386119606272/img/V4204L_JyVhChdrd.jpg" width="600" alt="Grok Imagine 影片提示詞：Wiley Coyote Roadrunner Space">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13852)**
+
+**作者:** [Josh Lelli](https://x.com/lellitech82) | **來源:** [Link](https://x.com/lellitech82/status/2121390407749615940) | **發布時間:** Nov 13, 2026
+
+---
+### Grok Imagine 影片提示詞：雷神太極錘光效
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿動感的動作提示詞，呈現雷神施展太極招式、揮舞带电錘子、散发蓝色光芒，並對鏡頭露出燦爛笑容。
+
+#### 📝 提示詞
+
+```
+索爾持續以帶電的雷神之鎚施展太極動作，他望向鏡頭並露出笑容，全身開始散發藍色光芒
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121344522474962944/img/ScEWNMzn_EAUqdmY.jpg" width="600" alt="Grok Imagine 影片提示詞：雷神太極錘光效">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13851)**
+
+**作者:** [Michael Erikson](https://x.com/erikson_michael) | **來源:** [Link](https://x.com/erikson_michael/status/2121344645271601208) | **發布時間:** Nov 13, 2026
+
+---
+### Grok Imagine 影片提示：女性抽雪茄並用西班牙語說話
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示：一位女性抽雪茄並用巴塞隆納口音說西班牙語
+
+#### 📝 提示詞
+
+```
+讓她抽根雪茄，深深吸一口，然後用西班牙文說「番茄在我的褲子上」，而且要用巴塞隆納口音的西班牙文！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121294223886655488/img/2z1KUOkNL2oIq_XB.jpg" width="600" alt="Grok Imagine 影片提示：女性抽雪茄並用西班牙語說話">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13853)**
+
+**作者:** [Charlie Durnell](https://x.com/01101010001A) | **來源:** [Link](https://x.com/01101010001A/status/2121294280098800109) | **發布時間:** Nov 13, 2026
+
+---
+### K-pop Girl Crush 舞蹈影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份高度詳細的英文提示詞，用於生成寫實風格的 15 秒 K-pop 舞蹈影片，內容涵蓋音樂節奏、鏡頭剪接以及基於參考圖片的角色一致性設定。
+
+#### 📝 提示詞
+
+```
+寫實風格 15 秒 Girl Crush K-pop MV，由一位成年女性演出，外貌須完全符合 @Image1（包含臉部、髮型、身材、服裝、鞋子與配件）。第一格畫面即已在跳舞；舞蹈動作在片段結束後仍持續進行。整段為一組連續舞步，包含 6 個動作無縫銜接的剪接點。無結尾定格或重新開始的動作。
+
+攝影棚：無縫炭灰色背景、地面帶有微弱倒影、柔和白色主光、淡藍紫色輪廓光。
+
+音樂：原創 128 BPM、4/4 拍 Girl Crush K-pop 副歌，開場即直接播放。重拍大鼓、低音、拍手聲、合成器與無人聲 Vocal Chops。擷取歌曲中段；無前奏、歌詞、口白、結尾重音或淡出效果。
+
+舞蹈：柔美流暢、步伐穩健有力、手臂動作幅度大。重複出現的主題動作：雙臂交叉後向斜角展開，同時臀部反向律動。膝蓋保持微彎柔軟，重心自然轉移，身體波浪由臀部延伸至肩膀。全程不可停止動作。
+
+第 1–8 拍：從動作中途開始。右腳大跨步、雙臂張開；重心左移、雙臂向下畫圓；向前踏兩步並做出胸部頓點；大跨步後下沉，臀部畫出 8 字型。
+
+第 9–16 拍：低位 8 字扭動，重心依序右、左、回中；以骨盆帶動的身體波浪向上延伸，雙臂隨之跟進；右腳交叉至左腳前方，準備轉身。
+
+第 17–24 拍：流暢完成一圈轉身，雙臂先收合再展開；順勢接續右弓箭步，左臂高舉伸展；推回中心位置，雙臂向下揮擺，最後重心落於左側。
+
+第 25–32 拍：臀部頓點搭配快速步伐；大跨步並將雙臂張至最大幅度；雙臂向下畫圓、重心移至左側，開始下一個交叉步。於動作中途結束。
+
+鏡頭：依序 6 個剪接：斜角全身、腰臀特寫裁切、臉肩近景、全身轉身與弓箭步、頭部至大腿的中景、全身。鏡頭帶有輕微橫向移動。各剪接點之間須維持動作連戲。禁止胯下特寫、漏接動作、畫面晃動或慢動作。
+
+逼真的膚質與汗水光澤、自然的頭髮與布料動態、輕微動態模糊。以音樂為主導，腳步聲保持微弱。
+
+避免人物身分／服裝改變、影像重複、多餘肢體、關節僵硬、動作停滯、腳步滑動、懸浮感、不自然的肢體彎折、CGI 人工感、文字、標誌、字幕及浮水印。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121277078465380353/img/BPK0X4YJOfxScOrr.jpg" width="600" alt="K-pop Girl Crush 舞蹈影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13859)**
+
+**作者:** [ami](https://x.com/AmiSnugglebug) | **來源:** [Link](https://x.com/AmiSnugglebug/status/2121278984411631877) | **發布時間:** Nov 13, 2026
+
+---
+### Q 版藍色賽博天使變身影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成 Q 版女孩變身為配備全息翅膀與戰鬥裝甲的藍色賽博天使影片的提示詞。
+
+#### 📝 提示詞
+
+```
+Blue Cyber Angel
+
+一位可愛的 Q 版少女，留著黑色短髮、戴著白色蕾絲兜帽與超大兔耳，佇立在充滿未來感的花園中。她的腳下浮現出一道藍色全息光圈。機械羽毛在她周身匯聚拼裝，將原本的服裝幻化為白藍相間的天使戰鬥裝甲。六片散發光芒的機械羽翼在她身後展開。
+
+影片免責聲明：
+本片為 AI 生成的虛構科幻角色與想像中的未來裝甲變身畫面，僅供娛樂用途。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121259074704822273/img/YiN7xj3oZCZGV22C.jpg" width="600" alt="Q 版藍色賽博天使變身影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13858)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **發布時間:** Nov 13, 2026
+
+---
+### 黑暗騎士變身提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於 Grok Imagine 的創意寫作提示，描述 Q 版男孩變身為未來騎士的影片轉換序列。
+
+#### 📝 提示詞
+
+```
+暗黑騎士變身
+一位身穿破損黑色兜帽、頭頂長兔耳的 Q 版小男孩，提著一盞老舊燈籠，穿梭在神祕的中世紀城堡中。黑色的金屬粒子從陰影裡湧現，他全身的服裝瞬間幻化為厚重的黑色未來風騎士鎧甲。左臂浮現一面巨大的機械盾牌，一把散發紅光的能量劍隨即啟動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121240438548135936/img/ucUSiDCIc85c2Gh4.jpg" width="600" alt="黑暗騎士變身提示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13857)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2121240595507347962) | **發布時間:** Nov 13, 2026
+
+---
+### Cyber Wolf Commander 變形影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 詳細的科幻提示詞，用於生成一段影片：Q 版女孩在雪地基地中變身成戰鬥裝甲，並伴有機械狼群。
+
+#### 📝 提示詞
+
+```
+Cyber Wolf Commander
+一位銀髮的 Q 版可愛少女，戴著破損的白色狼耳兜帽，漫步在白雪皚皚的軍事基地中。她的背包突然開啟，釋放出數隻迷你機械狼。這些機械狼躍上她的身軀，瞬間變形成白銀相間的戰鬥裝甲。一頂機械狼頭盔隨之浮現，兩隻機械狼夥伴也威武地佇立在她身旁。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121204665232842752/img/qq0EEb1LOpj_ccRl.jpg" width="600" alt="Cyber Wolf Commander 變形影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13850)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2121204732568178952) | **發布時間:** Nov 13, 2026
+
+---
+### Q版男孩變身銀色武士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，描繪一名 Q 版男孩在古代日本街道上變身為身穿機械鎧甲的銀色武士。
+
+#### 📝 提示詞
+
+```
+一名黑髮 Q 版小男孩，身穿破舊的灰色狼耳兜帽，腰間佩著一把傳統木刀，漫步在古老的日本街道上。銀色的機械裝甲板從他的背包中浮現，並迅速組裝包覆全身。他原本破爛的衣物瞬間化為充滿未來感的武士鎧甲。一把發光的武士刀在他手中凝聚成形，機械頭盔也隨之闔上，將他的頭部完全覆蓋。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121180965745897472/img/X5iNr0i9S2YqZNNs.jpg" width="600" alt="Q版男孩變身銀色武士">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13854)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2121181023849578666) | **發布時間:** Nov 13, 2026
+
+---
 ### 海濱晨景影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -906,6 +1108,49 @@ Alerele，真是件奇妙的事呢。
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13824)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2119228089809187247) | **發布時間:** Nov 8, 2026
+
+---
+### Grok Imagine 提示詞：Optimus 變身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份高度詳細的提示詞，用於將未來感卡車以超高速電影級特效轉換為 Optimus Prime 風格機器人。
+
+#### 📝 提示詞
+
+```
+超高速 Optimus 變形 —— 電影級科幻提示詞
+
+影片提示詞：
+
+一輛巨大的未來重型卡車以驚人速度疾駛穿越霓虹閃爍的巨型高科技隧道，強勁引擎轟鳴作響，車輪後方拖曳著藍色能量光軌。突然間，卡車在持續前進的同時，爆發性地展開慢動作變形。數百個精密設計的機械零件向外迸射，在半空中旋轉、位移並重新組合。車頭水箱護罩裂開化為厚實的裝甲胸膛，輪胎翻轉並重新定位至肩膀與腿部，巨大的液壓手臂展開，複雜的金屬結構以不可思議的精準度相互鎖定。當變形進入最終階段，散發藍光的能量核心隨之啟動。短短幾秒內，一尊巨大且全副武裝的 Optimus 機器人重重降落在隧道地面，激起漫天火花、衝擊波與極具電影張力的能量爆發。他挺立起身，在隧道燈光映照金屬鎧甲的光芒中，自信地朝鏡頭邁步走來。
+
+視覺風格：
+
+* 超寫實 3D CGI
+
+* 次世代機械變形
+
+* 超高速動作搭配極致慢動作
+
+* 精密運作的齒輪、活塞與液壓系統
+
+* 電影級動態模糊與逼真火花
+
+* 8K HDR、戲劇性光影、真實反射
+
+* 流暢的鏡頭追蹤與動態視角
+
+時長：10–12 秒 畫面比例：9:16 畫質：好萊塢等級的電影寫實感。重要提示：一段連續無縫的卡車至機器人變形過程。不得有跳接、零件憑空消失或身體結構扭曲變形。
+
+免責聲明：本影片由 AI 生成，僅供娛樂與創作之用。卡車變身為 Optimus 的過程、未來科技及視覺效果皆為虛構，並非描繪真實世界的工程技術或事件。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119005860622110721/img/l3Xz4NGljZ7z9vIg.jpg" width="600" alt="Grok Imagine 提示詞：Optimus 變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13855)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2119005911503245593) | **發布時間:** Nov 7, 2026
 
 ---
 ### 女性 Optimus Prime 雨衣變身
@@ -2309,258 +2554,6 @@ Optimus 還在努力計算 G 力中。🤖😂
 **作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **來源:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **發布時間:** Nov 1, 2026
 
 ---
-### 孔雀勝利之舞影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成一隻驕傲的孔雀隨著印度音樂昂首闊步、翩翩起舞的影片提示詞。
-
-#### 📝 提示詞
-
-```
-這隻驕傲的孔雀大搖大擺地走來走去，彷彿這裡是牠的地盤。牠的勝利之舞還配上了印度音樂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683628768006144/img/W8FxcCtxtkq73qyy.jpg" width="600" alt="孔雀勝利之舞影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13336)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **來源:** [Link](https://x.com/sprabs12/status/2116683745118040531) | **發布時間:** Nov 1, 2026
-
----
-### 奔騰駿馬與彩色軌跡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示詞，描繪一匹駿馬英姿颯爽地奔騰，留下絢麗的色彩軌跡並揚起塵土，隨後一群相似的馬匹緊隨其後。
-
-#### 📝 提示詞
-
-```
-駿馬英姿颯爽地奔馳而過，留下一道絢麗的色彩軌跡，飛揚的馬蹄激起陣陣塵土，引領著身後一群同類緊隨其後。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683079687540736/img/TiCIbgwiI_AqjVZQ.jpg" width="600" alt="奔騰駿馬與彩色軌跡">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13338)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **來源:** [Link](https://x.com/sprabs12/status/2116683173350474086) | **發布時間:** Nov 1, 2026
-
----
-### 芭蕾舞者旋轉飛入頁面水花特效
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的創意影片提示詞：描述一名芭蕾舞者在交響樂聲中旋轉，並伴隨著繽紛色彩的水花效果躍入頁面之中。
-
-#### 📝 提示詞
-
-```
-芭蕾舞者隨著悠揚的樂音旋轉，躍入紙頁之間，綻放出一片絢麗色彩。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116682814477467649/img/4fgUeVjuAmvJWFUX.jpg" width="600" alt="芭蕾舞者旋轉飛入頁面水花特效">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13340)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **來源:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **發布時間:** Nov 1, 2026
-
----
-### 自然動畫影片生成模板
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於從起始場景或參考圖片生成連續影片的結構化模板，具備細微的主體動作、柔和的鏡頭移動以及環境音效。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-根據起始場景或參考素材，生成一段自然流暢的連續動畫影片。主體動作應細微自然、鏡頭運鏡平緩柔和，並搭配符合環境氛圍的背景音效。
-
-[事件腳本]
-開場：主體與道具維持在場景中的初始姿態與位置。
-主要事件：主體展現細微自然的動作，例如呼吸起伏、姿勢的微幅調整，或與周遭環境輕柔互動；若有光影與氛圍變化，也應以柔和的方式漸進呈現。
-結尾：主體進入平靜且連貫的狀態，同時整體畫面構圖保持協調一致。
-
-[保持一致性]
-全程須維持所有主體的身分、數量、服裝、道具歸屬、空間關係及視覺風格穩定不變。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="自然動畫影片生成模板">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13414)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116643859744833763) | **發布時間:** Oct 31, 2026
-
----
-### 克麗奧佩特拉目送馬克·安東尼離去而痛哭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的戲劇性影片提示，呈現克麗奧佩特拉在馬克·安東尼最後一次出征時含淚目送的場景。
-
-#### 📝 提示詞
-
-```
-克麗奧佩脫拉含淚望著馬克·安東尼最後一次出征的身影
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116636125209006080/img/JtgZ1BtuDYGZpeJt.jpg" width="600" alt="克麗奧佩特拉目送馬克·安東尼離去而痛哭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13339)**
-
-**作者:** [Christi McGuffey](https://x.com/crermc7) | **來源:** [Link](https://x.com/crermc7/status/2116636143051788391) | **發布時間:** Oct 31, 2026
-
----
-### 高速公路繞圈急停
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段提示詞，指示角色在高速公路上繞圈行駛並伴隨刺耳煞車聲停下。
-
-#### 📝 提示詞
-
-```
-要她在公路中央繞圈行駛，然後伴隨著刺耳的煞車聲急停。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116632577284972544/img/4D9gnngL0-O7DHXb.jpg" width="600" alt="高速公路繞圈急停">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13337)**
-
-**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **來源:** [Link](https://x.com/Soaring2TheMoon/status/2116632597333959048) | **發布時間:** Oct 31, 2026
-
----
-### 吸血鬼殭屍舞蹈影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片提示，呈現吸血鬼與殭屍跳舞，同時有人演奏精彩獨奏。
-
-#### 📝 提示詞
-
-```
-吸血鬼與殭屍也來共襄盛舉，他飆出一段超讚的 solo，大夥兒全都跟著瘋狂熱舞
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116627246517493761/img/52FuPwOYzGOZmXIE.jpg" width="600" alt="吸血鬼殭屍舞蹈影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13335)**
-
-**作者:** [Michael Erikson](https://x.com/erikson_michael) | **來源:** [Link](https://x.com/erikson_michael/status/2116627359642362230) | **發布時間:** Oct 31, 2026
-
----
-### 臥室人像影片提示詞
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 用於生成 10 秒影片的精簡提示詞，描述一位躺在床上的女性，包含面部特徵、服裝、一致性與燈光細節。文字在句子中途截斷。
-
-#### 📝 提示詞
-
-```
-中文提示詞（10.00 秒）
-角色
-• 臉部：完全依照參考，五官、臉型、髮色皆以頭像為準，全程保持同一張臉；純黑長髮自然鬆散地鋪在枕頭上，右頰前垂落一縷碎髮；妝容為淡粉色腮紅搭配紅唇，不佩戴項鍊或任何飾品。
-• 服裝與身形：完全依照參考，灰紫色蕾絲細肩帶背心搭配同色系蕾絲肩部設計的長袖罩衫，款式、顏色與身材比例皆維持不變。
-• 一致性：角色的臉部與服裝全程不得改變，表情自然真實，不可出現誇張神情。
-
-場景：室內臥室，角色半躺著，頭部靠在白色針織紋理的枕頭上，身下及身旁鋪著灰色長毛絨毯，畫面左側有米色靠墊，背景為深灰色床頭板。光線：昏暗溫暖的室內光線，主光源由上方微微……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116573763198480385/img/WbVZwj9MnMDo4Y0X.jpg" width="600" alt="臥室人像影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13344)**
-
-**作者:** [magic](https://x.com/bingo967218) | **來源:** [Link](https://x.com/bingo967218/status/2116573833096466885) | **發布時間:** Oct 31, 2026
-
----
-### 科幻戰鬥裝甲變身影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 高度詳細的結構化提示詞，用於生成科幻影片，內容包含模組化戰鬥裝甲變身與武器部署過程，並涵蓋特定的視覺風格、攝影機運鏡及音效指令。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段次世代變形科幻戰鬥裝甲影片。核心主體為全面搭載整合式武器的先進模組化戰鬥裝甲；主要事件則是裝甲在充滿張力的備戰流程中，完成組裝、變形並展開全套武器系統。
-
-[事件腳本]
-開場：一塊流線型的高科技外骨骼底座靜置於昏暗的金屬機庫中，處於休眠且緊湊收合的狀態。
-主要事件：裝甲開始逐層高速變形——碳纖維與液態金屬裝甲板層層交疊並精準卡入定位，組合成一套全身式的次世代戰鬥服，配備發光的能量導管、強化關節伺服馬達以及自適應反應裝甲面板。整合式武器全面遍布機體：前臂雙聯電漿砲伸出並鎖定、肩部飛彈莢艙升起進入待發狀態、背部高能磁軌砲展開旋轉砲管、髖部光束投射器部署就位、腕刃與奈米邊緣戰鬥刀彈出並鎖定，同時推進背包與能量護盾發射器伴隨脈動光芒啟動。戰鬥服完成變形，化為火力爆表、武裝滿載的戰鬥型態，隨後全系統上線、武器鎖定目標，充能進入備戰姿態。
-結尾：完成變形的次世代科幻戰鬥裝甲嚴陣以待，所有武器皆已展開並泛著能量光芒；在機庫戲劇性的燈光下，龐大卻不失靈活的身影以戰鬥姿態定格。
-
-[視覺風格]
-超精細電影級科幻美學，採用亮面黑與槍灰色裝甲，搭配霓虹青與橙色能量光帶、表面閃爍的全息 HUD 元素、立體光柱（god rays），以及高對比的金屬反射效果。
-
-[鏡頭]
-電影級多視角運鏡序列：開場以極具張力的低角度緩慢推近休眠骨架，接著切換至動態環繞跟拍，捕捉每一塊裝甲卡入定位與每件武器展開的瞬間，最後以氣勢磅礡的低角度英雄鏡頭，環繞全副武裝的戰鬥服作結。
-
-[音效]
-深沉的機械變形撞擊聲與液壓嘶嘶聲、逐漸攀升的電子充能音效、武器蓄能的尖嘯與鎖定提示音、重型裝甲卡榫的沉重撞擊聲，以及強勁的低頻戰鬥引擎轟鳴，並伴隨細膩的電影配樂漸強鋪陳。
-
-[保持一致性]
-在整個變形過程中，裝甲設計必須維持一致，呈現為單一套次世代全武裝戰鬥服——從基礎形態到最終備戰狀態，不得遺漏任何武器，且能量顏色、裝甲材質與輪廓剪影皆須前後統一。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116557500564807680/img/Ve4Cc9MaYv9q4FhW.jpg" width="600" alt="科幻戰鬥裝甲變身影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13332)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116557634891649244) | **發布時間:** Oct 31, 2026
-
----
-### 霜凍馬匹輪廓融化影片提示詞
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 提供一份詳細的提示詞，用於生成逼真的微距影片：視窗上的霜晶融化成水滴，顯露出馬匹輪廓，隨後消散並展現窗外溫暖的街燈。內容包含具體的時間軸指示與負面限制條件。
-
-#### 📝 提示詞
-
-```
-主題：
-室內夜景視角，透過單層玻璃拍攝：濃密濕冷的霜晶自然形成模糊的馬群剪影（約數匹，無法逐隻清楚計數）——仍保有真實霜晶的光澤，絕非貼紙馬或雕刻出的馬形。開場時完全未融化；第一格畫面為純霜，不露出暖氣片頂部邊緣。整體視覺上能看出馬群剪影的意象，但邊緣皆為蕨葉狀／樹枝狀的結晶絨毛，並非要呈現「清楚數出七匹馬」。約兩秒後，暖氣片頂緣出現在畫面底部；熱浪塵埃自下緣升起，帶動持續黏稠的融化：同一道有機狀的前線由下而上逐格攀升，前端同樣是鋸齒狀尖端向上爬升，齒距不斷變化，絕對不是亮邊橫掃過畫面；其後留下可辨識的濕潤鏡面水膜，接著清晰、近乎圓潤的水珠受重力影響沿同一片玻璃滑落。霜退去之處，窗外鈉黃色的溫暖路燈光透射進來。不出現人手、楓葉、木槌、神像或人物；無黃銅閥門或管件特寫。
-
-環境：
-9:16 極致微距鎖定一片玻璃，視角略微俯拍，全程同軸。霜層完整時，窗外為冷藍色夜景；暖黃色光暈在暖氣片頂緣附近滲入；霜退去後，溫暖路燈光穿透濕潤玻璃。切勿切換至另一扇窗戶。
-
-氛圍：
-暖氣舒壓的連奏感（legato）——冷冽閃現、屏息凝視、一次如奶油般綿密的融化推進、滑順水珠、靜謐暖意沉澱。
-
-音效：整段僅需一套音效——霜面嘶嘶聲、暖氣低鳴、融化嘶聲、水滴輕敲聲、安靜室噪；無配樂、無對話。
-
-時間軸：
-0:00-0:02：同軸鎖定的極致特寫。濕冷霜晶瞬間填滿畫面，在深藍背景中隱約呈現馬群剪影；底部尚未出現暖氣片。唯一動態：濕冷微光沿著結晶邊緣緩慢爬行——晶體保持固態；剪影意象不漂移、不變形為其他動物，但不要求每匹馬都清晰可辨。無滴水、無熱氣、不顯示暖氣片頂緣。
-音效：微弱冰霜嘶嘶聲
-
-0:02-0:04：同軸，同一層霜。此時底部可見暖氣片頂緣；暖黃色塵粒與熱浪紋理自該邊緣持續上升。熱氣上升，上方的馬群霜影依然完整——無融化前線、無滴水、無閥門管件。鏡頭末尾短暫屏息。
-音效：柔和暖氣低鳴
-
-0:04-0:07：同軸鎖定。底部邊緣先浮現有機狀的融化前線，隨後如黏稠奶油般持續向上攀爬——前端確實逐格位移，同樣的鋸齒狀尖端不斷爬升，絕對不是水平階梯式塊狀融化，絕對不是瞬間消散，絕對不是亮邊橫掃擦除；馬形隨霜層變薄而自然消融，絕對不是單獨保留馬形不融，也非整塊瞬間消失。前線下方，濕潤明亮的玻璃面積擴大，拖曳出水膜反光。暖氣片頂緣僅作為底部的溫暖金屬條存在，隨著濕潤玻璃清晰度下降，輪廓逐漸淡去——絕對不變形、不發光成燈具、也不變成珠狀。此鏡頭末尾，同一片玻璃上已有水膜與成形水珠。
-音效：柔和融化嘶聲；初期水滴輕敲聲
-
-0:07-0:09：同一片持續濕潤的玻璃，相同光線。清晰且近乎圓潤的水珠匯成細流受重力滑落，或輕微顫動後再滑下——軌跡連續，絕對不是整條水痕瞬間出現。鏡面反光隨水流滾動。動勢沉澱為極緩慢的滑落＋反光微滾；前端幾乎停滯但仍維持次像素級蠕動——嚴禁全段凍結成靜態感。無新融化、無重新結霜。
-音效：水滴輕敲聲 -> 短暫寂靜
-
-0:09-0:10：同一片持續濕潤的玻璃。光學微推幅度不超過 8%，切入透明區域；殘霜在下半部留下不規則的有機殘留尖端與堅硬濕潤邊緣交錯——絕對不是整齊寬闊的水平帶狀，絕對不是橢圓窺孔，絕對不是殘留完整的馬形貼紙；殘霜已無法辨識為完整馬形。透過水氣可清晰看見鈉黃色的溫暖路燈；見暖意即止。
-音效：安靜室噪
-
-風格：寫實微距舒壓、濕潤玻璃物理特性、冷暖對峙、一鏡到底；馬群僅作為自然霜晶剪影的意象，不追求可數的七匹馬。
-
-負面提示：加熱開始前不得融化；無水平階梯式融化；無亮邊橫掃擦除；無瞬間消散；無水珠／水痕瞬間出現；融化後無乾燥霧面玻璃；末段無近乎靜態的凍結感；無軸線跳躍；無第二扇窗戶；無橢圓窺孔；無整齊寬闊的殘留帶；無黃銅閥門或管件；暖氣片不得變形為模糊街景；無貼紙／卡通／雕刻的完整馬形；融化過程中不得單獨保留馬形不融；無清晰可數的七匹馬雕刻；無人手、楓葉、木槌、神像；無配樂或對話。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116551528156954625/img/neNTetN8llirsF08.jpg" width="600" alt="霜凍馬匹輪廓融化影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13343)**
-
-**作者:** [夏天爱福利](https://x.com/xiantian_xigua) | **來源:** [Link](https://x.com/xiantian_xigua/status/2116551653143007625) | **發布時間:** Oct 31, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2622,6 +2615,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-14T01:07:48.753Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-14T11:36:35.122Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3390** |
+| 📝 提示词总数 | **3400** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-14** |
 
@@ -189,6 +189,208 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 提示词：机械蝎子战士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于创作科幻变身视频的 Grok Imagine 详细提示词：Q 版男孩的机械昆虫组装成装甲和蝎尾。
+
+#### 📝 提示词
+
+```
+机械蝎子战士
+
+一个身穿土褐色兜帽、长着蝎子造型耳朵的 Q 版小男孩，正在探索一座废弃的沙漠实验室。金色的机械昆虫从他的背包里爬出，迅速拼装成一套沙漠战斗装甲，一条巨大的机械蝎尾也在他身后展开。尾尖处，一把发光的等离子光刃赫然弹出。
+
+视频免责声明：
+本视频中的科幻角色与未来感装甲变身画面均为 AI 生成的虚构内容，仅供娱乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121433024843960320/img/Tl6uAY2CL0Pn_anW.jpg" width="600" alt="Grok Imagine 提示词：机械蝎子战士">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13856)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2121433386321596728) | **发布时间:** Nov 14, 2026
+
+---
+### Grok Imagine 视频提示词：Wiley Coyote 与 Roadrunner 的太空追逐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段叙事性视频提示词，描述 Wiley Coyote 追逐 Roadrunner 至星舰，被推进太空并进入轨道的过程。
+
+#### 📝 提示词
+
+```
+帮我生成一段视频：Wiley Coyote 沿着公路一路追赶 Road Runner，一直追到一艘星际飞船前，随后 Road Runner 停了下来。Wiley Coyote 登上飞船，被发射升空、直冲云霄，接着助推器分离，Wiley Coyote 进入了轨道。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121390386119606272/img/V4204L_JyVhChdrd.jpg" width="600" alt="Grok Imagine 视频提示词：Wiley Coyote 与 Roadrunner 的太空追逐">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13852)**
+
+**作者:** [Josh Lelli](https://x.com/lellitech82) | **来源:** [Link](https://x.com/lellitech82/status/2121390407749615940) | **发布时间:** Nov 13, 2026
+
+---
+### Grok Imagine 视频提示词：雷神太极锤光
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满动感的动作提示：雷神托尔挥舞带电的锤子，行云流水地施展太极招式，周身环绕着幽蓝光芒，对着镜头咧嘴一笑。
+
+#### 📝 提示词
+
+```
+延续太极动作，手中电锤挥舞，Thor 本人开始泛起蓝光，他望向镜头，咧嘴一笑
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121344522474962944/img/ScEWNMzn_EAUqdmY.jpg" width="600" alt="Grok Imagine 视频提示词：雷神太极锤光">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13851)**
+
+**作者:** [Michael Erikson](https://x.com/erikson_michael) | **来源:** [Link](https://x.com/erikson_michael/status/2121344645271601208) | **发布时间:** Nov 13, 2026
+
+---
+### Grok Imagine 视频提示词：西班牙语女性抽雪茄
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，展示一位女性抽雪茄并用巴塞罗那口音的西班牙语说特定短语。
+
+#### 📝 提示词
+
+```
+让她叼根雪茄，深深吸上一口，然后用西班牙语说“西红柿在我裤子上”，而且得是巴塞罗那口音的西班牙语！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121294223886655488/img/2z1KUOkNL2oIq_XB.jpg" width="600" alt="Grok Imagine 视频提示词：西班牙语女性抽雪茄">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13853)**
+
+**作者:** [Charlie Durnell](https://x.com/01101010001A) | **来源:** [Link](https://x.com/01101010001A/status/2121294280098800109) | **发布时间:** Nov 13, 2026
+
+---
+### K-pop Girl Crush 舞蹈视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份高度详细的英文提示词，用于生成逼真的 15 秒 K-pop 风格舞蹈视频，明确指定音乐节奏、镜头切换以及基于参考图的角色一致性。
+
+#### 📝 提示词
+
+```
+照片级写实 15 秒 Girl Crush 风格 K-pop MV，由一位成年女性出演，其外貌（面部、发型、身材、服装、鞋子、配饰）需与 @Image1 完全一致。第一帧即处于舞蹈状态；动作延续至片段结束之后。一段连贯的完整编舞，包含 6 个动作无缝衔接的剪辑点。无收尾定格或动作重置。
+
+场景：无缝炭灰色背景，地面带微弱倒影，柔和白色主光，淡蓝紫色轮廓光。
+
+音乐：原创 128 BPM、4/4 拍 Girl Crush 风格 K-pop 副歌，开场即已播放。厚重的底鼓、贝斯、拍手声、合成器与无人声 Vocal Chops。截取歌曲中段；无前奏、歌词、人声说话、结尾重音或渐弱淡出。
+
+舞蹈：兼具女性的柔美流畅与充满力量的扎实步伐，手臂动作舒展大气。重复出现的标志性动作：交叉的双臂沿对角线展开，同时胯部反向律动。膝盖保持微屈弹性，重心转换自然，身体波浪从胯部传导至肩部。全程保持舞动，绝不静止。
+
+第 1–8 拍：直接承接动态开场。向右大跨步，双臂张开；重心移左，手臂向下画圈；向前两步配合胸部定点发力；大跨步下沉，胯部走出“8”字律动。
+
+第 9–16 拍：低位“8”字胯部律动，重心在右、左、中之间切换；以骨盆带动的身体波浪向上传导，手臂顺势跟随；右脚交叉迈至左脚前方，为转身蓄力。
+
+第 17–24 拍：流畅完成一整圈转身，双臂先收拢后展开；顺势过渡至右侧弓步，左臂向高处伸展；推回中心位，双臂向下扫过，重心落于左侧。
+
+第 25–32 拍：胯部定点发力配合快速碎步；大跨步同时将手臂展至最大幅度；手臂向下画圈，重心转移至左侧，起势准备下一个交叉步。在动作行进中结束。
+
+镜头：按顺序呈现 6 个剪辑点：斜角全身景、腰胯部特写、面肩近景、全身转身与弓步、头部至大腿的中景、全身景。镜头带有轻微的横向移动。各剪辑点之间须保持动作连贯性。禁止裆部特写、动作跳切、画面抖动或慢动作。
+
+皮肤质感真实并带有汗液光泽，头发与衣物摆动自然，保留轻微运动模糊。以音乐节奏为主导，脚步声轻微。
+
+避免出现人物身份或服装突变、画面重影、多余肢体、关节僵硬、动作定格、脚步滑移、身体悬浮、不自然的肢体弯折及 CGI 塑料感；不得出现文字、Logo、字幕和水印。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121277078465380353/img/BPK0X4YJOfxScOrr.jpg" width="600" alt="K-pop Girl Crush 舞蹈视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13859)**
+
+**作者:** [ami](https://x.com/AmiSnugglebug) | **来源:** [Link](https://x.com/AmiSnugglebug/status/2121278984411631877) | **发布时间:** Nov 13, 2026
+
+---
+### Q 版蓝色赛博天使变身视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成 Q 版少女变身蓝色赛博天使的视频提示词，包含全息翅膀与战斗装甲。
+
+#### 📝 提示词
+
+```
+蓝色赛博天使
+一位可爱的 Q 版少女伫立于未来感花园之中，她留着黑色短发，头戴白色蕾丝兜帽与超大兔耳。脚下浮现出一道蓝色全息光环。机械羽毛在她周身汇聚拼合，将原本的装束幻化为白蓝相间的天使战斗铠甲。六片流光溢彩的机械羽翼在身后徐徐展开。
+
+视频免责声明：
+本视频中的科幻角色及充满想象力的未来装甲变身均由 AI 虚构生成，仅供娱乐之用。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121259074704822273/img/YiN7xj3oZCZGV22C.jpg" width="600" alt="Q 版蓝色赛博天使变身视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13858)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **发布时间:** Nov 13, 2026
+
+---
+### 黑暗骑士变身提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于视频转换序列的创意写作提示，描述了一个 Q 版男孩转变为未来骑士的过程，适用于 Grok Imagine。
+
+#### 📝 提示词
+
+```
+暗黑骑士变身
+一个身穿破旧黑色连帽斗篷、长着长长兔耳的 Q 版小男孩，提着一盏古旧的灯笼穿行在神秘的中世纪城堡中。暗处涌出黑色的金属粒子，他全身的装束随之幻化为厚重的黑色未来感骑士铠甲。左臂浮现出一面巨大的机械盾牌，一把泛着红光的能量剑瞬间激活。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121240438548135936/img/ucUSiDCIc85c2Gh4.jpg" width="600" alt="黑暗骑士变身提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13857)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2121240595507347962) | **发布时间:** Nov 13, 2026
+
+---
+### 赛博狼指挥官变身视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的科幻提示词，用于生成一段视频：Q 版女孩在雪地基地中变身为战斗装甲，并伴有机械狼。
+
+#### 📝 提示词
+
+```
+赛博狼指挥官
+一位银发 Q 版萌妹，戴着破旧的白色狼耳兜帽，穿行在白雪皑皑的军事基地中。她的背包突然打开，释放出数只迷你机械狼。它们跃上她的身体，瞬间变形成白银相间的战斗装甲。一顶机械狼头盔随之显现，两只机械狼伙伴威风凛凛地守护在她身旁。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121204665232842752/img/qq0EEb1LOpj_ccRl.jpg" width="600" alt="赛博狼指挥官变身视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13850)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2121204732568178952) | **发布时间:** Nov 13, 2026
+
+---
+### Q 版男孩变身银色武士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描绘一个 Q 版男孩在古色古香的日本街道上变身为身着机械装甲的银色武士。
+
+#### 📝 提示词
+
+```
+一个黑发 Q 版小男孩走在古老的日本街道上，他身穿破旧的灰色狼耳兜帽衫，腰间别着一把传统木刀。银色的机械甲片从他的背包中飞出，迅速在周身拼合组装。原本褴褛的衣衫瞬间化作充满未来感的武士铠甲。一把流光溢彩的太刀在他手中凝聚成形，机械头盔也随之闭合，将头部完全包裹。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121180965745897472/img/X5iNr0i9S2YqZNNs.jpg" width="600" alt="Q 版男孩变身银色武士">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13854)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2121181023849578666) | **发布时间:** Nov 13, 2026
+
+---
 ### 海岸晨景视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -904,6 +1106,49 @@ Alerele，真是件稀奇事呢。
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13824)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2119228089809187247) | **发布时间:** Nov 8, 2026
+
+---
+### Grok Imagine 提示词：Optimus 变形
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的提示词，用于生成未来卡车以超高速电影级效果变形为 Optimus Prime 风格机器人的画面。
+
+#### 📝 提示词
+
+```
+极速擎天柱变形 —— 电影级科幻提示词
+
+视频提示词：
+
+一辆巨大的未来重型卡车在霓虹闪烁的巨型高科技隧道中极速狂飙，强劲的引擎发出震耳欲聋的轰鸣，车轮后方拖曳出幽蓝的能量尾迹。突然，卡车在高速行进中猛然跃起，进入极具爆发力的慢动作变形状态。数百个精密机械部件向外迸射，在半空中旋转、位移并重新组合。前格栅裂开化作坚不可摧的装甲胸甲，车轮翻转归位至双肩与双腿，巨大的液压臂层层展开，复杂的金属结构以惊人的精度精准咬合。当变形进入最终阶段，幽蓝的能量核心瞬间点亮。短短数秒内，一尊巍峨的战斗级擎天柱机器人重重砸落在隧道地面，激起漫天火花、冲击波与电影级的能量气浪。他缓缓站直身躯，在隧道灯光映照出的金属铠甲流光中，自信地朝镜头阔步走来。
+
+视觉风格：
+
+* 超写实 3D CGI
+
+* 次世代机械变形
+
+* 极速动作结合极致慢镜头
+
+* 精密运转的齿轮、活塞与液压装置
+
+* 电影级动态模糊与逼真火花
+
+* 8K HDR、戏剧性光影、真实反射
+
+* 流畅的镜头追踪与动态视角
+
+时长：10–12 秒 画面比例：9:16 画质：好莱坞级电影质感。重要提示：呈现一段连贯无缝的卡车到机器人的变形过程。禁止跳剪、部件凭空消失或结构扭曲变形。
+
+免责声明：本视频由 AI 生成，仅供娱乐与创意用途。卡车变形为擎天柱的过程、未来科技及视觉特效均属虚构，不代表现实中的工程技术或真实事件。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119005860622110721/img/l3Xz4NGljZ7z9vIg.jpg" width="600" alt="Grok Imagine 提示词：Optimus 变形">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13855)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2119005911503245593) | **发布时间:** Nov 7, 2026
 
 ---
 ### 女版擎天柱雨衣变形
@@ -2307,259 +2552,6 @@ Optimus 还在疯狂计算 G 力呢。🤖😂
 **作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **来源:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **发布时间:** Nov 1, 2026
 
 ---
-### 孔雀胜利之舞视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段骄傲的孔雀随着印度音乐昂首阔步、翩翩起舞的视频提示词。
-
-#### 📝 提示词
-
-```
-骄傲的孔雀大摇大摆地走来走去，仿佛这里就是它的地盘。它的胜利之舞还配上了印度音乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683628768006144/img/W8FxcCtxtkq73qyy.jpg" width="600" alt="孔雀胜利之舞视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13336)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **来源:** [Link](https://x.com/sprabs12/status/2116683745118040531) | **发布时间:** Nov 1, 2026
-
----
-### 骏马奔腾与彩色轨迹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 视频生成提示词：描绘一匹骏马英姿飒爽地奔腾，身后留下绚丽色彩轨迹并扬起尘土，随后一群相似的骏马紧随其后。
-
-#### 📝 提示词
-
-```
-骏马昂首疾驰，身后留下一道斑斓的色彩，飞扬的马蹄卷起阵阵尘土，引领着一群同类紧随其后。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683079687540736/img/TiCIbgwiI_AqjVZQ.jpg" width="600" alt="骏马奔腾与彩色轨迹">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13338)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **来源:** [Link](https://x.com/sprabs12/status/2116683173350474086) | **发布时间:** Nov 1, 2026
-
----
-### 芭蕾舞者旋转跃入页面溅起色彩
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的创意视频提示词：芭蕾舞者伴随交响乐旋律旋转，并跃入页面，激起绚丽的色彩飞溅。
-
-#### 📝 提示词
-
-```
-芭蕾舞者伴着交响乐般的音符翩然旋转，跃入书页，溅起一片绚烂色彩。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116682814477467649/img/4fgUeVjuAmvJWFUX.jpg" width="600" alt="芭蕾舞者旋转跃入页面溅起色彩">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13340)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **来源:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **发布时间:** Nov 1, 2026
-
----
-### 自然动画视频生成模板
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个结构化模板，用于从起始场景或参考图像生成具有细微主体运动、柔和镜头移动和环境音效的连续视频。
-
-#### 📝 提示词
-
-```
-[生成目标]
-基于起始场景或参考素材，生成一段连贯流畅的自然动画视频。主体动作细腻自然，镜头运动舒缓平稳，并搭配与环境相契合的背景音效。
-
-[事件脚本]
-开场：主体与道具保持初始姿态及在场景中的位置不变。
-主要事件：主体做出细微自然的动作，如呼吸、轻微调整姿势或与周围环境轻柔互动；若有光影与氛围元素，则随之柔和变化。
-结尾：主体归于平静且连贯的状态，整体画面构图始终保持协调统一。
-
-[保持一致性]
-全程确保所有主体的身份、数量、服饰、道具归属、空间关系以及视觉风格稳定不变。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="自然动画视频生成模板">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13414)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2116643859744833763) | **发布时间:** Oct 31, 2026
-
----
-### 克利奥帕特拉目送马克·安东尼离去时哭泣
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的戏剧性视频提示，展现克利奥帕特拉在最后一次目送马克·安东尼奔赴战场时痛哭流涕的场景。
-
-#### 📝 提示词
-
-```
-克娄巴特拉含泪目送马克·安东尼最后一次出征
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116636125209006080/img/JtgZ1BtuDYGZpeJt.jpg" width="600" alt="克利奥帕特拉目送马克·安东尼离去时哭泣">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13339)**
-
-**作者:** [Christi McGuffey](https://x.com/crermc7) | **来源:** [Link](https://x.com/crermc7/status/2116636143051788391) | **发布时间:** Oct 31, 2026
-
----
-### 高速公路绕圈急停
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个提示词，指示角色在高速公路上绕圈行驶并急刹车停下。
-
-#### 📝 提示词
-
-```
-让她在公路中央绕圈行驶，然后猛地刹车停下。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116632577284972544/img/4D9gnngL0-O7DHXb.jpg" width="600" alt="高速公路绕圈急停">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13337)**
-
-**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2116632597333959048) | **发布时间:** Oct 31, 2026
-
----
-### 吸血鬼僵尸舞蹈视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Grok Imagine 视频提示词，展示吸血鬼和僵尸在有人演奏吉他独奏时跳舞的场景。
-
-#### 📝 提示词
-
-```
-吸血鬼和僵尸也加入了派对，他飙起一段超燃的 solo，全场跟着疯狂热舞
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116627246517493761/img/52FuPwOYzGOZmXIE.jpg" width="600" alt="吸血鬼僵尸舞蹈视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13335)**
-
-**作者:** [Michael Erikson](https://x.com/erikson_michael) | **来源:** [Link](https://x.com/erikson_michael/status/2116627359642362230) | **发布时间:** Oct 31, 2026
-
----
-### 卧室人像视频提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 用于生成一段 10 秒视频的截断提示词，描述了一位躺在床上的女性，详细指定了面部特征、服装、一致性以及灯光细节。文本在句子中途被截断。
-
-#### 📝 提示词
-
-```
-中文提示词（10.00 秒）
-
-人物
-• 面部：完全遵循参考，五官、脸型、发色均以头像为准，全程保持同一张脸；纯黑长发自然散落在枕头上，右侧脸颊前垂落一缕碎发；妆容为淡粉色腮红搭配红唇，不佩戴项链或任何首饰。
-• 服装与身形：完全遵循参考，灰紫色蕾丝吊带衫搭配同色系蕾丝肩部长袖开衫，款式、颜色及身材比例保持不变。
-• 一致性：人物的面部与服装必须全程保持一致，表情自然真实，无夸张神态。
-
-场景：室内卧室，人物半躺，头部靠在白色针织纹理的枕头上，身下及身旁铺着灰色长毛绒毯，画面左侧放有米色靠垫，背景为深灰色床头板。光线：昏暗温暖的室内光，主光源来自上方略……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116573763198480385/img/WbVZwj9MnMDo4Y0X.jpg" width="600" alt="卧室人像视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13344)**
-
-**作者:** [magic](https://x.com/bingo967218) | **来源:** [Link](https://x.com/bingo967218/status/2116573833096466885) | **发布时间:** Oct 31, 2026
-
----
-### 科幻战斗装甲变形视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的结构化提示词，用于生成展示模块化战斗装甲变形并部署武器的科幻视频，包含具体的视觉风格、镜头和音效指令。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段进阶变形科幻战斗装甲视频。核心主体是一套布满集成武器的高级模块化战斗装甲，主要事件是装甲在充满动感的战斗就绪序列中完成组装、变形并展开全套武器系统。
-
-[事件脚本]
-开场：一块流线型的高科技外骨骼底板静置于幽暗的金属机库中，处于休眠状态，结构紧凑。
-主要事件：装甲开始逐层极速变形——交叠的碳纤维与液态金属装甲板接连扣合到位，构成一套覆盖全身的新世代战斗服，其上遍布发光的能量导管、强化关节伺服电机以及自适应反应装甲板。集成武器全面铺展于整个机体：前臂双联等离子炮伸出并锁定；肩部导弹舱升起进入待发状态；背部高能轨道炮展开旋转炮管；髋部光束投射器部署就位；腕刃与纳米锋刃格斗刀弹出锁定；推进背包与能量护盾发生器随之启动，光芒明灭闪烁。战甲彻底完成变形，化作火力爆表、全副武装的战斗形态，随即所有系统上线、武器锁定目标，充能进入战斗姿态。
-结尾：完成变形的进阶科幻战斗装甲严阵以待，所有武器悉数展开并流转着能量光芒。在极具张力的机库灯光下，这具庞大却不失灵动的身影以战斗姿态定格。
-
-[视觉风格]
-超精细电影级科幻美学：亮黑与枪灰色装甲板交织，霓虹青与橙色能量纹路游走其间，全息 HUD 元素在表面不断闪烁，搭配体积光（丁达尔效应）与高对比度金属反光。
-
-[镜头]
-电影级多机位序列：开场以极具张力的低角度缓慢推镜头聚焦休眠中的骨架；随后切入动感环绕跟拍，捕捉每一块装甲板的扣合与每一件武器的展开；最后以震撼的低角度英雄镜头，环绕全副武装的战甲收尾。
-
-[音效]
-深沉的机械变形撞击声与液压嘶鸣，层层递进的电子充能音效，武器蓄能的嗡鸣与锁定目标的提示音，重型装甲扣合的沉闷撞击声，以及强劲低频的战斗引擎轰鸣，并伴随隐约渐强的电影配乐。
-
-[保持一致性]
-在整个变形过程中，装甲设计须始终保持统一，呈现为一套完整的进阶全副武装战斗服——从基础形态到最终战斗就绪状态，不得遗漏任何武器，且能量色彩、装甲材质与整体轮廓必须前后一致。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116557500564807680/img/Ve4Cc9MaYv9q4FhW.jpg" width="600" alt="科幻战斗装甲变形视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13332)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2116557634891649244) | **发布时间:** Oct 31, 2026
-
----
-### 霜冻马匹剪影融化视频提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个详细的提示词，用于生成逼真的微距视频：窗户上的霜晶融化成水滴，显现出马的剪影，随后消散以展示窗外温暖的街灯。包含具体的时间线指令和负面约束条件。
-
-#### 📝 提示词
-
-```
-主题：
-透过单层玻璃拍摄的室内夜景：密集湿冷的霜晶自然凝结出隐约的马群轮廓（大约数匹，无法逐只清晰计数）——呈现真实的霜晶光泽，而非贴纸马或雕刻出的马形。开场时霜层完好未融；首帧为纯净的霜面，不露出暖气片顶部边缘。整体视觉倾向可辨认为马群剪影，但边缘皆为蕨叶状、枝杈状的结晶绒毛，切勿追求“清晰数出七匹马”。约两秒后，画面底部出现暖气片顶部边缘；热浪微尘自下缘升腾，推动持续黏稠的融化过程：同一条有机的融水前锋自下而上逐帧攀升，前缘始终是同一道锯齿状尖端向上攀爬，齿距连续变化，绝非一道亮边横扫画面；其后留下一片可读作湿润镜面般的水膜，紧接着是清晰近圆的水滴受重力作用沿同一块玻璃滑落。霜层退去之处，窗外钠黄色的温暖路灯光如盾牌般透射进来。画面中不得出现人手、枫叶、木槌、神像或人物；不得有黄铜阀门或管件的特写。
-
-环境：
-9:16 极限微距锁定一块玻璃，机位略微俯拍，全程保持同轴。霜层完整时，窗外是冷蓝色的夜；暖气片顶部边缘附近透出暖黄色；霜层退去后，温暖的路灯光穿透湿润的玻璃。切勿切换至另一扇窗户。
-
-氛围：
-供暖解压的连奏感——冷光一闪，屏息凝神，一次绵密柔滑的融化推进，水滴顺滑流淌，静谧暖意落定。
-
-声音：整段仅提示一次——霜面嘶嘶声、暖气低鸣、融化轻嘶、水滴轻叩、安静的房间底噪；无音乐，无对白。
-
-时间线：
-0:00-0:02：同轴锁定的极限特写。湿冷霜晶瞬间铺满画面，在深蓝色背景中隐约呈现出马群剪影；底部尚未出现暖气片。唯一动态：湿冷的光泽沿晶体边缘缓慢游走——晶体保持固态；剪影倾向不发生漂移，也不变形为其他动物，但不要求单只轮廓清晰。无滴水，无热量，不显示暖气片顶部边缘。
-音效：微弱的冰霜嘶嘶声
-
-0:02-0:04：同轴，同一层霜面。此时底部可见暖气片顶部边缘；暖黄色的微尘颗粒与热浪波纹自该边缘持续升腾。热气上升，上方马群霜影依然完整——无融水前锋，无滴水，无阀门管道。镜头末尾短暂屏息。
-音效：柔和的暖气低鸣
-
-0:04-0:07：同轴锁定。底部边缘首先显现出有机的融水前锋，随后如黏稠奶油般持续向上攀爬——前缘尖端真实地逐帧推移，同一道锯齿状尖端不断上行，绝非水平阶梯式的块状融化，绝非瞬间消散的亮光，也绝非亮边横扫擦除；随着霜层变薄，马形自然消融，绝不能单独保留未融的马形，也不能整块瞬间消失。前锋之下，湿润明亮的玻璃面逐渐扩大，拖曳出水膜高光。暖气片顶部边缘仅在画面底端化作一条温暖的金属带，随着湿润玻璃的辨识度降低，其轮廓逐渐淡去——绝不变形、发光成灯或化作珠串。本镜头末尾，同一块玻璃上已布满水膜并凝结出水滴。
-音效：轻柔的融化嘶嘶声；早期的水滴轻叩声
-
-0:07-0:09：同一片连续的湿润玻璃，同一光线。清晰的近圆形水滴汇成细流受重力滑落，或先微微颤动再滑下——轨迹连贯，绝非整条水痕瞬间出现。镜面高光随水流滚动。动势沉淀为极缓的滑落 + 高光微滚；前缘尖端几乎停滞，但仍保持亚像素级的蠕动——全片严禁陷入静止冻结感。无新融化，无重新结冰。
-音效：水滴轻叩 -> 短暂静默
-
-0:09-0:10：同一片连续的湿润玻璃。光学微推幅度不超过 8%，切入透明区域；霜层留下不规则的有机残存尖端与生硬的湿润边缘，横穿画面下半部——绝非整齐宽阔的水平带状，绝非椭圆形窥孔，也绝非残留完整的马形贴纸；残余霜层已无法辨认为完整的马形。透过水汽可清晰辨认出纳黄色的温暖路灯光；见暖即止。
-音效：安静的房间底噪
-
-风格：写实微距解压，湿润玻璃物理质感，冷暖交锋，一镜到底；马群仅作为自然霜晶的剪影意象存在，切勿追求可数的七匹马。
-
-负面提示：供暖开始前不得融化；禁止水平阶梯式融化；禁止亮边横扫擦除；禁止瞬间消散；禁止水滴/水痕瞬间出现；融化后禁止呈现干燥磨砂玻璃质感；末段禁止近乎静止的冻结感；禁止轴线跳跃；禁止出现第二扇窗；禁止椭圆形窥孔；禁止整齐的宽阔残留带；禁止出现黄铜阀门或管件；禁止暖气片变形为模糊街景；禁止出现贴纸/卡通/雕刻的完整马形；融化过程中禁止单独保留未融的马形；禁止出现清晰可数的七匹马雕刻；禁止出现人手、枫叶、木槌、神像；禁止音乐或对白。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116551528156954625/img/neNTetN8llirsF08.jpg" width="600" alt="霜冻马匹剪影融化视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13343)**
-
-**作者:** [夏天爱福利](https://x.com/xiantian_xigua) | **来源:** [Link](https://x.com/xiantian_xigua/status/2116551653143007625) | **发布时间:** Oct 31, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2621,6 +2613,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-14T01:07:47.799Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-14T11:36:34.441Z</sub>
 
 </div>

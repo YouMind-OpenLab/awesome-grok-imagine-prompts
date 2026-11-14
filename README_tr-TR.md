@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3390** |
+| 📝 Total Prompts | **3400** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-14** |
 
@@ -189,6 +189,207 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine İstemi: Mekanik Akrep Savaşçısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Chibi bir çocuğun robotik böceklerinin zırh ve akrep kuyruğuna dönüştüğü bilim kurgu temalı dönüşüm videosu oluşturmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Mekanik Akrep Savaşçı
+Tozlu kahverengi bir kapüşon ve akrepten ilham alan kulaklar takan minik bir Chibi çocuk, terk edilmiş bir çöl laboratuvarını keşfediyor. Altın rengi robotik böcekler sırt çantasından dışarı tırmanıyor. Bir araya gelerek çöl savaş zırhına dönüşüyorlar ve arkasında devasa mekanik bir akrep kuyruğu açılıyor. Kuyruğun ucundan parlayan bir plazma kılıcı beliriyor.
+
+Video uyarısı: 
+Kurgusal, yapay zeka ile üretilmiş bilim kurgu karakterleri ve hayal ürünü fütüristik zırh dönüşümleri. Yalnızca eğlence amacıyla oluşturulmuştur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121433024843960320/img/Tl6uAY2CL0Pn_anW.jpg" width="600" alt="Grok Imagine İstemi: Mekanik Akrep Savaşçısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13856)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121433386321596728) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine Video Prompt: Wiley Coyote Roadrunner Uzay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Wiley Coyote'un Roadrunner'ı bir yıldız gemisine kadar kovaladığı, uzaya fırlatıldığı ve yörüngeye girdiği anlatısal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bana Wiley Coyote'un Road Runner'ı bir yol boyunca uzay gemisine kadar kovaladığı, ardından Road Runner'ın durduğu bir video ver. Wiley Coyote uzay gemisine biner ve gökyüzüne fırlatılır; sonra güçlendirici ayrılır ve Wiley Coyote yörüngeye girer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121390386119606272/img/V4204L_JyVhChdrd.jpg" width="600" alt="Grok Imagine Video Prompt: Wiley Coyote Roadrunner Uzay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13852)**
+
+**Author:** [Josh Lelli](https://x.com/lellitech82) | **Source:** [Link](https://x.com/lellitech82/status/2121390407749615940) | **Published:** Nov 13, 2026
+
+---
+### Grok Imagine Video İstemi: Thor Tai Chi Çekiç Parıltısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Thor'un elektrikli bir çekiçle tai chi hareketleri yaptığı, mavi ışık parlayan ve kameraya sırıtan dinamik bir aksiyon istemi.
+
+#### 📝 Prompt
+
+```
+Tai chi hareketini elektrikli çekiciyle sürdürmeye devam eden Thor, kameraya bakıp sırıtırken kendisi de mavi bir ışıkla parlamaya başlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121344522474962944/img/ScEWNMzn_EAUqdmY.jpg" width="600" alt="Grok Imagine Video İstemi: Thor Tai Chi Çekiç Parıltısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13851)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2121344645271601208) | **Published:** Nov 13, 2026
+
+---
+### Grok Imagine Video İstemi: İspanyolca Konuşan ve Puro İçen Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Barcelona aksanıyla İspanyolca belirli bir ifadeyi söyleyen ve puro içen bir kadını gösteren Grok Imagine için video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Ona bir puro yaktırıp derin bir nefes çektir ve ardından İspanyolca "domatesler pantolonumda" desin; üstelik bu İspanyolcayı Barcelona aksanıyla söylesin!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121294223886655488/img/2z1KUOkNL2oIq_XB.jpg" width="600" alt="Grok Imagine Video İstemi: İspanyolca Konuşan ve Puro İçen Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13853)**
+
+**Author:** [Charlie Durnell](https://x.com/01101010001A) | **Source:** [Link](https://x.com/01101010001A/status/2121294280098800109) | **Published:** Nov 13, 2026
+
+---
+### K-pop Girl Crush Dans Videosu İstem Promptu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans görseline dayalı olarak müzik ritimlerini, kamera kesitlerini ve karakter tutarlılığını belirten, fotogerçekçi 15 saniyelik K-pop tarzı dans videosu oluşturmak için kullanılan son derece detaylı İngilizce istem.
+
+#### 📝 Prompt
+
+```
+@Image1 ile (yüz, saç, vücut, kıyafet, ayakkabı, aksesuarlar) birebir eşleşen tek bir yetişkin kadının yer aldığı, fotogerçekçi, 15 saniyelik Girl Crush K-pop müzik videosu. İlk kareden itibaren dansa başlamış olmalı; hareketler klip süresini aşarak devam etmeli. Tek bir kesintisiz koreografi, harekete göre kusursuzca bağlanmış 6 kesme. Final ya da başa dönüş yok.
+
+Stüdyo: dikişsiz kömür grisi arka plan, hafif zemin yansıması, yumuşak beyaz ana ışık, soluk mavi-mor kontur ışığı.
+
+Müzik: halihazırda çalmakta olan, orijinal 128 BPM 4/4'lük Girl Crush K-pop nakaratı. Güçlü kick, bas, el çırpma, synth'ler ve sözsüz vokal kesitleri. Şarkının ortasından bir bölüm; giriş, söz, konuşma, bitiş vurgusu veya karartma yok.
+
+Dans: feminen akıcılık, yere sağlam basan güçlü adımlar, geniş kol hareketleri. Tekrarlayan motif: çapraz kapanan kollar, kalçalar ters yönde hareket ederken diyagonal olarak açılır. Yumuşak dizler, doğal ağırlık aktarımları, kalçadan omuzlara uzanan body wave'ler. Hareket asla durmamalı.
+
+1–8. Vuruşlar: Hareketin ortasında başla. Sağa geniş adım, kollar açık; sola kayış, kollar aşağıya doğru dairesel hareket; iki adım ileri ve göğüs vurgusu; geniş adım, kalça ile sekiz çizerek alçalma.
+
+9–16: Alçak sekiz hareketi, sağ-sol-orta kayışları; kalça öncülüğünde yükselen body wave'i kollar takip eder; dönüşe hazırlık için sağ ayak solun önüne çaprazlanır.
+
+17–24: Akıcı tam tur, kollar önce kapanıp sonra açılır; sağ lunge pozisyonuna geçiş, sol kol yukarıda uzatılmış; ortaya geri itilme, kolların aşağı süzülmesi ve sola yerleşme.
+
+25–32: Kalça vurguları ve hızlı adımlar; en geniş kol açılımıyla birlikte geniş adım; kollar aşağıya doğru dairesel hareket, ağırlığın sola aktarılması, sonraki çapraz adımın başlangıcı. Hareketin ortasında sonlanmalı.
+
+Kamera: Sırasıyla altı kesme: açılı tam boy, bel/kalça kadrajı, yüz/omuz yakın çekim, tam boy dönüş ve lunge, baştan uyluğa orta plan, tam boy. Hafif yatay kamera hareketi. Kesmeler arasında hareket sürekliliği korunmalı. Kasık bölgesine zoom, atlanan hareket, sarsıntı veya ağır çekim yok.
+
+Gerçekçi cilt ve ter parlaklığı, doğal saç ve kumaş hareketi, hafif hareket bulanıklığı. Müzik ön planda, ayak sesleri belirgin değil.
+
+Kimlik/kıyafet değişiklikleri, çift görüntüler, fazladan uzuvlar, sert eklem hareketleri, donmuş pozlar, ayak kaymaları, havada süzülme, doğal olmayan bükülmeler, CGI görünümü, metin, logolar, altyazılar ve filigranlardan kaçınılmalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121277078465380353/img/BPK0X4YJOfxScOrr.jpg" width="600" alt="K-pop Girl Crush Dans Videosu İstem Promptu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13859)**
+
+**Author:** [ami](https://x.com/AmiSnugglebug) | **Source:** [Link](https://x.com/AmiSnugglebug/status/2121278984411631877) | **Published:** Nov 13, 2026
+
+---
+### Chibi Mavi Siber Melek Dönüşüm Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Holografik kanatlara ve savaş zırhına sahip mavi bir siber meleğe dönüşen chibi kızın videosunu oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Mavi Siber Melek
+Kısa siyah saçlı, beyaz dantel kapüşonlu ve kocaman tavşan kulaklı sevimli bir Chibi kız, fütüristik bir bahçede duruyor. Ayaklarının altında mavi bir holografik halka beliriyor. Bedeninin etrafında robotik tüyler bir araya gelerek kıyafetini beyaz-mavi melek savaş zırhına dönüştürüyor. Ardından altı ışıltılı mekanik kanat açılıyor.
+
+Video uyarısı: 
+Kurgusal, yapay zekâ ile oluşturulmuş bilim kurgu karakterleri ve hayal ürünü fütüristik zırh dönüşümleri. Yalnızca eğlence amacıyla hazırlanmıştır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121259074704822273/img/YiN7xj3oZCZGV22C.jpg" width="600" alt="Chibi Mavi Siber Melek Dönüşüm Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13858)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **Published:** Nov 13, 2026
+
+---
+### Kara Şövalye Dönüşüm İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine ile kullanılan, chibi bir çocuğun fütüristik bir şövalyeye dönüştüğü video dönüşüm sekansı için yaratıcı bir yazım istemi.
+
+#### 📝 Prompt
+
+```
+Kara Şövalye Dönüşümü
+Uzun tavşan kulaklı, yırtık siyah bir kapüşon takan küçük bir Chibi çocuk, gizemli bir Orta Çağ kalesinde elindeki eski feneri taşıyor. Gölgelerin arasından siyah metalik parçacıklar yükseliyor. Üzerindeki kıyafetin tamamı ağır, siyah ve fütüristik bir şövalye zırhına dönüşüyor. Sol kolunda devasa mekanik bir kalkan beliriyor ve kırmızı ışık saçan bir enerji kılıcı aktifleşiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121240438548135936/img/ucUSiDCIc85c2Gh4.jpg" width="600" alt="Kara Şövalye Dönüşüm İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13857)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121240595507347962) | **Published:** Nov 13, 2026
+
+---
+### Siber Kurt Komutanı Dönüşüm Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karlı bir üste robotik kurtlarla birlikte bir chibi kızın savaş zırhına dönüştüğü videoyu oluşturmak için detaylı bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Cyber Wolf Commander
+Gümüş saçlı, yırtık beyaz kurt kulaklı kapüşonlu sevimli bir Chibi kız, karlar altında kalmış bir askeri üste yürüyor. Sırt çantası açılıyor ve içinden minyatür robotik kurtlar fırlıyor. Kurtlar kızın bedenine atlayarak beyaz-gümüş renkli bir savaş zırhına dönüşüyor. Mekanik bir kurt miğferi beliriyor ve iki robotik kurt yoldaşı hemen yanında yerini alıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121204665232842752/img/qq0EEb1LOpj_ccRl.jpg" width="600" alt="Siber Kurt Komutanı Dönüşüm Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13850)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121204732568178952) | **Published:** Nov 13, 2026
+
+---
+### Chibi Çocuk Gümüş Samuraya Dönüşüyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, eski bir Japon sokağında robotik zırh giymiş gümüş bir samuraya dönüşen chibi bir çocuğu tasvir eden video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Siyah saçlı, kurt kulaklı yıpranmış gri bir kapüşon ve geleneksel ahşap bir kılıç taşıyan minik Chibi bir çocuk, eski bir Japon sokağında ilerliyor. Sırt çantasından gümüş robotik plakalar çıkarak vücudunun etrafında bir araya geliyor. Yırtık pırtık kıyafetleri fütüristik bir samuray zırhına dönüşüyor. Elinde parlayan bir katana beliriyor ve mekanik bir miğfer başını sararak kapanıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121180965745897472/img/X5iNr0i9S2YqZNNs.jpg" width="600" alt="Chibi Çocuk Gümüş Samuraya Dönüşüyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13854)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121181023849578666) | **Published:** Nov 13, 2026
+
+---
 ### Kıyı Sabah Sahnesi Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -904,6 +1105,49 @@ Yasal Uyarı: Bu, Starlink uydu teknolojisinden ilham alan kurgusal bir sinemati
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13824)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119228089809187247) | **Published:** Nov 8, 2026
+
+---
+### Grok Imagine Prompt: Optimus Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir kamyonun, Optimus Prime tarzı bir robota dönüştüğü yüksek hızlı sinematik bir dönüşüm için son derece detaylı prompt.
+
+#### 📝 Prompt
+
+```
+Hiper Hızlı Optimus Dönüşümü – Sinematik Bilim Kurgu Prompt'u
+
+Video Prompt'u:
+
+Devasa, fütüristik bir ağır hizmet kamyonu, neon ışıklarla aydınlatılmış devasa yüksek teknolojili bir tünelde inanılmaz bir hızla ilerliyor; güçlü motorları kükürken tekerleklerinin ardında mavi enerji izleri süzülüyor. Aniden kamyon, ileri doğru hareket etmeye devam ederken patlayıcı bir ağır çekim dönüşümüne geçiyor. Hassas mühendislikle üretilmiş yüzlerce mekanik parça dışarıya doğru fırlayarak havada dönüyor, kayıyor ve yeniden konumlanıyor. Ön ızgara güçlü zırhlı bir göğse ayrılıyor, tekerlekler dönerek omuzlara ve bacaklara yerleşiyor, devasa hidrolik kollar açılıyor ve karmaşık metalik yapılar inanılmaz bir hassasiyetle birbirine kilitleniyor. Dönüşüm son aşamasına ulaştığında parlayan mavi enerji çekirdekleri aktifleşiyor. Saniyeler içinde, savaşa hazır devasa bir Optimus robotu tünel zeminine ağır bir şekilde inerek kıvılcımlar, şok dalgaları ve sinematik bir enerji patlaması yaratıyor. Tünel ışıkları metalik zırhını aydınlatırken tam boyuna yükseliyor ve kameraya doğru kendinden emin adımlarla yürüyor.
+
+Görsel Stil:
+
+* Ultra fotogerçekçi 3D CGI
+
+* Üst düzey mekanik dönüşüm
+
+* Aşırı ağır çekimle hiper hızlı aksiyon
+
+* Karmaşık hareketli dişliler, pistonlar ve hidrolik sistemler
+
+* Sinematik hareket bulanıklığı ve gerçekçi kıvılcımlar
+
+* 8K HDR, dramatik aydınlatma, gerçekçi yansımalar
+
+* Akıcı kamera takibi ve dinamik açılar
+
+Süre: 10–12 saniye En Boy Oranı: 9:16 Kalite: Hollywood seviyesinde sinematik gerçekçilik. Önemli: Kesintisiz, tek parça halinde bir kamyon-robot dönüşümü. Atlamalı kesimler (jump cut), kaybolan parçalar veya bozulmuş anatomik yapılar olmamalıdır.
+
+Yasal Uyarı: Bu video yalnızca eğlence ve yaratıcı amaçlarla yapay zeka tarafından oluşturulmuştur. Kamyonun Optimus'a dönüşümü, fütüristik teknoloji ve görsel efektler tamamen kurgusaldır; gerçek dünyadaki herhangi bir mühendislik çalışmasını veya olayı yansıtmamaktadır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119005860622110721/img/l3Xz4NGljZ7z9vIg.jpg" width="600" alt="Grok Imagine Prompt: Optimus Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13855)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119005911503245593) | **Published:** Nov 7, 2026
 
 ---
 ### Dişil Optimus Yağmur Tulumu Dönüşümü
@@ -2305,258 +2549,6 @@ Atlıkarınca, gerilim dolu müziğin eşliğinde ürpertici bir şekilde döner
 **Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
 
 ---
-### Tavus Kuşu Zafer Dansı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hintli müzik eşliğinde gururla yürüyen ve dans eden bir tavus kuşunun videosunu oluşturmak için bir istem.
-
-#### 📝 Prompt
-
-```
-Gururlu tavus kuşu, buranın sahibiymiş gibi kasılarak dolaşıyor. Zafer dansına ise Hint müziği eşlik ediyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683628768006144/img/W8FxcCtxtkq73qyy.jpg" width="600" alt="Tavus Kuşu Zafer Dansı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13336)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683745118040531) | **Published:** Nov 1, 2026
-
----
-### Renk İzli Koşan At
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, gururla koşan bir atın renk izi bırakıp toz kaldırmasını ve ardından benzer atların sürüsünün gelmesini tasvir eden bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-At, ardında bir renk izi bırakarak yiğitçe dörtnala koşuyor; toynaklarının havaya savurduğu toz bulutunun ardından, peşinden gelen benzer atlardan oluşan bir sürü onu takip ediyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683079687540736/img/TiCIbgwiI_AqjVZQ.jpg" width="600" alt="Renk İzli Koşan At">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13338)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683173350474086) | **Published:** Nov 1, 2026
-
----
-### Balerin Sayfa Sıçraması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için yaratıcı bir video istemi: Balerin, senfoni notaları eşliğinde döner ve renkli bir sıçrayışla sayfaya atlar.
-
-#### 📝 Prompt
-
-```
-Balerin, notaların oluşturduğu bir senfoni eşliğinde kendi etrafında dönüyor ve sayfaya renk cümbüşü içinde atlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116682814477467649/img/4fgUeVjuAmvJWFUX.jpg" width="600" alt="Balerin Sayfa Sıçraması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13340)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **Published:** Nov 1, 2026
-
----
-### Doğal Animasyon Video Üretimi Şablonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Başlangıç sahnesinden veya referans görüntüden, hafif özne hareketleri, yumuşak kamera geçişleri ve ortam sesleriyle sürekli videolar üretmek için yapılandırılmış bir şablon.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Bir başlangıç sahnesinden veya referanstan yola çıkarak; hafif özne hareketleri, yumuşak kamera geçişleri ve ortama uygun ambiyans sesleriyle doğal bir animasyonun kesintisiz videosunu oluşturun.
-
-[Olay Akışı]
-Başlangıçta: Özneler ve aksesuarlar sahnede ilk pozlarını ve konumlarını korur.
-Ana olay: Özneler nefes alma, duruşta küçük değişimler veya çevreyle hafif etkileşimler gibi ince ve doğal hareketler sergiler; varsa aydınlatma ve atmosfer yumuşak bir şekilde evrilir.
-Sonunda: Genel kompozisyon bütünlüğünü korurken özneler sakin ve kesintisiz bir duruma geçer.
-
-[Tutarlılığı Koruyun]
-Özne kimliklerini, sayılarını, kıyafetleri, aksesuar sahipliklerini, mekânsal ilişkileri ve görsel stili baştan sona sabit tutun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="Doğal Animasyon Video Üretimi Şablonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13414)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116643859744833763) | **Published:** Oct 31, 2026
-
----
-### Marcus Antonius'un Ayrılışını İzlerken Ağlayan Kleopatra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kleopatra'nın, son kez savaşmak için ayrılan Marcus Antonius'u izlerken ağladığını gösteren Grok Imagine için dramatik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kleopatra, Marcus Antonius'un son kez savaşa gidişini izlerken gözyaşlarına boğuluyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116636125209006080/img/JtgZ1BtuDYGZpeJt.jpg" width="600" alt="Marcus Antonius'un Ayrılışını İzlerken Ağlayan Kleopatra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13339)**
-
-**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2116636143051788391) | **Published:** Oct 31, 2026
-
----
-### Otoyol Dairesel Hareket ve Ani Duruş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin otoyolda dairesel bir hareket yaparak lastik gıcırtısıyla ani durmasını sağlayan istem.
-
-#### 📝 Prompt
-
-```
-Otoyolun tam ortasında daireler çizerek sürsün ve lastikleri cırlatarak aniden dursun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116632577284972544/img/4D9gnngL0-O7DHXb.jpg" width="600" alt="Otoyol Dairesel Hareket ve Ani Duruş">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13337)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116632597333959048) | **Published:** Oct 31, 2026
-
----
-### Vampir Zombi Dans Videosu İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir Grok Imagine video istemi; vampirlerin ve zombilerin, birinin solo çaldığı sırada dans ettiği sahneyi içeriyor.
-
-#### 📝 Prompt
-
-```
-Vampirler ve zombiler de partiye katılıyor; o harika bir solo çalarken hepsi çılgınca dans ediyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116627246517493761/img/52FuPwOYzGOZmXIE.jpg" width="600" alt="Vampir Zombi Dans Videosu İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13335)**
-
-**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116627359642362230) | **Published:** Oct 31, 2026
-
----
-### Yatak Odası Portre Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Yatakta uzanan bir kadının 10 saniyelik videosunu oluşturmak için kullanılan, yüz hatlarını, kıyafeti, tutarlılığı ve aydınlatma detaylarını belirten kesilmiş bir istem. Metin cümlenin ortasında sonlanıyor.
-
-#### 📝 Prompt
-
-```
-Çince prompt (10,00 saniye)
-Karakter
-• Yüz: Tamamen uyulacak; yüz hatları, yüz şekli ve saç rengi portre fotoğrafına göre belirlenecek, baştan sona aynı yüz korunacak, simsiyah uzun saçlar yastığa serbestçe yayılmış, sağ yanağın önüne düşen birkaç tel dağınık saç, makyaj açık pembe allık ve kırmızı dudaklardan oluşacak, kolye veya takı kullanılmayacak.
-• Kıyafet ve vücut: Tamamen uyulacak; gri-mor dantel kaşkorse üzerine aynı renkte dantel omuzlu uzun kollu hırka, stil/renk/vücut oranları değiştirilmeyecek.
-• Tutarlılık: Karakterin yüzü ve kıyafeti video boyunca kesinlikle değişmeyecek, ifadeler doğal ve gerçekçi olacak, abartılı mimikler kullanılmayacak.
-
-Sahne: İç mekan yatak odası, karakter başı beyaz örgü dokulu yastığa yaslanmış şekilde yarı uzanmış pozisyonda, altında ve yanında gri uzun tüylü battaniye, kadrajın sol tarafında bej renk minder, arka planda koyu gri yatak başlığı. Aydınlatma: Loş ve sıcak iç mekan ışığı, ana ışık yukarıdan hafifçe...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116573763198480385/img/WbVZwj9MnMDo4Y0X.jpg" width="600" alt="Yatak Odası Portre Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13344)**
-
-**Author:** [magic](https://x.com/bingo967218) | **Source:** [Link](https://x.com/bingo967218/status/2116573833096466885) | **Published:** Oct 31, 2026
-
----
-### Bilim Kurgu Savaş Zırhı Dönüşüm Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modüler savaş zırhının dönüşümünü ve silahların konuşlandırılmasını içeren, belirli görsel stil, kamera ve ses talimatlarını kapsayan, bilim kurgu videosu oluşturmak için yüksek detaylı yapılandırılmış prompt.
-
-#### 📝 Prompt
-
-```
-[Üretim Hedefi]
-Bir üst seviye Transformations bilim kurgu savaş zırhı videosu oluşturun. Ana odak noktası, tamamen entegre silahlarla donatılmış gelişmiş modüler bir savaş zırhıdır; temel olay ise zırhın dinamik bir savaşa hazırlık sekansında bir araya gelmesi, dönüşmesi ve tüm silah sistemlerini devreye sokmasıdır.
-
-[Olay Senaryosu]
-Başlangıçta: Şık, yüksek teknolojili bir exo-frame taban plakası, karanlık metalik bir hangarda hareketsiz ve kompakt bir şekilde durmaktadır.
-Temel olay: Zırh katman katman hızla dönüşür — üst üste binen karbon fiber ve sıvı metal plakalar yerine oturur; parlayan enerji kanalları, güçlendirilmiş eklem servoları ve adaptif reaktif zırh panellerine sahip, tam vücut yeni nesil bir savaş kostümü oluşturur. Entegre silahlar şasi boyunca tamamen yerini alır: çift ön kol plazma topları uzanıp kilitlenir, omuz monteli füze rampaları yükselip ateşe hazır hâle gelir, sırttaki yüksek enerjili railgun dönen namlularıyla açılır, kalça monteli ışın projektörleri devreye girer, bilek bıçakları ve nanit uçlu savaş hançerleri fırlayıp sabitlenirken itici paketler ve enerji kalkanı yayıcıları titreşen ışıklarla aktif olur. Kostüm, dönüşümünü aşırı güçlü ve tamamen silahlarla donatılmış bir savaş konfigürasyonuna dönüştürerek tamamlar; ardından tüm sistemler çevrimiçi ve silahlar hedefleme modundayken güç toplayarak bir savaş pozisyonu alır.
-Sonunda: Tamamen dönüşmüş bu üst düzey bilim kurgu savaş zırhı, her bir silahı açık ve enerjiyle parlayarak hazır bekler; dramatik hangar aydınlatması altında iri ama çevik silueti, savaş pozisyonunda sabitlenmiştir.
-
-[Görsel Stil]
-Parlak siyah ve barut grisi plakalar, neon camgöbeği ve turuncu enerji hatları, yüzeyde titreyen holografik HUD öğeleri, hacimsel tanrı ışınları (god rays) ve yüksek kontrastlı metalik yansımalarla ultra detaylı sinematik bilim kurgu estetiği.
-
-[Kamera]
-Sinematik çok açılı sekans: Hareketsiz çerçeveye doğru dramatik bir alt açıdan yavaş yaklaşmayla başlar, her zırh parçasının yerine oturmasını ve her silahın devreye girmesini takip eden dinamik dairesel izleme çekimlerine geçer, tamamen silahlanmış kostümün etrafında dönen güçlü bir alt açı kahraman çekimiyle sona erer.
-
-[Ses]
-Derin mekanik dönüşüm tıkırtıları ve hidrolik tıslamaları, giderek yükselen elektronik güç toplama tonları, silahların şarj olma uğultuları ve hedef kilitleme sesleri, ağır zırhın yerine oturma çarpma sesleri ile hafif bir sinematik müzik yükselişi eşliğinde güçlü, düşük frekanslı bir savaş motoru uğultusu.
-
-[Tutarlılığı Koruyun]
-Dönüşüm boyunca zırh tasarımını tek bir üst düzey, tamamen silahlarla donatılmış savaş kostümü olarak bütüncül tutun — eksik silah olmamalı; temel formdan nihai savaşa hazır duruma kadar enerji renkleri, plaka malzemeleri ve siluet tutarlı olmalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116557500564807680/img/Ve4Cc9MaYv9q4FhW.jpg" width="600" alt="Bilim Kurgu Savaş Zırhı Dönüşüm Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13332)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116557634891649244) | **Published:** Oct 31, 2026
-
----
-### Buzlu At Silüeti Erime Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Pencere camındaki buz kristallerinin su damlacıklarına dönüşerek at silüetlerini ortaya çıkarmasını ve ardından dışarıdaki sıcak sokak ışıklarını göstermesini sağlayan gerçekçi makro video üretimi için detaylı bir istem. Belirli zaman çizelgesi talimatları ve negatif kısıtlamalar içerir.
-
-#### 📝 Prompt
-
-```
-Konu:
-Tek camlı pencereden iç mekân gece görünümü: Yoğun, ıslak ve soğuk buz kristalleri doğal bir şekilde bir at sürüsünün belirsiz siluetini oluşturur (yaklaşık birkaç tane, tek tek net olarak sayılamayacak kadar) — hâlâ gerçek buz kristali parlaklığı; çıkartma atlar veya oyulmuş at şekilleri değil. Tamamen erimemiş halde başlar; ilk karede kaloriferin üst kenarı görünmez, sadece saf buz yer alır. Genel hatlarıyla bir at silueti eğilimi okunabilir, ancak kenarların tamamı eğrelti otu/dal benzeri kristal tüylerdir; amaç "net bir şekilde yedi atı saymak" değildir. Yaklaşık iki saniye sonra ekranın alt kısmında kaloriferin üst kenarı belirir; alt kenardan sıcak hava dalgası tozu yükselir ve sürekli, yoğun kıvamlı bir erimeyi tetikler: aynı organik ön cephe kare kare aşağıdan yukarıya doğru tırmanır, önde aynı tırtıklı diş ucu ilerler, diş aralıkları sürekli değişir; kesinlikle görüntüyü tarayan parlak bir kenar çizgisi değildir. Arkasında okunabilir, ıslak ve ayna gibi bir su filmi bırakır; ardından yerçekiminin etkisiyle aynı cam üzerinde aşağı kayan berrak, neredeyse yuvarlak su damlaları gelir. Buzun çekildiği yerlerden, pencerenin dışındaki sodyum sarısı sıcak sokak lambasının ışığı süzülür. İnsan eli, akçaağaç yaprağı, tokmak, put veya figür yoktur; pirinç vana veya boru bağlantı parçalarının yakın çekimleri yoktur.
-
-Ortam:
-9:16 aşırı makro, bir cam parçasına sabitlenmiş, hafifçe yukarıdan ve baştan sona eş eksenli. Buz tam olduğunda dışarısı soğuk mavi bir gecedir; kaloriferin üst kenarına yakın yerde sıcak sarı renk sızar; buz çekildikten sonra sıcak sokak lambaları ıslak camdan içeri parlar. Başka bir pencereye geçiş yapılmaz.
-
-Ruh Hali:
-Isınmayla gelen rahatlama, legato — soğuk flaş, nefes tutma, tek bir kremsi erime itilişi, pürüzsüz su damlaları, sessizce çöken sıcaklık.
-
-Ses: Tüm bölüm boyunca yalnızca bir kez söylenir — buz yüzeyinin tıslaması, ısıtıcı uğultusu, erimenin tıslaması, su damlasının tıkırtısı, sessiz oda gürültüsü; müzik yok, diyalog yok.
-
-Zaman Çizelgesi:
-0:00-0:02: Sabit aşırı yakın çekim, eş eksenli. Islak, soğuk buz kristalleri anında ekranı kaplar, koyu mavi zemin üzerinde belirsizce at siluetleri olarak okunur; altta henüz kalorifer yoktur. Tek hareket: ıslak soğuk parıltı kristal kenarları boyunca yavaşça sürünür — kristaller katı kalır; siluet eğilimi başka hayvanlara doğru kaymaz ya da dönüşmez, ancak her birinin net olması gerekmez. Damlama yok, ısı yok, kaloriferin üst kenarı gösterilmez.
-SFX: Hafif buz tıslaması
-
-0:02-0:04: Eş eksenli, aynı buz katmanı. Kaloriferin üst kenarı artık altta görülebilir durumdadır; sıcak sarı toz partikülleri ve sıcak hava dalgası şeritleri bu kenardan sürekli olarak yükselir. Isı yükselir, üstteki at buz gölgeleri eksiksiz kalır — erime cephesi yok, damlama yok, vana boruları yok. Çekimin sonunda kısa bir nefes tutma.
-SFX: Yumuşak ısıtıcı uğultusu
-
-0:04-0:07: Eş eksenli sabit kadraj. Alt kenar önce organik bir erime cephesi olarak okunur, ardından yapışkan bir krema gibi sürekli yukarı tırmanır — ön uç gerçekten kare kare yer değiştirir, aynı tırtıklı diş ucu sürekli tırmanır; kesinlikle yatay, basamaklı blok erime değildir, kesinlikle anlık ışık dağılması değildir, kesinlikle parlak bir kenarın süpürme geçişi değildir; buz inceldikçe at şekilleri doğal bir şekilde çözülür, kesinlikle at şeklinin ayrı ayrı erimeden korunması veya tüm bloğun aniden kaybolması söz konusu değildir. Ön cephenin altında ıslak, parlak cam genişler, ardında su filmi yansımaları bırakır. Kaloriferin üst kenarı alt kenarda yalnızca sıcak bir metal şerit olarak kalır, ıslak camın okunabilirliği azaldıkça konturu solar — kesinlikle deforme olmaz, bir lambaya dönüşerek parlamaz veya boncuklara dönüşmez. Bu çekimin sonunda aynı camda su filmi ve oluşmuş damlalar bulunur.
-SFX: Yumuşak erime tıslaması; erken su damlası tıkırtıları
-
-0:07-0:09: Aynı kesintisiz ıslak cam, aynı ışık. Berrak, neredeyse yuvarlak su damlaları yerçekimi nedeniyle ince akıntılar oluşturarak aşağı kayar veya kaymadan önce hafifçe titrer — yol kesintisizdir, kesinlikle tüm su izi aniden beliren bir yapıda değildir. Ayna yansımaları su akışıyla birlikte hareket eder. İvme, son derece yavaş bir kayma + yansımanın mikro hareketine dönüşür; ön uç neredeyse durur ama yine de piksel altı bir sürünme vardır — genel olarak statik bir hisse donması kesinlikle yasaktır. Yeni erime yok, yeniden donma yok.
-SFX: Su damlası tıkırtısı -> kısa sessizlik
-
-0:09-0:10: Aynı kesintisiz ıslak cam. Optik hafif yaklaşma en fazla %8 oranında şeffaf alana girer; buz, alt yarıyı geçen düzensiz organik kalıntı uçlar ve sert ıslak kenarlar bırakır — kesinlikle düzgün, geniş yatay bir bant değildir, kesinlikle eliptik bir gözetleme deliği değildir, kesinlikle eksiksiz bir at şekli çıkartması olarak kalmaz; kalan buz artık tam bir at şekli olarak okunamaz. Sodyum sarısı sıcak sokak lambası su buharının arasından net bir şekilde okunabilir; sıcaklık hissedildiğinde durulur.
-SFX: Sessiz oda gürültüsü
-
-Stil: Gerçekçi makro rahatlama, ıslak cam fiziği, soğuk-sıcak çatışması, tek çekim; at grubu yalnızca doğal buz kristali silueti hissi verir, sayılabilir yedi at peşinde koşulmaz.
-
-Negatifler: Isınma başlamadan erimesin; yatay basamaklı erime olmasın; parlak kenar süpürme geçişi olmasın; anlık ışık dağılması olmasın; damlalar/su izleri aniden belirmesin; erime sonrası kuru mat cam olmasın; son bölümde durağanlığa yakın bir donma olmasın; eksen sıçraması olmasın; ikinci bir pencere olmasın; eliptik gözetleme deliği olmasın; düzgün geniş bir kalıntı bandı olmasın; pirinç vana veya boru bağlantı parçaları olmasın; kalorifer bulanık bir sokak sahnesine dönüşerek deforme olmasın; çıkartma/çizgi film/oyulmuş eksiksiz at şekilleri olmasın; erime sırasında at şekli erimeden korunmasın; net bir şekilde sayılabilen yedi at oyması olmasın; insan eli, akçaağaç yaprağı, tokmak, put olmasın; müzik veya diyalog olmasın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116551528156954625/img/neNTetN8llirsF08.jpg" width="600" alt="Buzlu At Silüeti Erime Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13343)**
-
-**Author:** [夏天爱福利](https://x.com/xiantian_xigua) | **Source:** [Link](https://x.com/xiantian_xigua/status/2116551653143007625) | **Published:** Oct 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2618,6 +2610,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T01:08:00.859Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T11:36:44.359Z</sub>
 
 </div>
