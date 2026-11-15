@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3400** |
+| 📝 Total Prompts | **3410** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-15** |
 
@@ -189,6 +189,214 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Prompt: Chuyển động tự nhiên tinh tế
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo hiệu ứng chuyển động cho hình ảnh tĩnh với các cử động tự nhiên nhẹ nhàng như chớp mắt và nhịp thở.
+
+#### 📝 Prompt
+
+```
+Chuyển động tự nhiên tinh tế: người đàn ông có tàn nhang với mái tóc hơi thưa và đường chân tóc lùi nhẹ về phía sau từ từ chuyển hướng nhìn, khẽ cử động đầu, nhịp thở và cái chớp mắt nhẹ nhàng, vẫn giữ nguyên tư thế trầm tư chống cằm, chiếc áo kẻ sọc cùng phông nền tối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121836872808722432/img/L2gAQEDScChL6dmU.jpg" width="600" alt="Grok Imagine Prompt: Chuyển động tự nhiên tinh tế">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13884)**
+
+**Author:** [Fin de Lacy ( Finian JP Lacy)](https://x.com/victoriala13675) | **Source:** [Link](https://x.com/victoriala13675/status/2121836901409910804) | **Published:** Nov 15, 2026
+
+---
+### Siêu năng lực của chú chó: Trận chiến với Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video hài hước về chú chó có siêu năng lực, bắn tia laser và chiến đấu với Godzilla.
+
+#### 📝 Prompt
+
+```
+ban cho chú chó này siêu năng lực, bắn tia laser từ mắt, thổi bay tòa nhà, chiến đấu với Godzilla, hạ gục Godzilla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121833110413434880/img/DIJtsx_stv06t8Qf.jpg" width="600" alt="Siêu năng lực của chú chó: Trận chiến với Godzilla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13882)**
+
+**Author:** [Brian Lutz](https://x.com/IamTheNewMeta) | **Source:** [Link](https://x.com/IamTheNewMeta/status/2121833133905772744) | **Published:** Nov 15, 2026
+
+---
+### Prompt Video Gothic Girl Sword Dance
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt video điện ảnh chi tiết dài 15 giây cho Grok Imagine, mô tả một cô gái phong cách gothic biểu diễn múa kiếm với katana Nhật Bản, bối cảnh lá mùa thu, bao gồm phân cảnh cụ thể và hướng dẫn âm thanh.
+
+#### 📝 Prompt
+
+```
+Một video điện ảnh dài 15 giây về một cô gái, giữ nguyên sự nhất quán tuyệt đối với @Image1, @Image2 và @Image3 về các đường nét khuôn mặt, mái tóc dài màu vàng hồng, đôi mắt tím, băng đô ren và vòng cổ choker màu đen, bộ váy gothic may từ chất liệu men/ren đen và tím, thanh kiếm katana Nhật Bản cùng bối cảnh con đường mùa thu rợp bóng cây phong. Cô gái thực hiện một điệu múa kiếm nhịp nhàng và vô cùng tráng lệ.
+
+[BGM & Âm thanh]
+Nhạc rock/electronica phong cách Nhật Bản đầy kịch tính và nhịp nhàng, kết hợp giữa các nhạc cụ truyền thống (đàn shamisen, trống taiko, sáo shakuhachi) với những nhịp beat kỹ thuật số dồn dập, mạnh mẽ, cực kỳ phù hợp cho điệu múa kiếm. Hiệu ứng âm thanh sắc lẹm của lưỡi kiếm xé gió xen lẫn những khoảng lặng được ngắt nhịp rõ ràng trong từng thế đứng tĩnh.
+
+[Cảnh 1 (0:00-0:04) Trung cảnh / Tham khảo: @Image1]
+Khung hình mở đầu bằng bố cục của @Image1. Với thần thái uy nghi, cô gái rút phắt thanh katana khỏi vỏ, bước tới dứt khoát và tung ra một nhát chém chéo (lượt vung thứ 1). Ngay sau đó, cô xoay người chớp nhoáng, thực hiện một đường quét ngang tốc độ cao làm loé sáng lưỡi kiếm, rồi đột ngột dừng lại ngay khoảnh khắc vung kiếm để giữ ánh mắt sắc lạnh trong tư thế zanshin (thần thái cảnh giác sau khi ra đòn) (lượt vung thứ 2).
+
+[Cảnh 2 (0:04-0:08) Cận cảnh nửa thân trên / Tham khảo: @Image2]
+Góc máy chuyển sang khoảng cách khung hình của @Image2. Từ trạng thái tĩnh lặng, cô gái bất ngờ tung ra hàng loạt nhát chém liên hoàn với tốc độ chóng mặt, xoay kiếm quanh gương mặt khiến mái tóc và dải ren trên băng đô bay phần phật (lượt vung thứ 1). Tiếp đó, cô chậm rãi giảm nhịp từ chuỗi động tác mãnh liệt, chuyển tiếp mượt mà sang một đường cong duyên dáng do mũi kiếm vẽ nên giữa không trung, múa kiếm đầy uyển chuyển (lượt vung thứ 2).
+
+[Cảnh 3 (0:08-0:12) Trung cảnh / Tham khảo: @Image3]
+Khung hình trở lại góc trung cảnh của @Image3. Nhún nhảy theo nhịp điệu bằng những bước chân nhẹ nhàng, cô gái hất tung lớp bèo nhún của váy, xoay một vòng tuyệt đẹp rồi tung ra nhát chém ngược lên trời từ thế tấn thấp (lượt vung thứ 1). Không để mất đà, cô xoay kiếm vun vút trên đỉnh đầu như cánh quạt gió, rồi lại đột ngột khựng lại để tạo dáng thật ngầu trong tư thế zanshin (lượt vung thứ 2).
+
+[Cảnh 4 (0:12-0:15) Thế kết thúc / Tham khảo: @Image2]
+Zoom cận cảnh lần nữa vào một góc máy ấn tượng tương tự @Image2. Để kết màn, cô gái tạo dáng chuẩn bị tra kiếm vào vỏ đầy mềm mại, rồi duyên dáng cầm lại kiếm hướng chéo về phía trước (lượt vung thứ 1). Ngay lập tức, thần thái dũng mãnh chuyển hoá thành nụ cười đáng yêu, cô nháy mắt tinh nghịch với ống kính chỉ bằng một bên mắt, khép lại video trong bầu không khí vương vấn khó quên.
+
+[Chất lượng Video]
+Độ phân giải cao, chuyển động mượt mà, mô phỏng vật lý tự nhiên cho trang phục và mái tóc, ánh sáng tuyệt mỹ khi nắng xuyên qua tán lá phong phản chiếu lấp lánh trên lưỡi kiếm, chi tiết ngón tay và cách cầm kiếm hoàn hảo không tì vết.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794728016724_72xre1_HXIq56WaYAA1rxj.jpg" width="600" alt="Prompt Video Gothic Girl Sword Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13889)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2121807906337378544) | **Published:** Nov 15, 2026
+
+---
+### Bãi biển đêm chân thực với dải Ngân Hà và cây cọ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho cảnh bãi biển đêm dọc chân thực, nổi bật với cây cọ, nước màu ngọc lam và dải Ngân Hà, nhấn mạnh chuyển động của gió trên tán lá và sóng vỗ nhẹ nhàng.
+
+#### 📝 Prompt
+
+```
+Cảnh bãi biển đêm chân thực theo chiều dọc, định dạng 9:16. Bãi biển nhiệt đới về đêm với những hàng dừa cao vút bên trái, cát trắng mịn, nước biển xanh ngọc bích trong vắt, bầu trời đầy sao với dải Ngân Hà hiện lên rõ nét cùng ánh đèn xa xa nơi bờ biển. Làn gió nhẹ thổi qua khiến tán dừa đung đưa tự nhiên và chân thực, từng con sóng nhỏ lăn tăn vỗ bờ êm ái tung bọt trắng xóa y như thật, những vì sao lấp lánh dịu dàng và dải Ngân Hà chuyển động cực kỳ chậm rãi, tự nhiên trên nền trời. Không gian tĩnh lặng, hiệu ứng ánh sáng và chuyển động của mặt nước chân thực, âm thanh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121785747917193216/img/dB4tkcYWgpz0JZUi.jpg" width="600" alt="Bãi biển đêm chân thực với dải Ngân Hà và cây cọ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13888)**
+
+**Author:** [Sin Filtro X](https://x.com/vivalilu) | **Source:** [Link](https://x.com/vivalilu/status/2121785767454245106) | **Published:** Nov 15, 2026
+
+---
+### Grok Imagine Prompt: Tesseract Tứ Diện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt hình học phức tạp yêu cầu tạo một tesseract tứ diện với các lớp lồng vào nhau lộn ngược.
+
+#### 📝 Prompt
+
+```
+Một khối tesseract tứ diện gồm 3 lớp lồng vào nhau, liên tục lộn từ trong ra ngoài rồi cuộn từ ngoài vào trong.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121749581834641408/img/kI-lHPsTW5UJ8H7Y.jpg" width="600" alt="Grok Imagine Prompt: Tesseract Tứ Diện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13881)**
+
+**Author:** [NateBe](https://x.com/OwlyArts) | **Source:** [Link](https://x.com/OwlyArts/status/2121749602592334040) | **Published:** Nov 14, 2026
+
+---
+### Biến Đổi Ảnh Hồ Sơ Ấm Cúng Trong Nhà
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video/hình ảnh Grok Imagine biến đổi đối tượng thành ảnh hồ sơ ấm cúng trong nhà, đồng thời giữ nguyên các đặc điểm khuôn mặt.
+
+#### 📝 Prompt
+
+```
+Chuyển đổi hình ảnh này thành một bức ảnh hồ sơ chụp trong nhà với không khí ấm áp, thoải mái của chính người phụ nữ đó. Giữ nguyên cấu trúc và tỷ lệ khuôn mặt, hình dáng cũng như màu mắt, mũi, miệng, đường nét hàm và tông da của cô ấy với kết cấu da thật tự nhiên (nhìn rõ lỗ chân lông, độ bóng nhẹ tự nhiên, không chỉnh sửa làm mịn da).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121705423019380736/img/Nf4d9zOc-XmWmDhO.jpg" width="600" alt="Biến Đổi Ảnh Hồ Sơ Ấm Cúng Trong Nhà">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13886)**
+
+**Author:** [Vanessa Germain](https://x.com/Sasooger) | **Source:** [Link](https://x.com/Sasooger/status/2121705435245707304) | **Published:** Nov 14, 2026
+
+---
+### Video Giải Thích Mùi Fart Phong Cách South Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video hoạt hình phong cách South Park giải thích lý do mùi fart trong bồn tắm nặng hơn.
+
+#### 📝 Prompt
+
+```
+Video phong cách South Park giải thích lý do vì sao đánh rắm trong bồn tắm lại "nặng mùi" hơn bình thường
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121685923910053888/img/k0GQWvxf4bJdyDW0.jpg" width="600" alt="Video Giải Thích Mùi Fart Phong Cách South Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13885)**
+
+**Author:** [NHIbyPROXY](https://x.com/NHIbyPROXY) | **Source:** [Link](https://x.com/NHIbyPROXY/status/2121685939315671153) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine Prompt: Giữ Nguyên Bản Vẽ Tay Gốc Trong Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cho Grok Imagine để tạo video hoạt hình trong khi giữ nguyên các chi tiết bản vẽ tay bằng chì và sáp.
+
+#### 📝 Prompt
+
+```
+Giữ nguyên nét phác thảo gốc cùng mọi chi tiết trong video được tạo từ các bản vẽ bằng bút chì và sáp màu ban đầu!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121658392502484992/img/JAnEyx99uAfZ0wnA.jpg" width="600" alt="Grok Imagine Prompt: Giữ Nguyên Bản Vẽ Tay Gốc Trong Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13883)**
+
+**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2121658414543904852) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine Video Prompt: Thay thế Mũ Cầu Vồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chỉnh sửa/tạo video cho Grok Imagine, thay thế mũ bằng mũ cầu vồng và thay đổi lời thoại.
+
+#### 📝 Prompt
+
+```
+Bỏ mũ đang đội và thay bằng những chiếc mũ cầu vồng nhiều màu sắc. Đổi câu thoại của anh ấy thành "bạn đã khởi động lại hệ thống chưa ?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121603598631243776/img/zsGWZbM7_wHNaRan.jpg" width="600" alt="Grok Imagine Video Prompt: Thay thế Mũ Cầu Vồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
+
+**Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### Phục chế màu người chơi nhạc cụ năm 1937
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video Grok Imagine để phục chế màu cho bức ảnh cũ từ năm 1937 và tạo hiệu ứng động cho nhân vật đang chơi nhạc cụ.
+
+#### 📝 Prompt
+
+```
+Tô màu theo phong cách năm 1937 và thử thách để Người chơi nhạc cụ – hô biến những bức ảnh cũ trở nên sống động
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121519804955893760/img/HkE3bXCNay-U4pOd.jpg" width="600" alt="Phục chế màu người chơi nhạc cụ năm 1937">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13887)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2121519817299816825) | **Published:** Nov 14, 2026
+
+---
 ### Grok Imagine Prompt: Chiến binh Bọ cạp Cơ khí
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1009,7 +1217,7 @@ Khung hình cuối: toàn cảnh rộng của "hẻm núi" biển quảng cáo v
 ---
 ### Khắc phục lỗi nền tĩnh trong Prompt
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Đoạn prompt giúp ngăn chặn hiệu ứng hạt và giữ cho nền tĩnh trong video Grok Imagine.
 
@@ -2331,221 +2539,6 @@ Cô bé có đôi mắt nâu đang lén lấy kẹo bên lò sưởi xây bằng
 **Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
 
 ---
-### Trò chơi Công viên Giải trí Sao Hỏa của Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo cảnh video hài hước với Elon Musk và robot Optimus tại công viên giải trí trên sao Hỏa.
-
-#### 📝 Prompt
-
-```
-POV: Elon Musk và Optimus thử trò chơi cảm giác mạnh đầu tiên trên Sao Hỏa. 🎢🚀
-
-Elon thì đang tận hưởng khoảnh khắc đỉnh cao nhất đời.
-Còn Optimus vẫn đang loay hoay tính toán lực G. 🤖😂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="Trò chơi Công viên Giải trí Sao Hỏa của Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13410)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **Published:** Nov 1, 2026
-
----
-### Video Bối Cảnh Sân Bay Với Trang Phục Nhiều Lớp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cho Grok Imagine tạo video sân bay chân thực về một người phụ nữ mặc quá nhiều lớp quần áo.
-
-#### 📝 Prompt
-
-```
-Video quay lén tại sân bay tỉ lệ 9:16 chân thực đến từng chi tiết, được một hành khách bất kỳ ghi lại bằng smartphone từ khoảng cách khá xa. Một người phụ nữ mặc trên mình số lượng lớp áo nhiều đến mức khó tin (15–20 chiếc áo khoác, hoodie, áo len, khăn quàng và quần) đang bước đi chậm rãi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="Video Bối Cảnh Sân Bay Với Trang Phục Nhiều Lớp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
-
-**Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
-
----
-### Prompt Video Biến Hình Chiến Đấu Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video chiến đấu liên tục của một chiến binh cyberpunk với các màn biến hình trang bị trong trận chiến, bao gồm thông số về phong cách hình ảnh, máy quay và âm thanh.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo sinh]
-Tạo một video chiến đấu liên tục cấp độ tiếp theo (next-level) về một chiến binh Sci-Fi cyberpunk mặc giáp chiến đấu toàn diện đang lao vào trận chiến khốc liệt. Chủ thể chính là một tay đấm cyberpunk bọc giáp hạng nặng với đầy đủ trang bị tác chiến, thực hiện các màn biến hình nâng cấp đỉnh cao ngay giữa lúc giao tranh.
-
-[Chủ thể và mối quan hệ]
-Chiến binh này là một đấu thủ cyberpunk đơn độc trong bộ đồ tác chiến hoàn chỉnh: bộ giáp exoskeleton trợ lực màu đen nhám viền neon, các ống dẫn năng lượng phát sáng xanh lơ - tím, lớp giáp gia cố dày đặc ở ngực/vai/tứ chi, bộ đồ chiến đấu nhiều lớp bên dưới lớp giáp, mũ bảo hiểm tích hợp kính HUD, găng tay vũ khí hóa và các điểm gắn module cứng. Không có nhân vật nào khác xuất hiện. Mọi màn biến hình đều là quá trình tự nâng cấp của riêng trang bị và hệ thống cơ thể người chiến binh này.
-
-[Kịch bản sự kiện]
-Mở đầu: Chiến binh đứng trong con hẻm thành phố cyberpunk ướt sũng nước mưa và ngập tràn ánh đèn neon, dưới những tấm biển hologram chớp nháy cùng mặt đường nhựa loang bóng nước. Nhân vật đã mặc giáp đầy đủ trong tư thế sẵn sàng chiến đấu, vũ khí nằm gọn trong bao nhưng mọi hệ thống đều đã được kích hoạt.
-
-Sự kiện chính: Lập tức bước vào giao tranh toàn diện. Giữa trận đánh, chiến binh lần lượt kích hoạt các pha biến hình next-level — đầu tiên, các mảng giáp tái cấu trúc và bung rộng nhờ khóa thủy lực cùng luồng năng lượng trào dâng để đạt mức phòng thủ tối đa; tiếp đó, găng tay biến đổi thành lưỡi dao plasma năng lượng cao và nòng súng rail-gun nối dài; sau cùng là bộ đẩy tăng tốc và khiên thích ứng bung ra từ ba lô cùng các khớp nối. Đấu thủ lao vút, bật nhảy và đối phó với hỏa lực vô hình/của kẻ thù bằng những đòn thế võ thuật - cyber mượt mà, tốc độ cao. Mỗi lần biến hình lại đẩy sức mạnh lên một tầm mới: giáp càng thêm cứng cáp, hào quang năng lượng chuyển sắc từ xanh lơ sang tím thẫm, vũ khí luân phiên đổi chế độ (chém bằng lưỡi dao → nã đạn liên thanh → đập khiên năng lượng). Mưa tuôn, tia lửa bắn tung và ánh neon xẹt qua bóng hình đang biến hóa khi nhịp độ trận chiến chạm đỉnh.
-
-Kết thúc: Chiến binh đứng hiên ngang trong chiến thắng ở trạng thái biến hình cuối cùng — lớp giáp đã khóa chặt vào cấu hình tác chiến tối thượng, các ống dẫn năng lượng rực sáng hết công suất, vũ khí bung ra trọn vẹn và sẵn sàng khai hỏa. Ánh đèn thành phố phản chiếu trên lớp giáp cường hóa trong khi những luồng năng lượng dư thừa dần tan biến quanh đôi chân.
-
-[Phong cách thị giác]
-Thẩm mỹ Sci-Fi cyberpunk next-level siêu chi tiết: bề mặt ướt bóng bẩy, sương mù neon thể tích (volumetric), ánh sáng tương phản cao với tông xanh lơ/hồng cánh sen/tím điện, chi tiết cơ khí biến hình tinh xảo cùng các mảng giáp trượt chuyển mượt mà, tia lửa, hạt năng lượng và lớp phủ HUD hologram. Cường độ chiến đấu chân thực như ảnh chụp nhưng vẫn mang đậm tính cách điệu, kết hợp hiệu ứng mờ chuyển động (motion blur) linh hoạt trên tứ chi và vệt lướt của vũ khí.
-
-[Góc máy]
-Kỹ thuật quay phim hành động linh hoạt: bắt đầu bằng cảnh trung (medium shot) phô diễn trọn vẹn bộ đồ tác chiến, sau đó chuyển nhanh sang các cú lia máy bám sát (tracking shot) theo từng nhịp lao vút và biến hình, góc máy thấp đầy uy lực khi giáp tái cấu trúc, cú xoay quỹ đạo vòng quanh chiến binh lúc vũ khí thay hình đổi dạng, và khép lại bằng cú đẩy máy chậm, góc thấp đầy kịch tính vào tư thế biến hình cuối cùng.
-
-[Âm thanh]
-Âm thanh tác chiến toàn diện đầy tính đắm chìm: tiếng thủy lực trầm đục và kim loại va đập chát chúa, tiếng rít năng lượng tần số cao, tiếng nổ lách tách của phóng điện plasma, những nhịp bass giáng mạnh, cùng bản nhạc synth-wave dồn dập tăng tốc theo nhịp độ khốc liệt của trận chiến.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Prompt Video Biến Hình Chiến Đấu Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **Published:** Nov 1, 2026
-
----
-### Prompt Video Thiết Kế Váy Cho Sàn Catwalk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cho Grok Imagine tạo video một người mẫu nữ trình diễn trên sàn catwalk với thiết kế váy mới lạ.
-
-#### 📝 Prompt
-
-```
-Đây là một hướng đi hoàn toàn mới trong thiết kế váy nữ, do Tiến sĩ Michael Taub sáng tạo và thiết kế. Trong video, bạn sẽ thấy cô người mẫu trẻ sải bước trên sàn diễn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="Prompt Video Thiết Kế Váy Cho Sàn Catwalk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13406)**
-
-**Author:** [Michael Taub](https://x.com/Drdick2262) | **Source:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **Published:** Nov 1, 2026
-
----
-### Đi bộ trong Nghĩa trang Công giáo Tối với Nến
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Nhắc nhở góc nhìn thứ nhất về việc đi bộ qua một nghĩa trang tối với nến cháy và mộ.
-
-#### 📝 Prompt
-
-```
-Tôi bước vào một nghĩa trang Công giáo. Trời tối om. Tôi men theo những lối đi giữa các phần mộ. Cây cối rợp bóng hai bên đường, còn trên các ngôi mộ, những ngọn nến đang cháy sáng lung linh. Trên tay tôi là một ngọn nến tuyệt đẹp đang bập bùng tỏa sáng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="Đi bộ trong Nghĩa trang Công giáo Tối với Nến">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13411)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **Published:** Nov 1, 2026
-
----
-### Cinematic Western Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho việc tạo video Western điện ảnh dài 6 giây với các góc quay, ánh sáng và chuỗi hành động cụ thể bằng Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Tạo một video điện ảnh phong cách Viễn Tây dài 6 giây, tỷ lệ khung hình rộng 16:9. Hiệu ứng nhiễu hạt phim thô ráp, ánh sáng vàng vọt của giờ vàng phủ đầy bụi, những công trình vùng biên cương dãi dầu mưa nắng, chuyển động chân thực. Không có lời thoại.
-
-0–1,5 giây: Cận cảnh cực đại chiếc ủng của một tên cướp đơn độc giẫm chặt xuống lớp bụi, th...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="Cinematic Western Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13413)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **Published:** Nov 1, 2026
-
----
-### Video Dracula Chỉ Huy Chiến Binh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo cảnh video Dracula đứng trước lâu đài, chỉ huy các chiến binh Samhain trong đêm Halloween.
-
-#### 📝 Prompt
-
-```
-Dracula đứng trước lâu đài của mình, chỉ huy đội quân Samhain Warriors trong đêm Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="Video Dracula Chỉ Huy Chiến Binh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13334)**
-
-**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
-
----
-### Đoạn phim kỳ ảo về máy bay KY-22
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video chế độ tham chiếu cho Grok Imagine, tạo một đoạn phim kỳ ảo về thiết kế máy bay KY-22 Krechet.
-
-#### 📝 Prompt
-
-```
-Đoạn clip ngắn đầy chất viễn tưởng về thiết kế máy bay mới của tôi, chiếc KY-22 "Krechet" – một mẫu VTOL sử dụng rotor đồng trục.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="Đoạn phim kỳ ảo về máy bay KY-22">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13606)**
-
-**Author:** [Spectro](https://x.com/Spectromachina) | **Source:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **Published:** Nov 1, 2026
-
----
-### Video Rồng Phượng Âm Dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video mang tính thơ ca mô tả lửa và băng xoáy vào nhau tạo thành biểu tượng âm dương, từ đó hình thành sinh vật lai giữa rồng và phượng.
-
-#### 📝 Prompt
-
-```
-Lửa và băng xoay vần trong vòng âm dương, hóa thành rồng tựa phượng hoàng tái sinh từ đống tro tàn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="Video Rồng Phượng Âm Dương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13333)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **Published:** Nov 1, 2026
-
----
-### Cảnh Vòng Quay với Bóng Bay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video điện ảnh cho Grok Imagine mô tả một cô gái đang xem vòng quay ngựa gỗ cùng bóng bay bay lượn.
-
-#### 📝 Prompt
-
-```
-Vòng quay ngựa gỗ cứ thế xoay tròn đầy ám ảnh theo từng nhịp nhạc căng thẳng, trong khi muôn vàn sắc ánh sáng chập chờn như kính vạn hoa làm mê hoặc cả màn đêm. Quả bóng bay tuột khỏi tay cô bé lúc nào không hay, bởi em đã hoàn toàn chìm đắm vào khung cảnh huyền ảo ấy.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="Cảnh Vòng Quay với Bóng Bay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13329)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2607,6 +2600,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T06:11:01.429Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T15:46:30.939Z</sub>
 
 </div>

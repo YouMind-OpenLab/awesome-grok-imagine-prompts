@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3400** |
+| 📝 Total Prompts | **3410** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-15** |
 
@@ -189,6 +189,214 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Grok Imagine : Mouvements naturels subtils
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour animer une image statique avec des mouvements naturels subtils tels que le clignement des yeux et la respiration.
+
+#### 📝 Prompt
+
+```
+Mouvement naturel et subtil : l'homme au visage parsemé de taches de rousseur, dont les cheveux légèrement clairsemés présentent une calvitie naissante discrète, déplace lentement son regard, effectue de légers mouvements de tête, respire doucement et cligne des yeux. Il conserve la même posture pensive, la main sous le menton, sa chemise à rayures et le fond sombre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121836872808722432/img/L2gAQEDScChL6dmU.jpg" width="600" alt="Prompt Grok Imagine : Mouvements naturels subtils">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13884)**
+
+**Author:** [Fin de Lacy ( Finian JP Lacy)](https://x.com/victoriala13675) | **Source:** [Link](https://x.com/victoriala13675/status/2121836901409910804) | **Published:** Nov 15, 2026
+
+---
+### Pouvoirs de super-héros du chien : Combat contre Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite vidéo humoristique où un chien acquiert des super-pouvoirs, tire des lasers et affronte Godzilla.
+
+#### 📝 Prompt
+
+```
+Donnez des super-pouvoirs à ce chien : il tire des lasers avec les yeux, fait exploser des bâtiments, affronte Godzilla et le met K.O.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121833110413434880/img/DIJtsx_stv06t8Qf.jpg" width="600" alt="Pouvoirs de super-héros du chien : Combat contre Godzilla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13882)**
+
+**Author:** [Brian Lutz](https://x.com/IamTheNewMeta) | **Source:** [Link](https://x.com/IamTheNewMeta/status/2121833133905772744) | **Published:** Nov 15, 2026
+
+---
+### Prompt vidéo de danse à l'épée gothique
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo cinématographique détaillé de 15 secondes pour Grok Imagine, mettant en scène une jeune femme gothique exécutant une danse à l'épée avec un katana japonais, sur fond de feuilles d'automne. Inclut des descriptions précises des scènes et des instructions audio.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique de 15 secondes mettant en scène une jeune fille dont les traits du visage, la longue chevelure blond rosé, les yeux violets, la coiffe et le tour de cou en dentelle noire, la robe gothique confectionnée dans des matières noires et violettes (tissu enduit/dentelle) ainsi que le katana japonais sont strictement fidèles à @Image1, @Image2 et @Image3. Le tout se déroule sur un chemin d'automne bordé d'érables, tandis qu'elle exécute une danse du sabre rythmée et grandiose.
+
+[BGM & Son]
+Un morceau rock/électronica dramatique et rythmé d'inspiration japonaise, fusionnant des instruments traditionnels (shamisen, tambours taiko, shakuhachi) avec des beats numériques lourds et rapides, parfaitement adaptés à une danse du sabre. Des effets sonores tranchants évoquant la lame fendant l'air, contrastant avec des silences bien marqués lors des phases d'immobilité.
+
+[Scène 1 (0:00-0:04) Plan moyen / Référence : @Image1]
+L'image s'ouvre sur la composition de @Image1. Le visage empreint de noblesse, la jeune fille dégaine vivement son katana japonais, avance d'un pas sec et porte une entaille diagonale (1er mouvement). Elle pivote ensuite rapidement pour exécuter un balayage horizontal fulgurant, faisant briller la lame à l'horizontale, avant de stopper net au point d'extension pour figer un regard perçant, incarnant le zanshin (l'état de vigilance après l'attaque) (2e mouvement).
+
+[Scène 2 (0:04-0:08) Plan poitrine / Référence : @Image2]
+La caméra adopte le cadrage et la profondeur de champ de @Image2. Rompant le silence, la jeune fille enchaîne soudainement des frappes rapides et successives en faisant tournoyer le sabre autour de son visage, ce qui fait virevolter ses cheveux et la dentelle de sa coiffe (1er mouvement). Puis, elle ralentit progressivement cette frénésie pour amorcer une transition fluide vers un arc gracieux dessiné par la pointe de la lame dans les airs, dansant avec élégance (2e mouvement).
+
+[Scène 3 (0:08-0:12) Plan moyen / Référence : @Image3]
+L'image revient sur le plan moyen de @Image3. Portée par le rythme, la jeune fille avance à pas légers, fait voltiger les volants de sa robe et effectue une magnifique rotation sur elle-même avant de porter une entaille ascendante et incisive depuis une posture basse (1er mouvement). Sans perdre son élan, elle fait tournoyer le sabre au-dessus de sa tête tel un moulin à vent, puis s'immobilise à nouveau brusquement pour prendre une pose stylée, maintenue par le zanshin (2e mouvement).
+
+[Scène 4 (0:12-0:15) Pose finale / Référence : @Image2]
+Nouveau zoom sur un angle saisissant rappelant @Image2. Pour clore la performance, la jeune fille adopte une posture fluide précédant le rengainage, repositionnant gracieusement son sabre en diagonale vers l'avant (1er mouvement). Dans la foulée, son expression martiale laisse place à un sourire adorable : elle adresse un clin d'œil complice à la caméra, refermant la vidéo sur une atmosphère envoûtante et persistante.
+
+[Qualité vidéo]
+Haute définition, animation fluide, simulation physique naturelle des tissus et des cheveux, éclairage soigné où la lumière du soleil filtrant à travers les feuilles d'érable se reflète sur la lame, doigts et prise en main du sabre irréprochables.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794728016724_72xre1_HXIq56WaYAA1rxj.jpg" width="600" alt="Prompt vidéo de danse à l'épée gothique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13889)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2121807906337378544) | **Published:** Nov 15, 2026
+
+---
+### Plage nocturne réaliste avec la Voie lactée et des palmiers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de génération vidéo pour une scène nocturne verticale de plage photoréaliste, mettant en vedette des palmiers, une eau turquoise et la Voie lactée, en soulignant le mouvement réaliste du vent dans les palmiers et le doux ressac.
+
+#### 📝 Prompt
+
+```
+Scène de plage nocturne verticale photoréaliste, format 9:16. Plage tropicale de nuit avec de grands palmiers sur la gauche, du sable blanc, une eau de mer turquoise éclatante, un ciel étoilé où la Voie lactée est nettement visible et des lumières lointaines sur la côte. Une brise légère faisant osciller les palmiers de manière réaliste et naturelle, de petites vagues qui roulent et se brisent doucement en formant une écume blanche réaliste sur le rivage, un scintillement subtil des étoiles et un mouvement très lent et naturel de la Voie lactée dans le ciel. Atmosphère apaisante, mouvements de l'eau et éclairage réalistes, son
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121785747917193216/img/dB4tkcYWgpz0JZUi.jpg" width="600" alt="Plage nocturne réaliste avec la Voie lactée et des palmiers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13888)**
+
+**Author:** [Sin Filtro X](https://x.com/vivalilu) | **Source:** [Link](https://x.com/vivalilu/status/2121785767454245106) | **Published:** Nov 15, 2026
+
+---
+### Grok Imagine Prompt : Tesseract tétraédrique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt géométrique complexe demandant un tesseract tétraédrique avec des couches imbriquées se retournant sur elles-mêmes.
+
+#### 📝 Prompt
+
+```
+Un tesseract tétraédrique à 3 couches imbriquées qui se retourne de l'intérieur vers l'extérieur et de l'extérieur vers l'intérieur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121749581834641408/img/kI-lHPsTW5UJ8H7Y.jpg" width="600" alt="Grok Imagine Prompt : Tesseract tétraédrique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13881)**
+
+**Author:** [NateBe](https://x.com/OwlyArts) | **Source:** [Link](https://x.com/OwlyArts/status/2121749602592334040) | **Published:** Nov 14, 2026
+
+---
+### Transformation de photo de profil en intérieur cosy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo/image Grok Imagine transformant le sujet en une photo de profil chaleureuse en intérieur tout en préservant les traits du visage.
+
+#### 📝 Prompt
+
+```
+Transformez cette image en une photo de profil d'intérieur chaleureuse représentant exactement la même femme. Conservez fidèlement la géométrie et les proportions de son visage, la forme et la couleur de ses yeux, son nez, sa bouche, la ligne de sa mâchoire ainsi que son teint, avec une texture de peau naturelle et réaliste (pores visibles, léger éclat naturel, aucune retouche lissante).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121705423019380736/img/Nf4d9zOc-XmWmDhO.jpg" width="600" alt="Transformation de photo de profil en intérieur cosy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13886)**
+
+**Author:** [Vanessa Germain](https://x.com/Sasooger) | **Source:** [Link](https://x.com/Sasooger/status/2121705435245707304) | **Published:** Nov 14, 2026
+
+---
+### Vidéo explicative sur les pets style South Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo animée dans le style de South Park expliquant pourquoi les pets sentent plus mauvais dans une baignoire.
+
+#### 📝 Prompt
+
+```
+Une vidéo dans le style de South Park qui explique pourquoi les pets sentent encore plus mauvais quand on pète dans la baignoire
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121685923910053888/img/k0GQWvxf4bJdyDW0.jpg" width="600" alt="Vidéo explicative sur les pets style South Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13885)**
+
+**Author:** [NHIbyPROXY](https://x.com/NHIbyPROXY) | **Source:** [Link](https://x.com/NHIbyPROXY/status/2121685939315671153) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine Prompt : Préserver le Croquis Original dans la Vidéo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour Grok Imagine permettant d'animer une vidéo tout en préservant les détails du croquis original au crayon et à la craie.
+
+#### 📝 Prompt
+
+```
+Conservez le croquis de base original avec tous ses détails dans la vidéo réalisée à partir de vos dessins au crayon et aux crayons de couleur !
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121658392502484992/img/JAnEyx99uAfZ0wnA.jpg" width="600" alt="Grok Imagine Prompt : Préserver le Croquis Original dans la Vidéo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13883)**
+
+**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2121658414543904852) | **Published:** Nov 14, 2026
+
+---
+### Invite vidéo Grok Imagine : Remplacement des chapeaux par des chapeaux arc-en-ciel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite de génération/édition vidéo pour Grok Imagine qui remplace les couvre-chefs par des chapeaux arc-en-ciel et modifie les dialogues.
+
+#### 📝 Prompt
+
+```
+Retirez le couvre-chef et remplacez-le par des chapeaux arc-en-ciel colorés. Modifiez ce qu'il dit en « avez-vous redémarré le système ?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121603598631243776/img/zsGWZbM7_wHNaRan.jpg" width="600" alt="Invite vidéo Grok Imagine : Remplacement des chapeaux par des chapeaux arc-en-ciel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
+
+**Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### Colorisation d'un musicien de 1937
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo Grok Imagine pour coloriser une ancienne photo de 1937 et animer le sujet jouant d'un instrument.
+
+#### 📝 Prompt
+
+```
+Colorisez vos photos avec les teintes de 1937 et relevez le défi « fais-lui jouer d'un instrument » : redonnez vie à une vieille photo !
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121519804955893760/img/HkE3bXCNay-U4pOd.jpg" width="600" alt="Colorisation d'un musicien de 1937">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13887)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2121519817299816825) | **Published:** Nov 14, 2026
+
+---
 ### Prompt Grok Imagine : Guerrier Scorpion Mécanique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1009,7 +1217,7 @@ Dernière image : large panorama du canyon de panneaux publicitaires et de la fo
 ---
 ### Correction du prompt d'arrière-plan statique
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Un extrait de prompt utilisé pour empêcher les effets de particules et maintenir l'arrière-plan statique dans les vidéos Grok Imagine.
 
@@ -2330,221 +2538,6 @@ Une fille aux yeux marron dérobe des bonbons près de la cheminée en briques, 
 **Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
 
 ---
-### Attraction du parc d'attractions martien d'Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une scène vidéo humoristique mettant en vedette Elon Musk et le robot Optimus dans un parc d'attractions sur Mars.
-
-#### 📝 Prompt
-
-```
-POV : Elon Musk et Optimus testent la toute première attraction de Mars. 🎢🚀
-
-Elon s'éclate comme un fou.
-Optimus, lui, est encore en train de calculer la force G. 🤖😂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="Attraction du parc d'attractions martien d'Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13410)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **Published:** Nov 1, 2026
-
----
-### Vidéo Candid à l'Aéroport : Tenue Superposée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour Grok Imagine générant une vidéo réaliste d'aéroport montrant une femme portant un nombre excessif de couches de vêtements.
-
-#### 📝 Prompt
-
-```
-Vidéo ultra-réaliste au format 9:16, prise sur le vif dans un aéroport, filmée à bonne distance par le smartphone d'un passager lambda. Une femme portant un nombre absolument ridicule de couches de vêtements (15 à 20 vestes, sweats à capuche, pulls, écharpes et pantalons) marche lentement...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="Vidéo Candid à l'Aéroport : Tenue Superposée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
-
-**Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
-
----
-### Prompt Vidéo de Transformation au Combat : Guerrier Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt très détaillé pour générer une vidéo de combat continue d'un guerrier cyberpunk subissant des transformations d'équipement pendant la bataille, incluant les spécifications du style visuel, de la caméra et du son.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo de combat continu de niveau supérieur mettant en scène un guerrier cyberpunk de science-fiction en tenue de combat intégrale, engagé dans une bataille acharnée. Le sujet central est un combattant cyberpunk lourdement blindé, équipé de pied en cap, exécutant des transformations avancées de nouvelle génération en plein affrontement.
-
-[Sujets et relations]
-Le guerrier est un combattant cyberpunk solitaire revêtu d'un équipement de combat complet : une armure d'exosquelette motorisée noir mat aux bordures néon, parcourue de conduits d'énergie cyan et violet luminescents, dotée de plaques renforcées sur le torse, les épaules et les membres, d'une combinaison de combat multicouche sous l'armure, d'un casque intégré avec visière HUD, de gantelets militarisés et de points d'ancrage modulaires. Aucun autre personnage n'apparaît. Toutes les transformations sont des améliorations autonomes de l'équipement et des systèmes corporels de cet unique combattant.
-
-[Scénario de l'événement]
-Au début : Le guerrier se tient dans une ruelle cyberpunk ruisselante de pluie et baignée de néons, sous des enseignes holographiques vacillantes et les reflets de l'asphalte détrempé. Il est déjà entièrement équipé, en position de combat, armes au fourreau mais systèmes activés.
-
-Événement principal : Engagement immédiat en combat total. Le guerrier déclenche des transformations séquentielles de niveau supérieur en plein affrontement — d'abord, les plaques d'armure se reconfigurent et se déploient grâce à des verrouillages hydrauliques et des pics d'énergie pour offrir une protection maximale ; ensuite, les gantelets se métamorphosent en lames de plasma à haute énergie et en extensions de canon magnétique (railgun) ; puis des propulseurs s'activent et des boucliers adaptatifs se déploient depuis le sac dorsal et les articulations. Le combattant fonce, bondit et riposte aux tirs ennemis invisibles par des mouvements martiaux cybernétiques fluides et ultra-rapides, chaque transformation décuplant sa puissance : l'armure se durcit davantage, l'aura d'énergie passe du cyan au violet intense, et les armes alternent entre différents modes (coup de lame → barrage de projectiles → coup de bouclier énergétique). La pluie, les étincelles et la lumière des néons strient la silhouette en pleine mutation tandis que l'intensité du combat atteint son paroxysme.
-
-À la fin : Le guerrier se tient victorieux dans son état de transformation ultime — l'armure entièrement verrouillée dans sa configuration de combat suprême, les conduits d'énergie flamboyant à leur intensité maximale, les armes totalement déployées et prêtes à faire feu. Les lumières de la ville se reflètent sur le blindage optimisé, tandis que les dernières décharges d'énergie résiduelle s'estompent autour de ses pieds.
-
-[Style visuel]
-Esthétique cyberpunk Sci-Fi de niveau supérieur hyper-détaillée : surfaces brillantes et humides, brouillard néon volumétrique, éclairage à fort contraste cyan/magenta/violet électrique, détails mécaniques complexes des transformations avec des panneaux morphing sans couture, étincelles, particules d'énergie et superpositions holographiques HUD. Une intensité de combat photoréaliste mais stylisée, avec un flou de mouvement dynamique sur les membres et les traînées des armes.
-
-[Caméra]
-Cinématographie de combat dynamique : commence par un plan moyen révélant l'intégralité de la tenue de combat, puis des plans de suivi rapides accompagnant les courses et les transformations, des contre-plongées puissantes lors de la reconfiguration de l'armure, des mouvements orbitaux autour du guerrier pendant la métamorphose des armes, et se termine par un lent travelling avant dramatique en plongée sur la posture finale transformée.
-
-[Son]
-Audio immersif de combat total : claquements hydrauliques et métalliques profonds, sifflements d'énergie à haute fréquence, craquements de décharges de plasma, impacts de basses lourdes, et un morceau de synthwave rythmé et entraînant qui s'accélère avec l'intensité du combat.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Prompt Vidéo de Transformation au Combat : Guerrier Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **Published:** Nov 1, 2026
-
----
-### Prompt Vidéo Défilé de Mode
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour Grok Imagine générant une vidéo d'une femme défilant sur un podium avec une tenue originale.
-
-#### 📝 Prompt
-
-```
-Voici une approche inédite de la création d'une robe pour femme. Conçue et dessinée par le Dr Michael Taub. Découvrez la jeune femme défilant sur le podium.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="Prompt Vidéo Défilé de Mode">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13406)**
-
-**Author:** [Michael Taub](https://x.com/Drdick2262) | **Source:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **Published:** Nov 1, 2026
-
----
-### Promenade nocturne aux chandelles dans un cimetière catholique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt en vue subjective pour une promenade dans un cimetière sombre, éclairé par des bougies allumées et parsemé de tombes.
-
-#### 📝 Prompt
-
-```
-Je pénètre dans un cimetière catholique. Il fait sombre. Je marche le long des allées, entre les tombes. Des arbres bordent le chemin et des bougies allumées luisent sur les sépultures. Je tiens une magnifique bougie allumée entre mes mains.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="Promenade nocturne aux chandelles dans un cimetière catholique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13411)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **Published:** Nov 1, 2026
-
----
-### Prompt Vidéo Western Cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo western cinématographique de 6 secondes avec des angles de caméra, un éclairage et des séquences d'action spécifiques à l'aide de Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo western cinématographique de 6 secondes au format large 16:9. Grain de pellicule granuleux, lumière dorée et poussiéreuse de l'heure dorée, bâtiments de la Frontière usés par le temps, mouvements réalistes. Aucun dialogue.
-
-0 à 1,5 seconde : très gros plan sur la botte d'un hors-la-loi solitaire qui s'enfonce dans la poussière, th...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="Prompt Vidéo Western Cinématographique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13413)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **Published:** Nov 1, 2026
-
----
-### Vidéo de Dracula commandant des guerriers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une scène vidéo de Dracula se tenant devant son château et commandant les Guerriers de Samhain à Halloween.
-
-#### 📝 Prompt
-
-```
-Dracula se tenant devant son château, commandant ses Samhain Warriors le soir d'Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="Vidéo de Dracula commandant des guerriers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13334)**
-
-**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
-
----
-### Clip fantaisie de l'avion KY-22
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo en mode référence pour Grok Imagine, créant un clip fantaisiste sur le design de l'avion KY-22 Krechet.
-
-#### 📝 Prompt
-
-```
-Courte vidéo conceptuelle sur mon nouveau design d'aéronef, le KY-22 « Krechet », un appareil VTOL à rotors coaxiaux
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="Clip fantaisie de l'avion KY-22">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13606)**
-
-**Author:** [Spectro](https://x.com/Spectromachina) | **Source:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **Published:** Nov 1, 2026
-
----
-### Vidéo Yin Yang Dragon Phénix
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo poétique décrivant le feu et la glace tourbillonnant pour former un symbole yin-yang, créant ainsi une hybride dragon/phénix.
-
-#### 📝 Prompt
-
-```
-Le feu et la glace tourbillonnent en un yin et un yang pour donner naissance à un dragon, tel un phénix renaissant de ses cendres.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="Vidéo Yin Yang Dragon Phénix">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13333)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **Published:** Nov 1, 2026
-
----
-### Scène de manège avec ballon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de génération vidéo cinématographique pour Grok Imagine décrivant une fille regardant un manège avec un ballon volant.
-
-#### 📝 Prompt
-
-```
-Le manège tourne inlassablement sur une musique angoissante, tandis qu’un kaléidoscope de lumières ensorcelle la nuit. Fascinée par le spectacle, la petite fille laisse s’envoler son ballon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="Scène de manège avec ballon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13329)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2606,6 +2599,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T06:11:06.646Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T15:46:36.230Z</sub>
 
 </div>

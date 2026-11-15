@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3400** |
+| 📝 提示词总数 | **3410** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-15** |
 
@@ -189,6 +189,214 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 提示词：细腻自然的动态效果
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于将静态图像转化为具有眨眼、呼吸等细微自然动态效果的详细提示词。
+
+#### 📝 提示词
+
+```
+细腻自然的动态效果：这位脸上带有雀斑、头发略显稀疏且发际线微微后移的男子缓缓移动视线，头部有细微的动作，呼吸与眨眼自然柔和，同时始终保持着手托下巴的沉思姿态，条纹衬衫和深色背景也保持不变。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121836872808722432/img/L2gAQEDScChL6dmU.jpg" width="600" alt="Grok Imagine 提示词：细腻自然的动态效果">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13884)**
+
+**作者:** [Fin de Lacy ( Finian JP Lacy)](https://x.com/victoriala13675) | **来源:** [Link](https://x.com/victoriala13675/status/2121836901409910804) | **发布时间:** Nov 15, 2026
+
+---
+### 狗狗超能力大战哥斯拉
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个幽默的视频提示词：一只狗获得超能力，发射激光，并与哥斯拉展开激战。
+
+#### 📝 提示词
+
+```
+给这只狗赋予超能力，双眼发射激光，炸毁大楼，大战 Godzilla，把 Godzilla 打翻在地
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121833110413434880/img/DIJtsx_stv06t8Qf.jpg" width="600" alt="狗狗超能力大战哥斯拉">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13882)**
+
+**作者:** [Brian Lutz](https://x.com/IamTheNewMeta) | **来源:** [Link](https://x.com/IamTheNewMeta/status/2121833133905772744) | **发布时间:** Nov 15, 2026
+
+---
+### 哥特少女剑舞视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 设计的详细 15 秒电影级视频提示词，展示一名哥特风格少女手持日本武士刀在秋叶中表演剑舞，包含具体的场景分解和音频指令。
+
+#### 📝 提示词
+
+```
+一段 15 秒的电影级视频，画面中的女孩在面部特征、粉金色长发、紫色眼眸、黑色蕾丝头饰与颈圈、由黑紫两色漆皮/蕾丝材质制成的哥特风连衣裙、日本武士刀，以及秋日枫叶林荫道的背景上，均与 @Image1、@Image2 和 @Image3 保持高度一致，同时演绎出一段节奏鲜明、气势恢宏的剑舞。
+
+[BGM & Sound]
+充满戏剧张力与节奏感的日式摇滚/电子乐，将传统乐器（三味线、太鼓、尺八）与厚重、快节奏的数字节拍完美融合，十分契合剑舞的氛围。刀刃划破空气的凌厉音效，以及静止瞬间清晰分明的留白静音。
+
+[Scene 1 (0:00-0:04) Medium Shot / Reference: @Image1]
+画面从 @Image1 的构图开始。女孩神情凛然，迅速将日本武士刀拔出刀鞘，利落向前迈步，挥出一记斜斩（第 1 斩）。随后她快速转身，横向闪动刀光完成一记高速横扫，在发力完成的瞬间骤然收势定格，以锐利的目光展现出“残心”（攻击后的警觉状态）（第 2 斩）。
+
+[Scene 2 (0:04-0:08) Bust Up / Reference: @Image2]
+镜头切换至 @Image2 的景别距离感。在一片寂静中，女孩突然围绕面部快速旋剑，连续迅猛劈砍，发丝与头饰上的蕾丝随之狂乱飞舞（第 1 斩）。接着，她从激烈的动作中放缓节奏，流畅过渡为剑尖在空中划出的优美弧线，舞姿优雅动人（第 2 斩）。
+
+[Scene 3 (0:08-0:12) Medium Shot / Reference: @Image3]
+画面回到 @Image3 的中景角度。女孩踏着轻盈的步伐跟上节奏，裙摆翻飞，优美地旋转一圈后，以低姿态挥出一记凌厉的上挑斩（第 1 斩）。借着未消的惯性，她将武士刀如风车般在头顶急速旋转，随后再次骤然定住，摆出帅气的姿势并展现“残心”（第 2 斩）。
+
+[Scene 4 (0:12-0:15) Last Pose / Reference: @Image2]
+镜头再次推进，切换至类似 @Image2 的极具冲击力的角度。作为收尾，女孩摆出流畅的纳刀预备姿势，优雅地将刀斜指向前方重新握稳（第 1 斩）。紧接着，她的神情由英气转为甜美，对着镜头俏皮地单眼眨眼，在余韵悠长的氛围中结束全片。
+
+[Video Quality]
+高清画质，动作流畅，布料与头发的物理模拟自然真实；光影唯美，透过枫叶洒落的阳光在刀刃上流转反射；手指细节与握刀姿势完美无瑕。
+```
+
+<img src="https://cms-assets.youmind.com/media/1794728016724_72xre1_HXIq56WaYAA1rxj.jpg" width="600" alt="哥特少女剑舞视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13889)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2121807906337378544) | **发布时间:** Nov 15, 2026
+
+---
+### 银河与棕榈树下的写实夜景海滩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 视频生成提示词：打造逼真的竖屏夜间海滩场景，包含棕榈树、绿松石色海水和银河，重点呈现棕榈树的真实风吹动态及轻柔的海浪效果。
+
+#### 📝 提示词
+
+```
+照片级写实的竖版夜间海滩场景，9:16 画幅比例。夜幕下的热带沙滩，左侧矗立着高大的棕榈树，白沙细腻，海水呈现明亮的绿松石色，繁星点点的夜空中银河清晰可见，远处海岸线上闪烁着零星灯火。微风轻拂，棕榈树的摇曳姿态自然逼真；细浪层层涌来，在岸边轻柔拍碎，泛起真实的白色泡沫；星光微微闪烁，夜空中的银河以极缓慢、自然的轨迹缓缓流转。整体氛围宁静祥和，水流动态与光影效果真实细腻，带声音
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121785747917193216/img/dB4tkcYWgpz0JZUi.jpg" width="600" alt="银河与棕榈树下的写实夜景海滩">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13888)**
+
+**作者:** [Sin Filtro X](https://x.com/vivalilu) | **来源:** [Link](https://x.com/vivalilu/status/2121785767454245106) | **发布时间:** Nov 15, 2026
+
+---
+### Grok Imagine 提示词：四面体超立方体
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 复杂的几何提示词，要求生成一个具有嵌套翻转层结构的四面体超立方体。
+
+#### 📝 提示词
+
+```
+一个拥有 3 个嵌套层的四面体超立方体，由内向外、又由外向内不断翻转。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121749581834641408/img/kI-lHPsTW5UJ8H7Y.jpg" width="600" alt="Grok Imagine 提示词：四面体超立方体">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13881)**
+
+**作者:** [NateBe](https://x.com/OwlyArts) | **来源:** [Link](https://x.com/OwlyArts/status/2121749602592334040) | **发布时间:** Nov 14, 2026
+
+---
+### 温馨室内头像照片变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 视频/图像提示词，将人物转化为温馨的室内头像照片，同时保留面部特征。
+
+#### 📝 提示词
+
+```
+将这张图转换为同一位女性在温馨室内场景下的头像照片。请严格保留她原本的面部轮廓、五官比例、眼睛形状与颜色、鼻子、嘴唇、下颌线以及肤色，并呈现自然真实的皮肤质感（毛孔清晰可见、带有轻微的自然光泽、无任何磨皮处理）。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121705423019380736/img/Nf4d9zOc-XmWmDhO.jpg" width="600" alt="温馨室内头像照片变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13886)**
+
+**作者:** [Vanessa Germain](https://x.com/Sasooger) | **来源:** [Link](https://x.com/Sasooger/status/2121705435245707304) | **发布时间:** Nov 14, 2026
+
+---
+### 《南方公园》风格放屁原理讲解视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成《南方公园》风格动画视频的提示词，解释为什么在浴缸里放屁味道更臭。
+
+#### 📝 提示词
+
+```
+一段 South Park 风格的视频，解释了为什么在浴缸里放屁会更臭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121685923910053888/img/k0GQWvxf4bJdyDW0.jpg" width="600" alt="《南方公园》风格放屁原理讲解视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13885)**
+
+**作者:** [NHIbyPROXY](https://x.com/NHIbyPROXY) | **来源:** [Link](https://x.com/NHIbyPROXY/status/2121685939315671153) | **发布时间:** Nov 14, 2026
+
+---
+### Grok Imagine 提示词：在视频中保留原始草图
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的提示词，可在动画化视频的同时保留原始的铅笔和蜡笔草图细节。
+
+#### 📝 提示词
+
+```
+在由原始铅笔和蜡笔画生成的视频中，完整保留底稿的丰富细节！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121658392502484992/img/JAnEyx99uAfZ0wnA.jpg" width="600" alt="Grok Imagine 提示词：在视频中保留原始草图">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13883)**
+
+**作者:** [Viswanath M. Aluru](https://x.com/vmaluru) | **来源:** [Link](https://x.com/vmaluru/status/2121658414543904852) | **发布时间:** Nov 14, 2026
+
+---
+### Grok Imagine 视频提示词：彩虹帽替换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频编辑/生成提示词，将头饰替换为彩虹帽并修改对话内容。
+
+#### 📝 提示词
+
+```
+去掉头饰，换成色彩缤纷的彩虹帽。把他说的话改成“你重启系统了吗？...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121603598631243776/img/zsGWZbM7_wHNaRan.jpg" width="600" alt="Grok Imagine 视频提示词：彩虹帽替换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13880)**
+
+**作者:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **来源:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **发布时间:** Nov 14, 2026
+
+---
+### 为 1937 年乐器演奏者照片上色
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 视频提示词，为一张 1937 年的老照片上色，并让照片中的人物动起来演奏乐器。
+
+#### 📝 提示词
+
+```
+用 Colorize 为 1937 年的老照片上色，挑战让 Him 演奏乐器——唤醒旧时光，让老照片重焕生机
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121519804955893760/img/HkE3bXCNay-U4pOd.jpg" width="600" alt="为 1937 年乐器演奏者照片上色">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13887)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2121519817299816825) | **发布时间:** Nov 14, 2026
+
+---
 ### Grok Imagine 提示词：机械蝎子战士
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1010,7 +1218,7 @@ Alerele，真是件稀奇事呢。
 ---
 ### 静态背景提示词修复
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > 用于防止粒子效果并保持 Grok Imagine 视频背景静止的提示词片段。
 
@@ -2337,221 +2545,6 @@ SpaceX – Beyond Earth
 **作者:** [ScreechR1](https://x.com/ScreechR6) | **来源:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **发布时间:** Nov 2, 2026
 
 ---
-### 埃隆·马斯克火星游乐园体验
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于创建埃隆·马斯克与 Optimus 机器人在火星游乐园互动的幽默视频场景的提示词。
-
-#### 📝 提示词
-
-```
-POV：Elon Musk 和 Optimus 体验火星上的第一个游乐园项目。🎢🚀
-
-Elon 简直玩嗨了，乐不可支。
-Optimus 还在疯狂计算 G 力呢。🤖😂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="埃隆·马斯克火星游乐园体验">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13410)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **发布时间:** Nov 1, 2026
-
----
-### 多层穿搭机场抓拍视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的提示词，生成一位穿着过多层衣物女性在机场的真实感视频。
-
-#### 📝 提示词
-
-```
-超写实 9:16 机场偷拍视频，由一位路人乘客用智能手机在相当远的距离外拍摄。一名女子身上穿着多得离谱的层层衣物（15–20 件外套、连帽衫、毛衣、围巾和裤子），正缓慢地走着……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="多层穿搭机场抓拍视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13408)**
-
-**作者:** [Realishai](https://x.com/NatureLove216) | **来源:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **发布时间:** Nov 1, 2026
-
----
-### 赛博朋克战士战斗变形视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的提示词，用于生成赛博朋克战士在战斗中经历装备变形的连续战斗视频，包括视觉风格、镜头和声音规格。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段进阶式连续战斗视频，展现一名全副武装的科幻赛博朋克战士陷入激烈交战的场景。核心主体是一位身披重型装甲、装备齐全的赛博朋克格斗者，在全面战斗中执行高阶形态变换。
-
-[主体与关系]
-该战士是一名孤身作战的赛博朋克斗士，身着全套战斗装备：哑光黑底色搭配霓虹边缘的动力外骨骼装甲，青紫色能量导管流光溢彩；胸甲、肩甲及四肢均覆盖强化护板；装甲内衬多层战术服；配备集成 HUD 抬头显示面罩的头盔、武器化臂铠以及模块化挂载点。画面中无其他角色出现。所有形态变换均为该战士自身装备与身体系统的独立升级。
-
-[事件脚本]
-开场：战士伫立于雨水浸透、霓虹闪烁的赛博朋克城市暗巷中，全息招牌明灭不定，湿漉漉的柏油路面倒映着光影。他已全副武装，摆出随时迎敌的战斗姿态，武器虽未出鞘，但系统已全部启动。
-
-核心事件：瞬间进入全面交战状态。战士在激战中接连触发高阶形态变换——首先，装甲板伴随液压锁定声与能量涌动重新排列并展开，提供极致防护；随后，臂铠变形为高能等离子刃与电磁炮延伸组件；紧接着，背部与关节处展开推进器与自适应护盾。这名格斗者以行云流水般的高速赛博武术动作冲刺、跃起，迎战无形之敌与密集火力。每一次变换都让战力飙升：装甲进一步硬化，能量光环由青色转为深紫，武器在不同模式间无缝切换（利刃斩击 → 弹幕倾泻 → 能量盾猛击）。随着战斗白热化，雨水、火花与霓虹光影在变幻莫测的身影上交织飞掠。
-
-结尾：战士以最终完全变身的姿态傲然挺立，宣告胜利——装甲彻底锁定为终极战斗构型，能量导管爆发出巅峰光芒，武器全部展开蓄势待发。城市灯火在强化护板上流转生辉，脚下残余的能量电弧逐渐消散。
-
-[视觉风格]
-超精细的高阶科幻赛博朋克美学：湿润反光的地表、体积感十足的霓虹雾气、高对比度的青色/品红/电紫色光影，以及精密的机械变形细节与无缝滑动的装甲面板。画面中火花四溅、能量粒子飞舞，叠加全息 HUD 界面。整体呈现逼真却极具风格化的战斗张力，肢体运动与武器轨迹带有动态模糊效果。
-
-[镜头]
-动感十足的战斗电影级运镜：以中景开场，交代全身战斗装备；随后快速跟拍冲刺与变形过程；装甲重组时切入低角度仰拍以凸显力量感；武器变形阶段采用环绕轨道镜头；最后以极具张力的低角度缓慢推镜头收尾，定格于最终变身姿态。
-
-[音效]
-沉浸式全景战斗音效：低沉的液压运作与金属碰撞声、高频能量嗡鸣、等离子放电爆裂声、厚重的低音冲击，以及一首随战斗烈度不断加速的强劲合成器波（Synthwave）节奏配乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="赛博朋克战士战斗变形视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13523)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **发布时间:** Nov 1, 2026
-
----
-### T台服装秀视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 生成模特身着新颖设计礼服走秀视频的提示词。
-
-#### 📝 提示词
-
-```
-这是一种全新的女装设计理念，由 Michael Taub 博士构思并设计。请看这位年轻模特在 T 台上的精彩演绎。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="T台服装秀视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13406)**
-
-**作者:** [Michael Taub](https://x.com/Drdick2262) | **来源:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **发布时间:** Nov 1, 2026
-
----
-### 黑暗天主教墓地烛光漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个第一人称视角的提示词，用于描绘在点有蜡烛和墓碑的黑暗墓地中行走的场景。
-
-#### 📝 提示词
-
-```
-我走进一座天主教墓地。四周一片漆黑。我沿着墓碑间的小路缓缓前行。道路两旁树木成行，坟头上点亮的蜡烛泛着微光。我双手捧着一支点燃的蜡烛，烛火摇曳，十分美丽。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="黑暗天主教墓地烛光漫步">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13411)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **发布时间:** Nov 1, 2026
-
----
-### 电影感西部风格视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成一段 6 秒电影感西部风格视频的详细提示词，包含特定的镜头角度、光影效果及动作序列。
-
-#### 📝 提示词
-
-```
-制作一段 6 秒的电影感西部风格视频，采用 16:9 宽屏画幅。粗粝的胶片颗粒质感、尘土飞扬的黄金时刻光线、饱经风霜的边境建筑、逼真的动作细节。无对白。
-
-0–1.5 秒：一名独行匪徒的靴子踏入尘土中的极致特写，th...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="电影感西部风格视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13413)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **来源:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **发布时间:** Nov 1, 2026
-
----
-### 德古拉指挥战士视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成视频场景的提示词，描绘德古拉在万圣节之夜站在城堡前指挥萨姆海恩战士的画面。
-
-#### 📝 提示词
-
-```
-万圣节之夜，德古拉伫立在城堡前，号令着他的 Samhain 战士们
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="德古拉指挥战士视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13334)**
-
-**作者:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **来源:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **发布时间:** Nov 1, 2026
-
----
-### KY-22 飞机幻想短片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的参考模式视频提示词，旨在创作关于 KY-22 Krechet 飞机设计的幻想短片。
-
-#### 📝 提示词
-
-```
-一段关于我全新飞行器设计的幻想短片——KY-22 “Krechet”，一款共轴双旋翼垂直起降（VTOL）飞行器
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="KY-22 飞机幻想短片">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13606)**
-
-**作者:** [Spectro](https://x.com/Spectromachina) | **来源:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **发布时间:** Nov 1, 2026
-
----
-### 阴阳龙凤视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段富有诗意的视频提示词，描述冰与火旋转融合成太极阴阳符号，从而创造出龙凤合体的形象。
-
-#### 📝 提示词
-
-```
-冰与火如阴阳般交织流转，化作一条巨龙，宛若浴火重生的凤凰。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="阴阳龙凤视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13333)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **来源:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **发布时间:** Nov 1, 2026
-
----
-### 旋转木马气球场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的电影级视频生成提示词，描述女孩观看旋转木马和飞行气球的场景。
-
-#### 📝 提示词
-
-```
-旋转木马在紧张的乐曲中幽幽转动，万花筒般的光影为夜色施下魔法。女孩被眼前的景象深深迷住，手中的气球悄然飘向了远方。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="旋转木马气球场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13329)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **来源:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **发布时间:** Nov 1, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2613,6 +2606,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-15T06:10:56.105Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-15T15:46:26.054Z</sub>
 
 </div>

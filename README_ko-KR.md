@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3400** |
+| 📝 총 프롬프트 수 | **3410** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-15** |
 
@@ -189,6 +189,214 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine 프롬프트: 미묘한 자연스러운 모션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈 깜빡임이나 호흡과 같은 미세하고 자연스러운 움직임으로 정적 이미지를 애니메이션화하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+자연스러운 미세한 움직임: 주근깨가 있는 남자가 살짝 숱이 줄고 은근히 뒤로 물러난 헤어라인을 한 채 천천히 시선을 옮기고, 고개를 작게 움직이며, 부드럽게 숨을 쉬고 눈을 깜빡입니다. 생각에 잠긴 듯 턱을 괴는 포즈와 스트라이프 셔츠, 어두운 배경은 그대로 유지됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121836872808722432/img/L2gAQEDScChL6dmU.jpg" width="600" alt="Grok Imagine 프롬프트: 미묘한 자연스러운 모션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13884)**
+
+**작성자:** [Fin de Lacy ( Finian JP Lacy)](https://x.com/victoriala13675) | **출처:** [Link](https://x.com/victoriala13675/status/2121836901409910804) | **게시일:** Nov 15, 2026
+
+---
+### 초능력 강아지 vs 고질라 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 개가 초능력을 얻어 레이저를 쏘며 고질라와 싸우는 유머러스한 영상 프롬프트.
+
+#### 📝 프롬프트
+
+```
+이 강아지에게 초능력을 부여하고, 눈에서 레이저를 쏘며, 건물을 폭파하고, Godzilla 와 싸워서 Godzilla 를 쓰러뜨려 보세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121833110413434880/img/DIJtsx_stv06t8Qf.jpg" width="600" alt="초능력 강아지 vs 고질라 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13882)**
+
+**작성자:** [Brian Lutz](https://x.com/IamTheNewMeta) | **출처:** [Link](https://x.com/IamTheNewMeta/status/2121833133905772744) | **게시일:** Nov 15, 2026
+
+---
+### 고딕 소녀 검무 영상 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine용 15초 시네마틱 영상 프롬프트로, 가을 단풍을 배경으로 일본 카타나를 들고 검무를 추는 고딕 소녀의 장면을 상세한 씬 분해와 오디오 지시사항과 함께 포함합니다.
+
+#### 📝 프롬프트
+
+```
+@Image1, @Image2, @Image3 와 얼굴 이목구비, 핑크 블론드 롱 헤어, 보랏빛 눈동자, 블랙 레이스 헤드드레스 및 초커, 블랙과 퍼플 에나멜/레이스 소재의 고딕 드레스, 일본도, 그리고 가을 단풍길 배경 등 모든 디테일을 철저히 일치시키며, 리드미컬하고 화려한 검무를 선보이는 소녀의 15 초 시네마틱 영상.
+
+[BGM & 사운드]
+전통 악기(샤미센, 태고, 샤쿠하치)와 검무에 어울리는 묵직하고 빠른 템포의 디지털 비트가 결합된 드라마틱하고 리드미컬한 일본풍 록/일렉트로니카. 허공을 가르는 날카로운 칼날 소리 효과음과 동작이 멈추는 순간 찾아오는 완벽한 정적.
+
+[씬 1 (0:00-0:04) 미디엄 샷 / 레퍼런스: @Image1]
+화면은 @Image1 의 구도로 시작됩니다. 위엄 있는 표정의 소녀가 재빠르게 일본도를 뽑아 들고 날렵하게 한 발 내디디며 대각선으로 베어 내립니다(1 번째 스윙). 곧바로 몸을 회전시켜 칼날을 수평으로 번쩍이며 고속으로 가로베기를 하고, 힘을 뻗어내는 순간 급격히 동작을 멈춘 뒤 잔심(공격 후의 경계 태세)이 담긴 날카로운 눈빛을 유지합니다(2 번째 스윙).
+
+[씬 2 (0:04-0:08) 버스트 업 / 레퍼런스: @Image2]
+카메라가 @Image2 의 거리감으로 전환됩니다. 정적을 깨고 소녀가 갑자기 얼굴 주변으로 검을 휘두르며 연속으로 빠르게 베어 내려 머리카락과 헤드드레스 레이스를 격렬하게 흩날립니다(1 번째 스윙). 이어 강렬했던 움직임에서 속도를 늦추며, 허공에 그려지는 우아한 칼끝의 궤적으로 자연스럽게 이어져 아름답게 춤을 춥니다(2 번째 스윙).
+
+[씬 3 (0:08-0:12) 미디엄 샷 / 레퍼런스: @Image3]
+화면이 다시 @Image3 의 미디엄 앵글로 돌아옵니다. 가벼운 발걸음으로 리듬을 타며 드레스 프릴을 펄럭이고 아름답게 한 바퀴 회전한 뒤, 낮은 자세에서 날카롭게 올려베기를 합니다(1 번째 스윙). 그 기세를 살려 머리 위로 풍차처럼 검을 빠르게 회전시키고, 다시 한번 급격히 멈춰 서서 멋진 포즈와 함께 잔심을 취합니다(2 번째 스윙).
+
+[씬 4 (0:12-0:15) 라스트 포즈 / 레퍼런스: @Image2]
+@Image2 와 유사한 인상적인 앵글로 다시 줌인합니다. 마무리 동작으로 소녀가 물 흐르듯 칼집에 넣기 전의 포즈를 취한 뒤, 검을 비스듬히 앞으로 우아하게 다시 고쳐 쥡니다(1 번째 스윙). 직후, 늠름했던 표정에서 사랑스러운 미소로 바뀌며 카메라를 향해 한쪽 눈만 귀엽게 윙크하고 여운이 남는 분위기로 영상이 끝납니다.
+
+[영상 퀄리티]
+고해상도, 부드러운 모션, 옷감과 머리카락의 자연스러운 물리 시뮬레이션, 단풍잎 사이로 쏟아지는 햇살이 칼날에 반사되는 아름다운 조명, 완벽하게 표현된 손가락과 검을 쥔 모습.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794728016724_72xre1_HXIq56WaYAA1rxj.jpg" width="600" alt="고딕 소녀 검무 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13889)**
+
+**작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2121807906337378544) | **게시일:** Nov 15, 2026
+
+---
+### 은하수와 야자수가 있는 사실적인 야간 해변
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 야자수, 터키quoise색 바다, 은하수가 어우러진 사실적인 세로형 야간 해변 장면을 위한 영상 생성 프롬프트입니다. 바람에 흔들리는 야자수와 잔잔한 파도의 움직임을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+사실적인 밤 해변 세로 장면, 9:16 비율. 왼쪽에 키 큰 야자수가 늘어선 열대 해변의 밤, 하얀 모래사장, 밝은 청록색 바다, 은하수가 선명하게 보이는 별이 총총한 하늘과 멀리 해안가의 불빛. 부드러운 바람에 야자수가 자연스럽고 사실적으로 흔들리고, 작은 파도가 밀려와 백사장에 현실감 있는 흰 포말을 남기며 잔잔하게 부서지는 모습, 은은하게 반짝이는 별들과 하늘에서 아주 천천히 자연스럽게 이동하는 은하수. 고요한 분위기, 사실적인 물결의 움직임과 조명, 사운드
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121785747917193216/img/dB4tkcYWgpz0JZUi.jpg" width="600" alt="은하수와 야자수가 있는 사실적인 야간 해변">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13888)**
+
+**작성자:** [Sin Filtro X](https://x.com/vivalilu) | **출처:** [Link](https://x.com/vivalilu/status/2121785767454245106) | **게시일:** Nov 15, 2026
+
+---
+### Grok Imagine 프롬프트: 사면체 테서랙트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 내부 레이어가 뒤집히는 사면체 테서랙트를 요청하는 복잡한 기하학적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+3 개의 중첩된 레이어가 안팎으로 뒤집히며 회전하는 사면체 테서랙트.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121749581834641408/img/kI-lHPsTW5UJ8H7Y.jpg" width="600" alt="Grok Imagine 프롬프트: 사면체 테서랙트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13881)**
+
+**작성자:** [NateBe](https://x.com/OwlyArts) | **출처:** [Link](https://x.com/OwlyArts/status/2121749602592334040) | **게시일:** Nov 14, 2026
+
+---
+### 아늑한 실내 프로필 사진 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine의 영상/이미지 프롬프트로, 얼굴 특징을 유지하면서 인물을 아늑한 실내 프로필 사진으로 변환합니다.
+
+#### 📝 프롬프트
+
+```
+이 이미지를 따뜻한 실내 분위기의 프로필 사진으로 변환해 주세요. 사진 속 인물은 정확히 동일한 여성이어야 합니다. 얼굴의 형태와 비율, 눈 모양과 색상, 코, 입, 턱선, 피부 톤을 그대로 유지하고, 자연스러운 실제 피부 질감(모공 표현, 은은한 자연 광택, 보정 없는 상태)을 살려주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121705423019380736/img/Nf4d9zOc-XmWmDhO.jpg" width="600" alt="아늑한 실내 프로필 사진 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13886)**
+
+**작성자:** [Vanessa Germain](https://x.com/Sasooger) | **출처:** [Link](https://x.com/Sasooger/status/2121705435245707304) | **게시일:** Nov 14, 2026
+
+---
+### 사우스 파크 스타일 방귀 냄새 원리 설명 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 욕조에서 방귀 냄새가 더 심하게 나는 이유를 사우스 파크 스타일의 애니메이션 영상으로 설명하는 프롬프트.
+
+#### 📝 프롬프트
+
+```
+욕조에서 방귀를 뀌면 왜 냄새가 더 지독한지 South Park 스타일로 설명하는 영상
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121685923910053888/img/k0GQWvxf4bJdyDW0.jpg" width="600" alt="사우스 파크 스타일 방귀 냄새 원리 설명 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13885)**
+
+**작성자:** [NHIbyPROXY](https://x.com/NHIbyPROXY) | **출처:** [Link](https://x.com/NHIbyPROXY/status/2121685939315671153) | **게시일:** Nov 14, 2026
+
+---
+### Grok Imagine 프롬프트: 영상에서 원본 스케치 보존하기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 연필 및 크레용 스케치의 원본 디테일을 유지하면서 영상을 애니메이션화하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+원본 연필 및 크레용 드로잉으로 제작된 영상에서도 디테일이 살아 있는 기본 스케치를 그대로 유지해 보세요!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121658392502484992/img/JAnEyx99uAfZ0wnA.jpg" width="600" alt="Grok Imagine 프롬프트: 영상에서 원본 스케치 보존하기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13883)**
+
+**작성자:** [Viswanath M. Aluru](https://x.com/vmaluru) | **출처:** [Link](https://x.com/vmaluru/status/2121658414543904852) | **게시일:** Nov 14, 2026
+
+---
+### Grok Imagine 비디오 프롬프트: 무지개 모자 교체
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 비디오 편집/생성 프롬프트로, 기존 헤드기어를 무지개 모자로 교체하고 대사를 변경합니다.
+
+#### 📝 프롬프트
+
+```
+머리에 쓴 장비를 제거하고 알록달록한 무지개 모자로 바꿔 주세요. 그가 하는 말을 "시스템을 재시작했나요?..." 로 변경해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121603598631243776/img/zsGWZbM7_wHNaRan.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: 무지개 모자 교체">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13880)**
+
+**작성자:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **출처:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **게시일:** Nov 14, 2026
+
+---
+### 1937년 악기 연주자 사진 채색화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 1937년의 오래된 사진을 채색하고, 인물이 악기를 연주하는 장면을 애니메이션으로 만드는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+1937 년 컬러로 색을 입히고, 그분이 악기를 연주하는 챌린지를 통해 낡은 사진을 되살려 생동감 있게 만들어 보세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121519804955893760/img/HkE3bXCNay-U4pOd.jpg" width="600" alt="1937년 악기 연주자 사진 채색화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13887)**
+
+**작성자:** [Cathy has this](https://x.com/lighthouse42f) | **출처:** [Link](https://x.com/lighthouse42f/status/2121519817299816825) | **게시일:** Nov 14, 2026
+
+---
 ### Grok Imagine 프롬프트: 기계 전갈 전사
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1017,7 +1225,7 @@ Alerele, 정말 신기한 일이네요.
 ---
 ### 정적 배경 프롬프트 수정
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Grok Imagine 영상에서 파티클 효과를 방지하고 배경을 정적으로 유지하기 위해 사용되는 프롬프트 스니펫입니다.
 
@@ -2342,221 +2550,6 @@ Optimus 를 유일한 중심 피사체로 유지하고, 영상 전체에 걸쳐 
 **작성자:** [ScreechR1](https://x.com/ScreechR6) | **출처:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **게시일:** Nov 2, 2026
 
 ---
-### Elon Musk의 화성 놀이공원 어트랙션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 엘론 머스크와 Optimus 로봇이 화성 놀이공원에서 펼치는 유머러스한 영상 장면을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-POV: Elon Musk 와 Optimus 가 화성 최초의 놀이공원 어트랙션에 도전합니다. 🎢🚀
-
-Elon 은 세상에서 제일 신난 표정이고,
-Optimus 는 아직 G-force 를 계산 중입니다. 🤖😂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="Elon Musk의 화성 놀이공원 어트랙션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13410)**
-
-**작성자:** [The SI Maximalist](https://x.com/thesimaximalist) | **출처:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **게시일:** Nov 1, 2026
-
----
-### 레이어드 의상 공항 자연스러운 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine에서 과도하게 많은 겹옷을 입은 여성의 사실적인 공항 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-초고화질 9:16 공항 몰래 촬영 영상. 지나가던 승객이 스마트폰으로 꽤 먼 거리에서 찍은 듯한 느낌입니다. 말도 안 되게 옷을 겹겹이 껴입은 여성(재킷, 후드티, 스웨터, 목도리, 바지 등 무려 15~20 벌)이 느릿느릿 걷고 있...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="레이어드 의상 공항 자연스러운 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13408)**
-
-**작성자:** [Realishai](https://x.com/NatureLove216) | **출처:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **게시일:** Nov 1, 2026
-
----
-### 사이버펑크 전사 전투 장비 변환 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 전투 중 장비를 변환하는 사이버펑크 전사의 연속적인 전투 영상을 생성하기 위한 고품질 프롬프트로, 비주얼 스타일, 카메라 무빙 및 사운드 사양을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-[Generation Goal]
-완전 전투 태세를 갖춘 Sci-Fi 사이버펑크 전사가 치열한 전투를 벌이는 차세대 연속 전투 영상을 생성합니다. 핵심 피사체는 풀 전투 장비를 갖춘 중장갑 사이버펑크 파이터로, 전면전 상황에서 고도의 차세대 변형을 수행합니다.
-
-[Subjects and Relationships]
-이 전사는 완전 전투복을 착용한 단독 사이버펑크 전투원입니다. 매트 블랙 컬러에 네온 테두리가 더해진 파워드 엑소스켈레톤 아머, 빛나는 시안-퍼플 에너지 도관, 가슴/어깨/사지를 덮은 강화 플레이트, 아머 내부의 다층 구조 컴뱃 수트, 바이저 HUD 가 내장된 헬멧, 무기가 탑재된 건틀릿, 모듈식 하드포인트를 갖추고 있습니다. 다른 캐릭터는 등장하지 않습니다. 모든 변형은 이 단일 파이터의 장비 및 신체 시스템 내에서 자체적으로 이루어지는 업그레이드입니다.
-
-[Event Script]
-시작: 전사는 깜빡이는 홀로그램 간판과 젖은 아스팔트의 반사광 아래, 빗물에 젖은 네온 가득한 사이버펑크 도시 골목에 서 있습니다. 이미 모든 장비를 갖추고 전투 준비 자세를 취하고 있으며, 무기는 홀스터에 있지만 시스템은 가동된 상태입니다.
-
-주요 이벤트: 즉각적인 전면전 돌입. 전사는 전투 중 순차적으로 차세대 변형을 활성화합니다. 먼저 최대 방어력을 위해 유압 잠금장치와 에너지 급증과 함께 아머 플레이트가 재구성되고 팽창하며, 이어서 건틀릿이 고에너지 플라즈마 블레이드와 레일건 확장 장치로 형태를 바꿉니다. 그 후 백팩과 관절부에서 전개되는 스러스터 부스트와 적응형 실드가 뒤따릅니다. 파이터는 질주하고 도약하며, 유려하고 고속인 마샬-사이버 동작으로 보이지 않는 적의 사격에 맞서 싸웁니다. 각 변형마다 위력이 한층 강해집니다. 아머는 더욱 단단해지고, 에너지 오라는 시안에서 바이올렛으로 강렬해지며, 무기는 모드를 전환합니다(블레이드 참격 → 투사체 집중 사격 → 에너지 실드 타격). 전투 강도가 절정에 달할 때, 빗물, 불꽃, 네온 빛이 변형하는 실루엣 위로 빠르게 스쳐 지나갑니다.
-
-끝: 전사는 최종 변형이 완료된 상태로 승리를 거두고 우뚝 섭니다. 아머는 궁극의 전투 구성으로 완전히 잠기고, 에너지 도관은 최고 강도로 맹렬히 빛나며, 무기는 모두 전개되어 즉시 사용 가능한 상태입니다. 도시의 불빛이 강화된 플레이트에 반사되고, 발밑에서는 잔여 에너지 방전이 서서히 사라집니다.
-
-[Visual Style]
-초고밀도 디테일의 차세대 Sci-Fi 사이버펑크 미학: 광택이 흐르는 젖은 표면, 볼류메트릭 네온 안개, 고대비 시안/마젠타/일렉트릭 퍼플 조명, 매끄럽게 이어지는 모핑 패널이 돋보이는 정교한 기계적 변형 디테일, 불꽃, 에너지 입자, 홀로그래픽 HUD 오버레이. 사지와 무기 궤적에 역동적인 모션 블러가 적용된, 사실적이면서도 양식화된 전투의 긴장감.
-
-[Camera]
-역동적인 전투 시네마토그래피: 전체 전투복을 보여주는 미디엄 숏으로 시작하여, 질주와 변형을 따라가는 빠른 트래킹 숏, 아머 재구성 시 로우 앵글 파워 숏, 무기 변형 중 전사를 감싸듯 도는 오비탈 무브로 이어지며, 마지막에는 최종 변형 자세를 극적으로 담아내는 로우 슬로우 푸시인으로 마무리됩니다.
-
-[Sound]
-몰입감 넘치는 전면전 오디오: 묵직한 유압음과 금속성 충돌음, 고주파 에너지 굉음, 플라즈마 방전 소리, 강력한 베이스 임팩트, 그리고 전투 강도에 맞춰 점점 빨라지는 박진감 넘치는 리드미컬한 신스웨이브 트랙.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="사이버펑크 전사 전투 장비 변환 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13523)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **게시일:** Nov 1, 2026
-
----
-### 런웨이 드레스 디자인 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine에서 독창적인 드레스를 입은 모델이 런웨이를 걷는 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-여성 드레스 디자인의 새로운 접근법을 소개합니다. Dr. Michael Taub 가 기획하고 디자인했습니다. 런웨이를 걷는 젊은 여성의 모습을 보여줍니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="런웨이 드레스 디자인 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13406)**
-
-**작성자:** [Michael Taub](https://x.com/Drdick2262) | **출처:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **게시일:** Nov 1, 2026
-
----
-### 어두운 가톨릭 묘지 촛불 산책
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 어두운 묘지를 촛불과 무덤 사이로 거니는 1인칭 시점 프롬프트
-
-#### 📝 프롬프트
-
-```
-나는 가톨릭 묘지에 들어섭니다. 사방이 어둡습니다. 무덤들 사이로 난 길을 따라 걷습니다. 길 양옆으로는 나무들이 늘어서 있고, 무덤 위에는 불을 밝힌 촛불이 은은하게 빛나고 있습니다. 내 두 손에는 아름다운 촛불 하나가 환하게 켜져 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="어두운 가톨릭 묘지 촛불 산책">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13411)**
-
-**작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **게시일:** Nov 1, 2026
-
----
-### 시네마틱 웨스턴 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 특정 카메라 앵글, 조명 및 액션 시퀀스를 포함하는 6초 길이의 시네마틱 웨스턴 영상을 생성하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-와이드스크린 16:9 비율로 6 초 분량의 시네마틱 서부극 영상을 제작하세요. 거친 필름 그레인, 먼지 자욱한 골든아워 조명, 낡고 빛바랜 개척 시대 건물, 사실적인 움직임이 필요합니다. 대사는 없습니다.
-
-0–1.5 초: 외로운 무법자의 부츠가 먼지 위에 내딛는 익스트림 클로즈업, 그...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="시네마틱 웨스턴 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13413)**
-
-**작성자:** [Ligma Ballz](https://x.com/LBallz77283) | **출처:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **게시일:** Nov 1, 2026
-
----
-### 드라큘라 전사 지휘 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 할로윈 밤, 성 앞에 서서 Samhain 전사들을 지휘하는 드라큘라의 영상 장면을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-할로윈 밤, 성 앞에 우뚝 서서 Samhain Warriors 를 지휘하는 Dracula
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="드라큘라 전사 지휘 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13334)**
-
-**작성자:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **출처:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **게시일:** Nov 1, 2026
-
----
-### KY-22 항공기 판타지 클립
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine에서 KY-22 크레체트 항공기 디자인을 주제로 한 판타지 클립을 제작하기 위한 참조 모드 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-제가 새롭게 설계한 항공기, 동축 반전 로터 방식의 VTOL 기체인 KY-22 "Krechet"에 관한 판타지 숏 클립입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="KY-22 항공기 판타지 클립">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13606)**
-
-**작성자:** [Spectro](https://x.com/Spectromachina) | **출처:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **게시일:** Nov 1, 2026
-
----
-### 음양 용봉 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 불과 얼음이 회전하여 음양 심볼을 만들고, 그로부터 용과 봉황의 하이브리드가 탄생하는 시적인 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-불과 얼음이 음양의 기운으로 소용돌이치며, 잿더미에서 솟아오르는 봉황처럼 용을 빚어냅니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="음양 용봉 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13333)**
-
-**작성자:** [Swetha Prabhakar](https://x.com/sprabs12) | **출처:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **게시일:** Nov 1, 2026
-
----
-### 회전목마와 풍선 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 에서 회전목마를 보며 날아가는 풍선을 바라보는 소녀를 묘사하는 시네마틱 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-긴장감 넘치는 음악에 맞춰 회전목마가 묘한 분위기를 자아내며 빙글빙글 돌고, 만화경처럼 쏟아지는 빛이 밤을 황홀하게 물들입니다. 소녀는 그 아름다운 풍경에 넋을 잃은 채 손에서 풍선을 놓치고 맙니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="회전목마와 풍선 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13329)**
-
-**작성자:** [Swetha Prabhakar](https://x.com/sprabs12) | **출처:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **게시일:** Nov 1, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2618,6 +2611,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-15T06:10:59.134Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-15T15:46:28.963Z</sub>
 
 </div>

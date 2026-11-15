@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3400** |
+| 📝 Total Prompts | **3410** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-15** |
 
@@ -189,6 +189,214 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine İstemi: İnce Doğal Hareket
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Göz kırpma ve nefes alma gibi ince doğal hareketlerle statik bir görüntüyü animasyonlandırmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Doğal ve ince hareketler: hafifçe seyrelmiş ve belirgin olmayan bir şekilde gerilemeye başlamış saçlara sahip çilli adam, yavaşça bakışlarını değiştiriyor, küçük baş hareketleri yapıyor; aynı zamanda yumuşak bir nefes alıp veriş ve göz kırpma sergiliyor. Düşünceli el-çenede duruşunu, çizgili gömleğini ve koyu arka planını ise olduğu gibi koruyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121836872808722432/img/L2gAQEDScChL6dmU.jpg" width="600" alt="Grok Imagine İstemi: İnce Doğal Hareket">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13884)**
+
+**Author:** [Fin de Lacy ( Finian JP Lacy)](https://x.com/victoriala13675) | **Source:** [Link](https://x.com/victoriala13675/status/2121836901409910804) | **Published:** Nov 15, 2026
+
+---
+### Köpek Süper Güçleri: Godzilla ile Dövüş
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir köpeğin süper güçler kazandığı, lazer ateşlediği ve Godzilla ile savaştığı eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bu köpeğe süper güçler ver, gözlerinden lazer atsın, binaları havaya uçursun, Godzilla ile kapışsın ve Godzilla'yı devirsin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121833110413434880/img/DIJtsx_stv06t8Qf.jpg" width="600" alt="Köpek Süper Güçleri: Godzilla ile Dövüş">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13882)**
+
+**Author:** [Brian Lutz](https://x.com/IamTheNewMeta) | **Source:** [Link](https://x.com/IamTheNewMeta/status/2121833133905772744) | **Published:** Nov 15, 2026
+
+---
+### Gotik Kız Kılıç Dansı Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için sonbahar yaprakları eşliğinde Japon katanasıyla kılıç dansı yapan gotik bir kızın yer aldığı, sahne kırılımları ve ses talimatlarını içeren detaylı 15 saniyelik sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Yüz hatları, pembe-sarı uzun saçları, mor gözleri, siyah dantel başlığı ve choker'ı, siyah ve mor emaye/dantel malzemelerden yapılmış gotik elbisesi, Japon katanası ve sonbahar akçaağaçlarıyla çevrili patika arka planı açısından @Image1, @Image2 ve @Image3 ile birebir tutarlılığı koruyan bir kızın, ritmik ve görkemli bir kılıç dansı sergilediği 15 saniyelik sinematik bir video.
+
+[BGM & Ses]
+Geleneksel enstrümanları (shamisen, taiko davulları, shakuhachi) kılıç dansına uygun, ağır ve hızlı tempolu dijital ritimlerle harmanlayan dramatik ve ritmik Japon tarzı rock/electronica. Kılıcın havayı yaran keskin ses efektleri ve hareketsizlik anlarında belirgin sessizlikler.
+
+[Sahne 1 (0:00-0:04) Orta Çekim / Referans: @Image1]
+Ekran @Image1 kompozisyonuyla açılır. Asil bir ifadeyle kız, Japon katanasını hızla kınından çeker, sert bir adımla öne atılarak çapraz bir kesiş yapar (1. savuruş). Ardından hızla arkasını döner ve kılıcı yatay olarak parlatarak yüksek hızlı bir yatay süpürme hareketi gerçekleştirir; hamlenin bittiği anda aniden durarak zanshin (saldırı sonrası farkındalık) halinde keskin bir bakış atar (2. savuruş).
+
+[Sahne 2 (0:04-0:08) Göğüs Üstü Çekim / Referans: @Image2]
+Kamera @Image2'deki mesafe hissine geçer. Sessizliğin içinden kız, aniden kılıcı yüzünün etrafında döndürerek art arda hızlı kesişler yapar; bu sırada saçları ve başlığındaki danteller çılgınca uçuşur (1. savuruş). Sonra yoğun hareketten yavaşlayarak, kılıcın ucunun havada çizdiği zarif bir yay formuna pürüzsüzce geçiş yapar ve zarif bir şekilde dans eder (2. savuruş).
+
+[Sahne 3 (0:08-0:12) Orta Çekim / Referans: @Image3]
+Ekran @Image3'teki orta açıya geri döner. Hafif adımlarla ritme ayak uyduran kız, elbisesinin fırfırlarını savurup güzelce bir tur döner ve alçak bir duruştan keskin bir yukarı doğru kesiş yapar (1. savuruş). İvmesini kaybetmeden kılıcı bir yel değirmeni gibi başının üzerinde hızla döndürür, tekrar aniden durarak havalı bir poz ve zanshin sergiler (2. savuruş).
+
+[Sahne 4 (0:12-0:15) Son Poz / Referans: @Image2]
+@Image2'ye benzer etkileyici bir açıya yeniden yakın çekim yapılır. Final olarak kız, akıcı bir kına sokma öncesi pozu alır ve kılıcı zarifçe çapraz olarak ileriye doğru yeniden kavrar (1. savuruş). Hemen ardından cesur ifadesinden sevimli bir gülümsemeye geçerek kameraya doğru tek gözüyle tatlıca göz kırpar ve video, geride bıraktığı büyüleyici atmosferle son bulur.
+
+[Video Kalitesi]
+Yüksek çözünürlük, akıcı hareket, kumaş ve saç için doğal fizik simülasyonu, akçaağaç yapraklarının arasından süzülen güneş ışığının kılıçtan yansıdığı muhteşem aydınlatma, kusursuz parmak detayları ve kılıç tutuşu.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794728016724_72xre1_HXIq56WaYAA1rxj.jpg" width="600" alt="Gotik Kız Kılıç Dansı Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13889)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2121807906337378544) | **Published:** Nov 15, 2026
+
+---
+### Samanyolu ve Palmiyelerle Gerçekçi Gece Plajı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Palmiye ağaçları, turkuaz su ve Samanyolu ile gerçekçi bir dikey gece plajı sahnesi için video oluşturma istemi; palmiyelerdeki gerçekçi rüzgar hareketini ve hafif dalga etkisini vurgular.
+
+#### 📝 Prompt
+
+```
+Fotogerçekçi dikey gece plajı sahnesi, 9:16 format. Solda uzun palmiye ağaçlarının yer aldığı, beyaz kumlu, parlak turkuaz deniz suyuyla çevrili tropikal bir gece plajı; Samanyolu'nun net bir şekilde göründüğü yıldızlı bir gökyüzü ve kıyıda uzaktan parlayan ışıklar. Palmiye ağaçlarını gerçekçi ve doğal bir şekilde sallayan hafif bir esinti, kıyıya doğru ilerleyip usulca kırılan küçük dalgalar ve sahilde beliren gerçekçi beyaz köpükler, yıldızların zarifçe titreşmesi ve Samanyolu'nun gökyüzünde son derece yavaş, doğal hareketi. Sakin bir atmosfer, gerçekçi su hareketi ve aydınlatma, ses
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121785747917193216/img/dB4tkcYWgpz0JZUi.jpg" width="600" alt="Samanyolu ve Palmiyelerle Gerçekçi Gece Plajı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13888)**
+
+**Author:** [Sin Filtro X](https://x.com/vivalilu) | **Source:** [Link](https://x.com/vivalilu/status/2121785767454245106) | **Published:** Nov 15, 2026
+
+---
+### Grok Imagine İstem: Tetrahedral Tesseract
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İç içe katmanların dışa dönük olduğu bir tetrahedral tesseract isteyen karmaşık geometrik istem.
+
+#### 📝 Prompt
+
+```
+3 iç içe geçmiş katmandan oluşan, kendi üzerine dönerek içini dışına ve dışını içine çeviren dörtyüzlü bir tesseract.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121749581834641408/img/kI-lHPsTW5UJ8H7Y.jpg" width="600" alt="Grok Imagine İstem: Tetrahedral Tesseract">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13881)**
+
+**Author:** [NateBe](https://x.com/OwlyArts) | **Source:** [Link](https://x.com/OwlyArts/status/2121749602592334040) | **Published:** Nov 14, 2026
+
+---
+### Sıcak İç Mekan Profil Fotoğrafı Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir Grok Imagine video/görsel istemi, yüz özelliklerini koruyarak özneyi sıcak ve samimi bir iç mekan profil fotoğrafına dönüştürür.
+
+#### 📝 Prompt
+
+```
+Bunu, aynı kadının sıcak ve samimi bir iç mekan profil fotoğrafına dönüştür. Yüz geometrisini, oranlarını, göz şeklini ve rengini, burnunu, ağzını, çene hattını ve cilt tonunu; doğal gerçek cilt dokusuyla (görünür gözenekler, hafif doğal parlaklık, rötuş yapılmamış) birebir koru.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121705423019380736/img/Nf4d9zOc-XmWmDhO.jpg" width="600" alt="Sıcak İç Mekan Profil Fotoğrafı Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13886)**
+
+**Author:** [Vanessa Germain](https://x.com/Sasooger) | **Source:** [Link](https://x.com/Sasooger/status/2121705435245707304) | **Published:** Nov 14, 2026
+
+---
+### South Park Tarzı Küvette Gaz Kokusu Açıklama Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Küvette gaz kokusunun neden daha kötü olduğunu açıklayan South Park tarzı animasyonlu bir video oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Küvette osurduğunuzda kokunun neden daha kötü olduğunu anlatan South Park tarzı bir video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121685923910053888/img/k0GQWvxf4bJdyDW0.jpg" width="600" alt="South Park Tarzı Küvette Gaz Kokusu Açıklama Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13885)**
+
+**Author:** [NHIbyPROXY](https://x.com/NHIbyPROXY) | **Source:** [Link](https://x.com/NHIbyPROXY/status/2121685939315671153) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine İstemi: Videoda Orijinal Çizimi Koruma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, orijinal kalem ve pastel çizim detaylarını koruyarak video animasyonu oluşturan bir istem.
+
+#### 📝 Prompt
+
+```
+Orijinal kurşun kalem ve pastel boya çizimlerinden oluşturulan videoda, temel taslağı tüm detaylarıyla koruyun!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121658392502484992/img/JAnEyx99uAfZ0wnA.jpg" width="600" alt="Grok Imagine İstemi: Videoda Orijinal Çizimi Koruma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13883)**
+
+**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2121658414543904852) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine Video İstemi: Gökkuşağı Şapka Değişimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için şapkaları gökkuşağı renkleriyle değiştiren ve diyalogları güncelleyen bir video düzenleme/üretme istemi.
+
+#### 📝 Prompt
+
+```
+Başlıkları kaldırıp yerlerine renkli gökkuşağı şapkaları tak. Söylediği şeyi "sistemi yeniden başlattın mı?..." olarak değiştir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121603598631243776/img/zsGWZbM7_wHNaRan.jpg" width="600" alt="Grok Imagine Video İstemi: Gökkuşağı Şapka Değişimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
+
+**Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### 1937 Yılından Bir Müzik Aleti Çalan Kişiyi Renklendir
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine video istemi ile 1937 yılına ait eski bir fotoğrafı renklendirin ve müzik aleti çalan kişiyi canlandırın.
+
+#### 📝 Prompt
+
+```
+1937'den kalma renklendirme efektleriyle fotoğraflara renk katın ve O'nun enstrüman çalma challenge'ına katılarak eski bir fotoğrafı alıp hayata döndürün
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121519804955893760/img/HkE3bXCNay-U4pOd.jpg" width="600" alt="1937 Yılından Bir Müzik Aleti Çalan Kişiyi Renklendir">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13887)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2121519817299816825) | **Published:** Nov 14, 2026
+
+---
 ### Grok Imagine İstemi: Mekanik Akrep Savaşçısı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1009,7 +1217,7 @@ Son Kare: Reklam panolarıyla çevrili kanyonun ve kalabalığın geniş panoram
 ---
 ### Sabit Arka Plan İstem Düzeltmesi
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Grok Imagine videolarında parçacık efektlerini önlemek ve arka planı sabit tutmak için kullanılan bir istem parçası.
 
@@ -2334,221 +2542,6 @@ Kahverengi gözlü kız, tuğla bir evin içindeki şöminenin yanında şeker a
 **Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
 
 ---
-### Elon Musk Mars Lunapark Gezisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk ve Optimus robotunun Mars'taki bir lunaparkta geçtiği komik bir video sahnesi oluşturmak için bir istem.
-
-#### 📝 Prompt
-
-```
-POV: Elon Musk ve Optimus, Mars'ın ilk lunapark oyuncağını deniyor. 🎢🚀
-
-Elon hayatının en güzel anlarını yaşıyor.
-Optimus ise hâlâ G kuvvetini hesaplamaya çalışıyor. 🤖😂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="Elon Musk Mars Lunapark Gezisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13410)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **Published:** Nov 1, 2026
-
----
-### Katmanlı Kıyafetli Havaalanı Doğal Görüntü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, aşırı sayıda katmanlı kıyafet giyen bir kadının gerçekçi havaalanı videosunu üreten bir istem.
-
-#### 📝 Prompt
-
-```
-Ultra gerçekçi 9:16 formatında, sıradan bir yolcunun akıllı telefonuyla oldukça uzaktan çekilmiş, doğal ve kurgulanmamış bir havalimanı videosu. Üzerinde kesinlikle abartılı sayıda kıyafet katmanı (15-20 adet ceket, kapüşonlu sweatshirt, kazak, atkı ve pantolon) bulunan bir kadın yavaşça yürüyo...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="Katmanlı Kıyafetli Havaalanı Doğal Görüntü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
-
-**Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
-
----
-### Siberpunk Savaşçı Dönüşüm Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir savaş sırasında ekipman dönüşümleri geçiren bir siberpunk savaşçının sürekli dövüş videosunu oluşturmak için son derece detaylı bir istem; görsel stil, kamera ve ses spesifikasyonlarını içerir.
-
-#### 📝 Prompt
-
-```
-[Üretim Hedefi]
-Tam savaş teçhizatı giymiş bir Bilim Kurgu cyberpunk savaşçısının yoğun bir çatışmaya girdiği, üst düzey kesintisiz bir dövüş videosu oluşturun. Ana odak noktası; tam muharebe donanımı içindeki ağır zırhlı cyberpunk dövüşçüsünün, aktif çatışma sırasında gelişmiş ve üst seviye dönüşümler gerçekleştirmesidir.
-
-[Özneler ve İlişkiler]
-Savaşçı, eksiksiz bir muharebe kıyafeti içindeki yalnız bir cyberpunk dövüşçüsüdür: Mat siyah ve neon kenarlı güçlendirilmiş dış iskelet zırhı, parlayan camgöbeği-mor enerji kanalları, göğüs/omuzlar/bacak-kollar boyunca takviyeli zırh plakaları, zırhın altındaki çok katmanlı muharebe tulumu, vizörlü HUD entegreli kask, silahlı eldivenler (gauntlet) ve modüler bağlantı noktaları. Başka hiçbir karakter yer almaz. Tüm dönüşümler, bu tek dövüşçünün ekipmanlarına ve vücut sistemlerine ait bağımsız geliştirmelerdir.
-
-[Olay Senaryosu]
-Başlangıçta: Savaşçı; titreşen holografik tabelaların ve ıslak asfalt yansımalarının altında, yağmurdan kayganlaşmış, neon ışıklarıyla yıkanmış bir cyberpunk şehir ara sokağında durmaktadır. Tamamen kuşanmış hâlde, savaşa hazır bir duruş sergilemekte; silahları kılıflarındayken sistemleri aktiftir.
-
-Ana olay: Anında tam muharebeye giriş. Savaşçı, dövüşün ortasında ardışık üst seviye dönüşümleri devreye sokar — önce zırh plakaları maksimum koruma için hidrolik kilitler ve enerji dalgalanmalarıyla yeniden şekillenip genişler, ardından eldivenler yüksek enerjili plazma bıçaklarına ve raylı top uzantılarına dönüşür; bunu sırt çantasından ve eklem yerlerinden açılan itici güçlendiriciler ve uyarlanabilir kalkanlar izler. Dövüşçü; akıcı, yüksek hızlı dövüş sanatları-cyber hareketleriyle atılır, zıplar ve görünmez/düşman ateşiyle mücadele ederken her dönüşüm gücü bir adım daha artırır: Zırh daha da sertleşir, enerji aurası camgöbeğinden menekşe rengine yoğunlaşır, silahlar modlar arasında geçiş yapar (bıçak savurma → mermi yağmuru → enerji kalkanıyla darbe). Çatışmanın şiddeti zirveye ulaşırken yağmur, kıvılcımlar ve neon ışıklar dönüşen siluetin üzerinden süzülür.
-
-Sonunda: Savaşçı, nihai ve tamamen dönüşmüş hâliyle zaferle ayakta durur — zırh en üst düzey muharebe konfigürasyonuna tamamen kilitlenmiş, enerji kanalları en yüksek yoğunlukta parlamakta, silahlar tamamen açılmış ve kullanıma hazırdır. Şehir ışıkları geliştirilmiş zırh plakalarından yansırken, ayaklarının etrafındaki kalıntı enerji boşalmaları yavaşça söner.
-
-[Görsel Stil]
-Aşırı detaylı, üst seviye Bilim Kurgu cyberpunk estetiği: Parlak ıslak yüzeyler, hacimsel neon sis, yüksek kontrastlı camgöbeği/magenta/elektrik moru aydınlatma, kusursuz biçimde şekil değiştiren panellerle karmaşık mekanik dönüşüm detayları, kıvılcımlar, enerji partikülleri ve holografik HUD katmanları. Uzuvlarda ve silah izlerinde dinamik hareket bulanıklığı ile fotogerçekçi ama stilize edilmiş bir dövüş yoğunluğu.
-
-[Kamera]
-Dinamik muharebe sinematografisi: Tam savaş kıyafetini çerçeveye alan bir orta çekimle başlar, ardından atılma ve dönüşümleri takip eden hızlı takip çekimleri, zırhın yeniden şekillendiği anlarda aşağıdan çekilen güçlü açılar, silah dönüşümleri sırasında savaşçının etrafında dönen orbital kamera hareketleri ve son olarak nihai dönüşmüş duruşa doğru dramatik, alçak açıdan yavaş bir yaklaşma (push-in) ile biter.
-
-[Ses]
-Sürükleyici tam muharebe sesi: Derin hidrolik ve metalik tıkırtılar, yüksek frekanslı enerji uğultuları, plazma deşarjı çıtırtıları, ağır bas vuruşları ve çatışmanın şiddetiyle birlikte hızlanan, tempolu ritmik bir synth-wave müzik parçası.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Siberpunk Savaşçı Dönüşüm Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **Published:** Nov 1, 2026
-
----
-### Podyum Elbise Tasarımı Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'ın, yenilikçi bir elbise tasarımı giyen bir kadının podyumda yürüdüğü bir video oluşturması için hazırlanmış istem.
-
-#### 📝 Prompt
-
-```
-Bu, kadın elbisesi tasarımına yepyeni bir yaklaşım. Dr. Michael Taub tarafından yaratılıp tasarlandı. Podyumda yürüyen genç hanımı gösterin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="Podyum Elbise Tasarımı Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13406)**
-
-**Author:** [Michael Taub](https://x.com/Drdick2262) | **Source:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **Published:** Nov 1, 2026
-
----
-### Karanlık Katolik Mezarlığında Mumlu Yürüyüş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yanan mumlar ve mezarlarla dolu karanlık bir mezarlıkta yürüyüşü anlatan birinci şahıs bakış açılı istem.
-
-#### 📝 Prompt
-
-```
-Katolik bir mezarlığa giriyorum. Etraf karanlık. Mezarların arasındaki patikalarda yürüyorum. Yol boyunca ağaçlar sıralanmış, mezarların üzerinde yanan mumlar parlıyor. Ellerimde güzel, yanmakta olan bir mum tutuyorum.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="Karanlık Katolik Mezarlığında Mumlu Yürüyüş">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13411)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **Published:** Nov 1, 2026
-
----
-### Sinematik Western Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak belirli kamera açıları, aydınlatma ve aksiyon sahneleriyle 6 saniyelik sinematik bir Western videosu oluşturmak için detaylı istem.
-
-#### 📝 Prompt
-
-```
-16:9 geniş ekran formatında, 6 saniyelik sinematik bir Western videosu oluştur. Sert film greni, tozlu altın saat ışığı, yıpranmış sınır kasabası binaları, gerçekçi hareketler. Diyalog yok.
-
-0–1,5 saniye: Yalnız bir kanun kaçağının çizmesinin toprağa sertçe basmasının aşırı yakın çekimi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="Sinematik Western Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13413)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **Published:** Nov 1, 2026
-
----
-### Dracula Komuta Eden Savaşçılar Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cadılar Bayramı'nda Dracula'nın şatosunun önünde durup Samhain Savaşçılarına komuta ettiği bir video sahnesi oluşturmak için istem.
-
-#### 📝 Prompt
-
-```
-Dracula, Cadılar Bayramı'nda kalesinin önünde durarak Samhain Warriors birliklerine komuta ediyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="Dracula Komuta Eden Savaşçılar Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13334)**
-
-**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
-
----
-### KY-22 Uçağı Fantastik Klip
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için KY-22 Krechet uçak tasarımına dair fantastik bir klip oluşturmak amacıyla referans modunda video istemi.
-
-#### 📝 Prompt
-
-```
-Yeni uçak tasarımım, eş eksenli rotorlu bir VTOL (dikey iniş-kalkış) aracı olan KY-22 "Krechet" hakkında fantastik bir kısa klip
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="KY-22 Uçağı Fantastik Klip">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13606)**
-
-**Author:** [Spectro](https://x.com/Spectromachina) | **Source:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **Published:** Nov 1, 2026
-
----
-### Yin Yang Ejderha Anka Kuşu Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ateş ve buzun yin-yang sembolüne dönüşerek bir ejderha/anka melezi yarattığı, şiirsel bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ateş ve buz, yin ile yang gibi birbirine dolanarak küllerinden doğan bir anka kuşu misali bir ejderha yaratır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="Yin Yang Ejderha Anka Kuşu Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13333)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **Published:** Nov 1, 2026
-
----
-### Atlıkarınca Balon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir kızın uçan balonlu atlıkarınca izlediği sinematik video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Atlıkarınca, gerilim dolu müziğin eşliğinde ürpertici bir şekilde dönerken ışık huzmelerinden oluşan bir renk cümbüşü akşamı büyülüyor. Küçük kız, bu manzaranın büyüsüne kapılınca balonu elinden kayıp gökyüzüne süzülüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="Atlıkarınca Balon Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13329)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2610,6 +2603,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T06:11:10.633Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T15:46:40.518Z</sub>
 
 </div>

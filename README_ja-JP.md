@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3400** |
+| 📝 プロンプト総数 | **3410** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-15** |
 
@@ -189,6 +189,214 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine プロンプト: 自然で控えめなモーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 瞬きや呼吸など、自然で微妙な動きを静止画に付与するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+自然でさりげない動き：少し髪が薄くなり、生え際がわずかに後退したそばかすの男性が、ゆっくりと視線を移し、小さく頭を動かします。穏やかな呼吸とまばたきを伴いながら、思慮深げに顎に手を当てるポーズ、ストライプのシャツ、そして暗い背景はそのまま保たれています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121836872808722432/img/L2gAQEDScChL6dmU.jpg" width="600" alt="Grok Imagine プロンプト: 自然で控えめなモーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13884)**
+
+**作者:** [Fin de Lacy ( Finian JP Lacy)](https://x.com/victoriala13675) | **ソース:** [Link](https://x.com/victoriala13675/status/2121836901409910804) | **公開日:** Nov 15, 2026
+
+---
+### 犬のスーパーパワー ゴジラとの決闘
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 犬がスーパーパワーを手に入れ、レーザーを放ち、ゴジラと戦うユーモアあふれる動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+この犬に超能力を与えて、目からレーザーを発射し、ビルを爆破して Godzilla と戦い、Godzilla をぶっ倒す
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121833110413434880/img/DIJtsx_stv06t8Qf.jpg" width="600" alt="犬のスーパーパワー ゴジラとの決闘">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13882)**
+
+**作者:** [Brian Lutz](https://x.com/IamTheNewMeta) | **ソース:** [Link](https://x.com/IamTheNewMeta/status/2121833133905772744) | **公開日:** Nov 15, 2026
+
+---
+### ゴシック少女の剣舞動画プロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine 向けの、秋の紅葉を背景に日本刀で剣舞を披露するゴシック少女を描いた、15秒間のシネマティックな動画プロンプトの詳細です。具体的なシーン構成や音声指示を含みます。
+
+#### 📝 プロンプト
+
+```
+@Image1、@Image2、@Image3 との厳密な一貫性を保ちながら、顔立ち、ピンクブロンドのロングヘア、紫の瞳、黒いレースのヘッドドレスとチョーカー、黒と紫のエナメル／レース素材で仕立てられたゴシックドレス、日本刀、そして紅葉に彩られた秋の並木道という背景に至るまで完全に一致させた少女が、リズミカルかつ華麗な剣舞を披露する 15 秒間のシネマティック映像。
+
+[BGM & サウンド]
+伝統楽器（三味線、太鼓、尺八）と、重厚かつテンポの速いデジタルビートを融合させた、ドラマチックでリズム感あふれる和風ロック／エレクトロニカ。剣舞にふさわしい力強い楽曲。空を切り裂く鋭い刀の音と、静止した瞬間に訪れる研ぎ澄まされた静寂。
+
+[シーン 1 (0:00-0:04) ミディアムショット / 参照：@Image1]
+画面は @Image1 の構図から始まる。凛とした表情の少女が素早く日本刀を鞘から抜き放ち、鋭く一歩踏み出して斜め袈裟斬り（1 振目）。そのまま素早く反転し、刃を水平に閃かせながら高速の横薙ぎを繰り出し、振り切った瞬間にピタリと静止して、残心の鋭い眼差しを決める（2 振目）。
+
+[シーン 2 (0:04-0:08) バストアップ / 参照：@Image2]
+カメラは @Image2 の距離感へと切り替わる。静寂から一転、少女は顔の周囲で刀を旋回させるように高速の連続斬りを繰り出し、髪とヘッドドレスのレースを激しく翻す（1 振目）。その後、激しい動きから徐々にスローダウンし、空中に描かれる優雅な刀先の弧へと滑らかにつなぎ、艶やかに舞う（2 振目）。
+
+[シーン 3 (0:08-0:12) ミディアムショット / 参照：@Image3]
+画面は再び @Image3 のミディアムアングルに戻る。軽やかなステップでリズムに乗った少女は、ドレスのフリルを翻しながら美しく一回転し、低い姿勢から鋭い切り上げの一閃を放つ（1 振目）。その勢いを殺さず、頭上で風車のように刀を高速回転させ、再びピタリと静止してクールなポーズと残心を決める（2 振目）。
+
+[シーン 4 (0:12-0:15) ラストポーズ / 参照：@Image2]
+@Image2 に似た印象的なアングルへ再びズームイン。フィナーレとして、流れるような納刀前のポーズを取り、刀を斜め前方に優雅に構え直す（1 振目）。直後、凛々しい表情から愛らしい笑顔へと切り替え、カメラに向かって片目でキュートにウインクし、余韻を残して映像が締めくくられる。
+
+[映像品質]
+高解像度、滑らかなモーション、衣服や髪の自然な物理演算シミュレーション。紅葉の隙間から差し込む木漏れ日が刀身に反射する美しいライティング、指先と刀の握りに破綻のない完璧な描写。
+```
+
+<img src="https://cms-assets.youmind.com/media/1794728016724_72xre1_HXIq56WaYAA1rxj.jpg" width="600" alt="ゴシック少女の剣舞動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13889)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **ソース:** [Link](https://x.com/HaluAIArt/status/2121807906337378544) | **公開日:** Nov 15, 2026
+
+---
+### 天の川とヤシの木が映えるリアルな夜のビーチ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ヤシの木、ターコイズブルーの海、天の川が描かれたリアルな縦長夜のビーチシーンを生成するための動画プロンプト。ヤシの葉の自然な揺れや穏やかな波の動きを強調しています。
+
+#### 📝 プロンプト
+
+```
+写真のようにリアルな縦型の夜のビーチシーン、 9:16 フォーマット。左側に高いヤシの木が並ぶ夜のトロピカルビーチ、白い砂浜、鮮やかなターコイズブルーの海、天の川がはっきりと見える星空、そして遠くの海岸沿いの灯り。そよ風が吹き、ヤシの木が自然でリアルに揺れる様子。小さな波が穏やかに打ち寄せ、岸辺にリアルな白い泡を残す光景。星々のほのかな瞬きと、空をゆっくりと自然に流れる天の川の動き。落ち着いた雰囲気、リアルな水面の動きとライティング、サウンド
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121785747917193216/img/dB4tkcYWgpz0JZUi.jpg" width="600" alt="天の川とヤシの木が映えるリアルな夜のビーチ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13888)**
+
+**作者:** [Sin Filtro X](https://x.com/vivalilu) | **ソース:** [Link](https://x.com/vivalilu/status/2121785767454245106) | **公開日:** Nov 15, 2026
+
+---
+### Grok Imagine プロンプト: 四面体テッセラクト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 入れ子構造の層が内側から外側へ反転する四面体テッセラクトを描画するための複雑な幾何学的プロンプト。
+
+#### 📝 プロンプト
+
+```
+3 つの入れ子構造になった層を持つ四面体テッセラクトが、内側から外へ、そして外側から内へと反転していく様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121749581834641408/img/kI-lHPsTW5UJ8H7Y.jpg" width="600" alt="Grok Imagine プロンプト: 四面体テッセラクト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13881)**
+
+**作者:** [NateBe](https://x.com/OwlyArts) | **ソース:** [Link](https://x.com/OwlyArts/status/2121749602592334040) | **公開日:** Nov 14, 2026
+
+---
+### 居心地の良い室内ポートレートへの変換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine の動画・画像生成プロンプトで、顔の特徴を保ちながら、被写体を居心地の良い室内のポートレート写真に変換します。
+
+#### 📝 プロンプト
+
+```
+この画像を、まったく同じ女性が写る温かみのある屋内プロフィール写真に変換してください。顔の形状や比率、目の形と色、鼻、口元、顎のライン、そして自然なリアル肌の質感（毛穴が見える程度、ほんのりとした自然なツヤ、エアブラシ加工なし）は、すべてそのまま維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121705423019380736/img/Nf4d9zOc-XmWmDhO.jpg" width="600" alt="居心地の良い室内ポートレートへの変換">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13886)**
+
+**作者:** [Vanessa Germain](https://x.com/Sasooger) | **ソース:** [Link](https://x.com/Sasooger/status/2121705435245707304) | **公開日:** Nov 14, 2026
+
+---
+### サウスパーク風：お風呂で屁が臭くなる理由を解説する動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> お風呂で屁が臭くなる理由を解説する、サウスパーク風アニメーション動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+お風呂の中でオナラをすると、なぜいつもより臭く感じるのか？その理由を South Park スタイルの動画で解説します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121685923910053888/img/k0GQWvxf4bJdyDW0.jpg" width="600" alt="サウスパーク風：お風呂で屁が臭くなる理由を解説する動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13885)**
+
+**作者:** [NHIbyPROXY](https://x.com/NHIbyPROXY) | **ソース:** [Link](https://x.com/NHIbyPROXY/status/2121685939315671153) | **公開日:** Nov 14, 2026
+
+---
+### Grok Imagine プロンプト: 動画で元のスケッチを保持
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 元の鉛筆とクレヨンのスケッチのディテールを保持したまま動画をアニメーション化するための、Grok Imagine 用のプロンプト。
+
+#### 📝 プロンプト
+
+```
+鉛筆やクレヨンで描いた原画のニュアンスをそのままに、ベースとなるスケッチの細部までしっかり残した動画を作りましょう！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121658392502484992/img/JAnEyx99uAfZ0wnA.jpg" width="600" alt="Grok Imagine プロンプト: 動画で元のスケッチを保持">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13883)**
+
+**作者:** [Viswanath M. Aluru](https://x.com/vmaluru) | **ソース:** [Link](https://x.com/vmaluru/status/2121658414543904852) | **公開日:** Nov 14, 2026
+
+---
+### Grok Imagine 動画プロンプト：レインボーハットへの置き換え
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で頭部をレインボーハットに置き換え、セリフを変更するための動画編集・生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+ヘッドギアを外して、カラフルなレインボーハットに付け替えてください。セリフは「システムを再起動しましたか？...」に変更してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121603598631243776/img/zsGWZbM7_wHNaRan.jpg" width="600" alt="Grok Imagine 動画プロンプト：レインボーハットへの置き換え">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13880)**
+
+**作者:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **ソース:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **公開日:** Nov 14, 2026
+
+---
+### 1937 年の楽器演奏者に色付け
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine のビデオプロンプトで、1937 年の古い写真に色付けし、楽器を演奏する人物をアニメーション化します。
+
+#### 📝 プロンプト
+
+```
+Colorize で 1937 年当時の色を蘇らせ、彼に楽器チャレンジをさせて、古い写真を生き生きとよみがえらせましょう
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121519804955893760/img/HkE3bXCNay-U4pOd.jpg" width="600" alt="1937 年の楽器演奏者に色付け">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13887)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **ソース:** [Link](https://x.com/lighthouse42f/status/2121519817299816825) | **公開日:** Nov 14, 2026
+
+---
 ### Grok Imagine プロンプト：メカニカル・サソリ戦士
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1019,7 +1227,7 @@ BGM ：温かみのあるアコースティックギターと、柔らかく落�
 ---
 ### 静的背景プロンプト修正
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Grok Imagine の動画でパーティクル効果を防止し、背景を静的に保つために使用されるプロンプトスニペット。
 
@@ -2354,221 +2562,6 @@ Seahawk カラーのセーターを着た Seahawk が、その爪で Grizzly を
 **作者:** [ScreechR1](https://x.com/ScreechR6) | **ソース:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **公開日:** Nov 2, 2026
 
 ---
-### Elon Musk の火星テーマパークライド
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk と Optimus ロボットが火星のアミューズメントパークで繰り広げる、ユーモラスな動画シーンを生成するためのプロンプト
-
-#### 📝 プロンプト
-
-```
-POV： Elon Musk と Optimus が、火星初のジェットコースターに挑戦 🎢🚀
-
-Elon はもう大はしゃぎ。
-Optimus はまだ G を計算中 🤖😂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="Elon Musk の火星テーマパークライド">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13410)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **ソース:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **公開日:** Nov 1, 2026
-
----
-### 重ね着ファッションの空港スナップ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine で生成する、女性が大量の衣類を重ね着したリアルな空港動画のプロンプト。
-
-#### 📝 プロンプト
-
-```
-超リアルな 9:16 の空港での隠し撮り風動画。見知らぬ乗客のスマートフォンで、かなり離れた場所から撮影された映像です。ありえないほど大量の服（ジャケット、パーカー、セーター、マフラー、ズボンを合わせて 15〜20 着）を重ね着した女性が、ゆっくりと歩いて…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="重ね着ファッションの空港スナップ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13408)**
-
-**作者:** [Realishai](https://x.com/NatureLove216) | **ソース:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **公開日:** Nov 1, 2026
-
----
-### サイバーパンク戦士の戦闘変身動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サイバーパンク戦士が戦闘中に装備をトランスフォームする連続アクション動画の生成用プロンプト。ビジュアルスタイル、カメラワーク、サウンド仕様など詳細に指定。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-完全武装した SF サイバーパンク戦士が激しい戦闘を繰り広げる、次世代レベルの連続戦闘動画を生成します。中核となる被写体は、フルコンバットギアに身を包んだ重装甲サイバーパンクファイターであり、実戦の中で高度な次世代トランスフォーメーション（変形・強化）を実行します。
-
-[被写体と関係性]
-戦士は、完全な戦闘装備をまとった孤高のサイバーパンク戦闘員です。マットブラックのボディにネオンエッジが走るパワード外骨格アーマー、シアンからパープルへと発光するエネルギー導管、胸部・肩部・四肢を覆う強化装甲プレート、アーマーの下に着込んだ多層構造のコンバットスーツ、バイザー HUD 内蔵の一体型ヘルメット、武器化されたガントレット、そしてモジュール式ハードポイントを備えています。他のキャラクターは一切登場しません。すべてのトランスフォーメーションは、この単独のファイターの装備および身体システム内で完結する自己アップグレードとして描かれます。
-
-[イベントスクリプト]
-開始時：戦士は、明滅するホログラム看板と濡れたアスファルトの反射に彩られた、雨に濡れるネオン輝くサイバーパンクシティの路地に立っています。すでにフル装備で戦闘態勢に入り、武器はホルスターに収められているものの、全システムは起動済みです。
-
-主要イベント：即座に全面戦闘へ突入します。戦士は戦闘の最中、次々と次世代トランスフォーメーションを発動させます。まず、油圧ロックとエネルギーサージを伴って装甲プレートが再構成・拡張され、防御力が最大化されます。次に、ガントレットが高エネルギーのプラズマブレードとレールガン拡張ユニットへと変形し、続いてバックパックと各関節からスラスターブーストと適応型シールドが展開されます。ファイターは疾走し、跳躍し、流れるような高速のマーシャル・サイバーアクションで不可視の敵や銃弾を迎撃します。変形ごとにパワーは段階的に上昇していきます。装甲はさらに硬化し、エネルギーオーラはシアンからバイオレットへと輝きを増し、武器はモードを切り替えていきます（ブレード斬撃 → 射撃弾幕 → エネルギーシールドバッシュ）。戦闘が最高潮に達するにつれ、雨粒、火花、ネオンの光が、変形を続けるシルエットの上を駆け抜けます。
-
-終了時：戦士は最終形態へと完全に変形した姿で勝利の雄姿を見せます。アーマーは究極の戦闘形態へと完全にロックされ、エネルギー導管は最大出力で燃え上がり、武器はすべて展開されて臨戦態勢にあります。街の灯りが強化された装甲プレートに反射し、足元では残存エネルギーの放電が静かに消えていきます。
-
-[ビジュアルスタイル]
-超精細な次世代 SF サイバーパンク美学：光沢を帯びた濡れた表面、ボリューメトリックなネオンフォグ、ハイコントラストなシアン／マゼンタ／エレクトリックパープルのライティング。シームレスに変形するパネルによる精緻なメカニカルディテール、スパーク、エネルギー粒子、そしてホログラフィック HUD オーバーレイ。フォトリアルでありながら様式化された戦闘の緊張感。四肢や武器の軌跡にはダイナミックなモーションブラーがかかります。
-
-[カメラワーク]
-ダイナミックな戦闘シネマトグラフィー：全身の戦闘装備を捉えるミディアムショットで始まり、疾走と変形を追う高速トラッキングショットへ移行。アーマー再構成時にはローアングルの力強いショット、武器変形時には戦士の周囲を旋回するオービタルムーブを用い、最後は最終形態で構える姿へ向けて、ドラマチックなロウアングルからのスロースライドインで締めくくります。
-
-[サウンド]
-没入感のあるフルコンバットオーディオ：重厚な油圧音と金属の衝突音、高周波のエネルギー駆動音、プラズマ放電の炸裂音、ヘビーなベースインパクト。そして、戦闘の激しさに合わせてテンポを上げていく、疾走感あふれるリズミカルなシンセウェーブトラック。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="サイバーパンク戦士の戦闘変身動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13523)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **公開日:** Nov 1, 2026
-
----
-### ランウェイ ドレス デザイン ビデオ プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine で、斬新なドレスデザインを着た女性がランウェイを歩く動画を生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-レディースドレスのデザインにおける、まったく新しいアプローチです。Dr. Michael Taub によって制作・デザインされました。ランウェイを歩く若い女性をご覧ください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="ランウェイ ドレス デザイン ビデオ プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13406)**
-
-**作者:** [Michael Taub](https://x.com/Drdick2262) | **ソース:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **公開日:** Nov 1, 2026
-
----
-### 暗いカトリック墓地のキャンドルウォーク
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 灯されたキャンドルと墓がある暗い墓地を歩く一人称視点のプロンプト。
-
-#### 📝 プロンプト
-
-```
-私はカトリックの墓地に足を踏み入れます。あたりは暗く、墓石の間を縫うように小道を歩いていきます。道沿いには木々が立ち並び、お墓の上では火の灯ったろうそくが静かに揺らめいています。私の両手には、美しく燃える 1 本のろうそくが握られています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="暗いカトリック墓地のキャンドルウォーク">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13411)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **公開日:** Nov 1, 2026
-
----
-### シネマティック・ウェスタン動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、特定のカメラアングル、ライティング、アクションシーンを備えた 6 秒のシネマティック・ウェスタン動画を生成するための詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-ワイドスクリーン 16:9 で、6 秒間のシネマティックな西部劇風動画を作成してください。ざらついたフィルムグレイン、埃っぽいゴールデンアワーの光、風雨にさらされた開拓時代の建物、リアルな動き。セリフなし。
-
-0〜1.5 秒：孤独な無法者のブーツが砂埃に踏み込まれるエクストリーム・クローズアップ…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="シネマティック・ウェスタン動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13413)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **ソース:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **公開日:** Nov 1, 2026
-
----
-### ドラキュラが戦士たちを指揮する動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ハロウィンの夜、ドラキュラが城の前に立ち、サムヘイン・ウォリアーズに命令を下す映像シーンを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-ハロウィンの夜、自身の城の前に立ち、Samhain Warriors に号令を下す Dracula
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="ドラキュラが戦士たちを指揮する動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13334)**
-
-**作者:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **ソース:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **公開日:** Nov 1, 2026
-
----
-### KY-22 航空機 ファンタジー クリップ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine で KY-22 Krechet 航空機デザインをテーマにしたファンタジー クリップを作成するためのリファレンス モードの動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-私が設計した新型航空機、同軸反転ローター式 VTOL 機「KY-22 "Krechet"」を紹介するファンタジー風のショートクリップです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="KY-22 航空機 ファンタジー クリップ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13606)**
-
-**作者:** [Spectro](https://x.com/Spectromachina) | **ソース:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **公開日:** Nov 1, 2026
-
----
-### 陰陽・龍鳳動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火と氷が渦巻いて陰陽のシンボルを形成し、龍と鳳凰のハイブリッドを生み出す様子を詩的に描写した動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-炎と氷が陰陽のように渦を巻き、不死鳥のごとく灰の中から舞い上がる龍を生み出す。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="陰陽・龍鳳動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13333)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **ソース:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **公開日:** Nov 1, 2026
-
----
-### メリーゴーランドと風船のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のシネマティックな動画生成プロンプト。風船が飛ぶ中、メリーゴーランドを見つめる少女を描きます。
-
-#### 📝 プロンプト
-
-```
-不気味なほど緊張感あふれる音楽に合わせてメリーゴーランドが回り、万華鏡のような光のきらめきが夜を幻想的に彩る。その魅惑的な光景に見とれた少女の手から、風船がふわりと空へと舞い上がっていく。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="メリーゴーランドと風船のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13329)**
-
-**作者:** [Swetha Prabhakar](https://x.com/sprabs12) | **ソース:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **公開日:** Nov 1, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2630,6 +2623,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-15T06:10:58.011Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-15T15:46:28.002Z</sub>
 
 </div>

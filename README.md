@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3400** |
+| 📝 Total Prompts | **3410** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-15** |
 
@@ -189,6 +189,214 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Prompt: Subtle Natural Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for animating a static image with subtle natural movements like blinking and breathing.
+
+#### 📝 Prompt
+
+```
+Subtle natural motion: the freckled man with slightly thinned and subtly receded hair slowly shifts his gaze, makes small head movements, and has gentle breathing and blinking, keeping the same thoughtful hand-on-chin pose, striped shirt, and dark background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121836872808722432/img/L2gAQEDScChL6dmU.jpg" width="600" alt="Grok Imagine Prompt: Subtle Natural Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13884)**
+
+**Author:** [Fin de Lacy ( Finian JP Lacy)](https://x.com/victoriala13675) | **Source:** [Link](https://x.com/victoriala13675/status/2121836901409910804) | **Published:** Nov 15, 2026
+
+---
+### Dog Superpowers Godzilla Fight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous video prompt where a dog gains superpowers, shoots lasers, and fights Godzilla.
+
+#### 📝 Prompt
+
+```
+give this dog superpowers, shoots lasers from eyes, blows up building, fights godzilla, knock over Godzilla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121833110413434880/img/DIJtsx_stv06t8Qf.jpg" width="600" alt="Dog Superpowers Godzilla Fight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13882)**
+
+**Author:** [Brian Lutz](https://x.com/IamTheNewMeta) | **Source:** [Link](https://x.com/IamTheNewMeta/status/2121833133905772744) | **Published:** Nov 15, 2026
+
+---
+### Gothic Girl Sword Dance Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed 15-second cinematic video prompt for Grok Imagine featuring a gothic girl performing a sword dance with Japanese katana, set against autumn leaves, including specific scene breakdowns and audio instructions.
+
+#### 📝 Prompt
+
+```
+A 15-second cinematic video of a girl maintaining strict consistency with @Image1, @Image2, and @Image3 regarding her facial features, pink-blonde long hair, purple eyes, black lace headdress and choker, gothic dress made of black and purple enamel/lace materials, Japanese katana, and the background of an autumn maple-lined path, while performing a rhythmic and magnificent sword dance.
+
+[BGM & Sound]
+Dramatic and rhythmic Japanese-style rock/electronica fusing traditional instruments (shamisen, taiko drums, shakuhachi) with heavy, fast-paced digital beats suitable for sword dancing. Sharp sound effects of the blade cutting through the air and well-defined silence during stillness.
+
+[Scene 1 (0:00-0:04) Medium Shot / Reference: @Image1]
+The screen starts from the composition of @Image1. With a dignified expression, the girl swiftly draws the Japanese katana from its sheath, steps forward sharply, and delivers a diagonal slash (1st swing). She then quickly turns around and executes a high-speed horizontal sweep flashing the blade horizontally, stopping abruptly at the moment of release to hold a sharp gaze in zanshin (awareness after attack) (2nd swing).
+
+[Scene 2 (0:04-0:08) Bust Up / Reference: @Image2]
+The camera switches to the distance sense of @Image2. From silence, the girl suddenly performs rapid consecutive cuts spinning the sword around her face, making her hair and headdress lace flutter wildly (1st swing). Then, she slows down from intense movement, transitioning smoothly into a graceful arc traced by the tip of the sword in mid-air, dancing elegantly (2nd swing).
+
+[Scene 3 (0:08-0:12) Medium Shot / Reference: @Image3]
+The screen returns to the medium angle of @Image3. Riding the rhythm with light steps, the girl flips her dress frills and spins beautifully once, delivering a sharp upward slash from a low stance (1st swing). Without killing the momentum, she rotates the sword rapidly above her head like a windmill, stops again abruptly to strike a cool pose and zanshin (2nd swing).
+
+[Scene 4 (0:12-0:15) Last Pose / Reference: @Image2]
+Zoom in again to an impressive angle similar to @Image2. As a finish, the girl takes a flowing pre-sheathing pose, gracefully re-holding the sword diagonally forward (1st swing). Immediately after, shifting from a brave expression to a cute smile, she winks cutely with just one eye towards the camera, ending with lingering atmosphere.
+
+[Video Quality]
+High definition, smooth motion, natural physics simulation for cloth and hair, beautiful lighting where sunlight filtering through maple leaves reflects off the blade, flawless finger and sword grip.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794728016724_72xre1_HXIq56WaYAA1rxj.jpg" width="600" alt="Gothic Girl Sword Dance Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13889)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2121807906337378544) | **Published:** Nov 15, 2026
+
+---
+### Realistic Night Beach with Milky Way and Palm Trees
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for a photorealistic vertical night beach scene featuring palm trees, turquoise water, and the Milky Way, emphasizing realistic wind movement in palms and gentle wave action.
+
+#### 📝 Prompt
+
+```
+Photorealistic vertical night beach scene, 9:16 format. Tropical beach at night with tall palm trees on the left, white sand, bright turquoise sea water, starry sky with the Milky Way clearly visible and distant lights on the coast. A soft breeze causing the palm trees to move realistically and organically, small waves rolling and breaking gently with realistic white foam on the shore, subtle twinkling of stars and very slow, natural movement of the Milky Way in the sky. Calm atmosphere, realistic water movement and lighting, sound
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121785747917193216/img/dB4tkcYWgpz0JZUi.jpg" width="600" alt="Realistic Night Beach with Milky Way and Palm Trees">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13888)**
+
+**Author:** [Sin Filtro X](https://x.com/vivalilu) | **Source:** [Link](https://x.com/vivalilu/status/2121785767454245106) | **Published:** Nov 15, 2026
+
+---
+### Grok Imagine Prompt: Tetrahedral Tesseract
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Complex geometric prompt asking for a tetrahedral tesseract with nested layers turning inside out.
+
+#### 📝 Prompt
+
+```
+A tetrahedral tesseract with 3 nested layers turning inside out and outwards in.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121749581834641408/img/kI-lHPsTW5UJ8H7Y.jpg" width="600" alt="Grok Imagine Prompt: Tetrahedral Tesseract">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13881)**
+
+**Author:** [NateBe](https://x.com/OwlyArts) | **Source:** [Link](https://x.com/OwlyArts/status/2121749602592334040) | **Published:** Nov 14, 2026
+
+---
+### Cozy Indoors Profile Photo Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine video/image prompt transforming a subject into a cozy indoors profile photo while preserving facial features.
+
+#### 📝 Prompt
+
+```
+Transform this into a cozy indoors profile photo of the exact same woman. Preserve her exact face geometry, proportions, eye shape and color, nose, mouth, jawline, skin tone with natural real skin texture (visible pores, slight natural shine, no airbrushing)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121705423019380736/img/Nf4d9zOc-XmWmDhO.jpg" width="600" alt="Cozy Indoors Profile Photo Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13886)**
+
+**Author:** [Vanessa Germain](https://x.com/Sasooger) | **Source:** [Link](https://x.com/Sasooger/status/2121705435245707304) | **Published:** Nov 14, 2026
+
+---
+### South Park Style Fart Explanation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a South Park style animated video explaining why farts smell worse in a bathtub.
+
+#### 📝 Prompt
+
+```
+A South Park style video explaining why farts smell worse if you fart in a bathtub
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121685923910053888/img/k0GQWvxf4bJdyDW0.jpg" width="600" alt="South Park Style Fart Explanation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13885)**
+
+**Author:** [NHIbyPROXY](https://x.com/NHIbyPROXY) | **Source:** [Link](https://x.com/NHIbyPROXY/status/2121685939315671153) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine Prompt: Preserve Original Sketch in Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine to animate a video while preserving the original pencil and crayon sketch details.
+
+#### 📝 Prompt
+
+```
+Preserve the original base sketch with details in the video made from original pencil and crayon drawings!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121658392502484992/img/JAnEyx99uAfZ0wnA.jpg" width="600" alt="Grok Imagine Prompt: Preserve Original Sketch in Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13883)**
+
+**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2121658414543904852) | **Published:** Nov 14, 2026
+
+---
+### Grok Imagine Video Prompt: Rainbow Hats Replacement
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video editing/generation prompt for Grok Imagine that replaces headgear with rainbow hats and changes dialogue.
+
+#### 📝 Prompt
+
+```
+Remove head gear and replace with colorful rainbow hats. Change what he is saying to "did you restart the system ?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121603598631243776/img/zsGWZbM7_wHNaRan.jpg" width="600" alt="Grok Imagine Video Prompt: Rainbow Hats Replacement">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
+
+**Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### Colorize 1937 Instrument Player
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine video prompt to colorize an old photo from 1937 and animate the subject playing an instrument.
+
+#### 📝 Prompt
+
+```
+Colorize for colors from 1937 and have Him play instrument challenge take old photo and bring alive
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121519804955893760/img/HkE3bXCNay-U4pOd.jpg" width="600" alt="Colorize 1937 Instrument Player">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13887)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2121519817299816825) | **Published:** Nov 14, 2026
+
+---
 ### Grok Imagine Prompt: Mechanical Scorpion Warrior
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1012,11 +1220,11 @@ Last Frame: wide panorama of billboard canyon and crowd. All billboards show abs
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2119818224338661830) | **Published:** Nov 9, 2026
 
 ---
-### Grok Imagine Static Background Prompt
+### Static Background Particle Control Prompt
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt to prevent excessive light particle effects and keep the background static in Grok Imagine video generation, useful for fixing common artifacts in R2V (Reference-to-Video) generations.
+> A technical prompt for Grok Imagine video generation to prevent excessive light particles and effects, ensuring the background remains completely static while only the character moves.
 
 #### 📝 Prompt
 
@@ -1024,7 +1232,7 @@ Last Frame: wide panorama of billboard canyon and crowd. All billboards show abs
 The background remains completely static and unchanged throughout the entire video. No particles, no sparks, no glowing dust, no floating lights, no falling light effects, no atmospheric effects. Preserve the exact background appearance from the first frame. Only the character moves.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2119588974729760768/img/K1NxpwqY16oouErY.jpg" width="600" alt="Grok Imagine Static Background Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119588974729760768/img/K1NxpwqY16oouErY.jpg" width="600" alt="Static Background Particle Control Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13823)**
 
@@ -2337,221 +2545,6 @@ Girl has brown eyes and is Stealing candy by a brick house fire place inside a h
 **Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
 
 ---
-### Elon Musk Mars Amusement Park Ride
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a humorous video scene featuring Elon Musk and Optimus robot at a Mars amusement park.
-
-#### 📝 Prompt
-
-```
-POV: Elon Musk and Optimus try Mars’s first amusement park ride. 🎢🚀
-
-Elon’s having the time of his life.
-Optimus is still calculating the G-force. 🤖😂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="Elon Musk Mars Amusement Park Ride">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13410)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **Published:** Nov 1, 2026
-
----
-### Layered Clothing Airport Candid Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine generating a realistic airport video of a woman wearing an excessive number of clothing layers.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic 9:16 candid airport video, filmed from a considerable distance by a random passenger’s smartphone. A woman wearing an absolutely ridiculous number of clothing layers (15–20 jackets, hoodies, sweaters, scarves and trousers) walks slowl...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="Layered Clothing Airport Candid Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
-
-**Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
-
----
-### Cyberpunk Warrior Combat Transformation Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An extensive prompt for generating a cyberpunk action video featuring a warrior in powered exoskeleton armor engaging in combat while undergoing sequential mechanical transformations, with detailed audio and visual style instructions.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a next-level continuous combat video of a fully combat-dressed Sci-Fi cyberpunk warrior locked in intense battle. The core subject is a heavily armored cyberpunk fighter in full combat gear, executing advanced next-level transformations during full combat.
-
-[Subjects and Relationships]
-The warrior is a lone cyberpunk combatant in complete full-combat dress: matte black and neon-edged powered exoskeleton armor with glowing cyan-purple energy conduits, reinforced plating across chest/shoulders/limbs, multi-layered combat suit under the armor, integrated helmet with visor HUD, weaponized gauntlets, and modular hardpoints. No other characters appear. All transformations are self-contained upgrades of this single fighter’s gear and body systems.
-
-[Event Script]
-At the start: The warrior stands in a rain-slicked neon-drenched cyberpunk city alley under flickering holographic signs and wet asphalt reflections, already fully geared in combat-ready stance, weapons holstered but systems powered.
-
-Principal event: Immediate full-combat engagement. The warrior activates sequential next-level transformations mid-fight — first the armor plates reconfigure and expand with hydraulic locks and energy surges for maximum protection, then gauntlets morph into high-energy plasma blades and rail-gun extensions, followed by thruster boosts and adaptive shielding that unfold from the backpack and joints. The fighter dashes, leaps, and combats invisible/enemy fire with fluid, high-speed martial-cyber moves, each transformation escalating power: armor hardens further, energy aura intensifies from cyan to violet, weapons cycle through modes (blade slash → projectile barrage → energy shield bash). Rain, sparks, and neon light streak across the transforming silhouette as combat intensity peaks.
-
-At the end: The warrior stands victorious in a final fully transformed state — armor fully locked into ultimate combat configuration, energy conduits blazing at peak intensity, weapons fully deployed and ready, city lights reflecting off the enhanced plating while residual energy discharges fade around the feet.
-
-[Visual Style]
-Hyper-detailed next-level Sci-Fi cyberpunk aesthetic: glossy wet surfaces, volumetric neon fog, high-contrast cyan/magenta/electric-purple lighting, intricate mechanical transformation details with seamless morphing panels, sparks, energy particles, and holographic HUD overlays. Photorealistic yet stylized combat intensity with dynamic motion blur on limbs and weapon trails.
-
-[Camera]
-Dynamic combat cinematography: starts in medium shot establishing the full combat dress, then rapid tracking shots following the dash and transformations, low-angle power shots during armor reconfiguration, circling orbital moves around the warrior during weapon morphs, and ends in a dramatic low slow push-in on the final transformed stance.
-
-[Sound]
-Immersive full-combat audio: deep hydraulic and met
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Cyberpunk Warrior Combat Transformation Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **Published:** Nov 1, 2026
-
----
-### Runway Dress Design Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine to generate a video of a woman walking a runway wearing a novel dress design.
-
-#### 📝 Prompt
-
-```
-This is a novel approach to designing a woman’s dress. Created and designed by Dr. Michael Taub. Show, the young lady walking the runway.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="Runway Dress Design Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13406)**
-
-**Author:** [Michael Taub](https://x.com/Drdick2262) | **Source:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **Published:** Nov 1, 2026
-
----
-### Dark Catholic Cemetery Candle Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A first-person perspective prompt for walking through a dark cemetery with lit candles and graves.
-
-#### 📝 Prompt
-
-```
-I enter a Catholic cemetery. It's dark. I walk along the paths among the graves. Trees line the path, and lit candles glow on the graves. I hold a beautiful lit candle in my hands.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="Dark Catholic Cemetery Candle Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13411)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **Published:** Nov 1, 2026
-
----
-### Cinematic Western Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 6-second cinematic Western video with specific camera angles, lighting, and action sequences using Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Create a 6-second cinematic Western video in widescreen 16:9. Gritty film grain, dusty golden-hour light, weathered frontier buildings, realistic movement. No dialogue.
-
-0–1.5 seconds: Extreme close-up of a lone outlaw’s boot planting in the dust, th...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="Cinematic Western Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13413)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **Published:** Nov 1, 2026
-
----
-### Dracula Commanding Warriors Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a video scene of Dracula standing in front of his castle commanding Samhain Warriors on Halloween.
-
-#### 📝 Prompt
-
-```
-Dracula standing in front of his castle, commanding his Samhain Warriors on Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="Dracula Commanding Warriors Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13334)**
-
-**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
-
----
-### KY-22 Aircraft Fantasy Clip
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A reference-mode video prompt for Grok Imagine creating a fantasy clip about the KY-22 Krechet aircraft design.
-
-#### 📝 Prompt
-
-```
-fantasy short clip about my new aircraft design, the KY-22 "Krechet", a coaxial rotor Vtol aircraft
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="KY-22 Aircraft Fantasy Clip">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13606)**
-
-**Author:** [Spectro](https://x.com/Spectromachina) | **Source:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **Published:** Nov 1, 2026
-
----
-### Fire and Ice Dragon Phoenix
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A short video prompt describing fire and ice spinning in a yin-yang pattern to create a dragon-like phoenix rising from ashes.
-
-#### 📝 Prompt
-
-```
-Fire and ice spin in a yin and a yang to create a dragon like a phoenix rising from the ashes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="Fire and Ice Dragon Phoenix">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13333)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **Published:** Nov 1, 2026
-
----
-### Merry Go Round Ballon Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation prompt for Grok Imagine describing a girl watching a merry-go-round with a flying balloon.
-
-#### 📝 Prompt
-
-```
-The merry go round hauntingly spins to tense music as a kaleidoscope of light enchants the evening. The girl’s ballon flies away as she’s enchanted by the scene.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="Merry Go Round Ballon Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13329)**
-
-**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2613,6 +2606,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T06:10:55.073Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T15:46:24.713Z</sub>
 
 </div>
