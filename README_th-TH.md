@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3410** |
+| 📝 Total Prompts | **3420** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-16** |
 
@@ -189,6 +189,141 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์ Grok Imagine: มังกรในหยดน้ำค้าง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์เชิงสร้างสรรค์สำหรับ Grok Imagine ที่แสดงภาพมังกรนอนหลับอยู่ในทุ่งหญ้า แล้วตื่นขึ้นมาสะบัดตัวจนหยดน้ำค้างหักเหแสงแดด
+
+#### 📝 Prompt
+
+```
+มังกรที่หลับใหลอยู่กลางทุ่งดอกไม้ตื่นขึ้นมาและสลัดหยาดน้ำค้างทิ้ง หยดน้ำค้างสะท้อนแสงแดดอ่อนยามเช้า แตกออกเป็นสีสันและเฉดสีมากมาย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122193276073873408/img/B_PLpnoh1ScMflKQ.jpg" width="600" alt="พรอมต์ Grok Imagine: มังกรในหยดน้ำค้าง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13918)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2122193351017648184) | **Published:** Nov 16, 2026
+
+---
+### พรอมต์วิดีโอ Grok Imagine: Astro ยกน้ำหนัก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอของตัวละคร Astro กำลังยกน้ำหนักในโรงยิม โดยมีกิจกรรมพื้นหลัง
+
+#### 📝 Prompt
+
+```
+ให้ Astro กำลังยกเวทอยู่ในยิม โดยมีผู้หญิงเพียงไม่กี่คนวิ่งอยู่บนลู่วิ่งอยู่ข้างหลังเขา เขาพูดว่า "no pain, no gain สุขสันต์วันอาทิตย์นะเพื่อน ๆ!...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122192892005412864/img/I_-7rG5jBKWPwSX8.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: Astro ยกน้ำหนัก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13922)**
+
+**Author:** [Astro 💫](https://x.com/_Astro_Maniac_) | **Source:** [Link](https://x.com/_Astro_Maniac_/status/2122192907394482189) | **Published:** Nov 16, 2026
+
+---
+### ฉาก Zero-G ในห้องนักบินจรวดแนว Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) แบบภาพยนตร์ที่ละเอียดสำหรับสร้างคลิปต่อเนื่องความยาว 8 วินาที ภายในห้องนักบินจรวด ณ ช่วงเวลาที่แรงโน้มถ่วงหายไป โดยระบุมุมกล้อง เม็ดฟิล์ม และเสียงเงียบ
+
+#### 📝 Prompt
+
+```
+ภาพยนตร์ไซไฟคนแสดง, 8 วินาที, อัตราส่วน 16:9, ถ่ายช็อตเดียวยาวต่อเนื่องไม่ตัดต่อ, ภายในห้องนักบินของยานจรวดในจังหวะที่แรงโน้มถ่วงหายไป, มุมรับภาพแนวทแยง 47°, กล้องตรึงตำแหน่งระดับหน้าอกห่างจากเธอ 2 เมตรทางซ้ายของจอ, เกรนฟิล์ม Kodak Vision3 500T, ไม่มีเสียง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122185125320658944/img/9v38FPreL-aP7uVW.jpg" width="600" alt="ฉาก Zero-G ในห้องนักบินจรวดแนว Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13920)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122185137911980311) | **Published:** Nov 16, 2026
+
+---
+### Grok Imagine: แพลงตอนและสควิดวาร์ดขโมยของ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอตลกขบขันสำหรับ Grok Imagine ที่ตัวละคร SpongeBob ขโมย Nintendo Switch จาก Walmart
+
+#### 📝 Prompt
+
+```
+แพลงก์ตอนกับสควิดวอร์ดขโมย Nintendo Switch จาก Walmart (ปฏิกิริยาของผู้จัดการตอนที่สัญญาณกันขโมยดังขึ้น)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122094031677120512/img/HpIW6nJaHNA1TOk4.jpg" width="600" alt="Grok Imagine: แพลงตอนและสควิดวาร์ดขโมยของ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13919)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122094098790142393) | **Published:** Nov 15, 2026
+
+---
+### Plankton และ Squidward ขโมย iPad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สถานการณ์ตลกขบขันที่ Plankton และ Squidward จาก SpongeBob ขโมย iPad Pro จากร้าน Target พร้อมปฏิกิริยาของพนักงาน
+
+#### 📝 Prompt
+
+```
+แพลงก์ตอนกับสควิดวอร์ดขโมย iPad Pro x จาก Target (ปฏิกิริยาผู้จัดการตอนสัญญาณกันขโมยดัง)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122091441845374976/img/0XHqXC-HH6k1YyZX.jpg" width="600" alt="Plankton และ Squidward ขโมย iPad">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13921)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122091562175975903) | **Published:** Nov 15, 2026
+
+---
+### วิดีโอหุ่นยนต์เกราะหมาป่าขั้วโลกเหนือ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอการเปลี่ยนแปลงสไตล์ไซไฟ ที่นำเสนอเด็กชายตัวจิ๋วในชุดเกราะหุ่นยนต์หมาป่าขั้วโลกเหนือ
+
+#### 📝 Prompt
+
+```
+Arctic Wolf Mecha Armor
+เด็กน้อย Chibi ผมขาวสวมฮู้ดรูปหมาป่าสีฟ้าอมเทาที่ขาดวิ่นและสะพายเป้ไม้ เดินฝ่าหมู่บ้านบนภูเขาที่ถูกปกคลุมด้วยน้ำแข็ง หมาป่าโฮโลแกรมขนาดมหึมาปรากฏขึ้นเบื้องหลังเขา ชิ้นส่วนหุ่นยนต์สีฟ้าพุ่งเข้าหาเรือนร่าง ประกอบกันเป็นชุดเกราะหนักทนทานต่อความหนาวเย็น หมวกกันน็อกกลไกหัวหมาป่าล็อกเข้าที่อย่างแน่นหนา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121963860970057728/img/FOk6YXuCjqavz2IN.jpg" width="600" alt="วิดีโอหุ่นยนต์เกราะหมาป่าขั้วโลกเหนือ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13925)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121964325296578588) | **Published:** Nov 15, 2026
+
+---
+### พรอมต์แปลงร่างชุดเกราะ Chibi Demon Slayer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอแสดงเด็กสาวสไตล์จิบิแปลงร่างเป็นชุดเกราะต่อสู้สีแดงเข้มในสนามรบแห่งอนาคต
+
+#### 📝 Prompt
+
+```
+Crimson Demon Slayer
+เด็กสาวสไตล์ Chibi ที่มีดวงตาสีแดง ผมสีดำ และสวมฮู้ดสีแดงขาดวิ่น กำลังก้าวเดินผ่านสนามรบแห่งอนาคตที่พังทลาย เปลวเพลิงพลังงานสีแดงล้อมรอบตัวเธอ แผ่นเกราะกลไกนับร้อยชิ้นประกอบร่างขึ้นเป็นชุดเกราะต่อสู้สีเลือดหมู ดาบพลาสมาโค้งสองเล่มปรากฏขึ้นจากแขนของเธอ หมวกเกราะก่อรูปขึ้นพร้อมเขาเปล่งแสงสีแดง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121909975442472960/img/NfutRYiinJpLgGzZ.jpg" width="600" alt="พรอมต์แปลงร่างชุดเกราะ Chibi Demon Slayer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13927)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121910047517114851) | **Published:** Nov 15, 2026
+
+---
 ### Grok Imagine Prompt: การเคลื่อนไหวตามธรรมชาติอย่างนุ่มนวล
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -376,6 +511,47 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
 
 **Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### การแปลงร่างนักรบผีเสื้อกลไก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสูงที่อธิบายการเปลี่ยนร่างของสาวน้อยสไตล์จิบิเป็นชุดเกราะต่อสู้ท่ามกลางผีเสื้อหุ่นยนต์ เหมาะสำหรับใช้สร้างวิดีโอ
+
+#### 📝 Prompt
+
+```
+นักรบผีเสื้อจักรกล
+
+สาวน้อย Chibi ผมสีชมพูแสนน่ารัก สวมฮู้ดสีชมพูขาดวิ่นที่ดูบอบบาง พร้อมเครื่องประดับรูปผีเสื้อ กำลังเดินทอดน่องผ่านป่าเวทมนตร์ ผีเสื้อหุ่นยนต์เรืองแสงนับพันตัวบินล้อมรอบเธอ ปีกโลหะของพวกมันค่อยๆ เกาะเกี่ยวเข้ากับชุดที่สวมใส่ แล้วแปรเปลี่ยนเป็นเกราะรบสีชมพูสลับเงิน ปีกผีเสื้อจักรกลขนาดมหึมาสองข้างกางออกเบื้องหลังของเธอ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121574574244433920/img/cwn_PeJbQ8eyXd1T.jpg" width="600" alt="การแปลงร่างนักรบผีเสื้อกลไก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13923)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121574659552412049) | **Published:** Nov 14, 2026
+
+---
+### พรอมต์ผู้พิทักษ์สิงโตทองสไตล์จิ๋ว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอที่แสดงเด็กชายสไตล์จิ๋วแปลงร่างเป็นเกราะสิงโตพร้อมค้อนทองคำในซากโบราณสถาน
+
+#### 📝 Prompt
+
+```
+ผู้พิทักษ์ราชสีห์ทอง
+เด็กน้อยชิบิผมสีทอง สวมฮู้ดหูสิงโตสีน้ำตาลขาดวิ่นและถือโคมไฟไม้ กำลังเดินผ่านซากปรักหักพังโบราณ พลังงานสีทองแผ่ซ่านไปทั่วร่างของเขา เกราะสิงโตโลหะประกอบขึ้นทับชุดที่สวมใส่ แผงคอสิงโตจักรกลขนาดยักษ์กางออกรอบหมวกเกราะ และค้อนพลังงานสีทองปรากฏขึ้นในมือของเขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121554568500617216/img/ZgQ5IzBNWe3QnzkD.jpg" width="600" alt="พรอมต์ผู้พิทักษ์สิงโตทองสไตล์จิ๋ว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13926)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121554612079534348) | **Published:** Nov 14, 2026
 
 ---
 ### Colorize 1937 Instrument Player
@@ -1215,6 +1391,25 @@ Alerele ช่างเป็นเรื่องแปลกจริง ๆ �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13821)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2119818224338661830) | **Published:** Nov 9, 2026
+
+---
+### พรอมต์วิดีโอรถบรรทุกน้ำมันสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบละเอียดสำหรับสร้างวิดีโอรถบรรทุกน้ำมันบนทางหลวงที่สมจริงและให้บรรยากาศเหมือนภาพยนตร์ด้วย Grok Imagine
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอความยาว 15 วินาที ระดับภาพยนตร์ฮอลลีวูดที่สมจริงราวกับภาพถ่าย ความละเอียดระดับ 4K รถบรรทุกน้ำมันเชื้อเพลิงสแตนเลสขนาดมหึมา ซึ่งออกแบบมาเพื่อขนส่งดีเซลและเบนซินอย่างชัดเจน กำลังแล่นอยู่บนทางหลวงยุคใหม่ที่ดูสมจริงในเวลากลางวัน....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119748603426295808/img/IM70t68JSavZojGD.jpg" width="600" alt="พรอมต์วิดีโอรถบรรทุกน้ำมันสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13924)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2119748851271905456) | **Published:** Nov 9, 2026
 
 ---
 ### การแก้ไข Prompt สำหรับพื้นหลังแบบคงที่
@@ -2323,228 +2518,6 @@ Video Prompt (Grok Imagine)
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
 
 ---
-### หิมะโปรยปรายท่ามกลางดอกซากุระ สไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสไตล์ภาพยนตร์ที่ละเอียดอ่อน เน้นบรรยากาศหิมะตก ดอกซากุระบาน และภาพโคลสอัพดวงตาของหญิงสาว
-
-#### 📝 Prompt
-
-```
-วิดีโอระดับภาพยนตร์ที่เหนือชั้น ถ่ายทอดภาพหิมะโปรยปรายบางเบาปลิวผ่านดอกซากุระที่กำลังบานสะพรั่ง กลีบสีชมพูอ่อนและเกล็ดหิมะสีขาวร่วงหล่นลงมาพร้อมกัน ล่องลอยหมุนวนอย่างนุ่มนวลและสะท้อนแสงเป็นประกาย กล้องค่อยๆ เคลื่อนไปข้างหน้าและเฉียงขึ้นเล็กน้อยลอดผ่านหมู่ต้นไม้ที่ออกดอกบานสะพรั่ง ก่อนจะซูมเข้าไปใกล้ดวงตาของหญิงสาวอย่างละมุนละไม ดวงตาของเธอกลมโต สื่ออารมณ์ และเปล่งประกายเจิดจรัส รายล้อมด้วยเกล็ดหิมะที่ร่วงหล่นและกลีบซากุระที่ล่องลอย ซึ่งเบลออย่างนุ่มนวลทั้งในฉากหน้าและฉากหลัง แสงสีทองอบอุ่นส่องลอดผ่านกิ่งไม้ สร้างบรรยากาศชวนฝันราวกับหลุดเข้าไปในโลกแห่งจินตนาการ กล้องเคลื่อนที่อย่างลื่นไหล ไร้น้ำหนัก ในสไตล์ภาพยนตร์ รักษาน้ำหนักทางอารมณ์จากสายตาของเธอไว้ ในขณะที่หิมะและกลีบดอกไม้ยังคงปลิวผ่านไป เสียงบรรยากาศรอบข้างประกอบด้วยเสียงลมพัดแผ่วเบา เสียงหิมะตกเงียบงัน และเสียงเสียดสีของกลีบดอกไม้ที่ดังแว่วมาแต่ไกล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117259659534872577/img/haHQzQ23_JoXS2g2.jpg" width="600" alt="หิมะโปรยปรายท่ามกลางดอกซากุระ สไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13470)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117259728007159931) | **Published:** Nov 2, 2026
-
----
-### กล้องซูมเข้าหาบ้านของแมว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่อธิบายการเคลื่อนกล้องอย่างรวดเร็วผ่านพุ่มไม้ไปยังบ้าน แล้วลอดผ่านประตูที่เปิดอยู่เพื่อเผยให้เห็นแมวที่อยู่ข้างใน
-
-#### 📝 Prompt
-
-```
-กล้องเคลื่อนที่ผ่านพุ่มไม้อย่างรวดเร็วมุ่งหน้าไปยังตัวบ้าน ประตูเปิดออก เผยให้เห็นแมวที่อยู่ด้านใน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117182995366879232/img/Av3Bv6H4yO6r2cp-.jpg" width="600" alt="กล้องซูมเข้าหาบ้านของแมว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13476)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **Published:** Nov 2, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine: การประกอบเกราะทหาร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ฉบับสมบูรณ์สำหรับ Grok Imagine เพื่อสร้างวิดีโอการแปลงร่างต่อสู้แนวไซไฟ โดยทหารจะสวมเกราะที่ผลิตด้วยนาโนเทคโนโลยีอย่างรวดเร็วและติดตั้งอาวุธ
-
-#### 📝 Prompt
-
-```
-[เป้าหมายการสร้างภาพ]
-สร้างฉากการแปลงร่างต่อสู้แนวไซไฟที่ต่อเนื่องและเข้มข้นสูง ของทหารที่สวมเกราะเต็มยศซึ่งกำลังเปลี่ยนชุดเป็นชุดรบระดับถัดไป ตัวละครหลักคือนักรบชั้นยอดเพียงคนเดียว โดยเริ่มต้นจากชุดรบพื้นฐาน และจบลงด้วยการสวมชุดเกราะรบขั้นสูงอย่างสมบูรณ์แบบ พร้อมกางอาวุธออกและเตรียมพร้อมใช้งาน
-
-[ตัวละครและความสัมพันธ์]
-หน่วยรบพิเศษชั้นยอดยืนอยู่เพียงลำพัง เอกลักษณ์ สัดส่วนร่างกาย และโครงร่างเงาต้องคงความสม่ำเสมอตั้งแต่ต้นจนจบ ไม่มีตัวละครรองปรากฏในฉาก
-
-[ลำดับเหตุการณ์]
-จุดเริ่มต้น: หน่วยรบยืนอยู่ในชุดรบมาตรฐาน (กางเกงยุทธวิธี เสื้อรัดรูปสำหรับต่อสู้ รองเท้าบูท) ภายใต้แสงสลัวในโรงเก็บเครื่องบิน โดยยังไม่มีเกราะหนักใดๆ ติดตัว
-เหตุการณ์หลัก: แผ่นเกราะที่หลอมขึ้นรูปด้วยนาโนจะปรากฏตัวอย่างรวดเร็วและล็อกเข้ากับร่างกายเป็นระลอกคลื่นตามลำดับ เริ่มจากแผ่นเกราะอกและหลัง ตามด้วยเกราะข้อต่อแขนขา เกราะไหล่ และหมวกกันน็อค จุดยึดอุปกรณ์ในตัวจะกางอาวุธออกมา ได้แก่ ปืนไรเฟิลพลาสมาหลักที่สแน็ปเข้าล็อกกับจุดยึดมือขวา ดาบพลังงานสำรองที่ยื่นออกมาจากปลายแขนซ้าย และแท่นยิงไมโครมิสไซล์คู่บนไหล่ที่กางออกและเตรียมพร้อมใช้งาน แอคชูเอเตอร์เซอร์โวเปล่งแสงสีฟ้าเย็นเยียบขณะที่ข้อต่อต่างๆ ปิดผนึกแน่นและระบบเริ่มจ่ายไฟ
-จุดสิ้นสุด: หน่วยรบยืนอยู่ในชุดเกราะรบระดับถัดไปที่ล็อกเข้าที่อย่างสมบูรณ์ อาวุธชาร์จพลังงานพร้อมใช้งาน หน้ากากแว่นตาเรืองแสงแสดง HUD เล็งเป้า ท่าทางดุดันและพร้อมเข้าสู่สนามรบ
-
-[สไตล์ภาพ]
-เกราะไซไฟแบบฮาร์ดเซอร์เฟซ ใช้แผ่นเกราะคอมโพสิตสีดำด้าน ท่อนำพลังงานเรืองแสงสีฟ้าอมเขียว และรูปทรงเรขาคณิตมุมแหลมคมชัด วัสดุผ่านการเรนเดอร์อย่างสมบูรณ์ มีร่องรอยผ่านสมรภูมิแต่ยังคงสภาพดีเยี่ยม พร้อมเอฟเฟกต์ความร้อนบิดเบือนเล็กน้อยและอนุภาคพลังงานที่หลงเหลืออยู่
-
-[มุมกล้อง]
-สไตล์ถ่ายยาวต่อเนื่องแบบไดนามิก (One-take): เริ่มต้นด้วยภาพขนาดกลางเห็นเต็มตัว ค่อยๆ เคลื่อนกล้องวนรอบในขณะที่เกราะก่อตัวขึ้น จากนั้นซูมเข้าไปใกล้ในท่าถืออาวุธตอนจบ ขณะที่แผ่นเกราะชิ้นสุดท้ายล็อกเข้าที่และอาวุธเริ่มจ่ายพลังงาน
-
-[เสียง]
-เสียงโลหะหนึบล็อกเข้าที่และเสียงฟู่ของระบบไฮดรอลิก เสียงฮัมของการชาร์จพลังงานอาวุธที่ดังขึ้นเรื่อยๆ เสียงคลิกเตรียมอาวุธที่คมชัดในตอนท้าย และเสียงเบสต่ำดุดันที่แผ่ออกมาเมื่อการแปลงร่างเสร็จสิ้น ไม่มีบทสนทนาหรือคำบรรยาย
-
-[รักษาความสม่ำเสมอ]
-รักษาเอกลักษณ์ของหน่วยรบให้คงเดิมตลอดทั้งฉาก ใช้ชุดอาวุธเพียงชุดเดียว โทนสีเกราะที่สอดคล้องกัน (ดำ/ฟ้าอมเขียว) และทิศทางตำแหน่งในพื้นที่ที่คงที่ตลอดการแปลงร่าง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117146941893017600/img/zRr752esbQ41dbu9.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: การประกอบเกราะทหาร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13556)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117146990882521125) | **Published:** Nov 2, 2026
-
----
-### พรอมต์ Grok Imagine: การเฉลิมฉลองวันฮาโลวีน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine แสดงภาพเด็กหญิงสามคนในชุดคอสตูมวันฮาโลวีนกำลังเฉลิมฉลองบนถนน
-
-#### 📝 Prompt
-
-```
-เด็กผู้หญิง 3 คนในชุดคอสตูมฮาโลวีนกำลังฉลองเทศกาลฮาโลวีนอยู่บนถนน โบกมือทักทายผู้ชมอย่างสนุกสนานร่าเริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117140720343822336/img/q8jlbnRrTvsPI7Gm.jpg" width="600" alt="พรอมต์ Grok Imagine: การเฉลิมฉลองวันฮาโลวีน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13407)**
-
-**Author:** [Nore - エッチなAI絵](https://x.com/Clyyinnore) | **Source:** [Link](https://x.com/Clyyinnore/status/2117140748261057006) | **Published:** Nov 2, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine แมวกระโดด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ข้อความสู่วิดีโอ 2 แบบสำหรับ Grok Imagine ที่แสดงแมวส้มลายกระโดดขึ้นบนขอบหน้าต่าง พร้อมคำอธิบายการเคลื่อนไหวที่แตกต่างกัน
-
-#### 📝 Prompt
-
-```
-แมวส้มลายสลิดกระโดดขึ้นไปบนขอบหน้าต่างที่แสงแดดส่องถึงในอพาร์ตเมนต์แสนอบอุ่น วิดีโอจากกล้องมือถือ แมวส้มลายสลิดที่นั่งอยู่บนพื้นไม้ย่อตัวลง ส่ายสะโพกไปมา แล้วกระโดดขึ้นไปยังขอบหน้าต่างที่แสงแดดส่องถึงอย่างพริ้วไหวในครั้งเดียว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117111170024853505/img/lumtYOISg3OPwzMI.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine แมวกระโดด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13417)**
-
-**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117112032793174219) | **Published:** Nov 2, 2026
-
----
-### เทพีจันทราเทน้ำลงสู่โลก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt แฟนตาซีเชิงตำนานที่แสดงภาพเทพีจันทรากำลังเทน้ำจากโถลงสู่โลก
-
-#### 📝 Prompt
-
-```
-เทพีแห่งดวงจันทร์โคจรรอบโลก พระนางโน้มกายลงตักน้ำด้วยคนโทอันวิจิตร แล้วเทรินรดไปทั่วทั้งผืนโลก โลกจึงเบ่งบานอุดมสมบูรณ์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117102288216993792/img/svNKF3J8iqFYSMs_.jpg" width="600" alt="เทพีจันทราเทน้ำลงสู่โลก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13409)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117102312493580748) | **Published:** Nov 2, 2026
-
----
-### วิดีโอเทพีแห่งดวงดาว จุดประกายจักรวาล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอแบบละเอียดสำหรับ Grok Imagine ที่บรรยายฉากจักรวาลพร้อมเทพี ยานอวกาศ และดาวฤกษ์ที่ระเบิดจนจุดชนวนให้โลกลุกไหม้
-
-#### 📝 Prompt
-
-```
-ดวงจันทร์และจักรวาล เทพธิดาที่หมุนวนอยู่ท่ามกลางยานอวกาศที่กำลังโคจร การระเบิดของห้วงอวกาศจนโลกปรากฏขึ้น เฟรมที่สอง: ดวงดาวจุดประกายขึ้น เทพธิดานำดวงดาวนั้นขว้างลงสู่พื้นโลก....
-
-ราตรีสวัสดิ์นะ นักเดินทางผู้แสนหวานของฉัน 🤫
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117097850295242753/img/V9NqPCcLbJijEV97.jpg" width="600" alt="วิดีโอเทพีแห่งดวงดาว จุดประกายจักรวาล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13405)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117097871967486131) | **Published:** Nov 2, 2026
-
----
-### มุมมองภายในรถแข่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอ Prompt แสดงมุมมองบุคคลที่หนึ่งขณะขับรถบนทางหลวงระหว่างรัฐพร้อมพวงมาลัยรถแข่งและการจราจร
-
-#### 📝 Prompt
-
-```
-เปลี่ยนพวงมาลัยให้เป็นแบบรถแข่ง แล้วซิ่งลงไฮเวย์ไปเลย! มีรถ 🚘 ขวางทางอยู่ก็ชนกระเด็นไปให้หมด จัดขึ้นรถมาเลย เจ๋งสุดๆ!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117081936430510081/img/iqu5AVs1qvT5Sw0N.jpg" width="600" alt="มุมมองภายในรถแข่ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13403)**
-
-**Author:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **Source:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **Published:** Nov 2, 2026
-
----
-### กระเป๋าผู้หญิงเปลี่ยนร่างเป็นมอเตอร์ไซค์ Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอแปลงร่างสไตล์ Sci-Fi ที่ละเอียดอ่อน ซึ่งกระเป๋าจะเปลี่ยนรูปทรงกลายเป็นมอเตอร์ไซค์ Tesla ขนาดใหญ่ และผู้หญิงคนหนึ่งก็ขี่มันออกไป
-
-#### 📝 Prompt
-
-```
-[เป้าหมายการสร้างวิดีโอ]
-สร้างวิดีโอการแปลงร่างขั้นสุดยอด โดยผู้หญิงทิ้งกระเป๋าลงบนพื้น แล้วกระเป๋าเปลี่ยนร่างเป็นรถมอเตอร์ไซค์ Tesla ขนาดใหญ่ จากนั้นเธอขึ้นคร่อมและขี่จากไป
-
-[บทเหตุการณ์]
-ช่วงเริ่มต้น: ผู้หญิงคนหนึ่งยืนอยู่ในพื้นที่โล่งกลางแจ้งพร้อมถือกระเป๋า เธอปล่อยกระเป๋าลงพื้นอย่างสบาย ๆ
-เหตุการณ์หลัก: กระเป๋าเริ่มกระบวนการแปลงร่างขั้นสุดยอดทันที — ขยายขนาด เปลี่ยนรูปทรง และหลอมรวมด้วยเอฟเฟกต์พลังงานเรืองแสง แผงโลหะกางออก ล้อก่อตัวขึ้น และโครงสร้างแข็งตัวกลายเป็นรถมอเตอร์ไซค์ Tesla ขนาดใหญ่ที่ทรงพลัง มาพร้อมดีไซน์ล้ำสมัยของ Tesla โครงรถขนาดใหญ่ ดีเทลเรืองแสง และรูปลักษณ์ที่หนักแน่นมั่นคง จากนั้นเธอก้าวไปข้างหน้า ขึ้นคร่อมรถมอเตอร์ไซค์ Tesla คันใหญ่ที่ประกอบร่างเสร็จสมบูรณ์ จับแฮนด์รถ สตาร์ทเครื่องยนต์ด้วยเสียงฮัมทุ้มต่ำทรงพลัง แล้วขี่หายไปในระยะไกล
-ช่วงท้าย: ผู้หญิงขี่รถมอเตอร์ไซค์ Tesla คันใหญ่ออกไป กระเป๋าหายไปอย่างไร้ร่องรอย เหลือเพียงรถมอเตอร์ไซค์เท่านั้นขณะที่เธอขับจากไป
-
-[รักษาความต่อเนื่อง]
-รักษารูปพรรณ ลักษณะภายนอก และการแต่งกายของผู้หญิงให้คงเดิมตลอดทั้งวิดีโอ ใช้กระเป๋าใบเดียวที่แปลงร่างเป็นรถมอเตอร์ไซค์ Tesla คันใหญ่เพียงคันเดียวทั้งหมด รักษาตำแหน่งในฉากให้เชื่อมโยงกันอย่างต่อเนื่อง พร้อมลำดับการแปลงร่างที่ชัดเจนตั้งแต่ตอนโยนกระเป๋า การก่อตัวของรถ ไปจนถึงตอนขี่จากไป ห้ามมีวัตถุหรือตัวละครอื่นปรากฏขึ้นมา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="กระเป๋าผู้หญิงเปลี่ยนร่างเป็นมอเตอร์ไซค์ Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13412)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117080385129787552) | **Published:** Nov 2, 2026
-
----
-### ฉากเด็กหญิงขโมยขนม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงภาพเด็กหญิงตาสีน้ำตาลกำลังขโมยขนมใกล้เตาผิงภายในบ้านอิฐ
-
-#### 📝 Prompt
-
-```
-เด็กผู้หญิงตาสีน้ำตาลกำลังแอบขโมยลูกอมอยู่ข้างเตาผิงอิฐภายในบ้าน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117071802144866304/img/J-DT4vxDJrVfpAgF.jpg" width="600" alt="ฉากเด็กหญิงขโมยขนม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13404)**
-
-**Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2606,6 +2579,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T06:09:36.752Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T18:30:18.472Z</sub>
 
 </div>

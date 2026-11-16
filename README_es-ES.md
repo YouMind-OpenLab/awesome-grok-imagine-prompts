@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3410** |
+| 📝 Total Prompts | **3420** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-16** |
 
@@ -189,6 +189,143 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Grok Imagine: Dragón y Rocío
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo para video en Grok Imagine que muestra dragones durmiendo en un campo, despertando y sacudiéndose el rocío que refracta la luz solar.
+
+#### 📝 Prompt
+
+```
+Dragons sleeping in field up flowers wakes up and shakes off the dew dew drops refract early morning sunlight into many colors and hues
+
+Los dragones que dormían entre las flores del campo despiertan y se sacuden el rocío; las gotas refractan la luz del sol de la mañana temprana en un sinfín de colores y matices.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122193276073873408/img/B_PLpnoh1ScMflKQ.jpg" width="600" alt="Prompt de Grok Imagine: Dragón y Rocío">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13918)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2122193351017648184) | **Published:** Nov 16, 2026
+
+---
+### Prompt de video para Grok Imagine: Astro levantando pesas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video del personaje Astro levantando pesas en un gimnasio con actividad de fondo.
+
+#### 📝 Prompt
+
+```
+Que Astro esté levantando pesas en el gimnasio, con solo unas pocas mujeres corriendo en una cinta detrás de él. Está diciendo: "sin esfuerzo no hay resultados. ¡Feliz domingo, amigos!...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122192892005412864/img/I_-7rG5jBKWPwSX8.jpg" width="600" alt="Prompt de video para Grok Imagine: Astro levantando pesas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13922)**
+
+**Author:** [Astro 💫](https://x.com/_Astro_Maniac_) | **Source:** [Link](https://x.com/_Astro_Maniac_/status/2122192907394482189) | **Published:** Nov 16, 2026
+
+---
+### Toma en gravedad cero del cockpit de un cohete de ciencia ficción
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico detallado para generar una toma continua de 8 segundos dentro del cockpit de un cohete en el momento en que la gravedad desaparece, especificando ángulos de cámara, grano de película y silencio de audio.
+
+#### 📝 Prompt
+
+```
+Ciencia ficción cinematográfica de acción real, 8 s, 16:9, toma única continua, sin cortes, cabina de una nave espacial en el instante en que desaparece la gravedad, campo de visión diagonal de 47°, cámara fija a la altura del pecho a 2 metros de ella, situada a la izquierda de la pantalla, grano Kodak Vision3 500T, silencioso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122185125320658944/img/9v38FPreL-aP7uVW.jpg" width="600" alt="Toma en gravedad cero del cockpit de un cohete de ciencia ficción">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13920)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122185137911980311) | **Published:** Nov 16, 2026
+
+---
+### Grok Imagine: Plankton y Squidward roban
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video humorístico para Grok Imagine que muestra a personajes de Bob Esponja robando una Nintendo Switch de Walmart.
+
+#### 📝 Prompt
+
+```
+Plankton y Calamardo roban una Nintendo Switch de Walmart (la reacción del gerente cuando salta la alarma)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122094031677120512/img/HpIW6nJaHNA1TOk4.jpg" width="600" alt="Grok Imagine: Plankton y Squidward roban">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13919)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122094098790142393) | **Published:** Nov 15, 2026
+
+---
+### Plankton y Calamardo robando iPads
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un escenario humorístico con personajes de Bob Esponja, Plankton y Calamardo, robando iPad Pros en Target, incluyendo las reacciones del gerente.
+
+#### 📝 Prompt
+
+```
+Plankton y Calamardo roban iPad Pro x's de Target (la reacción del gerente cuando salta la alarma)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122091441845374976/img/0XHqXC-HH6k1YyZX.jpg" width="600" alt="Plankton y Calamardo robando iPads">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13921)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122091562175975903) | **Published:** Nov 15, 2026
+
+---
+### Video de armadura meca de lobo ártico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video de transformación de ciencia ficción que presenta a un niño chibi con una armadura meca de lobo ártico.
+
+#### 📝 Prompt
+
+```
+Armadura Mecha del Lobo Ártico
+Un pequeño niño chibi de cabello blanco, con una capucha de lobo azul hielo desgarrada y una mochila de madera, camina por una aldea de montaña congelada. Un lobo holográfico gigante aparece detrás de él. Componentes robóticos azules se lanzan hacia su cuerpo, formando una pesada armadura resistente al hielo. Un casco mecánico con forma de cabeza de lobo se encaja en su lugar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121963860970057728/img/FOk6YXuCjqavz2IN.jpg" width="600" alt="Video de armadura meca de lobo ártico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13925)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121964325296578588) | **Published:** Nov 15, 2026
+
+---
+### Prompt de transformación de armadura Chibi Demon Slayer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video que muestra a una chica chibi transformándose en una armadura de combate carmesí en un campo de batalla futurista.
+
+#### 📝 Prompt
+
+```
+Cazadora de demonios carmesí
+Una chica chibi de ojos rojos, cabello negro y una capa roja desgastada camina por un campo de batalla futurista en ruinas. Llamas de energía roja la envuelven. Cientos de placas mecánicas se ensamblan para formar una armadura de combate carmesí. Dos espadas de plasma curvadas emergen de sus brazos. Su casco se forma con cuernos rojos resplandecientes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121909975442472960/img/NfutRYiinJpLgGzZ.jpg" width="600" alt="Prompt de transformación de armadura Chibi Demon Slayer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13927)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121910047517114851) | **Published:** Nov 15, 2026
+
+---
 ### Prompt de Grok Imagine: Movimiento natural sutil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -376,6 +513,46 @@ Quita el accesorio de la cabeza y ponle un colorido sombrero arcoíris. Cambia l
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
 
 **Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### Transformación de Guerrera Mariposa Mecánica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado que describe a una chica chibi transformándose en armadura de combate rodeada de mariposas robóticas, ideal para la generación de video.
+
+#### 📝 Prompt
+
+```
+Guerrera Mariposa Mecánica
+Una hermosa chica Chibi de cabello rosa, con una delicada capucha rosa rasgada y adornos en forma de mariposa, camina por un bosque mágico. Miles de mariposas robóticas luminosas la rodean. Sus alas metálicas se adhieren a su ropa y la transforman en una armadura de combate rosa y plateada. Dos enormes alas mecánicas de mariposa se despliegan a su espalda.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121574574244433920/img/cwn_PeJbQ8eyXd1T.jpg" width="600" alt="Transformación de Guerrera Mariposa Mecánica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13923)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121574659552412049) | **Published:** Nov 14, 2026
+
+---
+### Prompt de Guardián León Dorado Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un video que muestra a un niño chibi transformándose en una armadura de león con un martillo dorado en ruinas antiguas.
+
+#### 📝 Prompt
+
+```
+Guardián del León Dorado
+Un pequeño niño chibi de cabello dorado, con una capucha raída color marrón con orejas de león y un farol de madera, camina entre unas ruinas antiguas. Una energía dorada se extiende por todo su cuerpo. Una armadura metálica de león se ensambla sobre su ropa. Una enorme melena robótica de león se despliega alrededor de su casco, y un martillo de energía dorada se materializa en sus manos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121554568500617216/img/ZgQ5IzBNWe3QnzkD.jpg" width="600" alt="Prompt de Guardián León Dorado Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13926)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121554612079534348) | **Published:** Nov 14, 2026
 
 ---
 ### Colorizar músico de 1937
@@ -1212,6 +1389,25 @@ Audio: solo diegético, murmullo de la multitud, un tambor de artista callejero 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13821)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2119818224338661830) | **Published:** Nov 9, 2026
+
+---
+### Prompt de video cinematográfico de camión cisterna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video cinematográfico fotorrealista de un camión cisterna en una autopista usando Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Crea un vídeo cinematográfico de 15 segundos, ultrafotorrealista y con calidad de Hollywood, en resolución 4K. Un enorme camión cisterna de acero inoxidable para combustible, diseñado claramente para transportar diésel y gasolina, avanza por una autopista moderna y realista a plena luz del día....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119748603426295808/img/IM70t68JSavZojGD.jpg" width="600" alt="Prompt de video cinematográfico de camión cisterna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13924)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2119748851271905456) | **Published:** Nov 9, 2026
 
 ---
 ### Corrección de Prompt para Fondo Estático
@@ -2316,228 +2512,6 @@ Render cinematográfico en primerísimo plano del rostro de una mujer androide d
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
 
 ---
-### Flores de Cerezo en la Nieve Cinematográficas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico detallado que presenta nevada, flores de cerezo y un primer plano de los ojos de una mujer.
-
-#### 📝 Prompt
-
-```
-Un vídeo cinematográfico de otro nivel que muestra una suave nevada cayendo entre cerezos en plena floración. Delicados pétalos rosas y blancos copos de nieve descienden juntos por el aire, girando con suavidad y atrapando la luz. La cámara avanza lentamente y se eleva un poco entre los árboles en flor, para luego fundirse en un primer plano íntimo de los ojos de una mujer. Sus ojos son grandes, expresivos y luminosos, enmarcados por suaves copos de nieve que caen y pétalos de cerezo flotantes que se difuminan delicadamente tanto en primer plano como al fondo. Una cálida luz dorada se filtra entre las ramas, creando una atmósfera onírica y etérea. La cámara se desplaza con un movimiento cinematográfico fluido y flotante, sosteniendo toda la fuerza emocional de su mirada mientras la nieve y los pétalos siguen deslizándose a su alrededor. Sonido ambiental de viento apacible, nieve cayendo en silencio y el leve susurro de las flores.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117259659534872577/img/haHQzQ23_JoXS2g2.jpg" width="600" alt="Flores de Cerezo en la Nieve Cinematográficas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13470)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117259728007159931) | **Published:** Nov 2, 2026
-
----
-### Zoom de cámara hacia la casa del gato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que describe un rápido movimiento de cámara a través de arbustos hacia una casa, entrando por una puerta abierta para revelar un gato en su interior.
-
-#### 📝 Prompt
-
-```
-La cámara avanza rápido entre los arbustos hacia la casa, la puerta se abre y dentro descubrimos al gato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117182995366879232/img/Av3Bv6H4yO6r2cp-.jpg" width="600" alt="Zoom de cámara hacia la casa del gato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13476)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **Published:** Nov 2, 2026
-
----
-### Prompt de Video para Grok Imagine: Ensamblaje de Armadura de Soldado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt completo para Grok Imagine que crea un video de transformación en combate de ciencia ficción, donde un soldado se equipa rápidamente con placas forjadas por nano-tecnología y despliega armas.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Genera una secuencia de transformación de combate de ciencia ficción continua y de alta intensidad, en la que un soldado completamente equipado evoluciona hacia una armadura de combate de siguiente nivel. El sujeto central es un único guerrero de élite que comienza con su equipo de combate base y termina totalmente equipado con una armadura avanzada, con las armas desplegadas y listas para la acción.
-
-[Sujetos y relaciones]
-Un único operador de combate de élite permanece solo. Su identidad, proporciones corporales y silueta se mantienen constantes de principio a fin. No aparecen personajes secundarios.
-
-[Guion de eventos]
-Al inicio: el operador está de pie con su equipo de combate estándar (pantalones tácticos, camiseta de combate ajustada y botas) bajo la tenue iluminación de un hangar, sin armadura pesada.  
-Evento principal: placas forjadas con nanotecnología se materializan rápidamente y se anclan sobre su cuerpo en oleadas sucesivas —primero las placas del pecho y la espalda, luego la armadura articulada de las extremidades, las hombreras y el casco—. Los puntos de anclaje integrados despliegan un rifle de plasma principal que encaja con un chasquido en el punto de fijación de la mano derecha, una hoja de energía secundaria que se extiende desde el antebrazo izquierdo y dos cápsulas gemelas de micromisiles montadas en los hombros que se despliegan y se arman. Los actuadores servo brillan con una fría energía azul mientras las articulaciones se sellan y los sistemas se encienden.  
-Al final: el operador queda completamente blindado en la armadura de combate de siguiente nivel, con las armas cargadas y listas, el visor iluminándose con el HUD de apuntado y una postura agresiva y lista para el combate.
-
-[Estilo visual]
-Armadura de ciencia ficción hard-surface con placas de compuesto negro mate, conductos de energía cian resplandecientes y una geometría angular afilada. El acabado de los materiales debe estar completamente definido: aspecto curtido en batalla pero impecable, con una sutil distorsión por calor y partículas de energía residual.
-
-[Cámara]
-Estilo dinámico de plano secuencia: comienza con un plano medio de cuerpo entero, gira lentamente alrededor del personaje mientras se forma la armadura y luego avanza hasta un primer plano cerrado de la pose armada final, justo cuando las últimas placas se anclan y las armas se activan.
-
-[Sonido]
-Golpes metálicos profundos de los mecanismos de bloqueo y siseos hidráulicos, el zumbido ascendente de carga de las armas de energía, un clic seco y definitivo al armarse y un pulso de graves grave y agresivo cuando concluye la transformación. Sin diálogos ni subtítulos.
-
-[Mantener consistencia]
-Conserva una única identidad continua para el operador, un mismo conjunto de armas, una paleta de colores constante en la armadura (negro/cian) y la misma orientación espacial durante toda la transformación.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117146941893017600/img/zRr752esbQ41dbu9.jpg" width="600" alt="Prompt de Video para Grok Imagine: Ensamblaje de Armadura de Soldado">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13556)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117146990882521125) | **Published:** Nov 2, 2026
-
----
-### Prompt de Grok Imagine: Celebración de Halloween
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de generación de video para Grok Imagine que muestra a tres chicas con disfraces de Halloween celebrando en una calle.
-
-#### 📝 Prompt
-
-```
-3 chicas disfrazadas de Halloween celebrando la fiesta en plena calle, saludando con la mano al espectador de forma divertida y juguetona
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117140720343822336/img/q8jlbnRrTvsPI7Gm.jpg" width="600" alt="Prompt de Grok Imagine: Celebración de Halloween">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13407)**
-
-**Author:** [Nore - エッチなAI絵](https://x.com/Clyyinnore) | **Source:** [Link](https://x.com/Clyyinnore/status/2117140748261057006) | **Published:** Nov 2, 2026
-
----
-### Prompts de video para Grok Imagine: Gato saltando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dos prompts de texto a video para Grok Imagine que muestran un gato atigrado naranja saltando hacia una repisa de ventana, destacando diferentes descripciones de movimiento.
-
-#### 📝 Prompt
-
-```
-Un gato atigrado naranja salta al alféizar soleado de una ventana en un apartamento acogedor, vídeo grabado con el móvil. Un gato atigrado naranja sentado en un suelo de madera se agazapa, menea las caderas y luego da un salto fluido hasta el alféizar soleado de la ventana
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117111170024853505/img/lumtYOISg3OPwzMI.jpg" width="600" alt="Prompts de video para Grok Imagine: Gato saltando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13417)**
-
-**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117112032793174219) | **Published:** Nov 2, 2026
-
----
-### Diosa Lunar Vertiendo Agua sobre la Tierra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de fantasía mitológica que representa a una diosa lunar interactuando con la Tierra al verter agua de un ánfora.
-
-#### 📝 Prompt
-
-```
-La diosa de la Luna orbita alrededor de la Tierra; se inclina, recoge agua en una jarra intrincadamente labrada y luego la derrama sobre el mundo entero. La Tierra florece.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117102288216993792/img/svNKF3J8iqFYSMs_.jpg" width="600" alt="Diosa Lunar Vertiendo Agua sobre la Tierra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13409)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117102312493580748) | **Published:** Nov 2, 2026
-
----
-### Video de Ignición Estelar de Diosa Cósmica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para la generación de video en Grok Imagine que describe una escena cósmica con una diosa, naves espaciales y una estrella explotando que enciende la Tierra.
-
-#### 📝 Prompt
-
-```
-La luna y el universo, una diosa girando entre naves espaciales en órbita, una explosión cósmica y aparece la Tierra. Segundo plano: una estrella se enciende, la diosa toma la estrella y la lanza sobre la Tierra...
-
-Buenas noches, mis dulces viajeros 🤫.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117097850295242753/img/V9NqPCcLbJijEV97.jpg" width="600" alt="Video de Ignición Estelar de Diosa Cósmica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13405)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117097871967486131) | **Published:** Nov 2, 2026
-
----
-### Vista del interior de un coche de carreras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que muestra una vista en primera persona conduciendo por la autopista con volante de carreras y tráfico.
-
-#### 📝 Prompt
-
-```
-Ponle un volante de carreras y lánzate a toda velocidad por la autopista esquivando los coches 🚘 que te salgan al paso. ¡Súbelo al coche! Genial
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117081936430510081/img/iqu5AVs1qvT5Sw0N.jpg" width="600" alt="Vista del interior de un coche de carreras">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13403)**
-
-**Author:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **Source:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **Published:** Nov 2, 2026
-
----
-### Bolso de mujer se transforma en moto Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado de video de transformación de ciencia ficción donde un bolso se transforma en una motocicleta Tesla pesada que luego una mujer conduce.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Genera un video de transformación de otro nivel en el que una mujer deja caer su bolso al suelo, el bolso se transforma en una imponente Tesla Motorbike y ella se sube para marcharse.
-
-[Guion de eventos]
-Al inicio: Una mujer está de pie en un entorno exterior abierto sosteniendo un bolso. Lo deja caer al suelo con total naturalidad.
-Evento principal: El bolso comienza de inmediato una espectacular transformación de otro nivel: se expande, cambia de forma y muta con efectos de energía luminosa, paneles metálicos que se despliegan, ruedas que toman forma y la estructura que se solidifica hasta convertirse en una pesada y potente Tesla Motorbike, con un diseño Tesla futurista y aerodinámico, gran tamaño, detalles luminosos y una presencia imponente. Luego, ella da un paso al frente, se sube a la robusta Tesla Motorbike ya completamente formada, agarra el manillar, la enciende con un zumbido grave y potente, y se aleja hacia el horizonte.
-Al final: La mujer se marcha montada en la pesada Tesla Motorbike; el bolso ha desaparecido por completo y solo queda la moto mientras se aleja.
-
-[Mantener la coherencia]
-Mantén constante la identidad, la apariencia y la vestimenta de la mujer durante toda la escena. Conserva un único bolso que se convierta por completo en la única y pesada Tesla Motorbike. Asegura relaciones espaciales continuas y una secuencia de transformación clara desde que cae el bolso hasta que se forma la moto y ella se marcha. No deben aparecer otros objetos ni personajes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="Bolso de mujer se transforma en moto Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13412)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117080385129787552) | **Published:** Nov 2, 2026
-
----
-### Escena de una niña robando caramelos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que muestra a una niña con ojos marrones robando caramelos cerca de una chimenea dentro de una casa de ladrillo.
-
-#### 📝 Prompt
-
-```
-Una niña de ojos marrones roba caramelos junto a la chimenea de ladrillos dentro de una casa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117071802144866304/img/J-DT4vxDJrVfpAgF.jpg" width="600" alt="Escena de una niña robando caramelos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13404)**
-
-**Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2599,6 +2573,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T06:09:38.884Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T18:30:20.656Z</sub>
 
 </div>

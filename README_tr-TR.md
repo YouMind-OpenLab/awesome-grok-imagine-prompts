@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3410** |
+| 📝 Total Prompts | **3420** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-16** |
 
@@ -189,6 +189,141 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Ejderha Çiyi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir çayırda uyuyan ejderhaların uyanıp üzerlerindeki çiyi silkelediği ve güneş ışığının kırılmasını gösteren yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kır çiçekleri arasında uyuyan ejderhalar uyanıp üzerindeki çiyi silker; çiy damlaları sabahın ilk ışıklarını kırarak sayısız renk ve tona bürünür.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122193276073873408/img/B_PLpnoh1ScMflKQ.jpg" width="600" alt="Grok Imagine Ejderha Çiyi İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13918)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2122193351017648184) | **Published:** Nov 16, 2026
+
+---
+### Grok Imagine Video İstemi: Astro Ağırlık Kaldırıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Astro karakterinin bir spor salonunda, arka planda hareketlilik varken ağırlık kaldırdığı bir video oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Astro spor salonunda ağırlık kaldırsın, hemen arkasında koşu bandında koşan sadece birkaç kadın olsun. "Acı yoksa kazanç da yok. Mutlu pazarlar dostlar!..." desin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122192892005412864/img/I_-7rG5jBKWPwSX8.jpg" width="600" alt="Grok Imagine Video İstemi: Astro Ağırlık Kaldırıyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13922)**
+
+**Author:** [Astro 💫](https://x.com/_Astro_Maniac_) | **Source:** [Link](https://x.com/_Astro_Maniac_/status/2122192907394482189) | **Published:** Nov 16, 2026
+
+---
+### Bilim Kurgu Roket Kokpiti Sıfır Yerçekimi Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yerçekiminin kesildiği anda bir roket kokpitinde geçen 8 saniyelik kesintisiz bir çekim oluşturmak için detaylı sinematik prompt. Kamera açıları, film greni ve ses sessizliği gibi unsurları belirtir.
+
+#### 📝 Prompt
+
+```
+Gerçek çekim sinematik bilim kurgu, 8s, 16:9, tek kesintisiz plan, kesme yok, yerçekiminin kesildiği an roket kokpiti, 47° çapraz görüş alanı, kamera ekranın solundaki kadından 2 metre uzaklıkta göğüs hizasında sabit, Kodak Vision3 500T greni, sessiz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122185125320658944/img/9v38FPreL-aP7uVW.jpg" width="600" alt="Bilim Kurgu Roket Kokpiti Sıfır Yerçekimi Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13920)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122185137911980311) | **Published:** Nov 16, 2026
+
+---
+### Grok Imagine Plankton ve Squidward Hırsızlığı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpongeBob karakterlerinin Walmart'tan bir Nintendo Switch çaldığı, Grok Imagine için hazırlanmış eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Plankton ve Squidward Walmart'tan Nintendo Switch çalıyor (alarm çalınca müdürün tepkisi)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122094031677120512/img/HpIW6nJaHNA1TOk4.jpg" width="600" alt="Grok Imagine Plankton ve Squidward Hırsızlığı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13919)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122094098790142393) | **Published:** Nov 15, 2026
+
+---
+### Plankton ve Squidward iPad Çalıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpongeBob karakterleri Plankton ve Squidward'ın Target'tan iPad Pro çaldığı, müdürlerin tepkilerini de içeren mizahi bir senaryo istemi.
+
+#### 📝 Prompt
+
+```
+Plankton ve Squidward Target'tan iPad Pro x'leri çalıyor (alarm çalınca müdürün tepkisi)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122091441845374976/img/0XHqXC-HH6k1YyZX.jpg" width="600" alt="Plankton ve Squidward iPad Çalıyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13921)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122091562175975903) | **Published:** Nov 15, 2026
+
+---
+### Kutup Kurdu Mecha Zırhı Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arktik kurdu mecha zırhı giyen chibi bir çocuğun yer aldığı bilim kurgu dönüşüm videosu için prompt.
+
+#### 📝 Prompt
+
+```
+Arctic Wolf Mecha Armor
+Beyaz saçlı, yırtık buz mavisi kurt kapüşonlu ve sırtında ahşap bir çanta taşıyan minik bir Chibi çocuk, donmuş bir dağ köyünde ilerliyor. Tam arkasında devasa bir holografik kurt beliriyor. Mavi robotik parçalar hızla bedenine doğru akarak ağır, buza dayanıklı bir zırh oluşturuyor. Mekanik kurt başlı kask ise yerine sıkıca oturuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121963860970057728/img/FOk6YXuCjqavz2IN.jpg" width="600" alt="Kutup Kurdu Mecha Zırhı Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13925)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121964325296578588) | **Published:** Nov 15, 2026
+
+---
+### Chibi Demon Slayer Zırh Dönüşüm İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gelecekteki bir savaş alanında chibi bir kızın kan kırmızısı savaş zırhına dönüştüğünü gösteren video için istem.
+
+#### 📝 Prompt
+
+```
+Kızıl İblis Avcısı
+Kırmızı gözlü, siyah saçlı ve yırtık pırtık kırmızı bir kapüşon giyen Chibi bir kız, harap olmuş fütüristik bir savaş alanından geçiyor. Etrafını kırmızı enerji alevleri sarıyor. Yüzlerce mekanik plaka bir araya gelerek kızıl bir savaş zırhına dönüşüyor. Kollarından iki kavisli plazma kılıç beliriyor. Parlayan kırmızı boynuzlarıyla birlikte kaskı şekilleniyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121909975442472960/img/NfutRYiinJpLgGzZ.jpg" width="600" alt="Chibi Demon Slayer Zırh Dönüşüm İstemcisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13927)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121910047517114851) | **Published:** Nov 15, 2026
+
+---
 ### Grok Imagine İstemi: İnce Doğal Hareket
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -376,6 +511,47 @@ Başlıkları kaldırıp yerlerine renkli gökkuşağı şapkaları tak. Söyled
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
 
 **Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### Mekanik Kelebek Savaşçı Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Robotik kelebeklerle çevrili bir chibi kızın savaş zırhına dönüştüğünü anlatan, video üretimi için uygun, son derece detaylı istem.
+
+#### 📝 Prompt
+
+```
+Mekanik Kelebek Savaşçı
+Pembe saçlı, zarif yırtık pembe kapüşonlu ve kelebek şeklinde süslemeleri olan sevimli bir Chibi kız, büyülü bir ormanda yürüyor. Etrafını binlerce parlayan robotik kelebek sarıyor. Metalik kanatları kıyafetlerine tutunarak onu pembe-gümüş bir savaş zırhına dönüştürüyor. Ardında iki devasa mekanik kelebek kanadı açılıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121574574244433920/img/cwn_PeJbQ8eyXd1T.jpg" width="600" alt="Mekanik Kelebek Savaşçı Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13923)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121574659552412049) | **Published:** Nov 14, 2026
+
+---
+### Chibi Altın Aslan Koruyucusu Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Antik harabelerde altın bir çekiçle aslan zırhına dönüşen chibi bir çocuğu gösteren video için prompt.
+
+#### 📝 Prompt
+
+```
+Altın Aslan Muhafızı
+
+Altın sarısı saçları, yıpranmış kahverengi aslan kulaklı kapüşonu ve elinde ahşap bir feneri olan küçük Chibi çocuk, antik kalıntıların arasında ilerliyor. Altın rengi bir enerji tüm bedenine yayılıyor. Kıyafetlerinin üzerine metalik bir aslan zırhı parça parça oturuyor. Miğferinin etrafında devasa, robotik bir aslan yelesi açılırken ellerinde altın enerjiden bir çekiç beliriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121554568500617216/img/ZgQ5IzBNWe3QnzkD.jpg" width="600" alt="Chibi Altın Aslan Koruyucusu Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13926)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121554612079534348) | **Published:** Nov 14, 2026
 
 ---
 ### 1937 Yılından Bir Müzik Aleti Çalan Kişiyi Renklendir
@@ -1213,6 +1389,25 @@ Son Kare: Reklam panolarıyla çevrili kanyonun ve kalabalığın geniş panoram
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13821)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2119818224338661830) | **Published:** Nov 9, 2026
+
+---
+### Sinematik Yakıt Tankeri Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak otoyolda seyreden bir yakıt tankerinin fotogerçekçi sinematik videosunu oluşturmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+4K çözünürlükte, ultra fotogerçekçi, Hollywood kalitesinde sinematik bir 15 saniyelik video oluştur. Dizel ve benzin taşımak üzere özel olarak tasarlandığı açıkça belli olan devasa paslanmaz çelik yakıt tankeri, gün ışığında gerçeğe son derece yakın modern bir otoyolda ilerliyor....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119748603426295808/img/IM70t68JSavZojGD.jpg" width="600" alt="Sinematik Yakıt Tankeri Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13924)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2119748851271905456) | **Published:** Nov 9, 2026
 
 ---
 ### Sabit Arka Plan İstem Düzeltmesi
@@ -2320,228 +2515,6 @@ Krom bir android kadının yüzünün aşırı yakın çekim sinematik render'ı
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
 
 ---
-### Sinematik Kar Çiçekleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kar yağışı, kiraz çiçekleri ve bir kadının gözlerinin yakın çekimini içeren detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Tam çiçek açmış kiraz ağaçlarının arasından süzülen yumuşak kar yağışını anlatan, bir üst seviye sinematik bir video. Zarif pembe yapraklar ve beyaz kar taneleri havada birlikte düşüyor, usulca dönerek ışığı yakalıyor. Kamera çiçekli ağaçların arasında yavaşça ileri ve hafifçe yukarı doğru süzülüyor, ardından bir kadının gözlerine odaklanan samimi bir yakın çekime geçiyor. Gözleri iri, etkileyici ve ışıltılı; ön planda ve arka planda yumuşak bir şekilde bulanıklaşan, usulca dökülen kar taneleri ve havada uçuşan kiraz çiçeği yapraklarıyla çerçevelenmiş. Sıcak altın rengi ışık ağaçların arasından süzülerek rüya gibi, büyüleyici bir atmosfer yaratıyor. Kamera pürüzsüz, havada süzülen sinematik bir hareketle ilerliyor; kar ve yapraklar süzülmeye devam ederken kadının bakışlarındaki duygusal gücü koruyor. Hafif rüzgârın, usulca yağan karın ve çiçeklerin belli belirsiz hışırtısının ambiyans sesleri.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117259659534872577/img/haHQzQ23_JoXS2g2.jpg" width="600" alt="Sinematik Kar Çiçekleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13470)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117259728007159931) | **Published:** Nov 2, 2026
-
----
-### Kedi Evinin İçine Yakınlaşan Kamera
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çalıların arasından hızla bir eve doğru ilerleyen ve açık kapıdan içeri girerek içindeki kediyi gösteren kamera hareketini tanımlayan video istemi.
-
-#### 📝 Prompt
-
-```
-Kamera çalıların arasından hızla eve doğru ilerler, kapı açılır ve içeride kediyi görürüz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117182995366879232/img/Av3Bv6H4yO6r2cp-.jpg" width="600" alt="Kedi Evinin İçine Yakınlaşan Kamera">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13476)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **Published:** Nov 2, 2026
-
----
-### Grok Imagine Asker Zırhı Montajı Video İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir askerin nano-dövme plakalarla hızla zırhlandığı ve silahlarını devreye soktuğu bir bilim kurgu savaş dönüşüm videosu oluşturmak için Grok Imagine'e yönelik kapsamlı istem metni.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Tam teçhizatlı bir askerin, üst düzey bir savaş zırhına dönüşmesini konu alan kesintisiz ve yüksek tempolu bir bilimkurgu savaş dönüşüm sahnesi oluşturun. Ana odak noktası; standart savaş kıyafetiyle başlayan ve gelişmiş savaş zırhını tamamen kuşanmış, silahları konuşlandırılmış ve kullanıma hazır hâle gelmiş tek bir elit savaşçıdır.
-
-[Karakterler ve İlişkiler]
-Tek bir elit savaş operatörü yalnız başına durmaktadır. Kimlik, vücut oranları ve siluet baştan sona kadar tutarlılığını korur. İkincil hiçbir karakter yer almaz.
-
-[Olay Akışı]
-Başlangıç: Operatör, loş hangar aydınlatması altında, ağır zırhtan yoksun şekilde standart savaş kıyafetiyle (taktik pantolon, vücudu saran savaş üst giysisi, botlar) ayakta durmaktadır.
-Ana olay: Nano-teknolojiyle dövülmüş zırh plakaları ardışık dalgalar hâlinde hızla somutlaşarak gövdeye kilitlenir; önce göğüs ve sırt plakaları, ardından eklemli uzuv zırhları, omuzluklar ve kask belirir. Entegre sabitleme noktaları; sağ eldeki yuvaya oturan birincil bir plazma tüfeği, sol ön koldan uzanan ikincil bir enerji kılıcı ve açılarak ateşlemeye hazırlanan çift omuz monteli mikro-füze rampalarını devreye sokar. Eklemler kapanıp sistemler güç kazanırken servo aktüatörler soğuk mavi bir enerjiyle parlar.
-Sonuç: Operatör, üst düzey savaş zırhına tamamen kilitlenmiş, silahları şarj edilmiş ve kullanıma hazır, vizörü hedefleme HUD'u ile aydınlanmış, agresif ve savaşa hazır bir duruşla ayakta durmaktadır.
-
-[Görsel Stil]
-Mat siyah kompozit plakalara, parlayan camgöbeği enerji kanallarına ve keskin köşeli geometrik hatlara sahip sert yüzeyli (hard-surface) bilimkurgu zırhı. Malzeme dokusu eksiksiz biçimde işlenmiştir; yıpranmış ama kusursuz görünen bir savaş estetiği, hafif ısı dalgalanmaları ve kalıntı enerji partikülleri içerir.
-
-[Kamera]
-Dinamik tek çekim tarzı: Orta mesafe tam vücut çekimiyle başlar, zırh oluşurken yavaşça etrafında döner, ardından son plakalar yerine oturup silahlar güç kazandığında nihai silahlı poza doğru sıkı bir yakın çekime geçer.
-
-[Ses]
-Derin metalik kilitlenme sesleri ve hidrolik tıslamalar, yükselen enerji silahı güç alma uğultusu, son keskin kurma klik sesi ve dönüşüm tamamlandığında duyulan düşük, agresif bir bas titreşimi. Diyalog veya altyazı yoktur.
-
-[Tutarlılığı Koruyun]
-Dönüşüm boyunca tek ve kesintisiz bir operatör kimliğini, tek bir silah setini, tutarlı bir zırh renk paletini (siyah/camgöbeği) ve mekânsal yönelimi koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117146941893017600/img/zRr752esbQ41dbu9.jpg" width="600" alt="Grok Imagine Asker Zırhı Montajı Video İstem Metni">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13556)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117146990882521125) | **Published:** Nov 2, 2026
-
----
-### Grok Imagine İstemi: Cadılar Bayramı Kutlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cadılar Bayramı kostümleri giymiş üç kızın sokakta kutlama yaptığı video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Cadılar Bayramı kostümleri giymiş 3 kız, bir sokakta Cadılar Bayramı'nı kutluyor ve neşeli bir ruh haliyle izleyiciye el sallıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117140720343822336/img/q8jlbnRrTvsPI7Gm.jpg" width="600" alt="Grok Imagine İstemi: Cadılar Bayramı Kutlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13407)**
-
-**Author:** [Nore - エッチなAI絵](https://x.com/Clyyinnore) | **Source:** [Link](https://x.com/Clyyinnore/status/2117140748261057006) | **Published:** Nov 2, 2026
-
----
-### Grok Imagine Kedi Atlama Video İstemleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için iki metinden videoya dönüştürme istemi; turuncu bir tekir kedinin pencere pervazına atlamasını ve farklı hareket açıklamalarını gösteren içerikler.
-
-#### 📝 Prompt
-
-```
-Sıcak ve samimi bir dairede turuncu tekir bir kedinin güneş alan pencere pervazına sıçradığı, el telefonu kamerasıyla çekilmiş bir video. Ahşap zeminde oturan turuncu tekir bir kedi çömelir, kalçasını sallayarak hazırlanır ve ardından tek bir akıcı hamleyle güneşli pencere pervazına atlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117111170024853505/img/lumtYOISg3OPwzMI.jpg" width="600" alt="Grok Imagine Kedi Atlama Video İstemleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13417)**
-
-**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117112032793174219) | **Published:** Nov 2, 2026
-
----
-### Ay Tanrıçası Dünyaya Su Döküyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ay tanrıçasının bir kaptan Dünya'ya su döktüğü mitolojik fantastik prompt.
-
-#### 📝 Prompt
-
-```
-Dünya'nın etrafında dönen Ay tanrıçası, eğilip süslü bir testiden su alır ve onu tüm Dünya'ya döker; böylece Dünya canlanır, yeşerir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117102288216993792/img/svNKF3J8iqFYSMs_.jpg" width="600" alt="Ay Tanrıçası Dünyaya Su Döküyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13409)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117102312493580748) | **Published:** Nov 2, 2026
-
----
-### Kozmik Tanrıça Yıldız Ateşleme Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir tanrıça, uzay gemileri ve Dünya'yı ateşe veren patlayan bir yıldız içeren kozmik bir sahneyi tasvir eden detaylı bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Ay ve evren, yörüngede dönen uzay gemilerinin etrafında süzülen bir tanrıça, kozmik bir patlama ve beliren bir dünya. İkinci kare: bir yıldız alevlenir, tanrıça yıldızı alır ve dünyaya fırlatır....
-
-İyi geceler tatlı yolcularım 🤫.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117097850295242753/img/V9NqPCcLbJijEV97.jpg" width="600" alt="Kozmik Tanrıça Yıldız Ateşleme Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13405)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117097871967486131) | **Published:** Nov 2, 2026
-
----
-### Yarış Arabası İç Görünümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yarış direksiyonu ve trafik ile otoyolda birinci şahıs sürüş görünümünü gösteren video istemi.
-
-#### 📝 Prompt
-
-```
-Direksiyonu bir yarış direksiyonuna çevir, önüne çıkan arabaları 🚘 zıplayarak geç ve otobanda tam gaz sür! Arabaya atla! Harika
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117081936430510081/img/iqu5AVs1qvT5Sw0N.jpg" width="600" alt="Yarış Arabası İç Görünümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13403)**
-
-**Author:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **Source:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **Published:** Nov 2, 2026
-
----
-### Kadın Çantası Tesla Motosikletine Dönüşüyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir çantanın ağır bir Tesla motosikletine dönüştüğü ve ardından bir kadının bu motosikleti sürerek uzaklaştığı detaylı bir bilim kurgu dönüşüm videosu istemi.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Kadının çantasını yere bıraktığı, çantanın ağır bir Tesla Motorbike'a dönüştüğü, ardından kadının motora binip uzaklaştığı üst düzey bir dönüşüm videosu oluşturun.
-
-[Olay Senaryosu]
-Başlangıçta: Bir kadın, açık bir dış mekanda elinde bir çantayla durmaktadır. Çantayı kayıtsızca yere bırakır.
-Ana olay: Çanta aniden dramatik ve üst düzey bir dönüşüme başlar; parlayan enerji efektleriyle genişler, şekil değiştirir ve başkalaşır, metalik paneller açılır, tekerlekler oluşur ve yapı; şık fütüristik Tesla tasarımına, büyük bir gövdeye, parlayan detaylara ve sağlam bir görünüme sahip ağır, güçlü bir Tesla Motorbike'a dönüşerek somutlaşır. Ardından kadın bir adım öne çıkar, tamamen şekillenmiş ağır Tesla Motorbike'a biner, gidonu kavrar, düşük ve güçlü bir uğultuyla motoru çalıştırıp ufka doğru sürerek uzaklaşır.
-Sonunda: Kadın ağır Tesla Motorbike ile uzaklaşmaktadır; çanta tamamen ortadan kaybolmuş, o giderken geriye yalnızca motosiklet kalmıştır.
-
-[Tutarlılığı Koruyun]
-Kadının kimliğini, görünüşünü ve kıyafetlerini baştan sona sabit tutun. Tamamen tek bir ağır Tesla Motorbike'a dönüşen tek bir çantayı koruyun. Çantanın düşürülmesinden motosikletin oluşumuna ve oradan uzaklaşmaya kadar kesintisiz bir mekansal ilişki ve net bir dönüşüm dizilimi sağlayın. Başka hiçbir nesne veya karakter görünmemelidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="Kadın Çantası Tesla Motosikletine Dönüşüyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13412)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117080385129787552) | **Published:** Nov 2, 2026
-
----
-### Kızın Şeker Çaldığı Sahne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tuğla bir evde şömine yanında kahverengi gözlü bir kızın şeker çaldığını tasvir eden video istemi.
-
-#### 📝 Prompt
-
-```
-Kahverengi gözlü kız, tuğla bir evin içindeki şöminenin yanında şeker aşırıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117071802144866304/img/J-DT4vxDJrVfpAgF.jpg" width="600" alt="Kızın Şeker Çaldığı Sahne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13404)**
-
-**Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2603,6 +2576,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T06:09:43.864Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T18:30:25.592Z</sub>
 
 </div>

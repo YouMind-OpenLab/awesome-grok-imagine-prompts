@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3410** |
+| 📝 Total Prompts | **3420** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-16** |
 
@@ -189,6 +189,143 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine ड्रैगन और ओस का प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक रचनात्मक वीडियो प्रॉम्प्ट जिसमें खेत में सो रहे ड्रैगन जागते हैं और ओस को झटकते हैं, जिससे सूरज की रोशनी अपवर्तित होती है।
+
+#### 📝 Prompt
+
+```
+खेत में सो रहे ड्रैगन फूलों के खिलने पर जाग उठते हैं और ओस को झटक देते हैं; ओस की बूँदें सुबह की पहली धूप को कई रंगों और छटाओं में बिखेर देती हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122193276073873408/img/B_PLpnoh1ScMflKQ.jpg" width="600" alt="Grok Imagine ड्रैगन और ओस का प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13918)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2122193351017648184) | **Published:** Nov 16, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: एस्ट्रो वजन उठाते हुए
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जिम में वजन उठाते हुए कैरेक्टर Astro का वीडियो बनाने के लिए प्रॉम्प्ट, जिसमें पृष्ठभूमि में गतिविधि दिखाई दे।
+
+#### 📝 Prompt
+
+```
+Astro को जिम में वेट लिफ्टिंग करते हुए दिखाएं, और उनके पीछे ट्रेडमिल पर सिर्फ कुछ महिलाएं दौड़ रही हों। वह कह रहा है "no pain, no gain. Happy Sunday friends!...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122192892005412864/img/I_-7rG5jBKWPwSX8.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: एस्ट्रो वजन उठाते हुए">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13922)**
+
+**Author:** [Astro 💫](https://x.com/_Astro_Maniac_) | **Source:** [Link](https://x.com/_Astro_Maniac_/status/2122192907394482189) | **Published:** Nov 16, 2026
+
+---
+### साइ-फाइ रॉकेट कॉकपिट ज़ीरो-जी शॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गुरुत्वाकर्षण के अचानक समाप्त होने के क्षण रॉकेट कॉकपिट के अंदर 8 सेकंड के लगातार शॉट को जनरेट करने के लिए एक विस्तृत सिनेमाई प्रॉम्प्ट, जिसमें कैमरा एंगल, फिल्म ग्रेन और ऑडियो साइलेंस का उल्लेख है।
+
+#### 📝 Prompt
+
+```
+लाइव-एक्शन सिनेमैटिक साइ-फाई, 8s, 16:9, सिंगल कंटिन्यूअस शॉट, बिना किसी कट के, ग्रेविटी खत्म होने के ठीक उस पल रॉकेटशिप का कॉकपिट, 47° डायगोनल फील्ड ऑफ व्यू, कैमरा स्क्रीन-लेफ्ट में उससे 2 मीटर की दूरी पर छाती की ऊंचाई पर फिक्स, Kodak Vision3 500T ग्रेन, साइलेंट।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122185125320658944/img/9v38FPreL-aP7uVW.jpg" width="600" alt="साइ-फाइ रॉकेट कॉकपिट ज़ीरो-जी शॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13920)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122185137911980311) | **Published:** Nov 16, 2026
+
+---
+### Grok Imagine: प्लैंकटन और स्क्विडवर्ड की चोरी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpongeBob पात्रों के Walmart से Nintendo Switch चुराने पर आधारित Grok Imagine का एक मज़ेदार वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+Plankton और Squidward ने Walmart से Nintendo Switch चुरा लिया (मैनेजर का रिएक्शन जब अलार्म बजता है)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122094031677120512/img/HpIW6nJaHNA1TOk4.jpg" width="600" alt="Grok Imagine: प्लैंकटन और स्क्विडवर्ड की चोरी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13919)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122094098790142393) | **Published:** Nov 15, 2026
+
+---
+### प्लैंकटन और स्क्विडवर्ड का iPad चोरी करना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpongeBob पात्रों प्लैंकटन और स्क्विडवर्ड द्वारा Target से iPad Pros चोरी करने की एक हास्यपूर्ण परिदृश्य प्रॉम्प्ट, जिसमें मैनेजरों की प्रतिक्रियाएं शामिल हैं।
+
+#### 📝 Prompt
+
+```
+Plankton और Squidward ने Target से iPad Pro x चुरा लिए (मैनेजर का रिएक्शन जब अलार्म बजता है)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122091441845374976/img/0XHqXC-HH6k1YyZX.jpg" width="600" alt="प्लैंकटन और स्क्विडवर्ड का iPad चोरी करना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13921)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2122091562175975903) | **Published:** Nov 15, 2026
+
+---
+### आर्कटिक वुल्फ मेचा आर्मर वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> आर्कटिक वुल्फ मेचा आर्मर पहने चिबी लड़के के साथ एक साइ-फाई ट्रांसफॉर्मेशन वीडियो के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+Arctic Wolf Mecha Armor
+
+सफ़ेद बालों वाला एक छोटा-सा Chibi लड़का, जिसने फटी हुई बर्फ़ीली-नीली रंग की भेड़िये वाली हुडी और पीठ पर लकड़ी का बैगपैक पहना हुआ है, बर्फ़ से ढके एक पहाड़ी गाँव से गुज़र रहा है। उसके ठीक पीछे एक विशाल होलोग्राफ़िक भेड़िया प्रकट होता है। नीले रंग के रोबोटिक पुर्ज़े तेज़ी से उसके शरीर की ओर बढ़ते हैं और बर्फ़ को झेलने में सक्षम एक भारी कवच का रूप ले लेते हैं। फिर भेड़िये के आकार वाला एक मैकेनिकल हेलमेट सही जगह पर मज़बूती से लॉक हो जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121963860970057728/img/FOk6YXuCjqavz2IN.jpg" width="600" alt="आर्कटिक वुल्फ मेचा आर्मर वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13925)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121964325296578588) | **Published:** Nov 15, 2026
+
+---
+### छिबी डेमन स्लेयर आर्मर ट्रांसफॉर्मेशन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक भविष्यवादी युद्धभूमि में एक छिबी लड़की के क्रिमसन कॉम्बैट आर्मर में बदलते हुए दिखाने वाले वीडियो के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+क्रिमसन डेमन स्लेयर
+
+लाल आँखों, काले बालों और फटे हुए लाल हुड वाली एक चिबी लड़की तबाह हो चुके भविष्यवादी युद्धक्षेत्र से गुज़रती है। लाल ऊर्जा की लपटें उसे घेरे हुए हैं। सैकड़ों मैकेनिकल प्लेट्स जुड़कर क्रिमसन कॉम्बैट आर्मर का रूप ले लेती हैं। उसकी बाँहों से दो मुड़ी हुई प्लाज़्मा तलवारें निकल आती हैं। चमकते लाल सींगों के साथ उसका हेलमेट तैयार हो जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121909975442472960/img/NfutRYiinJpLgGzZ.jpg" width="600" alt="छिबी डेमन स्लेयर आर्मर ट्रांसफॉर्मेशन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13927)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121910047517114851) | **Published:** Nov 15, 2026
+
+---
 ### Grok Imagine Prompt: सूक्ष्म प्राकृतिक गति
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -376,6 +513,48 @@ South Park स्टाइल का एक वीडियो जो बता�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13880)**
 
 **Author:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **Source:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **Published:** Nov 14, 2026
+
+---
+### मैकेनिकल बटरफ्लाई योद्धा रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अत्यधिक विस्तृत प्रॉम्प्ट जो एक चिबी लड़की को रोबोटिक तितलियों से घिरकर युद्ध कवच में बदलते हुए दर्शाता है, वीडियो जनरेशन के लिए उपयुक्त।
+
+#### 📝 Prompt
+
+```
+मैकेनिकल बटरफ्लाई वॉरियर
+
+गुलाबी बालों वाली एक खूबसूरत Chibi लड़की, जिसने नाजुक सा फटा हुआ गुलाबी हुड और तितली के आकार की सजावट पहनी है, एक जादुई जंगल से गुज़र रही है। हज़ारों चमकती हुई रोबोटिक तितलियाँ उसे घेरे हुए हैं। उनके धातुई पंख उसके कपड़ों से जुड़ जाते हैं और उन्हें गुलाबी-चांदी रंग के कॉम्बैट आर्मर में बदल देते हैं। उसकी पीठ पर दो विशाल मैकेनिकल तितली के पंख खुल जाते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121574574244433920/img/cwn_PeJbQ8eyXd1T.jpg" width="600" alt="मैकेनिकल बटरफ्लाई योद्धा रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13923)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121574659552412049) | **Published:** Nov 14, 2026
+
+---
+### चिबी गोल्डन लायन गार्जियन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो के लिए प्रॉम्प्ट जिसमें एक चिबी लड़का प्राचीन खंडहरों में सुनहरे हथौड़े के साथ शेर की कवच में बदलता हुआ दिखाई देता है।
+
+#### 📝 Prompt
+
+```
+गोल्डन लायन गार्जियन
+
+सुनहरे बालों वाला एक छोटा सा चिबी लड़का, जिसने फटी-पुरानी भूरे रंग की शेर के कानों वाली हुडी पहनी है और हाथ में एक लकड़ी की लालटेन है, प्राचीन खंडहरों से गुज़र रहा है। सुनहरी ऊर्जा उसके पूरे शरीर पर फैल जाती है। धातुई शेर का कवच उसके कपड़ों के ऊपर जुड़ने लगता है। उसके हेलमेट के चारों ओर एक विशाल रोबोटिक शेर की अयाल खुलती है, और उसके हाथों में सुनहरी ऊर्जा का एक हथौड़ा प्रकट हो जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121554568500617216/img/ZgQ5IzBNWe3QnzkD.jpg" width="600" alt="चिबी गोल्डन लायन गार्जियन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13926)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121554612079534348) | **Published:** Nov 14, 2026
 
 ---
 ### Colorize 1937 Instrument Player
@@ -1222,6 +1401,25 @@ Scene Structure (Total 15 seconds / 4 Scenes):
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13821)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2119818224338661830) | **Published:** Nov 9, 2026
+
+---
+### सिनेमाई ईंधन टैंकर वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके हाईवे पर ईंधन टैंकर ट्रक के फोटोरियलिस्टिक सिनेमाई वीडियो को जेनरेट करने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+4K रेज़ोल्यूशन में एक बेहद फोटोरियलिस्टिक, हॉलीवुड स्तर का सिनेमैटिक 15-सेकंड का वीडियो बनाएं। दिन के उजाले में, एक विशाल स्टेनलेस-स्टील फ्यूल टैंकर ट्रक — जिसे स्पष्ट रूप से डीज़ल और पेट्रोल की ढुलाई के लिए डिज़ाइन किया गया है — एक यथार्थवादी आधुनिक हाईवे पर दौड़ रहा है....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119748603426295808/img/IM70t68JSavZojGD.jpg" width="600" alt="सिनेमाई ईंधन टैंकर वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13924)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2119748851271905456) | **Published:** Nov 9, 2026
 
 ---
 ### स्थिर पृष्ठभूमि प्रॉम्प्ट फिक्स
@@ -2330,228 +2528,6 @@ Seahawk के रंगों वाला स्वेटर पहने ए�
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
 
 ---
-### सिनेमैटिक स्नो ब्लॉसम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बर्फ़ की बरसात, चेरी ब्लॉसम और एक महिला की आँखों के क्लोज-अप को दर्शाने वाला एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-पूरी तरह खिले चेरी ब्लॉसम के बीच से गुज़रती हल्की बर्फबारी का एक बेहद शानदार, सिनेमाई वीडियो। नाज़ुक गुलाबी पंखुड़ियाँ और सफ़ेद बर्फ के फाहे एक साथ हवा में गिरते हैं, धीरे-धीरे लहराते हुए रोशनी को अपनी चमक में समेट लेते हैं। कैमरा फूलों से लदे पेड़ों के बीच से धीरे-धीरे आगे और थोड़ा ऊपर की ओर बढ़ता है, फिर एक महिला की आँखों के बेहद करीब पहुँचकर एक अंतरंग क्लोज़-अप में बदल जाता है। उसकी आँखें बड़ी, भावपूर्ण और चमकदार हैं, जिनके चारों ओर हल्के-हल्के गिरते बर्फ के फाहे और तैरती चेरी ब्लॉसम की पंखुड़ियाँ आगे और पीछे के हिस्से में नरमी से धुंधली हो जाती हैं। सुनहरी गर्म रोशनी पेड़ों के बीच से छनकर आती है, जो एक सपनों भरा, जादुई माहौल बना देती है। कैमरा एक सहज, तैरती हुई सिनेमाई गति से चलता है, और बर्फ व पंखुड़ियों के लगातार गुज़रते रहने के बीच उसकी निगाहों की भावनात्मक गहराई को पूरी तरह समेटे रखता है। शांत हवा, हल्की गिरती बर्फ और फूलों की मद्धम सरसराहट की एम्बिएंट आवाज़।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117259659534872577/img/haHQzQ23_JoXS2g2.jpg" width="600" alt="सिनेमैटिक स्नो ब्लॉसम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13470)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117259728007159931) | **Published:** Nov 2, 2026
-
----
-### बिल्ली के घर पर कैमरा ज़ूम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो झाड़ियों के बीच से तेजी से कैमरा मूवमेंट को दर्शाता है, जिसमें खुलते हुए दरवाजे के अंदर एक बिल्ली दिखाई देती है।
-
-#### 📝 Prompt
-
-```
-कैमरा तेज़ी से झाड़ियों से गुज़रता हुआ घर की तरफ बढ़ता है, दरवाज़ा खुलता है और अंदर हमें बिल्ली नज़र आती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117182995366879232/img/Av3Bv6H4yO6r2cp-.jpg" width="600" alt="बिल्ली के घर पर कैमरा ज़ूम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13476)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **Published:** Nov 2, 2026
-
----
-### Grok Imagine सैनिक कवच असेंबली वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक व्यापक प्रॉम्प्ट, जो एक साइ-फाई युद्ध रूपांतरण वीडियो बनाता है जिसमें एक सैनिक नैनो-फोर्ज्ड प्लेटिंग द्वारा तेजी से कवचित होता है और हथियार तैनात करता है।
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-एक पूरी तरह से कवचधारी सैनिक के अगले स्तर (next-level) के कॉम्बैट ड्रेस में बदलने का एक निरंतर, उच्च-तीव्रता वाला साइ-फाई कॉम्बैट ट्रांसफॉर्मेशन सीक्वेंस जनरेट करें। मुख्य विषय एक अकेला एलीट योद्धा है जो बेस कॉम्बैट ड्रेस में शुरुआत करता है और अंत में एडवांस्ड कॉम्बैट आर्मर में पूरी तरह तैयार होकर, हथियारों को तैनात और उपयोग के लिए रेडी किए हुए खड़ा होता है।
-
-[Subjects and Relationships]
-एक अकेला एलीट कॉम्बैट ऑपरेटर अकेला खड़ा है। पहचान, शरीर के अनुपात और सिल्हूट शुरू से अंत तक एक जैसे बने रहते हैं। कोई दूसरा पात्र नहीं दिखाया जाएगा।
-
-[Event Script]
-शुरुआत में: ऑपरेटर धीमी हैंगर लाइटिंग के नीचे स्टैंडर्ड कॉम्बैट ड्रेस (टैक्टिकल पैंट, फिटेड कॉम्बैट टॉप, बूट्स) में खड़ा है, जिस पर कोई भारी आर्मर नहीं है।  
-मुख्य घटना: नैनो-फोर्ज्ड प्लेटिंग तेजी से प्रकट होती है और क्रमिक तरंगों में शरीर पर लॉक हो जाती है—पहले चेस्ट और बैक प्लेट्स, फिर आर्टिक्यूलेटेड लिम्ब आर्मर, शोल्डर पॉल्ड्रॉन और हेल्मेट। इंटीग्रेटेड हार्ड-पॉइंट्स एक प्राइमरी प्लाज्मा राइफल को तैनात करते हैं जो दाएं हाथ के हार्ड-पॉइंट पर तुरंत लॉक हो जाती है, एक सेकेंडरी एनर्जी ब्लेड बाएं फोरआर्म से बाहर निकलता है, और शोल्डर पर लगे ट्विन माइक्रो-मिसाइल पॉड्स खुलकर सक्रिय हो जाते हैं। जैसे ही जॉइंट्स सील होते हैं और सिस्टम पावर अप होता है, सर्वो एक्चुएटर्स ठंडी नीली ऊर्जा से चमकने लगते हैं।  
-अंत में: ऑपरेटर अगले स्तर के कॉम्बैट आर्मर में पूरी तरह लॉक होकर खड़ा है, हथियार चार्ज और तैयार हैं, वाइज़र टारगेटिंग HUD के साथ रोशन हो रहा है, और उसका रुख आक्रामक व युद्ध के लिए तैयार है।
-
-[Visual Style]
-मैट ब्लैक कंपोजिट प्लेटिंग, चमकती हुई सियान एनर्जी कंड्युइट्स और तीक्ष्ण कोणीय ज्यामिति वाला हार्ड-सरफेस साइ-फाई आर्मर। मटेरियल फिनिश पूरी तरह से तैयार है—युद्ध की मार झेल चुका होने के बावजूद एकदम नया दिखता है, जिसमें हल्का हीट डिस्टॉर्शन और अवशिष्ट ऊर्जा कण मौजूद हैं।
-
-[Camera]
-डायनामिक वन-टेक स्टाइल: एक मीडियम फुल-बॉडी शॉट से शुरुआत होती है, आर्मर बनते समय कैमरा धीरे-धीरे चारों ओर घूमता है, और फिर जब आखिरी प्लेट्स लॉक होती हैं और हथियार पावर ऑन होते हैं, तो कैमरा अंतिम सशस्त्र मुद्रा पर एकदम करीब से ज़ूम इन हो जाता है।
-
-[Sound]
-गहरी धात्विक लॉकिंग की आवाजें और हाइड्रोलिक हिस्स, एनर्जी वेपन्स की बढ़ती हुई पावर-अप हम, अंतिम तीक्ष्ना आर्मिंग क्लिक, और ट्रांसफॉर्मेशन पूरा होने पर एक गहरी, आक्रामक बेस पल्स। कोई संवाद या सबटाइटल नहीं।
-
-[Maintain Consistency]
-पूरे ट्रांसफॉर्मेशन के दौरान एक ही निरंतर ऑपरेटर की पहचान, हथियारों का एक ही सेट, सुसंगत आर्मर रंग योजना (ब्लैक/सियान), और स्थानिक अभिविन्यास (spatial orientation) बनाए रखें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117146941893017600/img/zRr752esbQ41dbu9.jpg" width="600" alt="Grok Imagine सैनिक कवच असेंबली वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13556)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117146990882521125) | **Published:** Nov 2, 2026
-
----
-### Grok Imagine Prompt: हैलोवीन सेलिब्रेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए वीडियो जनरेशन प्रॉम्प्ट जिसमें तीन लड़कियां हैलोवीन कॉस्ट्यूम पहने सड़क पर जश्न मनाते हुए दिखाई देती हैं।
-
-#### 📝 Prompt
-
-```
-3 लड़कियां Halloween की पोशाकों में सड़क पर Halloween का जश्न मना रही हैं और मस्ती भरे अंदाज़ में देखने वालों को हाथ हिला रही हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117140720343822336/img/q8jlbnRrTvsPI7Gm.jpg" width="600" alt="Grok Imagine Prompt: हैलोवीन सेलिब्रेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13407)**
-
-**Author:** [Nore - エッチなAI絵](https://x.com/Clyyinnore) | **Source:** [Link](https://x.com/Clyyinnore/status/2117140748261057006) | **Published:** Nov 2, 2026
-
----
-### Grok Imagine बिल्ली कूदने वाला वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए दो टेक्स्ट-टू-वीडियो प्रॉम्प्ट्स, जिसमें एक नारंगी टैबी बिल्ली खिड़की की चौखट पर कूदती हुई दिखाई दे रही है, जो अलग-अलग गति वर्णनों को प्रदर्शित करते हैं।
-
-#### 📝 Prompt
-
-```
-एक आरामदायक अपार्टमेंट में एक नारंगी टैबी बिल्ली धूप से भरी खिड़की की मुंडेर पर छलांग लगाती है, यह हाथ में फोन पकड़कर बनाया गया वीडियो है। लकड़ी के फर्श पर बैठी एक नारंगी टैबी बिल्ली पहले दुबकती है, अपने कूल्हों को हिलाती है, और फिर एक ही झटके में आसानी से धूप वाली खिड़की की मुंडेर पर छलांग लगा देती है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117111170024853505/img/lumtYOISg3OPwzMI.jpg" width="600" alt="Grok Imagine बिल्ली कूदने वाला वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13417)**
-
-**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117112032793174219) | **Published:** Nov 2, 2026
-
----
-### चंद्र देवी द्वारा पृथ्वी पर जल ढालना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक पौराणिक काल्पनिक प्रॉम्प्ट जिसमें चंद्र देवी एक जार से पानी डालकर पृथ्वी के साथ अंतःक्रिया करती हुई दिखाई गई हैं।
-
-#### 📝 Prompt
-
-```
-चंद्र देवी पृथ्वी की परिक्रमा कर रही हैं, वे झुककर एक सुंदर नक्काशीदार घड़े में जल भरती हैं और फिर उसे पूरी पृथ्वी पर उड़ेल देती हैं, जिससे धरती लहलहा उठती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117102288216993792/img/svNKF3J8iqFYSMs_.jpg" width="600" alt="चंद्र देवी द्वारा पृथ्वी पर जल ढालना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13409)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117102312493580748) | **Published:** Nov 2, 2026
-
----
-### ब्रह्मांडीय देवी तारा प्रज्वलन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट जो एक ब्रह्मांडीय दृश्य को दर्शाता है जिसमें एक देवी, अंतरिक्ष यान और पृथ्वी को प्रज्वलित करता हुआ विस्फोटक तारा शामिल है।
-
-#### 📝 Prompt
-
-```
-चाँद और ब्रह्मांड, कक्षाओं में चक्कर लगाते अंतरिक्ष यानों के बीच घूमती एक देवी, एक ब्रह्मांडीय विस्फोट और फिर पृथ्वी का प्रकट होना। दूसरा फ्रेम: एक तारा जल उठता है, देवी उस तारे को उठाती है और पृथ्वी पर फेंक देती है....
-
-शुभ रात्रि मेरे प्यारे मुसाफ़िरों 🤫।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117097850295242753/img/V9NqPCcLbJijEV97.jpg" width="600" alt="ब्रह्मांडीय देवी तारा प्रज्वलन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13405)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117097871967486131) | **Published:** Nov 2, 2026
-
----
-### रेसिंग कार का इंटीरियर व्यू
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो रेसिंग स्टेयरिंग व्हील और ट्रैफिक के साथ हाईवे पर पहली-व्यक्ति दृष्टि से ड्राइविंग दिखाता है।
-
-#### 📝 Prompt
-
-```
-स्टीयरिंग व्हील को रेसिंग वाला बनाएं और रास्ते में आने वाली गाड़ियों 🚘 से बचते-बचाते इंटरस्टेट पर फुल स्पीड में दौड़ाएं! कार में बैठिए और मज़ा लीजिए! क्या बात है!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117081936430510081/img/iqu5AVs1qvT5Sw0N.jpg" width="600" alt="रेसिंग कार का इंटीरियर व्यू">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13403)**
-
-**Author:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **Source:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **Published:** Nov 2, 2026
-
----
-### महिला का बैग टेलस्ला मोटरबाइक में बदल जाता है
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत साइ-फाई रूपांतरण वीडियो प्रॉम्प्ट जिसमें एक बैग भारी Tesla मोटरबाइक में बदल जाता है, जिसे फिर एक महिला सवार होकर चली जाती है।
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-एक नेक्स्ट-लेवल ट्रांसफॉर्मेशन वीडियो जनरेट करें जिसमें एक महिला अपना बैग ज़मीन पर गिराती है, वह बैग एक भारी Tesla Motorbike में बदल जाता है, और फिर वह उस पर बैठकर दूर निकल जाती है।
-
-[Event Script]
-शुरुआत में: एक महिला खुली आउटडोर जगह पर खड़ी है और उसके हाथ में एक बैग है। वह लापरवाही से वह बैग ज़मीन पर गिरा देती है।
-मुख्य घटना: बैग तुरंत एक शानदार नेक्स्ट-लेवल ट्रांसफॉर्मेशन से गुज़रना शुरू करता है — यह फैलता है, अपना आकार बदलता है और चमकदार एनर्जी इफेक्ट्स के साथ रूपांतरित होता है, मेटैलिक पैनल बाहर की तरफ खुलते हैं, पहिये बनते हैं, और यह संरचना एक भारी, ताकतवर Tesla Motorbike में पूरी तरह ठोस हो जाती है, जिसमें स्लीक फ्यूचरिस्टिक Tesla डिज़ाइन, बड़ा फ्रेम, चमकदार एक्सेंट्स और एक मजबूत उपस्थिति होती है। इसके बाद वह आगे बढ़ती है, पूरी तरह तैयार उस भारी Tesla Motorbike पर बैठती है, हैंडल को कसकर पकड़ती है, एक गहरी और ताकतवर हम्मिंग साउंड के साथ उसे स्टार्ट करती है, और दूर तक चला ले जाती है।
-अंत में: महिला उस भारी Tesla Motorbike को चलाते हुए दूर जा रही है, बैग पूरी तरह गायब हो चुका है, और उसके जाते समय सिर्फ बाइक ही नज़र आ रही है।
-
-[Maintain Consistency]
-पूरे वीडियो में महिला की पहचान, रूप-रंग और कपड़े एक जैसे बनाए रखें। एक ही बैग को दिखाएं जो पूरी तरह से एकमात्र भारी Tesla Motorbike में बदल जाए। बैग गिरने से लेकर बाइक बनने और फिर वहां से निकल जाने तक स्पेस (स्थान) का तालमेल और ट्रांसफॉर्मेशन का क्रम लगातार और स्पष्ट बनाए रखें। कोई अन्य ऑब्जेक्ट या कैरेक्टर नज़र नहीं आना चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="महिला का बैग टेलस्ला मोटरबाइक में बदल जाता है">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13412)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117080385129787552) | **Published:** Nov 2, 2026
-
----
-### लड़की द्वारा कैंडी चुराने का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक भूरी आँखों वाली लड़की को ईंट के घर में अंगीठी के पास कैंडी चुराते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-लड़की की आँखें भूरी हैं और वह घर के अंदर ईंटों वाले चिमनी के पास रखी कैंडी चुरा रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117071802144866304/img/J-DT4vxDJrVfpAgF.jpg" width="600" alt="लड़की द्वारा कैंडी चुराने का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13404)**
-
-**Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2613,6 +2589,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T06:09:38.168Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T18:30:19.854Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3410** |
+| 📝 プロンプト総数 | **3420** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-16** |
 
@@ -189,6 +189,141 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine Dragon Dew プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で使用できるクリエイティブな動画プロンプトです。野原で眠っていたドラゴンが目を覚まし、露を振り払うと、その露が太陽光を屈折させる様子を表現しています。
+
+#### 📝 プロンプト
+
+```
+野原に眠る竜が花々の中で目覚め、露を振り払う。その雫が朝の陽光を受けて、色とりどりの光へと輝く。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122193276073873408/img/B_PLpnoh1ScMflKQ.jpg" width="600" alt="Grok Imagine Dragon Dew プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13918)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2122193351017648184) | **公開日:** Nov 16, 2026
+
+---
+### Grok Imagine Video プロンプト: Astro のウェイトリフティング
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Astro がジムでウェイトリフティングを行っている動画生成用プロンプト。背景の動きも再現します。
+
+#### 📝 プロンプト
+
+```
+Astro がジムで筋トレをしている様子。彼の後ろでは、数人の女性だけがトレッドミルで走っています。彼は「No pain, no gain（痛みなくして得るものなし）。みんな、ハッピーサンデー！…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122192892005412864/img/I_-7rG5jBKWPwSX8.jpg" width="600" alt="Grok Imagine Video プロンプト: Astro のウェイトリフティング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13922)**
+
+**作者:** [Astro 💫](https://x.com/_Astro_Maniac_) | **ソース:** [Link](https://x.com/_Astro_Maniac_/status/2122192907394482189) | **公開日:** Nov 16, 2026
+
+---
+### SF ロケットコックピット無重力ショット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 重力が消失した瞬間のロケットコックピット内を捉えた、8秒間の連続カットを生成するための詳細なシネマティックプロンプト。カメラアングル、フィルムグレイン、そして音響の静寂性を指定しています。
+
+#### 📝 プロンプト
+
+```
+実写映画風 SF、8 秒、16:9、ワンカット長回し、カットなし、重力が消失する瞬間の宇宙船のコックピット、47° の斜め画角、カメラは画面左側の彼女から 2 メートル離れた胸の高さに固定、Kodak Vision3 500T のフィルムグレイン、無音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122185125320658944/img/9v38FPreL-aP7uVW.jpg" width="600" alt="SF ロケットコックピット無重力ショット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13920)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **ソース:** [Link](https://x.com/lighthouse42f/status/2122185137911980311) | **公開日:** Nov 16, 2026
+
+---
+### Grok Imagine プランクトンとイカルがスイッチを盗む
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Walmart から Nintendo Switch を盗むスポンジ・ボブのキャラクターが登場する Grok Imagine 用のユーモアあふれる動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+プランクトンとスポンジ・ボブのイカルドが Walmart から Nintendo Switch を盗む（警報が鳴ったときの店長の反応）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122094031677120512/img/HpIW6nJaHNA1TOk4.jpg" width="600" alt="Grok Imagine プランクトンとイカルがスイッチを盗む">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13919)**
+
+**作者:** [L Bergeron](https://x.com/LBergeron335488) | **ソース:** [Link](https://x.com/LBergeron335488/status/2122094098790142393) | **公開日:** Nov 15, 2026
+
+---
+### プランクトンとイカサンの iPad 盗難
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スポンジボブのキャラクター、プランクトンとイカサンが Target で iPad Pro を盗むというユーモアあふれるシナリオプロンプト。店長の反応も含まれています。
+
+#### 📝 プロンプト
+
+```
+プランクトンとイカルドが Target で iPad Pro x を万引き（アラームが鳴ったときの店長の反応）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122091441845374976/img/0XHqXC-HH6k1YyZX.jpg" width="600" alt="プランクトンとイカサンの iPad 盗難">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13921)**
+
+**作者:** [L Bergeron](https://x.com/LBergeron335488) | **ソース:** [Link](https://x.com/LBergeron335488/status/2122091562175975903) | **公開日:** Nov 15, 2026
+
+---
+### 北極オオカミメカアーマー動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 北極オオカミのメカアーマーを纏ったちびっ子少年が登場する SF トランスフォーメーション動画のプロンプト。
+
+#### 📝 プロンプト
+
+```
+Arctic Wolf Mecha Armor
+白髪の小さなチビ少年が、破れた氷青色の狼のフードと木製のバックパックを身につけ、凍てついた山間の村を歩いている。彼の背後に巨大なホログラムの狼が現れる。青いロボット部品が彼の体へと殺到し、重厚な耐氷アーマーを形成していく。機械仕掛けの狼の頭部ヘルメットがカチリと装着される。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121963860970057728/img/FOk6YXuCjqavz2IN.jpg" width="600" alt="北極オオカミメカアーマー動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13925)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2121964325296578588) | **公開日:** Nov 15, 2026
+
+---
+### ちび鬼滅風アーマー変身プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 近未来の戦場で、ちびキャラの少女が紅い戦闘アーマーに変身する様子を映した動画のプロンプト。
+
+#### 📝 プロンプト
+
+```
+クリムゾン・デーモンスレイヤー
+赤い瞳と黒髪、そしてボロボロの赤いフードをまとったちびっ子少女が、荒廃した未来の戦場を歩み進んでいく。彼女の周囲には赤いエネルギーの炎が渦巻いている。無数の機械プレートが集結し、真紅のコンバットアーマーへと組み上がっていく。両腕からは 2 本の湾曲したプラズマソードが現れる。そして、赤く発光する角を備えたヘルメットが形成される。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121909975442472960/img/NfutRYiinJpLgGzZ.jpg" width="600" alt="ちび鬼滅風アーマー変身プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13927)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2121910047517114851) | **公開日:** Nov 15, 2026
+
+---
 ### Grok Imagine プロンプト: 自然で控えめなモーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -376,6 +511,48 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13880)**
 
 **作者:** [Edwin Chee](https://x.com/EdwinAlephOmega) | **ソース:** [Link](https://x.com/EdwinAlephOmega/status/2121603615148437639) | **公開日:** Nov 14, 2026
+
+---
+### メカニカル・バタフライ戦士変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロボティックな蝶々に囲まれ、戦闘アーマーへと変身するチビキャラ少女を描いた、動画生成向けの詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+機械の蝶戦士
+
+ピンク色の髪、繊細に破れたピンクのフード、そして蝶の形をした装飾を身につけた美しいちびキャラの少女が、魔法の森を歩いています。彼女の周囲には、何千匹もの光り輝くロボットバタフライが舞っています。その金属製の羽が衣服に吸い寄せられるように貼りつき、ピンクとシルバーの戦闘アーマーへと姿を変えていきます。そして、彼女の背後には 2 枚の巨大な機械仕掛けの蝶の羽が広がりを見せます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121574574244433920/img/cwn_PeJbQ8eyXd1T.jpg" width="600" alt="メカニカル・バタフライ戦士変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13923)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2121574659552412049) | **公開日:** Nov 14, 2026
+
+---
+### ちびキャラ黄金の獅子守護者プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 古代遺跡を背景に、ちびキャラの少年が黄金のハンマーを手に獅子の鎧へと変身する動画のプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ゴールデンライオンガーディアン
+
+金髪の小さなちびっ子。ボロボロの茶色いライオンの耳付きフードを被り、木製のランタンを手にして古代遺跡を歩いている。全身に黄金のエネルギーが広がり、衣服の上からメタリックなライオンアーマーが組み上がっていく。ヘルメットの周囲には巨大な機械仕掛けのライオンのたてがみが展開され、両手には黄金のエネルギーハンマーが実体化する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121554568500617216/img/ZgQ5IzBNWe3QnzkD.jpg" width="600" alt="ちびキャラ黄金の獅子守護者プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13926)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2121554612079534348) | **公開日:** Nov 14, 2026
 
 ---
 ### 1937 年の楽器演奏者に色付け
@@ -1223,6 +1400,25 @@ BGM ：温かみのあるアコースティックギターと、柔らかく落�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13821)**
 
 **作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2119818224338661830) | **公開日:** Nov 9, 2026
+
+---
+### シネマティックな燃料タンカー動画のプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、高速道路を走行する燃料タンカーのフォトリアルなシネマティック動画を生成するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+4K 解像度で、超写実的かつハリウッド映画レベルのシネマティックな 15 秒動画を作成してください。昼間のリアルな現代の高速道路を、ディーゼル燃料やガソリンの輸送用に設計された巨大なステンレス製のタンクローリーが走行しています....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119748603426295808/img/IM70t68JSavZojGD.jpg" width="600" alt="シネマティックな燃料タンカー動画のプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13924)**
+
+**作者:** [Blairy](https://x.com/Blair_54q0) | **ソース:** [Link](https://x.com/Blair_54q0/status/2119748851271905456) | **公開日:** Nov 9, 2026
 
 ---
 ### 静的背景プロンプト修正
@@ -2340,228 +2536,6 @@ Seahawk カラーのセーターを着た Seahawk が、その爪で Grizzly を
 **作者:** [AI Aimee](https://x.com/RockGrokAI) | **ソース:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **公開日:** Nov 2, 2026
 
 ---
-### シネマティックな雪と桜
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雪の降る風景、桜の花びら、そして女性の目のクローズアップを描いた詳細なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-満開の桜の花びらを、柔らかな雪が舞い落ちる次世代レベルのシネマティック映像。淡いピンクの花びらと白い雪の結晶が重なるように宙を舞い、ゆるやかに旋回しながら光を受けてきらめきます。カメラは花咲く木々の間をゆっくりと前方へ、そしてわずかに上へと滑るように進み、やがて女性の瞳へと寄り添うようなクローズアップへと溶け込んでいきます。大きく表情豊かで輝きを湛えたその瞳は、柔らかに降り注ぐ雪と浮かぶ桜の花びらに縁取られ、手前と奥でふわりとボケて幻想的な奥行きを生み出します。温かな黄金色の光が木々の隙間から差し込み、夢のように儚く美しい世界を描き出します。カメラは浮遊するような滑らかなシネマティックモーションで動き続け、雪と花びらが流れ落ちる中、彼女の眼差しが放つ感情の力を静かに捉え続けます。環境音には、静かな風の音、柔らかな落雪の気配、そして花びらが微かに擦れ合う音が響きます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117259659534872577/img/haHQzQ23_JoXS2g2.jpg" width="600" alt="シネマティックな雪と桜">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13470)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2117259728007159931) | **公開日:** Nov 2, 2026
-
----
-### 猫の家へズームインするカメラ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 茂みを通り抜けて家へ向かう高速カメラワーク、開いたドアから室内の猫を映し出す動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-カメラが茂みをかき分けるように素早く家へと近づき、ドアが開くと、中には猫の姿が。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117182995366879232/img/Av3Bv6H4yO6r2cp-.jpg" width="600" alt="猫の家へズームインするカメラ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13476)**
-
-**作者:** [Joseph Dixon](https://x.com/JosephDixo60750) | **ソース:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **公開日:** Nov 2, 2026
-
----
-### Grok Imagine 兵士アーマー装着動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 兵士がナノ鍛造装甲で迅速に装備され、武器を展開する SF 戦闘変身動画を Grok Imagine で作成するための包括的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-完全武装した兵士が次世代型戦闘スーツへと変貌していく、途切れることのない高強度の SF 戦闘変身シーケンスを生成してください。中心となる被写体は 1 人のエリート戦士であり、基本戦闘服の状態から始まり、最終的には先進的な戦闘アーマーを完全に装着し、武器を展開して臨戦態勢に入った姿で終了します。
-
-[被写体と関係性]
-1 人のエリート戦闘オペレーターが単独で立っています。アイデンティティ、身体のプロポーション、シルエットは開始から終了まで一貫して変化しません。他のキャラクターは一切登場しません。
-
-[イベントスクリプト]
-開始時：オペレーターは薄暗い格納庫の照明の下、標準的な戦闘服（タクティカルパンツ、体にフィットしたコンバットトップ、ブーツ）を着用し、重装甲を装備していない状態で立っています。
-主要イベント：ナノフォージ加工された装甲プレートが連続する波のように急速に実体化し、全身にロックされていきます。まず胸部と背部のプレート、続いて関節式の四肢アーマー、ショルダーポールドロン、そしてヘルメットが装着されます。統合ハードポイントからは、右手のハードポイントへカチリとはまるメインのプラズマライフル、左前腕から伸びるサブのエナジーブレード、そして展開・起動する両肩搭載のマイクロミサイルポッドが配備されます。関節部が密閉されシステムが起動するにつれ、サーボアクチュエーターが冷たい青いエネルギーを発光させます。
-終了時：オペレーターは次世代型戦闘アーマーを完全に装着した状態で立ち、武器はチャージ完了。バイザーにはターゲティング HUD が点灯し、攻撃的で戦闘準備の整った構えをとります。
-
-[ビジュアルスタイル]
-マットブラックの複合装甲プレート、発光するシアン色のエネルギー導管、シャープな角張ったジオメトリを持つハードサーフェス SF アーマー。質感は完全に仕上げられており、実戦を経た風格を残しつつも傷一つなく、わずかな熱歪みと残留エネルギー粒子が漂います。
-
-[カメラワーク]
-ダイナミックなワンカット風：全身が収まるミディアムショットから始まり、アーマーが形成される過程に合わせてゆっくりと旋回し、最後のプレートがロックされ武器が起動する最終武装ポーズに向けて、カメラがタイトに寄っていきます。
-
-[サウンド]
-重厚な金属音と油圧の作動音、エネルギー兵器の起動に伴い高まっていく駆動音、最後に鳴る鋭い武装完了のクリック音、そして変身完了時に響く低く攻撃的なベースパルス。セリフや字幕は一切なし。
-
-[一貫性の維持]
-変身プロセス全体を通して、1 人のオペレーターの同一性、1 セットの武器、統一されたアーマーの配色（ブラック／シアン）、および空間的な向きを一貫して保ってください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117146941893017600/img/zRr752esbQ41dbu9.jpg" width="600" alt="Grok Imagine 兵士アーマー装着動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13556)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2117146990882521125) | **公開日:** Nov 2, 2026
-
----
-### Grok Imagine プロンプト: ハロウィンパーティー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の動画生成プロンプト。ハロウィン衣装を着た3人の少女が街中で祝うシーン。
-
-#### 📝 プロンプト
-
-```
-ハロウィンコスチュームを着た 3 人の女の子が街でハロウィンを楽しみながら、 playful な気分で視聴者に向かって手を振っている様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117140720343822336/img/q8jlbnRrTvsPI7Gm.jpg" width="600" alt="Grok Imagine プロンプト: ハロウィンパーティー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13407)**
-
-**作者:** [Nore - エッチなAI絵](https://x.com/Clyyinnore) | **ソース:** [Link](https://x.com/Clyyinnore/status/2117140748261057006) | **公開日:** Nov 2, 2026
-
----
-### Grok Imagine 猫ジャンプ動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けのテキストから動画への変換プロンプト2つ。オレンジ色のトラ猫が窓辺に飛び乗るシーンを描き、異なる動きの表現を比較できます。
-
-#### 📝 プロンプト
-
-```
-居心地の良いアパートで、オレンジ色のトラ猫が日当たりの良い窓辺に跳び上がる、スマートフォンで撮影したような動画。フローリングの床に座っていたオレンジ色のトラ猫が身を低くして腰を振り、そのまま滑らかに日当たりの良い窓辺へと跳び乗る
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117111170024853505/img/lumtYOISg3OPwzMI.jpg" width="600" alt="Grok Imagine 猫ジャンプ動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13417)**
-
-**作者:** [能成大事](https://x.com/ncdsoffiecl) | **ソース:** [Link](https://x.com/ncdsoffiecl/status/2117112032793174219) | **公開日:** Nov 2, 2026
-
----
-### 月の女神が地球に水を注ぐ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 壺から水を注ぎ、地球と関わる月の女神を描いた神話的ファンタジーのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-地球の周りを巡る月の女神。彼女は身をかがめ、精巧な壺に水を汲むと、それを地球全体へと注ぎます。すると、大地は豊かに育まれていくのです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117102288216993792/img/svNKF3J8iqFYSMs_.jpg" width="600" alt="月の女神が地球に水を注ぐ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13409)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2117102312493580748) | **公開日:** Nov 2, 2026
-
----
-### コズミック女神スター・イグニッション動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の詳細な動画生成プロンプト。女神、宇宙船、そして地球を燃え上がらせる爆発する星が描かれた宇宙のシーンを表現しています。
-
-#### 📝 プロンプト
-
-```
-月と宇宙、周回する宇宙船のまわりを舞う女神、そして宇宙の大爆発とともに地球が姿を現す。第 2 フレーム：星が点火し、女神はその星を手にとって地球へと投げかける……
-
-おやすみなさい、愛しい旅人たち 🤫。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117097850295242753/img/V9NqPCcLbJijEV97.jpg" width="600" alt="コズミック女神スター・イグニッション動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13405)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2117097871967486131) | **公開日:** Nov 2, 2026
-
----
-### レーシングカーの車内視点
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レーシングホイールと交通量のある高速道路を一人称視点で走行する様子を映した動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-ハンドルをレーシング仕様にカスタムして、ハイウェイを爆走しよう！ 🚘 行く手を阻む車は弾き飛ばして、そのまま車内に放り込め！最高にクールだぜ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117081936430510081/img/iqu5AVs1qvT5Sw0N.jpg" width="600" alt="レーシングカーの車内視点">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13403)**
-
-**作者:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **ソース:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **公開日:** Nov 2, 2026
-
----
-### 女性のバッグが Tesla バイクに変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性が持つバッグが重厚な Tesla バイクへと変形し、それを乗り去る様子を描いた SF テーマの詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-女性がバッグを地面に落とし、そのバッグが重厚な Tesla Motorbike へと変形し、彼女が跨って走り去るという、次世代レベルの変形動画を生成します。
-
-[イベントスクリプト]
-開始時: 開けた屋外で、女性がバッグを持って立っています。彼女は何気なくバッグを地面に落とします。
-主要イベント: バッグはすぐに劇的な次世代レベルの変形を開始します。膨張し、形を変え、発光するエフェクトを伴いながら変化していきます。金属パネルが展開し、車輪が形成され、やがてその構造は、洗練された未来的な Tesla デザイン、大きなフレーム、発光するアクセント、そして圧倒的な存在感を放つ、重厚でパワフルな Tesla Motorbike へと完成します。その後、彼女は前に進み、完全に形成された重厚な Tesla Motorbike に跨り、ハンドルを握って、低く力強いモーター音を響かせながらエンジンを始動し、遠くへ走り去ります。
-終了時: 女性は重厚な Tesla Motorbike に乗って走り去り、バッグは完全に消え失せ、出発する彼女の元にはバイクだけが残されています。
-
-[一貫性の維持]
-女性の人物像、容姿、服装は全体を通して一定に保ちます。1 つのバッグが完全に唯一の重厚な Tesla Motorbike へと変形するようにしてください。バッグを落としてからバイクが形成され、走り去るまでの空間的な関係性と明確な変形シーケンスを連続的に維持します。他の物体やキャラクターは一切登場させません。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="女性のバッグが Tesla バイクに変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13412)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2117080385129787552) | **公開日:** Nov 2, 2026
-
----
-### キャンディを盗む少女のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レンガ造りの家の暖炉付近で、茶色の瞳の少女がキャンディを盗む様子を描写した動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-茶色の目をした少女が、レンガ造りの家の中にある暖炉のそばでキャンディを盗んでいます
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117071802144866304/img/J-DT4vxDJrVfpAgF.jpg" width="600" alt="キャンディを盗む少女のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13404)**
-
-**作者:** [ScreechR1](https://x.com/ScreechR6) | **ソース:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **公開日:** Nov 2, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2623,6 +2597,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-16T06:09:35.377Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-16T18:30:16.773Z</sub>
 
 </div>
