@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3420** |
+| 📝 총 프롬프트 수 | **3427** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-17** |
 
@@ -189,6 +189,144 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 요정 소녀 코스프레 무녀 영상
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 세 장의 참고 이미지에 기반한 특정 타이밍과 포즈 지시사항을 포함하여, 중국 판타지 무녀 복장을 한 요정 소녀가 등장하는 Grok Imagine용 복잡한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+@Image1, @Image2, @Image3 에 등장하는 은발 엘프 귀 여성이 주인공인 15 초 분량의 4 씬 시네마틱 영상입니다. 모든 씬에서 캐릭터의 얼굴, 은발 하프 업 헤어스타일, 엘프 귀, 화이트와 크림슨 컬러의 중국 판타지풍 홀터넥 의상, 어깨 아래로 길게 늘어뜨린 흰색 긴소매 하오리를 일관되게 유지해 주세요. 배경은 황금빛 단풍잎과 낙엽이 흩어진 가을 정원, 흰색 난간, 그리고 가로등으로 구성합니다. BGM 은 따뜻한 어쿠스틱 기타와 잔잔한 어쿠스틱 피아노 선율이 어우러진 부드러운 곡을 사용합니다.
+
+[0:00-0:04] @Image1 을 기반으로 상체를 우아하게 움직여 두 가지 포즈를 취합니다. 전반부: 양팔을 가볍게 벌려 흰 소매를 나풀거리며 고개를 살짝 기울입니다. 후반부: 오른손은 가슴 근처에 두고 왼손으로는 치마 끝을 살짝 잡는 관능적인 포즈로 전환합니다.
+[0:04-0:08] @Image2 를 기반으로 뒤돌아보는 앵글로 전환합니다. 전반부: 어깨 너머로 시선을 던지며 흰 소매 매무새를 가다듬습니다. 후반부: 상체를 크게 틀어 왼손을 턱 근처에 올리고 고개를 살짝 기울입니다.
+[0:08-0:12] @Image3 를 기반으로 미디엄 숏으로 전환합니다. 전반부: 양손을 가슴 앞에서 가볍게 깍지 낀 채 단단하게 서 있습니다. 후반부: 상체를 살짝 앞으로 숙이고 한 손을 뺨에 대며 사랑스럽게 미소 짓습니다.
+[0:12-0:15] @Image3 에서 얼굴 클로즈업으로 부드럽게 줌인합니다. 손끝을 입가에 가져가 강렬한 마무리 포즈를 취하고, 마지막에는 한쪽 눈(오른쪽)으로 매력적으로 윙크를 날립니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794900986878_8n6rp1_HXTLj-LaUAAhCxE.jpg" width="600" alt="요정 소녀 코스프레 무녀 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13963)**
+
+**작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2122547779700453578) | **게시일:** Nov 17, 2026
+
+---
+### 참고 이미지의 말하기 애니메이션 생성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> @Image1 참고 이미지를 생동감 있게 만들고, 그 목적에 대해 말하도록 하는 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+@Image1 이 살아 움직이며 자신의 목적과 이름, 그리고 지금 어디에 있는지 이야기하는 모습을 상상해 보세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122483488360144896/img/iXm9s9KjsBtlULr1.jpg" width="600" alt="참고 이미지의 말하기 애니메이션 생성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13961)**
+
+**작성자:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **출처:** [Link](https://x.com/SuperGeekCRC/status/2122483520127791271) | **게시일:** Nov 17, 2026
+
+---
+### 스테인드 글라스 나비 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 정원 돌 위에 앉아 빛나는 스테인드 글라스 날개를 가진 나비 영상을 생성하기 위한 프롬프트로, 다채로운 빛 패턴과 전통 유리 공예의 미학을 특징으로 합니다.
+
+#### 📝 프롬프트
+
+```
+빛나는 스테인드글라스 날개를 가진 아름다운 나비가 햇살 가득한 정원 돌 위에 앉아 다채로운 빛의 무늬를 만들어내고 있습니다. 보석처럼 영롱한 색감의 유리와 정교한 납선 테두리가 돋보이는 전통적인 스테인드글라스 아트 스타일입니다. 약간 다른 각도에서 바라본...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122476560259362816/img/GaSCT9gcVPjSvzgA.jpg" width="600" alt="스테인드 글라스 나비 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13958)**
+
+**작성자:** [Cathy has this](https://x.com/lighthouse42f) | **출처:** [Link](https://x.com/lighthouse42f/status/2122476581302174066) | **게시일:** Nov 16, 2026
+
+---
+### 북극곰과 판다의 썰매 타기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈 덮인 언덕을 미끄러져 내려가는 북극곰 새끼와 아기 판다를 담은 시네마틱 프롬프트로, 교향곡 같은 음악적 분위기를 연출합니다.
+
+#### 📝 프롬프트
+
+```
+🐻‍❄️🐧 북극곰 새끼와 아기 판다 🛷 눈 덮인 언덕을 썰매 타고 내려오는 모습 ❄️ 반짝이는 눈꽃 🥳 신나는 분위기 🎻 웅장한 심포니 ✨ 사실적인 8K 시네마틱 세로형 9:16 감사합니다 Jason
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122449676893081601/img/7PyZMKDcYeElFglU.jpg" width="600" alt="북극곰과 판다의 썰매 타기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13959)**
+
+**작성자:** [Cathy has this](https://x.com/lighthouse42f) | **출처:** [Link](https://x.com/lighthouse42f/status/2122449690990092770) | **게시일:** Nov 16, 2026
+
+---
+### 아기 판다 우주 로켓 라이딩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 별똥별과 록 기타 분위기가 어우러진 우주 속 로켓을 타고 달리는 아기 판다의 시네마틱 프롬프트.
+
+#### 📝 프롬프트
+
+```
+🐼🚀 아기 판다 🪐 로켓을 타고 우주를 날아가는 모습 🌠 별똥별 💎 오색찬란한 빛깔 😆 신이 난 표정 🎸 록 기타 ✨ 사실적인 8K 시네마틱 세로형 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122445806427119616/img/xvQyyZjkfLkJRI4A.jpg" width="600" alt="아기 판다 우주 로켓 라이딩">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13960)**
+
+**작성자:** [Cathy has this](https://x.com/lighthouse42f) | **출처:** [Link](https://x.com/lighthouse42f/status/2122445820595454193) | **게시일:** Nov 16, 2026
+
+---
+### 전문적인 제품 인물 사진 보정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 손 그립, 트레이딩 카드, 케이스, 포즈, 위치 등 특정 요소를 유지하면서 부드러운 방향성 조명으로 사진을 세련된 제품 인물 사진으로 개선하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 사진을 세련되고 전문가 수준의 제품 인물 사진으로 대폭 개선해 주세요. 단, 동일한 손, 동일한 그립, 동일한 트레이딩 카드, 동일한 플라스틱 케이스, 동일한 포즈, 그리고 동일한 배경은 그대로 유지해야 합니다. flattering 한 부드러운 방향성...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122331973108600832/img/y498O708CXJywy3Q.jpg" width="600" alt="전문적인 제품 인물 사진 보정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13962)**
+
+**작성자:** [lee trew](https://x.com/lstrew) | **출처:** [Link](https://x.com/lstrew/status/2122331990460698997) | **게시일:** Nov 16, 2026
+
+---
+### 콜라주 영상 생성 지침
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 콜라주의 하단 사진만 애니메이션으로 처리하고 상단 사진은 정적으로 유지하는 지침입니다.
+
+#### 📝 프롬프트
+
+```
+사진 두 장이 들어간 콜라주가 있는데, 아래쪽 사진만 영상으로 변환하고 싶어요. 위쪽 사진은 그대로 정지 이미지로 유지되어야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122288702588174336/img/iIe_bK_KN-WFMdSQ.jpg" width="600" alt="콜라주 영상 생성 지침">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13957)**
+
+**작성자:** [Johan](https://x.com/Johanfriesen) | **출처:** [Link](https://x.com/Johanfriesen/status/2122288719965077680) | **게시일:** Nov 16, 2026
+
+---
 ### Grok Imagine 용 Dragon Dew 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2361,169 +2499,6 @@ Optimus 를 유일한 중심 피사체로 유지하고, 영상 전체에 걸쳐 
 **작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **게시일:** Nov 3, 2026
 
 ---
-### Grok Imagine 영상 프롬프트: 공의 폭발과 Terafab으로의 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 영상 생성 프롬프트로, 여성이 공을 떨어뜨리면 폭발하며 Terafab이라는 대형 구조물로 변하는 장면을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-여성이 등장하는 연속적인 차원 전환 영상을 생성합니다. 여성은 손에 공을 들고 있으며, 의도적으로 바닥에 떨어뜨립니다. 공이 충돌하며 폭발하고, 그 폭발 속에서 완전한 Terafab 이 나타나며 온전한 형태로 완성됩니다.
-
-[이벤트 스크립트]
-시작: 여성이 탁 트인 빈 공간에 서서 팔을 앞으로 뻗고 손에 공을 단단히 쥔 채, 집중된 눈빛으로 공을 내려다봅니다.
-주요 이벤트: 여성이 손가락을 벌려 공을 수직으로 떨어뜨립니다. 공이 바닥에 강하게 부딪히자마자 강렬하고 밝은 빛, 에너지, 퍼져나가는 입자와 함께 즉각적으로 폭발합니다. 폭발의 중심에서 Terafab 이 빠르게 조립되며 — 구조가 결합되고 표면이 굳어지며 형태가 완성됩니다.
-끝: 원래의 공은 사라지고 폭발이 완전히 가라앉으며, 그 자리에 온전하게 완성된 Terafab 하나가 바닥에 단단히 자리 잡고 있습니다. 여성은 근처에 서서 완성된 결과를 지켜봅니다.
-
-[일관성 유지]
-영상 전반에 걸쳐 여성의 정체성, 외모, 의상, 인원수를 동일하게 유지합니다. 떨어져서 폭발로 파괴되는 공은 정확히 하나만 존재해야 합니다. 결과물로 생성된 단일 완전체 Terafab 만이 바닥에 있는 유일한 최종 객체가 되어야 합니다. 탁 트인 지면 공간과 '낙하 → 충돌 폭발 → Terafab 형성'이라는 명확한 인과 순서를 그대로 유지합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 공의 폭발과 Terafab으로의 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13522)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **게시일:** Nov 3, 2026
-
----
-### 종이에서 SpaceX 로켓으로 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 종이가 발사되는 SpaceX Falcon 9 로켓으로 변하는 연속 영상을 생성하기 위한 상세 프롬프트
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-평범한 종이가 완전한 SpaceX 로켓으로 진화하는 차원이 다른 변형 시퀀스를 하이엔드 연속 영상으로 생성합니다.
-
-[이벤트 스크립트]
-시작: 부드러운 스튜디오 조명 아래, 어두운 표면 위에 깨끗한 흰색 종이 한 장이 평평하고 움직임 없이 놓여 있습니다.  
-주요 이벤트: 종이가 갑자기 정교한 종이접기 같은 움직임으로 스스로 접히고 구겨지며, 순식간에 기하학적인 로켓 형태로 조립됩니다. 구조물이 팽창하고 단단해지면서, 검은색 인터스테이지(interstage), 그리드 핀(grid fins), 착륙 다리를 갖춘 매끄러운 흰색 SpaceX Falcon 9 로켓의 동체로 변화합니다. 종이 질감이 완전히 광택 나는 항공우주 복합 소재로 녹아드는 동시에, 정교한 금속 디테일과 SpaceX 로고가 동체 전체에 나타납니다. 추진제 탱크가 가압되고 엔진이 밝은 푸른 불꽃을 내뿜으며 점화되면서, 완성된 로켓이 수직으로 이륙합니다.  
-끝: 완전히 변형을 마친 SpaceX 로켓이 별이 가득한 검은 하늘 위로 가속하며 솟아오르고, 깔끔한 흰색 배기 흔적을 남깁니다.
-
-[일관성 유지]
-처음의 종이 한 장부터 최종 SpaceX 로켓까지, 변형 과정 전반에 걸쳐 정확히 하나의 연속된 객체를 유지하십시오. 추가 객체나 복제본이 나타나서는 안 됩니다. 깔끔한 흰색-검은색 SpaceX 컬러 스킴과 정확한 Falcon 9 실루엣을 보존하고, 단일 객체의 정체성을 깨뜨리지 않으면서 부드럽고 고충실도의 소재 변환을 유지하십시오.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="종이에서 SpaceX 로켓으로 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13471)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2117514672920207810) | **게시일:** Nov 3, 2026
-
----
-### Grok Imagine 영상 프롬프트: 손으로 카드를 섞는 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 영상 생성 프롬프트로, 나무 테이블 위에서 손이 카드 리플 셔플을 수행하는 클로즈업 장면을 핸드헬드 스마트폰 촬영 스타일로 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-나무 테이블 위에서 카드 한 벌을 섞고 있는 사람의 손 클로즈업, 스마트폰으로 촬영한 영상.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117472338543583233/img/LMCNHJ8vTEaOoyhk.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 손으로 카드를 섞는 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13477)**
-
-**작성자:** [能成大事](https://x.com/ncdsoffiecl) | **출처:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **게시일:** Nov 3, 2026
-
----
-### SF 아머 변신 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 상세한 다단계 영상 생성 프롬프트로, 여성이 전투 아머로 변신하고 토끼가 오토바이로 변하는 과정을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-여성의 차원이 다른 변신과 진화 과정을 담은 영상을 생성합니다. 먼저 발밑에 물병을 떨어뜨리면, 입고 있던 드레스가 화이트 메탈릭 전투용 아머 수트로 변하고, 마지막에는 토끼가 묵직한 Tesla 모터바이크로 변형되어 이를 타고 달려 나가는 장면입니다.
-
-[이벤트 스크립트]
-시작: 여성이 투명한 물병을 들고 평온하게 서 있습니다. 발치에는 토끼 한 마리가 얌전히 앉아 있습니다. 여성은 의도적으로 물병을 놓아 발밑에 떨어뜨리고, 물이 사방으로 쏟아집니다. 병이 바닥에 닿는 순간, 충격 지점에서 빛나는 에너지가 퍼져 나갑니다.
-주요 이벤트: 평범했던 드레스가 순식간에 매끄러운 화이트 메탈릭 전투용 아머 수트로 변합니다. 분절된 장갑판, 강화된 관절부, 광택이 흐르는 반사 표면, 그리고 일체형 전투 디테일이 몸을 감싸며 전투 태세를 갖춘 모습이 완성됩니다. 아머가 완전히 고정되자마자 토끼의 변형이 시작됩니다. 몸집이 커지고 단단해지며 형태가 재구성되어, 견고한 메탈릭 바디와 빛나는 전기 장식, 강력한 휠을 갖춘 블랙 앤 실버 컬러의 묵직한 Tesla 모터바이크로 탈바꿈합니다.
-마무리: 완전 무장한 여성이 묵직한 Tesla 모터바이크에 올라타 핸들을 움켜쥐고, 빠른 속도로 저 멀리 달려 나갑니다.
-
-[일관성 유지]
-영상 전체에 걸쳐 동일한 여성이 등장해야 합니다. 신원, 얼굴, 헤어스타일, 신체 비율은 변하지 않아야 합니다. 아머는 일단 형성되면 화이트 메탈릭 색상과 전투 준비 상태를 끝까지 유지합니다. 토끼는 동물로서의 특징을 전혀 남기지 않고 하나의 묵직한 Tesla 모터바이크로 완벽하게 변형되어야 합니다. 시퀀스는 다음 순서로 끊김 없이 이어져야 합니다. 물병 낙하 → 드레스에서 아머로의 진화 → 토끼에서 모터바이크로의 진화 → 출발.
-
-면책 조항: 
-본 영상은 오직 엔터테인먼트 목적으로 제작된 AI 생성 가상 SF 콘셉트입니다. 미래지향적인 변신, 로봇 아머, 특수 효과 등은 모두 상상 속의 산물이며 실제 기술이나 사건을 의미하지 않습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="SF 아머 변신 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13472)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2117435530942238748) | **게시일:** Nov 3, 2026
-
----
-### 장엄한 호랑이 산 점프
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 승리의 음악과 함께 반투명한 빛을 발하는 호랑이가 산의 중심에서 뛰어 나오는 장면을 담은 극적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빛을 뿜어내는 웅장하고 반투명한 호랑이가 산의 심장부에서 박차고 뛰어나오는 극적인 장면을 연출해 보세요. 승리의 음악도 함께 추가해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117358778433564672/img/qVmkzELTw22m0DBg.jpg" width="600" alt="장엄한 호랑이 산 점프">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13473)**
-
-**작성자:** [A](https://x.com/A0448492963657) | **출처:** [Link](https://x.com/A0448492963657/status/2117358796158746693) | **게시일:** Nov 2, 2026
-
----
-### 시호크가 그리즐리를 들어올리는 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 시호크 마스코트가 그리즐리 곰을 들어올려 퓨젯 사운드로 던지는 유머러스한 스포츠 테마의 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시호크스 팀 컬러 스웨터를 입은 Seahawk 가 발톱으로 Grizzly 를 들어 올려 Puget Sound 에 떨어뜨리는 모습 @Seahawks
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117304682750091264/img/xweMEEr1e4180c2z.jpg" width="600" alt="시호크가 그리즐리를 들어올리는 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13475)**
-
-**작성자:** [HistoryGuy](https://x.com/HistoryGuy510) | **출처:** [Link](https://x.com/HistoryGuy510/status/2117304700156657856) | **게시일:** Nov 2, 2026
-
----
-### 크롬 안드로이드 뉴럴 어웨이킹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 피부 패널이 걷혀진 크롬 안드로이드 여성의 얼굴에서 생체역학적 나노 기술과 회로가 드러나는 상세한 시네마틱 렌더 프롬프트.
-
-#### 📝 프롬프트
-
-```
-크롬 안드로이드 여성의 얼굴을 초근접 촬영한 시네마틱 렌더링. 눈을 감은 채 고요하고 평온한 표정이며, 밝은 화이트에서 아이시 블루로 이어지는 하이키 배경 위에 놓여 있습니다. 거울처럼 반사되는 크롬 질감의 얼굴 피부가 헤어라인을 따라 난 패널 이음새를 중심으로 크게 열리며 그 아래 촘촘한 바이오메카니컬 나노테크놀로지를 드러냅니다. 미세하게 움직이는 소형 피스톤과 커넥팅 로드 배열, 코일 스프링, 맞물려 돌아가는 마이크로 기어 트레인, 마이크로칩·커패시터·저항·솔더 트레이스가 탑재된 작은 실버 마더보드, 땋아 만든 광섬유 케이블, 그리고 뺨과 턱, 관자놀이를 가로지르며 빛나는 아이시 블루 및 시안 색상의 회로 라인이 정교하게 묘사되어 있습니다. 눈꺼풀에는 아주 작은 힌지 메커니즘이 선명하게 보이며, 감긴 눈 밑으로는 홍채가 희미하게 비칩니다. 미러 크롬, 순백의 하이라이트, 아이시 블루 LED 액센트, 극도로 미세하지만 또렷하게 식별할 수 있는 기계 및 전자 부품, 포토리얼리스틱 3D 렌더.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117246398756249601/img/5AzQdj3BTra1ST7F.jpg" width="600" alt="크롬 안드로이드 뉴럴 어웨이킹">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13474)**
-
-**작성자:** [AI Aimee](https://x.com/RockGrokAI) | **출처:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **게시일:** Nov 2, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2585,6 +2560,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-17T03:10:01.845Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-17T13:14:55.654Z</sub>
 
 </div>

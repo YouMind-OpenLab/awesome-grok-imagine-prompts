@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3420** |
+| 📝 Total Prompts | **3427** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-17** |
 
@@ -189,6 +189,144 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video Cosplay Elf Girl Miko
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt video phức tạp cho Grok Imagine, mô tả một cô gái elf trong trang phục miko theo phong cách kỳ ảo Trung Quốc, kèm theo chỉ dẫn cụ thể về thời gian và tư thế dựa trên ba hình ảnh tham chiếu.
+
+#### 📝 Prompt
+
+```
+Video điện ảnh dài 15 giây gồm 4 cảnh, có sự xuất hiện của một người phụ nữ tóc bạc tai tiên như trong @Image1, @Image2 và @Image3. Xuyên suốt các cảnh quay, cần giữ nguyên nhất quán gương mặt nhân vật, kiểu tóc bạc buộc nửa đầu, đôi tai tiên, bộ trang phục yếm cổ phong Trung Hoa hai gam trắng - đỏ thẫm cùng chiếc áo haori tay trắng dài trễ nải qua vai. Bối cảnh là khu vườn mùa thu ngập tràn lá phong vàng và lá rụng, lan can trắng cùng những ngọn đèn đường. Nhạc nền (BGM) là một bản nhạc nhẹ nhàng với tiếng guitar acoustic ấm áp hòa quyện cùng piano acoustic êm dịu.
+
+[0:00-0:04] Dựa trên @Image1, phần thân trên chuyển động uyển chuyển qua hai dáng pose. Nửa đầu: dang nhẹ hai tay để tà áo trắng bay phấp phới, đồng thời nghiêng đầu. Nửa sau: chuyển sang dáng pose quyến rũ với tay phải đặt gần ngực, tay trái khẽ nâng vạt váy.
+[0:04-0:08] Chuyển sang góc quay ngoái nhìn lại dựa trên @Image2. Nửa đầu: vừa chỉnh lại tay áo trắng vừa liếc nhìn qua vai. Nửa sau: xoay hẳn phần thân trên, đưa tay trái lên gần cằm và hơi nghiêng đầu.
+[0:08-0:12] Chuyển sang cỡ cảnh trung (medium shot) dựa trên @Image3. Nửa đầu: đứng vững chãi, hai tay đan nhẹ trước ngực. Nửa sau: hơi đổ người về phía trước, một tay tựa vào má và nở nụ cười đáng yêu.
+[0:12-0:15] Zoom mượt mà từ @Image3 vào cận cảnh gương mặt. Tạo dáng dứt khoát với các đầu ngón tay đặt gần môi, cuối cùng nháy mắt (mắt phải) đầy cuốn hút.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794900986878_8n6rp1_HXTLj-LaUAAhCxE.jpg" width="600" alt="Video Cosplay Elf Girl Miko">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13963)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2122547779700453578) | **Published:** Nov 17, 2026
+
+---
+### Làm cho hình ảnh tham chiếu nói chuyện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video để làm cho hình ảnh tham chiếu (@Image1) trở nên sống động và nói về mục đích của nó.
+
+#### 📝 Prompt
+
+```
+Hãy tưởng tượng @Image1 bỗng trở nên sống động, tự giới thiệu về bản thân, kể tên mình và cho biết hiện tại đang ở đâu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122483488360144896/img/iXm9s9KjsBtlULr1.jpg" width="600" alt="Làm cho hình ảnh tham chiếu nói chuyện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13961)**
+
+**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2122483520127791271) | **Published:** Nov 17, 2026
+
+---
+### Cấu trúc lệnh video bướm kính màu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cấu trúc lệnh để tạo video về một con bướm với đôi cánh kính màu phát sáng, đậu trên phiến đá trong vườn, nổi bật với các họa tiết ánh sáng rực rỡ và thẩm mỹ nghệ thuật kính truyền thống.
+
+#### 📝 Prompt
+
+```
+Một chú bướm xinh đẹp với đôi cánh rực rỡ như kính màu đang đậu trên phiến đá trong khu vườn ngập nắng, hắt ra những vệt sáng muôn màu. Nghệ thuật kính màu truyền thống với chất liệu kính mang sắc độ của đá quý cùng những đường viền chì uốn lượn tinh xảo. Nhìn từ một góc hơi khác m...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122476560259362816/img/GaSCT9gcVPjSvzgA.jpg" width="600" alt="Cấu trúc lệnh video bướm kính màu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13958)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122476581302174066) | **Published:** Nov 16, 2026
+
+---
+### Gấu Bắc Cực và Gấu Trúc Trượt Tuyết
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt điện ảnh về gấu con Bắc Cực và gấu trúc con trượt tuyết xuống đồi phủ đầy tuyết với giai điệu nhạc giao hưởng.
+
+#### 📝 Prompt
+
+```
+🐻‍❄️🐧 gấu bắc cực con và gấu trúc con 🛷 trượt tuyết xuống sườn đồi phủ đầy tuyết ❄️ tuyết lấp lánh ✨ 🥳 vui tươi 🎻 giao hưởng ✨ chân thực 8K điện ảnh dọc 9:16 Cảm ơn Jason
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122449676893081601/img/7PyZMKDcYeElFglU.jpg" width="600" alt="Gấu Bắc Cực và Gấu Trúc Trượt Tuyết">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13959)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122449690990092770) | **Published:** Nov 16, 2026
+
+---
+### Baby Panda: Hành trình du hành vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt điện ảnh về chú gấu trúc con cưỡi tên lửa xuyên qua không gian, với những ngôi sao băng và giai điệu guitar rock đầy chất.
+
+#### 📝 Prompt
+
+```
+🐼🚀 chú gấu trúc con 🪐 cưỡi tên lửa bay xuyên không gian 🌠 sao băng 💎 óng ánh sắc màu 😆 phấn khích 🎸 guitar rock ✨ chân thực 8K điện ảnh dọc 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122445806427119616/img/xvQyyZjkfLkJRI4A.jpg" width="600" alt="Baby Panda: Hành trình du hành vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13960)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122445820595454193) | **Published:** Nov 16, 2026
+
+---
+### Nâng Cấp Chân Dung Sản Phẩm Chuyên Nghiệp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để nâng cấp ảnh thành chân dung sản phẩm chuyên nghiệp, giữ nguyên các yếu tố như cách cầm tay, thẻ bài, hộp đựng, tư thế và bối cảnh, với ánh sáng định hướng mềm mại.
+
+#### 📝 Prompt
+
+```
+Nâng tầm bức ảnh này thành một bức chân dung sản phẩm chỉn chu, chất lượng chuyên nghiệp, đồng thời giữ nguyên bàn tay, cách cầm, thẻ bài, hộp nhựa, tư thế và bối cảnh. Đánh lại ánh sáng cho chủ thể bằng nguồn sáng trực tiếp mềm mại, tôn dáng...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122331973108600832/img/y498O708CXJywy3Q.jpg" width="600" alt="Nâng Cấp Chân Dung Sản Phẩm Chuyên Nghiệp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13962)**
+
+**Author:** [lee trew](https://x.com/lstrew) | **Source:** [Link](https://x.com/lstrew/status/2122331990460698997) | **Published:** Nov 16, 2026
+
+---
+### Hướng Dẫn Tạo Video Ghép Ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn tạo video động chỉ cho ảnh phía dưới của bản ghép, trong khi giữ nguyên ảnh phía trên tĩnh.
+
+#### 📝 Prompt
+
+```
+Tôi có một ảnh ghép gồm hai bức ảnh và chỉ muốn chuyển bức ảnh bên dưới thành video. Bức ảnh phía trên vẫn giữ nguyên là ảnh tĩnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122288702588174336/img/iIe_bK_KN-WFMdSQ.jpg" width="600" alt="Hướng Dẫn Tạo Video Ghép Ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13957)**
+
+**Author:** [Johan](https://x.com/Johanfriesen) | **Source:** [Link](https://x.com/Johanfriesen/status/2122288719965077680) | **Published:** Nov 16, 2026
+
+---
 ### Grok Imagine Prompt về Rồng và Sương Mai
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2350,169 +2488,6 @@ Video này là một ý tưởng khoa học viễn tưởng hư cấu do AI tạ
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
 
 ---
-### Grok Imagine Video Prompt: Quả bóng phát nổ thành Terafab
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine mô tả một người phụ nữ thả quả bóng, quả bóng phát nổ và biến đổi thành một cấu trúc lớn gọi là Terafab.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video biến đổi liên tục, chuyển cảnh mượt mà sang cấp độ tiếp theo của người phụ nữ. Cô cầm một quả cầu trên tay, cố tình thả nó xuống đất, quả cầu va chạm và phát nổ, rồi từ vụ nổ đó, một Terafab hoàn chỉnh hiện ra và định hình trọn vẹn.
-
-[Kịch bản sự kiện]
-Lúc bắt đầu: Người phụ nữ đứng giữa một khoảng không gian trống trải, cánh tay vươn thẳng về phía trước, bàn tay nắm chặt quả cầu, ánh mắt tập trung nhìn xuống nó đầy quyết tâm.
-Sự kiện chính: Cô xòe các ngón tay và thả quả cầu rơi thẳng xuống. Quả cầu đập mạnh xuống đất, lập tức phát nổ thành một luồng sáng chói lòa, bùng nổ năng lượng cùng các hạt lan tỏa. Từ tâm vụ nổ, một Terafab nhanh chóng tự lắp ráp — khung sườn dần ghép nối, các bề mặt đông đặc lại và hình khối hoàn thiện.
-Lúc kết thúc: Quả cầu ban đầu đã biến mất, luồng sáng nổ tan hẳn, thay vào đó là một Terafab nguyên vẹn, hoàn chỉnh nằm vững chãi trên mặt đất. Người phụ nữ đứng gần đó, ngắm nhìn thành quả vừa được tạo ra.
-
-[Duy trì tính nhất quán]
-Giữ nguyên danh tính, ngoại hình, trang phục và số lượng nhân vật người phụ nữ trong suốt video. Chỉ có duy nhất một quả cầu được thả xuống và phá hủy trong vụ nổ. Kết quả cuối cùng chỉ là một Terafab hoàn chỉnh duy nhất nằm trên mặt đất. Giữ nguyên bối cảnh không gian trống trải và trình tự nhân quả rõ ràng: thả rơi → va chạm phát nổ → hình thành Terafab.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine Video Prompt: Quả bóng phát nổ thành Terafab">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13522)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **Published:** Nov 3, 2026
-
----
-### Biến Đổi Từ Giấy Thành Tên Lửa SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video liên tục, trong đó một tờ giấy biến đổi thành tên lửa SpaceX Falcon 9 đang phóng.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video liền mạch chất lượng cao cấp, ghi lại chuỗi biến đổi đỉnh cao khi một tờ giấy bình thường tiến hóa thành một tên lửa SpaceX hoàn chỉnh.
-
-[Kịch bản sự kiện]
-Mở đầu: một tờ giấy trắng sạch sẽ nằm phẳng lặng và bất động trên bề mặt tối màu dưới ánh sáng trường quay dịu nhẹ.  
-Sự kiện chính: tờ giấy đột ngột tự gấp nếp với những chuyển động chuẩn xác như nghệ thuật origami, nhanh chóng định hình thành cấu trúc tên lửa mang tính hình học. Cấu trúc này phình to ra, cứng cáp dần và biến đổi thành thân tàu màu trắng bóng bẩy của tên lửa SpaceX Falcon 9, đi kèm tầng trung gian màu đen, cánh lưới (grid fins) và chân hạ cánh. Các chi tiết kim loại tinh xảo cùng logo SpaceX hiện lên dọc thân tàu trong lúc kết cấu giấy tan biến hoàn toàn, nhường chỗ cho vật liệu composite hàng không vũ trụ nhẵn bóng. Bồn chứa nhiên liệu tăng áp, động cơ bùng cháy với ngọn lửa xanh rực rỡ, và quả tên lửa hoàn thiện bắt đầu phóng thẳng đứng.  
-Kết thúc: tên lửa SpaceX sau khi biến đổi trọn vẹn lao vút lên bầu trời đêm đen điểm xuyết muôn vì sao, để lại phía sau một vệt khói xả trắng muốt.
-
-[Duy trì tính nhất quán]
-Giữ nguyên chính xác một vật thể duy nhất xuyên suốt quá trình biến đổi — từ tờ giấy ban đầu đến tên lửa SpaceX cuối cùng — tuyệt đối không xuất hiện thêm bất kỳ vật thể hay bản sao nào khác. Duy trì chuẩn xác bảng màu trắng - đen đặc trưng của SpaceX, đường nét silhouette đúng chuẩn của Falcon 9, cùng quá trình chuyển hóa chất liệu mượt mà, độ trung thực cao mà không làm đứt gãy tính đồng nhất của vật thể duy nhất đó.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="Biến Đổi Từ Giấy Thành Tên Lửa SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13471)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117514672920207810) | **Published:** Nov 3, 2026
-
----
-### Grok Imagine Video Prompt: Bàn tay xáo bài
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, hiển thị cận cảnh bàn tay thực hiện kỹ thuật xáo bài kiểu riffle trên mặt bàn gỗ, với phong cách quay bằng điện thoại cầm tay.
-
-#### 📝 Prompt
-
-```
-Cảnh quay cận bằng điện thoại: đôi tay của một người đang xào bộ bài trên mặt bàn gỗ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117472338543583233/img/LMCNHJ8vTEaOoyhk.jpg" width="600" alt="Grok Imagine Video Prompt: Bàn tay xáo bài">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13477)**
-
-**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **Published:** Nov 3, 2026
-
----
-### Video biến hình áo giáp khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video đa bước chi tiết cho Grok Imagine, mô tả một phụ nữ biến hình thành bộ áo giáp chiến đấu và một chú thỏ biến thành xe máy.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video biến hóa và tiến hóa đỉnh cao của người phụ nữ. Đầu tiên, cô thả một chai nước xuống chân, sau đó chiếc váy trên người biến đổi thành bộ giáp chiến đấu kim loại màu trắng. Cuối cùng, chú thỏ hóa thân thành chiếc mô tô Tesla hạng nặng để cô phóng đi.
-
-[Kịch bản sự kiện]
-Mở đầu: Người phụ nữ đứng bình tĩnh, tay cầm một chai nước trong suốt. Một chú thỏ đang nằm nghỉ gần chân cô. Cô chủ ý thả chai nước rơi xuống chân, nước tràn ra xung quanh. Ngay khoảnh khắc chai nước chạm đất, một luồng năng lượng phát sáng lan tỏa từ điểm va chạm.
-Sự kiện chính: Chiếc váy thường ngày nhanh chóng biến đổi thành bộ giáp chiến đấu kim loại màu trắng bóng bẩy — những mảng giáp phân lớp, khớp nối gia cố, bề mặt đánh bóng phản chiếu ánh sáng và các chi tiết chiến đấu tích hợp dần hình thành bao bọc lấy cơ thể cô trong tư thế sẵn sàng. Ngay khi bộ giáp khóa chặt hoàn toàn, chú thỏ bắt đầu quá trình biến hóa: cơ thể nó phình to, cứng lại và tái cấu trúc thành một chiếc mô tô Tesla đen bạc hạng nặng với phần vỏ kim loại nguyên khối, các đường viền điện tử phát sáng cùng bộ bánh xe đầy uy lực.
-Kết thúc: Người phụ nữ trong bộ giáp hoàn chỉnh bước lên chiếc mô tô Tesla hạng nặng, nắm chặt tay lái và lao vút về phía xa.
-
-[Duy trì tính nhất quán]
-Giữ nguyên nhân vật người phụ nữ xuyên suốt video: danh tính, khuôn mặt, mái tóc và tỷ lệ cơ thể không thay đổi. Bộ giáp giữ nguyên chất liệu kim loại màu trắng và luôn trong trạng thái sẵn sàng chiến đấu sau khi hình thành. Chú thỏ biến đổi hoàn toàn thành một chiếc mô tô Tesla hạng nặng, không còn sót lại bất kỳ đặc điểm nào của động vật. Chuỗi hành động diễn ra liên tục: thả chai nước → váy biến thành giáp → thỏ biến thành mô tô → cô phóng xe rời đi.
-
-Tuyên bố miễn trừ trách nhiệm: 
-Video này là một ý tưởng khoa học viễn tưởng hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí. Các màn biến hóa tương lai, bộ giáp robot và hiệu ứng đặc biệt đều là sản phẩm của trí tưởng tượng, không đại diện cho công nghệ hay sự kiện có thật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Video biến hình áo giáp khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13472)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117435530942238748) | **Published:** Nov 3, 2026
-
----
-### Cú Nhảy Hùng Vĩ Từ Núi Hổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video kịch tính với hình ảnh con hổ phát sáng, bán trong suốt nhảy ra từ trung tâm ngọn núi, kết hợp cùng bản nhạc chiến thắng.
-
-#### 📝 Prompt
-
-```
-Tạo một phân cảnh hoành tráng, nơi một chú hổ oai phong bán trong suốt tỏa ánh sáng rực rỡ lao ra từ lòng núi. Thêm nhạc nền chiến thắng hào hùng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117358778433564672/img/qVmkzELTw22m0DBg.jpg" width="600" alt="Cú Nhảy Hùng Vĩ Từ Núi Hổ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13473)**
-
-**Author:** [A](https://x.com/A0448492963657) | **Source:** [Link](https://x.com/A0448492963657/status/2117358796158746693) | **Published:** Nov 2, 2026
-
----
-### Prompt Seahawk Nâng Grizzly
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt hài hước với chủ đề thể thao, mô tả linh vật đội Seahawks nâng một con gấu Grizzly và thả xuống Puget Sound.
-
-#### 📝 Prompt
-
-```
-Một chú chim ưng Seahawk mặc áo len màu đặc trưng của đội đang dùng móng vuốt nhấc bổng một con gấu Grizzly rồi thả xuống vịnh Puget Sound @Seahawks
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117304682750091264/img/xweMEEr1e4180c2z.jpg" width="600" alt="Prompt Seahawk Nâng Grizzly">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13475)**
-
-**Author:** [HistoryGuy](https://x.com/HistoryGuy510) | **Source:** [Link](https://x.com/HistoryGuy510/status/2117304700156657856) | **Published:** Nov 2, 2026
-
----
-### Nữ người máy Chrome Android thức tỉnh thần kinh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết phong cách điện ảnh về khuôn mặt của một nữ android bằng chrome, lộ ra công nghệ nano cơ sinh học và mạch điện tử bên dưới các tấm da được thu gọn.
-
-#### 📝 Prompt
-
-```
-Bản render điện ảnh cận cảnh cực đại khuôn mặt một nữ android bằng chrome, mắt nhắm nghiền, thần thái thanh thản, trên nền high-key chuyển sắc từ trắng sáng sang xanh băng giá. Những mảng lớn lớp da mặt chrome gương đã trượt mở dọc theo các đường nối tấm ốp nơi chân tóc, để lộ hệ thống công nghệ nano cơ sinh học dày đặc bên dưới: từng hàng pít-tông và thanh truyền siêu nhỏ đang co duỗi nhịp nhàng, những cuộn lò xo, các bộ bánh răng vi mô ăn khớp vào nhau, bo mạch chủ màu bạc tí hon gắn đầy vi mạch, tụ điện, điện trở cùng những đường hàn, dây cáp quang bện xoắn và các đường mạch phát sáng xanh băng giá lẫn xanh lục bảo chạy dọc gò má, hàm và thái dương. Mí mắt hiện rõ cơ cấu bản lề siêu nhỏ; tròng mắt khép hờ vẫn thấp thoáng lộ ra phía dưới. Chất liệu chrome gương, điểm nhấn ánh sáng trắng tinh khôi, chi tiết LED xanh băng giá, hệ thống cơ khí và điện tử nhỏ xíu tỉ mỉ nhưng vẫn nhận diện rõ ràng, bản render 3D chân thực như ảnh chụp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117246398756249601/img/5AzQdj3BTra1ST7F.jpg" width="600" alt="Nữ người máy Chrome Android thức tỉnh thần kinh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13474)**
-
-**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2574,6 +2549,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T03:10:03.496Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T13:14:58.024Z</sub>
 
 </div>

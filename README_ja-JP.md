@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3420** |
+| 📝 プロンプト総数 | **3427** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-17** |
 
@@ -189,6 +189,144 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### エルフ少女 コスプレ 巫女 ビデオ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 3枚の参考画像に基づくタイミングとポーズ指示を含む、中国風ファンタジー巫女衣装のエルフ少女をフィーチャーしたGrok Imagine向け複雑な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+@Image1、@Image2、@Image3 に登場する銀髪のエルフ耳の女性をフィーチャーした、15 秒・4 シーン構成のシネマティック動画。全シーンを通して、キャラクターの顔立ち、銀髪のハーフアップヘア、エルフ耳、白と深紅の中華ファンタジー風ホルターネック衣装、そして肩から落ちるような白い長袖の羽織（はおり）の一貫性を保つこと。背景は、黄金色に染まった紅葉と落ち葉が広がる秋の庭園、白い手すり、街灯。BGM は、温かみのあるアコースティックギターと落ち着いたアコースティックピアノによる、柔らかな楽曲。
+
+[0:00-0:04] @Image1 をベースに、上半身を優雅に動かして 2 つのポーズをとる。前半：両腕を軽く広げ、白い袖を揺らしながら首を傾げる。後半：右手を胸元に添え、左手でスカートを軽くつまむ、艶やかなポーズへと切り替える。
+[0:04-0:08] @Image2 をベースにした振り返りアングルへ切り替える。前半：肩越しに視線を送りながら、白い袖を整える。後半：上半身を大きくひねり、左手を顎の近くに添えて、首をわずかに傾げる。
+[0:08-0:12] @Image3 をベースにしたミディアムショットへ切り替える。前半：両手を胸の前で軽く組んで、しっかりと立つ。後半：上半身を少し前に倒し、片手を頬に当てて愛らしく微笑む。
+[0:12-0:15] @Image3 から顔のクローズアップへとスムーズにズームインする。指先を口の近くに添えた決めポーズをとり、最後に片目（右目）で魅力的なウインクをする。
+```
+
+<img src="https://cms-assets.youmind.com/media/1794900986878_8n6rp1_HXTLj-LaUAAhCxE.jpg" width="600" alt="エルフ少女 コスプレ 巫女 ビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13963)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **ソース:** [Link](https://x.com/HaluAIArt/status/2122547779700453578) | **公開日:** Nov 17, 2026
+
+---
+### 参照画像の口パクアニメーション生成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 参照画像（@Image1）を生き生きと動かして、その目的について話させるための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+@Image1 が命を持ち、自らの目的や名前、そして今どこにいるのかについて語っている様子を想像してみてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122483488360144896/img/iXm9s9KjsBtlULr1.jpg" width="600" alt="参照画像の口パクアニメーション生成">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13961)**
+
+**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **ソース:** [Link](https://x.com/SuperGeekCRC/status/2122483520127791271) | **公開日:** Nov 17, 2026
+
+---
+### ステンドグラスの蝶動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 庭の石にとまる、ステンドグラスのような輝く翼を持つ蝶の動画を生成するためのプロンプト。カラフルな光のパターンと伝統的なガラスアートの美学を特徴としています。
+
+#### 📝 プロンプト
+
+```
+陽光が降り注ぐ庭石にとまり、色鮮やかな光の模様を映し出す、ステンドグラスのように輝く羽を持つ美しい蝶。宝石のような深い色彩のガラスと、繊細な鉛枠で縁取られた伝統的なステンドグラスアート。少し角度を変えた視点から w...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122476560259362816/img/GaSCT9gcVPjSvzgA.jpg" width="600" alt="ステンドグラスの蝶動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13958)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **ソース:** [Link](https://x.com/lighthouse42f/status/2122476581302174066) | **公開日:** Nov 16, 2026
+
+---
+### ホッキョクグマとパンダのソリ遊び
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> シンフォニックな音楽を背景に、ホッキョクグマの子供と赤ちゃんパンダが雪の丘をソリで滑り降りる映画のようなプロンプト。
+
+#### 📝 プロンプト
+
+```
+🐻‍❄️🐧 ホッキョクグマの赤ちゃんとパンダの赤ちゃん 🛷 雪の丘をソリで滑り降りる ❄️ キラキラ輝く雪 🥳 楽しげな雰囲気 🎻 シンフォニック ✨ リアルな 8K シネマティック 縦型 9:16 Jason さん、ありがとうございます
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122449676893081601/img/7PyZMKDcYeElFglU.jpg" width="600" alt="ホッキョクグマとパンダのソリ遊び">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13959)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **ソース:** [Link](https://x.com/lighthouse42f/status/2122449690990092770) | **公開日:** Nov 16, 2026
+
+---
+### ベビーパンダの宇宙ロケットライド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 流れ星とロックギターが響く、宇宙を飛ぶロケットに乗るベビーパンダを描いたシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+🐼🚀 赤ちゃんパンダ 🪐 ロケットに乗って宇宙空間を駆け抜ける 🌠 流れ星 💎 玉虫色の輝き 😆 ワクワクした表情 🎸 ロックギター ✨ リアルな 8K シネマティック 縦型 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122445806427119616/img/xvQyyZjkfLkJRI4A.jpg" width="600" alt="ベビーパンダの宇宙ロケットライド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13960)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **ソース:** [Link](https://x.com/lighthouse42f/status/2122445820595454193) | **公開日:** Nov 16, 2026
+
+---
+### プロフェッショナルな商品ポートレート画質向上
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ハンドグリップ、トレーディングカード、ケース、ポーズ、ロケーションなどの特定要素を維持しながら、ソフトな方向性照明を用いて写真を洗練された商品ポートレートに改善するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この写真を、洗練されたプロ品質の製品ポートレートへと劇的にアップグレードしてください。その際、手、持ち方、トレーディングカード、プラスチックケース、ポーズ、場所はすべて元のまま維持します。被写体を、好印象を与える柔らかな直接光でライティングし直し...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122331973108600832/img/y498O708CXJywy3Q.jpg" width="600" alt="プロフェッショナルな商品ポートレート画質向上">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13962)**
+
+**作者:** [lee trew](https://x.com/lstrew) | **ソース:** [Link](https://x.com/lstrew/status/2122331990460698997) | **公開日:** Nov 16, 2026
+
+---
+### コラージュ動画生成の指示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> コラージュ画像の下段の写真のみをアニメーション化し、上段の写真は静止したままにするための指示です。
+
+#### 📝 プロンプト
+
+```
+2 枚の写真を使ったコラージュがあるのですが、下の写真だけを動画にしたいです。上の写真は静止画のままにしておきたいです。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122288702588174336/img/iIe_bK_KN-WFMdSQ.jpg" width="600" alt="コラージュ動画生成の指示">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13957)**
+
+**作者:** [Johan](https://x.com/Johanfriesen) | **ソース:** [Link](https://x.com/Johanfriesen/status/2122288719965077680) | **公開日:** Nov 16, 2026
+
+---
 ### Grok Imagine Dragon Dew プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2373,169 +2511,6 @@ Elon Musk の人物像、顔立ち、髪型、体の比率は全体を通して�
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **公開日:** Nov 3, 2026
 
 ---
-### Grok Imagine Video プロンプト: 爆発するボールが Terafab に変貌
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性がボールを落とすと、それが爆発し巨大な構造物「Terafab」へと変貌する様子を描写した Grok Imagine の動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-女性が連続的に次のレベルへと変容していく動画を生成します。彼女は手にボールを持ち、意図的に地面へ落とします。ボールが着地して爆発し、その爆発の中から完全な Terafab が具現化し、最終的な形を成します。
-
-[イベントスクリプト]
-開始時：女性は開けた何もない空間に立ち、腕を前方に伸ばしてボールをしっかり握り、集中した眼差しで手元を見つめています。
-主要イベント：彼女が指を開き、ボールを真下へ落とします。ボールは地面に激しく衝突し、直後に鋭く明るい光とエネルギー、そして拡散する粒子による爆発を起こします。爆発の中心から Terafab が急速に構築されていきます——構造が組み上がり、表面が凝固し、形が完成していきます。
-終了時：元のボールは消え去り、爆発も完全に収束して、代わりに完全な姿をした Terafab がしっかりと地面に鎮座しています。女性はすぐそばに立ち、完成した結果を見つめています。
-
-[一貫性の維持]
-女性の人物像、外見、服装、人数は全体を通して変更しないでください。落とされ、爆発によって破壊されるボールは 1 つだけにしてください。結果として生じる完全な Terafab は 1 つのみとし、地面にある唯一の最終オブジェクトとしてください。開けた地面の空間と、「落下 → 衝突・爆発 → Terafab の形成」という明確な因果関係の流れを保持してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine Video プロンプト: 爆発するボールが Terafab に変貌">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13522)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **公開日:** Nov 3, 2026
-
----
-### 紙から SpaceX ロケットへの変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 紙が SpaceX の Falcon 9 ロケットに変身して打ち上げられるまでの連続動画を生成するための詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-1 枚の平凡な紙が完全な SpaceX ロケットへと進化する、次世代レベルの変形シーケンスを捉えたハイエンドな連続動画を生成してください。
-
-[イベントスクリプト]
-開始時：柔らかいスタジオ照明の下、暗い背景の上に、1 枚の清潔な白い紙が平らで静止した状態で置かれています。
-主要イベント：紙が突然、正確な折り紙のような動きで自ら折り畳まれ、瞬く間に幾何学的なロケットの形状へと組み上がっていきます。その構造は膨張して硬化し、黒いインターステージ、グリッドフィン、着陸脚を備えた SpaceX Falcon 9 ロケットの流線型の白い機体へと変化します。紙の質感が完全に磨き上げられた航空宇宙用複合材へと溶け込むにつれ、精緻な金属ディテールと SpaceX のロゴが機体全体に浮かび上がります。推進剤タンクが加圧され、エンジンが鮮やかな青い炎とともに点火し、完成したロケットが垂直に離陸します。
-終了時：完全に変形を遂げた SpaceX ロケットが、星が瞬く漆黒の空へ向かって加速しながら上昇し、美しい白い排気煙の軌跡を残していきます。
-
-[一貫性の維持]
-最初の紙から最終的な SpaceX ロケットに至るまで、変形全体を通じて常に 1 つの連続したオブジェクトのみを維持し、追加のオブジェクトや複製が現れないようにしてください。白から黒へのクリーンな SpaceX の配色、正確な Falcon 9 のシルエット、そして単一オブジェクトとしての同一性を損なうことのない、滑らかで高忠実度なマテリアルの変化を保ちます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="紙から SpaceX ロケットへの変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13471)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2117514672920207810) | **公開日:** Nov 3, 2026
-
----
-### Grok Imagine 動画プロンプト：カードをシャッフルする手
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の動画生成プロンプト。木製テーブルの上でトランプのリフルシャッフルを行う手元のクローズアップを、スマホで撮影したようなハンドヘルド風の質感で表現。
-
-#### 📝 プロンプト
-
-```
-木製のテーブルの上でトランプのデッキをシャッフルする手のクローズアップ。スマートフォンで撮影された動画。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117472338543583233/img/LMCNHJ8vTEaOoyhk.jpg" width="600" alt="Grok Imagine 動画プロンプト：カードをシャッフルする手">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13477)**
-
-**作者:** [能成大事](https://x.com/ncdsoffiecl) | **ソース:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **公開日:** Nov 3, 2026
-
----
-### SF アーマー変身動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine で女性が戦闘アーマーに変身し、ウサギがバイクに変化する様子を描写した、詳細な多段階ビデオ生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-女性の次世代レベルの変身・進化ビデオを生成してください。まず、彼女は足元にウォーターボトルを落とし、次にドレスが白のメタリックなコンバットアーマースーツへと変化します。そして最後に、ウサギが重厚な Tesla のモーターバイクへと変形し、彼女がそれに跨って走り去るシーンで締めくくります。
-
-[イベントスクリプト]
-開始時：女性が透明なウォーターボトルを持って静かに立っています。足元には 1 匹のウサギが寄り添っています。彼女は意図的にウォーターボトルを手放し、足元に落ちて水が周囲に飛び散ります。ボトルが地面に衝突した瞬間、その衝撃点から発光するエネルギーが広がっていきます。
-主要イベント：彼女の何気ないドレスが、流線型の白メタリックなコンバットアーマースーツへと急速に変化していきます。分割された装甲プレート、強化された関節部、磨き上げられた反射面、そして一体化された戦闘用ディテールが全身を覆い、彼女は臨戦態勢を整えます。アーマーが完全に固定されるとすぐに、ウサギが変形を開始します。その体は膨張し、硬化しながら再構築され、重厚な黒と銀の Tesla モーターバイクへと姿を変えます。頑丈なメタルボディ、発光する電飾アクセント、力強いホイールを備えた姿となります。
-終了時：完全武装した女性が重厚な Tesla モーターバイクに跨り、ハンドルを握って一気に遠くへ走り去ります。
-
-[一貫性の維持]
-登場する女性は終始同一人物としてください。顔立ち、髪型、体型のプロポーションは一切変わりません。アーマーは一度形成されたら、白メタリックで実戦的な状態を保ちます。ウサギは動物の特徴を一切残さず、完全に 1 台の重厚な Tesla モーターバイクへと変形します。シーンの流れは途切れなく連続させてください：ボトル落下 → ドレスからアーマーへの変化 → ウサギからモーターバイクへの変形 → 走り去る女性。
-
-免責事項：
-本ビデオはエンターテインメント目的のみで作成された、 AI 生成によるフィクションの SF コンセプトです。未来的な変身、ロボットアーマー、特殊効果はすべて架空のものであり、実在の技術や出来事を表すものではありません。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="SF アーマー変身動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13472)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2117435530942238748) | **公開日:** Nov 3, 2026
-
----
-### 威厳ある虎の山岳ジャンプ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 山脈の中心から半透明で光を放つ虎が飛び出す、勝利感あふれる音楽を伴うドラマチックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-光を放つ荘厳な半透明の虎が、山々の中心から飛び出すドラマチックなシーンを作成します。勝利を告げる音楽を追加してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117358778433564672/img/qVmkzELTw22m0DBg.jpg" width="600" alt="威厳ある虎の山岳ジャンプ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13473)**
-
-**作者:** [A](https://x.com/A0448492963657) | **ソース:** [Link](https://x.com/A0448492963657/status/2117358796158746693) | **公開日:** Nov 2, 2026
-
----
-### シーホークがグリズリーを持ち上げるプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> シーホークのマスコットキャラクターがグリズリーを持ち上げ、ピュージェット湾に投げ落とすというユーモアあふれるスポーツテーマのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Seahawk カラーのセーターを着た Seahawk が、その爪で Grizzly を持ち上げて Puget Sound に落とす @Seahawks
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117304682750091264/img/xweMEEr1e4180c2z.jpg" width="600" alt="シーホークがグリズリーを持ち上げるプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13475)**
-
-**作者:** [HistoryGuy](https://x.com/HistoryGuy510) | **ソース:** [Link](https://x.com/HistoryGuy510/status/2117304700156657856) | **公開日:** Nov 2, 2026
-
----
-### Chrome Android 神経覚醒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> クローム製アンドロイド女性の顔を詳細に描いたシネマティックレンダリングプロンプト。剥がれた皮膚パネルの下から、バイオメカニカルなナノテクノロジーと回路が露わになる様子を表現しています。
-
-#### 📝 プロンプト
-
-```
-クロム製のアンドロイド女性の顔を極端なクローズアップで描いたシネマティックレンダリング。目を閉じ、穏やかな表情を浮かべ、明るいホワイトからアイスブルーへと移り変わるハイキーな背景に佇む。ミラークローム仕上げの顔の皮膚は、生え際に沿ったパネルの継ぎ目から大きく開き、その下には緻密なバイオメカニカルナノテクノロジーが露わになっている。伸縮するミニチュアのピストンとコンロッドの列、コイルスプリング、噛み合うマイクロギアトレイン、マイクロチップ・コンデンサ・抵抗器・はんだパターンを実装した小さなシルバーのマザーボード、編み込まれた光ファイバーケーブル、そして頬や顎、こめかみを走るアイスブルーとシアンの発光回路ライン。まぶたには微小なヒンジ機構が見え、閉じた目の奥には虹彩がかすかに透けて見える。ミラークローム、純白のハイライト、アイスブルーの LED アクセント、精巧かつ微小ながらはっきりと認識できる機械・電子部品、フォトリアルな 3D レンダー。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117246398756249601/img/5AzQdj3BTra1ST7F.jpg" width="600" alt="Chrome Android 神経覚醒">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13474)**
-
-**作者:** [AI Aimee](https://x.com/RockGrokAI) | **ソース:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **公開日:** Nov 2, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2597,6 +2572,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-17T03:10:01.110Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-17T13:14:54.560Z</sub>
 
 </div>

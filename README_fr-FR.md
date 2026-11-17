@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3420** |
+| 📝 Total Prompts | **3427** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-17** |
 
@@ -189,6 +189,144 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vidéo cosplay de fille elfe Miko
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo complexe pour Grok Imagine mettant en scène une fille elfe dans une tenue de miko inspirée de la fantasy chinoise, avec des instructions précises de timing et de pose basées sur trois images de référence.
+
+#### 📝 Prompt
+
+```
+Vidéo cinématographique de 15 secondes en 4 plans mettant en scène une femme aux cheveux argentés et aux oreilles d'elfe, telle qu'elle apparaît dans @Image1, @Image2 et @Image3. Tout au long des scènes, veiller à conserver fidèlement le visage du personnage, sa coiffure argentée semi-attachée, ses oreilles d'elfe, sa tenue dos nu blanc et cramoisi de style fantasy chinoise, ainsi que son haori à longues manches blanches retombant négligemment sur les épaules. L'arrière-plan est un jardin automnal parsemé de feuilles d'érable dorées et de feuilles mortes, avec des balustrades blanches et des lampadaires. La BGM est un morceau doux mêlant guitare acoustique chaleureuse et piano acoustique apaisant.
+
+[0:00-0:04] À partir de @Image1, faire bouger le haut du corps avec élégance pour adopter deux poses. Première moitié : écarter légèrement les deux bras en faisant flotter les manches blanches et pencher la tête sur le côté. Seconde moitié : passer à une pose séduisante, la main droite posée près de la poitrine et la main gauche retenant délicatement la jupe.
+[0:04-0:08] Basculer sur un plan de dos avec regard par-dessus l'épaule, basé sur @Image2. Première moitié : ajuster la manche blanche tout en tournant le regard vers l'arrière. Seconde moitié : pivoter franchement le haut du corps, placer la main gauche près du menton et incliner légèrement la tête.
+[0:08-0:12] Passer à un plan moyen basé sur @Image3. Première moitié : se tenir bien droite, les deux mains légèrement croisées devant la poitrine. Seconde moitié : pencher doucement le buste vers l'avant, poser une main sur la joue et offrir un sourire craquant.
+[0:12-0:15] Zoomer fluidement depuis @Image3 jusqu'à un gros plan sur le visage. Prendre une pose décisive avec le bout des doigts près de la bouche, puis terminer par un clin d'œil charmeur de l'œil droit.
+```
+
+<img src="https://cms-assets.youmind.com/media/1794900986878_8n6rp1_HXTLj-LaUAAhCxE.jpg" width="600" alt="Vidéo cosplay de fille elfe Miko">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13963)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2122547779700453578) | **Published:** Nov 17, 2026
+
+---
+### Animer une image de référence parlante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour animer une image de référence (@Image1), lui donnant vie et la faisant parler de son objectif.
+
+#### 📝 Prompt
+
+```
+Imaginez @Image1 prenant vie et parlant de sa mission, de son nom et de l'endroit où il se trouve en ce moment même.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122483488360144896/img/iXm9s9KjsBtlULr1.jpg" width="600" alt="Animer une image de référence parlante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13961)**
+
+**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2122483520127791271) | **Published:** Nov 17, 2026
+
+---
+### Prompt Vidéo Papillon Vitrail
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une vidéo d'un papillon aux ailes de vitrail lumineux posé sur une pierre de jardin, mettant en valeur des motifs colorés et l'esthétique traditionnelle du verre.
+
+#### 📝 Prompt
+
+```
+Un magnifique papillon aux ailes lumineuses en vitrail posé sur une pierre de jardin baignée de soleil, projetant des motifs de lumière colorés. Art traditionnel du vitrail avec du verre aux tons de pierres précieuses et des contours en plomb finement travaillés. Vu sous un angle légèrement différent w...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122476560259362816/img/GaSCT9gcVPjSvzgA.jpg" width="600" alt="Prompt Vidéo Papillon Vitrail">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13958)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122476581302174066) | **Published:** Nov 16, 2026
+
+---
+### Luge polaire : ourson blanc et bébé panda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique mettant en scène un ourson blanc et un bébé panda dévalant une colline enneigée, avec une ambiance de musique symphonique.
+
+#### 📝 Prompt
+
+```
+🐻‍❄️🐧 ourson polaire et bébé panda 🛷 dévalant une colline enneigée en luge ❄️ neige scintillante 🥳 joyeux 🎻 symphonique ✨ réaliste 8K cinématographique vertical 9:16 Merci Jason
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122449676893081601/img/7PyZMKDcYeElFglU.jpg" width="600" alt="Luge polaire : ourson blanc et bébé panda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13959)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122449690990092770) | **Published:** Nov 16, 2026
+
+---
+### Balade en fusée spatiale pour Bébé Panda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique d'un bébé panda pilotant une fusée à travers l'espace, avec des étoiles filantes et une ambiance de guitare rock.
+
+#### 📝 Prompt
+
+```
+🐼🚀 bébé panda 🪐 chevauchant une fusée à travers l'espace 🌠 étoiles filantes 💎 irisé 😆 enthousiaste 🎸 guitare rock ✨ réaliste 8K cinématographique vertical 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122445806427119616/img/xvQyyZjkfLkJRI4A.jpg" width="600" alt="Balade en fusée spatiale pour Bébé Panda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13960)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122445820595454193) | **Published:** Nov 16, 2026
+
+---
+### Amélioration Professionnelle de Portrait Produit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour améliorer une photo en un portrait produit professionnel tout en conservant des éléments spécifiques tels que la prise en main, la carte à collectionner, l'étui, la pose et l'emplacement, avec un éclairage directionnel doux.
+
+#### 📝 Prompt
+
+```
+Améliorez radicalement cette photo pour en faire un portrait de produit soigné et de qualité professionnelle, tout en conservant exactement la même main, la même prise en main, la même carte à collectionner, le même étui en plastique, la même pose et le même lieu. Rééclairer le sujet avec une lumière directe douce et flatteuse...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122331973108600832/img/y498O708CXJywy3Q.jpg" width="600" alt="Amélioration Professionnelle de Portrait Produit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13962)**
+
+**Author:** [lee trew](https://x.com/lstrew) | **Source:** [Link](https://x.com/lstrew/status/2122331990460698997) | **Published:** Nov 16, 2026
+
+---
+### Instructions de génération vidéo en collage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Instruction pour animer uniquement la photo inférieure d'un collage tout en gardant la photo supérieure statique.
+
+#### 📝 Prompt
+
+```
+J'ai un collage composé de deux photos et je souhaite que seule celle du bas soit transformée en vidéo. La photo du haut doit rester une image fixe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122288702588174336/img/iIe_bK_KN-WFMdSQ.jpg" width="600" alt="Instructions de génération vidéo en collage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13957)**
+
+**Author:** [Johan](https://x.com/Johanfriesen) | **Source:** [Link](https://x.com/Johanfriesen/status/2122288719965077680) | **Published:** Nov 16, 2026
+
+---
 ### Prompt Grok Imagine : Dragon et Rosée
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2347,169 +2485,6 @@ Cette vidéo est un concept fictif de science-fiction généré par l'IA, créé
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
 
 ---
-### Prompt vidéo Grok Imagine : Explosion d'une balle en Terafab
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine illustrant une femme qui laisse tomber une balle, laquelle explose et se transforme en une grande structure appelée Terafab.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo de transformation continue et évolutive mettant en scène la femme. Elle tient une balle dans sa main, la laisse délibérément tomber au sol ; la balle percute la surface et explose, et de cette explosion se matérialise et prend entièrement forme un Terafab complet.
-
-[Scénario des événements]
-Au début : La femme se tient debout dans un espace ouvert et dégagé, le bras tendu vers l'avant, serrant fermement la balle dans sa main, le regard baissé sur celle-ci avec une intensité concentrée.
-Événement principal : Elle desserre les doigts et laisse tomber la balle à la verticale. Celle-ci heurte violemment le sol et détone immédiatement dans une explosion vive et fulgurante de lumière, d'énergie et de particules en expansion. Du centre du souffle, un Terafab s'édifie rapidement — la structure s'assemble, les surfaces se solidifient et la forme s'achève.
-À la fin : La balle initiale a disparu, l'explosion s'estompe complètement, et un Terafab intact et parfaitement formé repose solidement au sol à sa place. La femme se tient à proximité, observant le résultat final.
-
-[Maintenir la cohérence]
-Conserver inchangés l'identité, l'apparence, les vêtements et le nombre de femmes tout au long de la vidéo. Maintenir exactement une seule balle, qui est lâchée puis détruite par l'explosion. Conserver le Terafab unique et complet ainsi généré comme seul objet final présent au sol. Préserver l'espace au sol dégagé ainsi que la séquence claire de cause à effet : chute → explosion à l'impact → formation du Terafab.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Prompt vidéo Grok Imagine : Explosion d'une balle en Terafab">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13522)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **Published:** Nov 3, 2026
-
----
-### Transformation d'une feuille de papier en fusée SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo continue où une feuille de papier se transforme en fusée SpaceX Falcon 9 prête à décoller.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo continue haut de gamme d'une séquence de transformation spectaculaire, où une simple feuille de papier évolue pour devenir une fusée SpaceX complète.
-
-[Scénario de l'événement]
-Au début : une unique feuille de papier blanc immaculé repose à plat, parfaitement immobile sur une surface sombre, sous un éclairage de studio tamisé.
-Événement principal : le papier se plie et se froisse soudainement avec la précision d'un origami, s'assemblant rapidement pour former une structure géométrique de fusée. Cette dernière prend du volume, se durcit et se métamorphose en la silhouette épurée et blanche d'une fusée Falcon 9 de SpaceX, dotée de son étage intermédiaire noir, de ses ailettes quadrillées et de ses pieds d'atterrissage. De fins détails métalliques ainsi que le logo SpaceX apparaissent sur le fuselage tandis que la texture du papier disparaît entièrement au profit d'un composite aérospatial poli. Les réservoirs de propergol se pressurisent, les moteurs s'allument dans une flamme bleu vif, et la fusée achevée décolle à la verticale.
-À la fin : la fusée SpaceX, désormais totalement transformée, accélère vers le haut dans un ciel noir étoilé, laissant derrière elle une traînée d'échappement d'un blanc pur.
-
-[Maintenir la cohérence]
-Conserver exactement un seul objet continu tout au long de la transformation — de la feuille de papier initiale jusqu'à la fusée SpaceX finale — sans qu'aucun objet supplémentaire ou copie n'apparaisse. Préserver la palette de couleurs blanc-noir caractéristique de SpaceX, la silhouette fidèle de la Falcon 9, ainsi qu'une métamorphose des matériaux fluide et d'une grande fidélité, sans jamais rompre l'identité de cet objet unique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="Transformation d'une feuille de papier en fusée SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13471)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117514672920207810) | **Published:** Nov 3, 2026
-
----
-### Prompt vidéo Grok Imagine : Mains mélangeant des cartes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine montrant un gros plan sur des mains effectuant un mélange riffle de cartes à jouer sur une table en bois, capturé avec une esthétique de téléphone à main levée.
-
-#### 📝 Prompt
-
-```
-Plan rapproché des mains d'une personne battant un jeu de cartes sur une table en bois, vidéo filmée au téléphone portable.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117472338543583233/img/LMCNHJ8vTEaOoyhk.jpg" width="600" alt="Prompt vidéo Grok Imagine : Mains mélangeant des cartes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13477)**
-
-**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **Published:** Nov 3, 2026
-
----
-### Vidéo de Transformation d'Armure de Science-Fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé en plusieurs étapes pour la génération vidéo avec Grok Imagine, décrivant une femme se transformant en armure de combat et un lapin devenant une moto.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo de transformation et d'évolution spectaculaire mettant en scène cette femme. Elle laisse d'abord tomber une bouteille d'eau à ses pieds, puis sa robe se métamorphose en une armure de combat métallique blanche. Enfin, le lapin se transforme en une imposante moto Tesla sur laquelle elle s'enfuit au loin.
-
-[Scénario des événements]
-Au début : La femme se tient calmement debout, tenant une bouteille d'eau transparente. Un lapin est posé près de ses pieds. Elle lâche délibérément la bouteille, qui atterrit à ses pieds et dont l'eau se répand tout autour. À l'instant même où la bouteille touche le sol, une énergie lumineuse se propage depuis le point d'impact.
-Événement principal : Sa simple robe se transforme rapidement en une élégante armure de combat métallique blanche — plaques segmentées, articulations renforcées, surfaces polies et réfléchissantes, ainsi que des détails tactiques intégrés se forment autour de son corps tandis qu'elle se met en position de combat. Dès que l'armure se verrouille complètement, le lapin entame sa propre métamorphose : son corps s'étend, se durcit et se restructure pour devenir une imposante moto Tesla noire et argentée, dotée d'une carrosserie entièrement métallique, d'accents électriques lumineux et de roues puissantes.
-À la fin : La femme, désormais entièrement blindée, enfourche la lourde moto Tesla, agrippe le guidon et s'élance à toute vitesse vers l'horizon.
-
-[Maintenir la cohérence]
-Conserver la même femme tout au long de la séquence : son identité, son visage, ses cheveux et ses proportions corporelles restent inchangés. Une fois formée, l'armure demeure métallique, blanche et prête au combat. Le lapin devient intégralement une imposante moto Tesla, sans aucune caractéristique animale résiduelle. L'enchaînement doit rester fluide et continu : chute de la bouteille → transformation de la robe en armure → transformation du lapin en moto → départ de la femme.
-
-Avertissement : 
-Cette vidéo est un concept fictif de science-fiction généré par l'IA, créé uniquement à des fins de divertissement. Les transformations futuristes, l'armure robotisée et les effets spéciaux sont purement imaginaires et ne représentent ni des technologies ni des événements réels.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Vidéo de Transformation d'Armure de Science-Fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13472)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117435530942238748) | **Published:** Nov 3, 2026
-
----
-### Saut majestueux du tigre sur la montagne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo dramatique mettant en scène un tigre semi-transparent émettant de la lumière qui jaillit du cœur d'une montagne, accompagné d'une musique victorieuse.
-
-#### 📝 Prompt
-
-```
-Créez une scène spectaculaire où un tigre majestueux semi-transparent et rayonnant de lumière bondit du cœur d'une montagne. Ajoutez une musique triomphale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117358778433564672/img/qVmkzELTw22m0DBg.jpg" width="600" alt="Saut majestueux du tigre sur la montagne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13473)**
-
-**Author:** [A](https://x.com/A0448492963657) | **Source:** [Link](https://x.com/A0448492963657/status/2117358796158746693) | **Published:** Nov 2, 2026
-
----
-### Prompt de levage de grizzly par les Seahawks
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt humoristique à thème sportif animant la mascotte des Seahawks soulevant un grizzly et le jetant dans le Puget Sound.
-
-#### 📝 Prompt
-
-```
-Un Seahawk portant un pull aux couleurs des Seahawks qui soulève un Grizzly avec ses serres et le lâche dans le Puget Sound @Seahawks
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117304682750091264/img/xweMEEr1e4180c2z.jpg" width="600" alt="Prompt de levage de grizzly par les Seahawks">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13475)**
-
-**Author:** [HistoryGuy](https://x.com/HistoryGuy510) | **Source:** [Link](https://x.com/HistoryGuy510/status/2117304700156657856) | **Published:** Nov 2, 2026
-
----
-### Éveil neuronal d'un androïde chromé sur Android
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de rendu cinématographique détaillé du visage d'une femme androïde en chrome, révélant une nanotechnologie biomécanique et des circuits sous des panneaux de peau rétractés.
-
-#### 📝 Prompt
-
-```
-Rendu cinématographique en très gros plan du visage d'une femme androïde chromée, les yeux clos, sereine, sur un fond high-key allant du blanc éclatant au bleu glacial. De larges sections de la peau faciale en chrome miroir se sont rétractées le long des lignes de jointure des panneaux à la naissance des cheveux, révélant une dense nanotechnologie biomécanique : des rangées de pistons miniatures et de bielles en mouvement, des ressorts hélicoïdaux, des trains de micro-engrenages imbriqués, de minuscules cartes mères argentées ornées de puces électroniques, de condensateurs, de résistances et de pistes de soudure, des câbles à fibres optiques tressés ainsi que des lignes de circuit luminescentes bleu glacial et cyan parcourant la joue, la mâchoire et la tempe. Les paupières présentent un mécanisme de charnière miniature bien visible ; l'iris d'un œil fermé se devine faiblement en dessous. Chrome miroir, reflets d'un blanc pur, accents LED bleu glacial, mécanique et électronique d'une finesse extrême mais parfaitement reconnaissables, rendu 3D photoréaliste.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117246398756249601/img/5AzQdj3BTra1ST7F.jpg" width="600" alt="Éveil neuronal d'un androïde chromé sur Android">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13474)**
-
-**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2571,6 +2546,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T03:10:07.543Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T13:15:03.454Z</sub>
 
 </div>

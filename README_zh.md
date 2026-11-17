@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3420** |
+| 📝 提示词总数 | **3427** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-17** |
 
@@ -189,6 +189,144 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 精灵少女 Cosplay 巫女视频
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 设计的复杂视频提示词，展示身着中式奇幻巫女服饰的精灵少女，并基于三张参考图片提供具体的时间节奏与姿势指令。
+
+#### 📝 提示词
+
+```
+一段 15 秒、包含 4 个场景的电影感视频，主角为 @Image1、@Image2 和 @Image3 中出现的银发精灵耳女子。在所有场景中，需始终保持角色面容一致：银色半扎发型、精灵耳、白红相间的中国仙侠风挂脖服饰，以及滑落肩头、带有白色长袖的羽织（haori）。背景为秋日庭院，点缀着金黄枫叶与落叶、白色栏杆和路灯。BGM 选用柔和曲目，搭配温暖的木吉他与舒缓的原声钢琴。
+
+[0:00-0:04] 以 @Image1 为基础，上半身优雅地变换两个姿势。前半段：双臂轻轻展开，带动白色衣袖飘动，同时微微侧头。后半段：切换为妩媚姿势，右手轻放胸前，左手微提裙摆。
+[0:04-0:08] 以 @Image2 为基础，切换至回眸视角。前半段：一边整理白色衣袖，一边回头顾盼。后半段：上半身大幅转动，左手轻托下巴，头部微微倾斜。
+[0:08-0:12] 以 @Image3 为基础，切换为中景镜头。前半段：稳稳站立，双手在胸前轻轻交叠。后半段：上半身微微前倾，单手轻抚脸颊，露出甜美可爱的笑容。
+[0:12-0:15] 从 @Image3 平滑推进，直至面部特写。指尖轻触唇边，摆出定格姿势，最后用一只眼（右眼）俏皮地眨一下眼。
+```
+
+<img src="https://cms-assets.youmind.com/media/1794900986878_8n6rp1_HXTLj-LaUAAhCxE.jpg" width="600" alt="精灵少女 Cosplay 巫女视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13963)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2122547779700453578) | **发布时间:** Nov 17, 2026
+
+---
+### 让参考图片动起来并说话
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，用于让参考图片（@Image1）“活”起来，并以第一人称口吻介绍其用途。
+
+#### 📝 提示词
+
+```
+想象一下 @Image1 活了过来，正在讲述它的使命、名字，以及此刻身在何处
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122483488360144896/img/iXm9s9KjsBtlULr1.jpg" width="600" alt="让参考图片动起来并说话">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13961)**
+
+**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **来源:** [Link](https://x.com/SuperGeekCRC/status/2122483520127791271) | **发布时间:** Nov 17, 2026
+
+---
+### 彩色玻璃蝴蝶视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成彩色玻璃蝴蝶视频的提示词，画面中一只拥有发光彩色玻璃翅膀的蝴蝶停落在花园石头上，呈现出绚丽的光影图案与传统玻璃艺术美学。
+
+#### 📝 提示词
+
+```
+一只美丽的蝴蝶停歇在洒满阳光的花园石头上，翅膀宛如流光溢彩的彩绘玻璃，投射出斑斓的光影。传统彩绘玻璃艺术风格，宝石色调的玻璃搭配精致的铅条轮廓。视角略微偏移……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122476560259362816/img/GaSCT9gcVPjSvzgA.jpg" width="600" alt="彩色玻璃蝴蝶视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13958)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2122476581302174066) | **发布时间:** Nov 16, 2026
+
+---
+### 北极熊和熊猫滑雪橇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感的提示词，描绘了一只北极熊幼崽和一只熊猫宝宝在交响乐氛围中从雪山上滑下。
+
+#### 📝 提示词
+
+```
+🐻‍❄️🐧 北极熊幼崽和小熊猫 🛷 坐着雪橇滑下雪坡 ❄️ 晶莹闪烁的雪花 🥳 欢乐氛围 🎻 交响乐风格 ✨ 逼真 8K 电影质感 竖版 9:16 感谢 Jason
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122449676893081601/img/7PyZMKDcYeElFglU.jpg" width="600" alt="北极熊和熊猫滑雪橇">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13959)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2122449690990092770) | **发布时间:** Nov 16, 2026
+
+---
+### 宝宝熊猫太空火箭之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感提示词：宝宝熊猫驾驶火箭穿越太空，伴随流星划过与摇滚吉他氛围。
+
+#### 📝 提示词
+
+```
+🐼🚀 熊猫宝宝 🪐 骑着火箭遨游太空 🌠 流星划过 💎 流光溢彩 😆 兴奋不已 🎸 摇滚吉他 ✨ 写实风格 8K 电影质感 竖版 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122445806427119616/img/xvQyyZjkfLkJRI4A.jpg" width="600" alt="宝宝熊猫太空火箭之旅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13960)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2122445820595454193) | **发布时间:** Nov 16, 2026
+
+---
+### 专业产品人像增强
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 详细的提示词，用于将照片优化为精致的产品人像，同时保留手持、交易卡、外壳、姿势和场景等特定元素，并采用柔和的方向性照明。
+
+#### 📝 提示词
+
+```
+将这张照片大幅优化为精致、专业级的产品人像，同时严格保持原有的手部、握持姿势、集换式卡牌、塑料保护壳、人物姿态和拍摄场景不变。使用柔和迷人的定向光重新打光……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122331973108600832/img/y498O708CXJywy3Q.jpg" width="600" alt="专业产品人像增强">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13962)**
+
+**作者:** [lee trew](https://x.com/lstrew) | **来源:** [Link](https://x.com/lstrew/status/2122331990460698997) | **发布时间:** Nov 16, 2026
+
+---
+### 拼贴视频生成指令
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 仅对拼贴图中的底部照片进行动画处理，同时保持顶部照片静止的指令。
+
+#### 📝 提示词
+
+```
+我有一张包含两张照片的拼图，只想把下面那张照片转成视频，上面那张保持静态图片不变。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122288702588174336/img/iIe_bK_KN-WFMdSQ.jpg" width="600" alt="拼贴视频生成指令">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13957)**
+
+**作者:** [Johan](https://x.com/Johanfriesen) | **来源:** [Link](https://x.com/Johanfriesen/status/2122288719965077680) | **发布时间:** Nov 16, 2026
+
+---
 ### Grok Imagine 龙露提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2355,169 +2493,6 @@ SpaceX – Beyond Earth
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **发布时间:** Nov 3, 2026
 
 ---
-### Grok Imagine 视频提示词：球体爆炸变身 Terafab
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 视频生成提示词：展示一名女子掉落球体，随后球体爆炸并转化为名为 Terafab 的大型结构。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段该女子连续进阶变身的视频。她手中握着一个球，刻意将其丢向地面，球体触地后猛烈爆炸，从爆光中凭空显现并逐渐成型一座完整的 Terafab。
-
-[事件脚本]
-开场：女子站在开阔的空地上，手臂向前伸出，手中紧握圆球，目光专注而锐利地注视着它。
-核心事件：她松开手指，让球垂直落下。球重重砸向地面，瞬间引爆出一道刺眼的强光、能量与四散的粒子。在爆炸中心，一座 Terafab 迅速拔地而起——结构层层组装、表面逐渐凝实、形态最终完整呈现。
-结尾：原来的球已消失不见，爆炸的光芒彻底散去，原地稳稳矗立着一座完整成型的 Terafab。女子站在一旁，静静注视着最终的成果。
-
-[保持一致性]
-全程保持女子的身份、外貌、服装和人数不变。始终只有一个球被丢下并在爆炸中销毁。最终生成的唯一一座完整 Terafab 是地面上仅存的物体。保留开阔的地面空间，以及“丢落 → 触地爆炸 → Terafab 成型”这一清晰的因果顺序。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine 视频提示词：球体爆炸变身 Terafab">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13522)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **发布时间:** Nov 3, 2026
-
----
-### 从纸张到 SpaceX 火箭的变身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的提示词，用于生成连续视频，展示一张纸转变为发射中的 SpaceX Falcon 9 火箭。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段高端无缝连续视频，呈现一场震撼的进阶变形过程：一张普通白纸蜕变为完整的 SpaceX 火箭。
-
-[事件脚本]
-开场：在柔和的影棚灯光下，一张洁净的白纸平铺于深色表面上，静止不动。
-核心事件：白纸突然如精密折纸般自行折叠、压痕，迅速拼装成几何形态的火箭结构。该结构不断延展、硬化，最终幻化为线条流畅的 SpaceX Falcon 9 火箭白色箭体，并带有黑色级间段、栅格舵与着陆腿。随着纸张纹理彻底消融为光洁的航空复合材料，箭体表面逐渐浮现出精细的金属质感细节与 SpaceX 标志。推进剂贮箱开始增压，发动机喷射出明亮的蓝色火焰，组装完毕的火箭垂直升空。
-结尾：完成变形的 SpaceX 火箭加速冲入繁星点点的漆黑夜空，留下一道纯净的白色尾迹。
-
-[保持一致性]
-在整个变形过程中，必须始终保持唯一且连续的单一物体——从最初的白纸到最终的 SpaceX 火箭——不得出现任何额外物体或复制体。保留干净的黑白配色方案（SpaceX 标志性风格）、精准的 Falcon 9 轮廓，以及流畅、高保真的材质蜕变效果，确保单一物体的连贯性不被打破。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="从纸张到 SpaceX 火箭的变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13471)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117514672920207810) | **发布时间:** Nov 3, 2026
-
----
-### Grok Imagine 视频提示词：双手洗牌特写
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的视频生成提示词，展示在木桌上进行纸牌 riffle shuffle（交错洗牌）的手部特写，采用手持手机拍摄的视觉风格。
-
-#### 📝 提示词
-
-```
-手机手持拍摄视频：特写镜头中，一双手正在木桌上洗一副扑克牌。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117472338543583233/img/LMCNHJ8vTEaOoyhk.jpg" width="600" alt="Grok Imagine 视频提示词：双手洗牌特写">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13477)**
-
-**作者:** [能成大事](https://x.com/ncdsoffiecl) | **来源:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **发布时间:** Nov 3, 2026
-
----
-### 科幻装甲变身视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的详细多步骤视频生成提示词，描述女性变身为战斗装甲以及兔子变为摩托车的过程。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段该女子进阶蜕变与进化的视频。她先将一个水瓶丢在脚边，随后身上的连衣裙幻化为一套白色金属战斗装甲；最后，兔子变身成一辆重型 Tesla 摩托车，她跨上摩托疾驰而去。
-
-[事件脚本]
-开场：女子神态自若地站立着，手中拿着一个透明水瓶，一只兔子安静地伏在她脚边。她刻意松手让水瓶落下，瓶子砸在脚边，水花四溅。瓶身触地的瞬间，耀眼的光芒从撞击点向四周蔓延开来。
-核心事件：她身上普通的连衣裙迅速蜕变为一套流线型白色金属战斗装甲——分块式甲片、加固关节、抛光反光表面以及一体化战斗细节在她周身层层成型，她随即摆出蓄势待发的姿态。装甲完全锁定就位后，兔子立刻开始变形：身躯膨胀、硬化并重新解构，化作一辆黑银配色的重型 Tesla 摩托车，拥有坚实的金属车身、流光溢彩的电动光效和强劲有力的车轮。
-结尾：全副武装的女子跨上这辆重型 Tesla 摩托车，紧握车把，风驰电掣般驶向远方。
-
-[保持一致性]
-全程保持同一位女子形象：她的身份、面容、发型及身材比例均不发生改变。装甲一旦成型，须始终保持白色金属质感与战斗状态。兔子需彻底变为一辆重型 Tesla 摩托车，不得残留任何动物特征。整个流程须一气呵成：水瓶落地 → 连衣裙蜕变为装甲 → 兔子变身为摩托车 → 骑车远去。
-
-免责声明：
-本视频为 AI 生成的虚构科幻概念作品，仅供娱乐。其中的未来感变形、机械装甲及特效均为想象产物，不代表真实科技或现实事件。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="科幻装甲变身视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13472)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117435530942238748) | **发布时间:** Nov 3, 2026
-
----
-### 威猛虎跃山巅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段极具戏剧张力的视频提示词：一只半透明、散发光芒的老虎从山体中心跃出，配以胜利激昂的音乐。
-
-#### 📝 提示词
-
-```
-创作一个震撼人心的场景：一只通体发光、威风凛凛的半透明猛虎从山心一跃而出。配上激昂的胜利音乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117358778433564672/img/qVmkzELTw22m0DBg.jpg" width="600" alt="威猛虎跃山巅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13473)**
-
-**作者:** [A](https://x.com/A0448492963657) | **来源:** [Link](https://x.com/A0448492963657/status/2117358796158746693) | **发布时间:** Nov 2, 2026
-
----
-### 海鹰队举起灰熊提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个幽默的体育主题提示词，生成海鹰队吉祥物举起灰熊并将其扔进普吉特海湾的动画。
-
-#### 📝 提示词
-
-```
-一只穿着 Seahawks 配色毛衣的海鹰用爪子抓起一头灰熊，把它扔进了 Puget Sound @Seahawks
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117304682750091264/img/xweMEEr1e4180c2z.jpg" width="600" alt="海鹰队举起灰熊提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13475)**
-
-**作者:** [HistoryGuy](https://x.com/HistoryGuy510) | **来源:** [Link](https://x.com/HistoryGuy510/status/2117304700156657856) | **发布时间:** Nov 2, 2026
-
----
-### Chrome Android 神经网络觉醒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的电影级渲染提示词，描绘了一位镀铬 Android 女性的面部，其皮肤面板回缩后显露出下方的生物机械纳米技术与精密电路。
-
-#### 📝 提示词
-
-```
-超微距电影级渲染画面：一位镀铬女性仿生人的面部特写，双眼轻阖，神态安详，背景为从亮白渐变至冰蓝色的高调色彩。大面积的镜面镀铬面部皮肤已沿发际线处的面板接缝向后收缩，露出下方致密的生物机械纳米科技结构：成排的微型活塞与连杆交替伸缩、盘绕的弹簧、相互咬合的微型齿轮组、搭载微芯片、电容、电阻及焊锡走线的银色微型主板，以及编织光纤线缆和横跨脸颊、下颌与太阳穴的冰蓝及青色发光电路线条。眼睑处可见精密的微型铰链机构；闭合的眼皮下隐约透出虹膜轮廓。镜面镀铬质感，纯白高光点缀，冰蓝色 LED 光效，机械与电子元件虽极其微小却纤毫毕现、清晰可辨，照片级真实 3D 渲染。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117246398756249601/img/5AzQdj3BTra1ST7F.jpg" width="600" alt="Chrome Android 神经网络觉醒">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13474)**
-
-**作者:** [AI Aimee](https://x.com/RockGrokAI) | **来源:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **发布时间:** Nov 2, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2579,6 +2554,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-17T03:09:59.300Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-17T13:14:52.188Z</sub>
 
 </div>
