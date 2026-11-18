@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3427** |
+| 📝 提示词总数 | **3438** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-18** |
 
@@ -189,6 +189,171 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 时装秀场景扩展
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 视频生成提示词，通过在现有图像基础上添加特定名人和角色来扩展时装秀场景。
+
+#### 📝 提示词
+
+```
+以第一张图片为基础（平等时尚穿搭秀场景，包含 Charlize Theron、抱着婴儿 Donald Trump Jr 的 Michelle Obama、Donald Trump 和 Melania），请扩充人物阵容：准确添加第二张图片中的 Paris Hilton，让她站在 C... 旁边
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122951565917216769/img/_vFnfIx4TCJAzp55.jpg" width="600" alt="Grok Imagine 时装秀场景扩展">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13991)**
+
+**作者:** [Puchamamax](https://x.com/aaoomaxi) | **来源:** [Link](https://x.com/aaoomaxi/status/2122951597483589966) | **发布时间:** Nov 18, 2026
+
+---
+### 特斯拉 Optimus 机器人现身时代广场
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，展示特斯拉 Optimus 机器人军团在时代广场行进的场景。
+
+#### 📝 提示词
+
+```
+Tesla Optimus 机器人大军列队穿行时代广场，在城市街头阔步前进！
+纽约警力的全新解决方案。
+反恐机器人部队🇺🇸
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122930461525606400/img/IjNg6AnsBjdUuFoR.jpg" width="600" alt="特斯拉 Optimus 机器人现身时代广场">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13992)**
+
+**作者:** [Sherry Cord](https://x.com/SherryBossMama) | **来源:** [Link](https://x.com/SherryBossMama/status/2122930521269526583) | **发布时间:** Nov 18, 2026
+
+---
+### Grok Imagine 提示词：《经济学人》封面动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一位用户分享了用于 Grok Imagine 的提示词，旨在为《经济学人》封面相关图像制作动画，最终生成了一段关于飞行坦克的幽默视频。
+
+#### 📝 提示词
+
+```
+让我们结合近期关于《The Economist》（经济学人）新封面的报道，让这张图“活”起来。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122874678393925632/img/nFP2ZyZHkAioAgb4.jpg" width="600" alt="Grok Imagine 提示词：《经济学人》封面动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13995)**
+
+**作者:** [Gabriel Santini](https://x.com/GCSantiniX) | **来源:** [Link](https://x.com/GCSantiniX/status/2122876989698875451) | **发布时间:** Nov 18, 2026
+
+---
+### 熊猫与北极熊的天体音乐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成视频的提示词，画面中熊猫幼崽和北极熊幼崽在星空漩涡的环绕下演奏乐器。
+
+#### 📝 提示词
+
+```
+让熊猫幼崽和北极熊幼崽演奏乐器，并加入天体螺旋元素。你也可以自定义专属方案
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122876434389827585/img/OoWVbVn958H2bfzq.jpg" width="600" alt="熊猫与北极熊的天体音乐">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13990)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2122876464718897609) | **发布时间:** Nov 18, 2026
+
+---
+### 环绕地球的数据中心栖息地视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，展示与环绕地球的数据中心相连的居住栖息地。
+
+#### 📝 提示词
+
+```
+与环绕地球运行的 Data centers 相连的居住栖息地
+当 Data Centers 成为家园，一份工作的生命周期，守护 Data，
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122861868771577856/img/EJf1SfT9YzjhEzWx.jpg" width="600" alt="环绕地球的数据中心栖息地视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13993)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2122861994206441622) | **发布时间:** Nov 18, 2026
+
+---
+### Grok Imagine 休闲裤塔楼窗景场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描述一位女性走向塔楼窗户的场景，并包含玫瑰丛和地毯的调整细节。
+
+#### 📝 提示词
+
+```
+她穿着家居裤走向高塔的窗户，在窗边加一丛玫瑰。把地毯的颜色调亮一些，与玫瑰相呼应……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122833801365569536/img/i2W4W7Dc5aYjx_ox.jpg" width="600" alt="Grok Imagine 休闲裤塔楼窗景场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13994)**
+
+**作者:** [Mimi9060](https://x.com/MelodyM662010) | **来源:** [Link](https://x.com/MelodyM662010/status/2122833828658180547) | **发布时间:** Nov 17, 2026
+
+---
+### 赛博朋克小镇与未来城市视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段长镜头视频提示词，将传统日本小镇与未来主义赛博朋克巨型都市融合，采用鸟瞰式运镜并包含特定的交通基础设施细节。
+
+#### 📝 提示词
+
+```
+一个将日本下町街区与未来都市（巨型建筑）相融合的赛博朋克风格世界。
+
+交通基础设施被划分为两个层级。
+下町区域里，装着轮胎的老式有轨电车在地面道路上行驶。
+未来都市部分则采用管状连接网络，内部穿梭着无轮的个人汽车。
+在下町街区的某个角落，矗立着一座朱红色的鸟居，四周绿树成荫。
+
+视频采用一镜到底的长镜头拍摄，无任何剪辑。
+运镜视角如同飞鸟掠过（画面中不要出现鸟本身）。
+
+*注：在管道交通网络中行驶的个人汽车，每根管道内仅有一辆，相同……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122815120938295296/img/udqXNLnUA6Bty2n9.jpg" width="600" alt="赛博朋克小镇与未来城市视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13999)**
+
+**作者:** [じろじろin下関](https://x.com/ziro1005) | **来源:** [Link](https://x.com/ziro1005/status/2122815472446185554) | **发布时间:** Nov 17, 2026
+
+---
+### 定格动画熊猫圣诞精灵
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于创作定格动画风格的场景，展示一只穿着圣诞精灵服装的毛毡质感熊猫。
+
+#### 📝 提示词
+
+```
+一个细节丰富、高质量的定格动画风格场景，主角是一只毛毡质感的熊猫，打扮成圣诞精灵的模样。熊猫位于画面中央，身穿一件带白色绒毛镶边的绿色毛毡束腰外衣，头戴一顶黑色……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122774303058063360/img/5myr2nsYECOkjdcX.jpg" width="600" alt="定格动画熊猫圣诞精灵">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13989)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2122774319164252365) | **发布时间:** Nov 17, 2026
+
+---
 ### 精灵少女 Cosplay 巫女视频
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -852,6 +1017,27 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13858)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **发布时间:** Nov 13, 2026
+
+---
+### 火星生日蛋糕视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一条推文描述的视频场景：Elon Musk 通过 Grok Imagine 在火星上带来一个蛋糕。该文本提供了背景信息，更像是一种评论而非严格的提示词，但确实描述了这一场景。
+
+#### 📝 提示词
+
+```
+生日快乐，@dvorahfr ！🎂🚀
+
+蛋糕是 Elon 带来的，Grok Imagine 则带我们飞向了火星。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121257454625251328/img/aRfWU2v01Pq1KX-o.jpg" width="600" alt="火星生日蛋糕视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13998)**
+
+**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2121258069321789716) | **发布时间:** Nov 13, 2026
 
 ---
 ### 黑暗骑士变身提示词
@@ -2265,234 +2451,6 @@ SpaceX – Beyond Earth
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **发布时间:** Nov 4, 2026
 
 ---
-### 星尘飞龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 视频提示词：添加微小的淡绿色和闪亮的浅蓝色龙，它们带着星尘效果缓慢飞行。
-
-#### 📝 提示词
-
-```
-添加一条淡绿色的小龙和一条闪闪发光的浅蓝色小龙，让它们缓缓盘旋飞舞，每一次振翅都洒落点点星尘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117853828729217024/img/_UDmHIIc2gMiLSdR.jpg" width="600" alt="星尘飞龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13548)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2117853925177221209) | **发布时间:** Nov 4, 2026
-
----
-### Grok Imagine 未来忍者服饰提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 适用于 Grok Imagine 的图像提示词，描绘一位梳着黑色丸子头、身着霓虹忍者裙的未来女忍（Kunoichi），背景为城市景观，旨在后续进行动画化处理。
-
-#### 📝 提示词
-
-```
-“一位来自未来的女忍者，背景是林立着粉色与淡紫色摩天大楼的城市。她梳着黑色丸子头，身穿以青色和黑色为主色调的忍者服。画面比例 9:16。请勿添加文字 🥷”
-```
-
-<img src="https://cms-assets.youmind.com/media/1793865241306_98do0q_HWQXzhabwAAQF0c.jpg" width="600" alt="Grok Imagine 未来忍者服饰提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13558)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2117844350847840763) | **发布时间:** Nov 4, 2026
-
----
-### 赛博朋克风格背包变机甲视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 专为 Grok Imagine 设计的详细视频生成提示词，打造电影级科幻变身序列：在霓虹闪烁的赛博朋克小巷中，女性的背包瞬间转化为全套金属战斗装甲。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段纯粹电影级、次世代的科幻赛博朋克变形序列：她的背包将她变身为一套全金属战斗装甲。核心主体是这名女性，主要事件是背包触发一场完整的高科技蜕变，最终她全身披挂上先进的金属战斗装甲。
-
-[事件脚本]
-开场：夜幕下，一名女子独自站在雨水浸透、霓虹闪烁的赛博朋克小巷中。她身后是高耸的全息广告牌与密集的垂直建筑群，散发着幽光。她身着时尚的现代装束，肩背一款线条流畅的高科技背包。青蓝、品红与深紫色的光影交织，映照在潮湿的路面与玻璃上，氛围感十足。
-
-主要事件：背包伴随一阵低频能量脉冲启动。纳米粒子流与液态金属触须从中喷涌而出，以连绵不断的流体形态迅速缠绕她的全身。材质顺着她的肌肤、四肢与躯干蔓延，层层构建出金属甲片、活动关节、发光的能量导管、强化护板，并在她头部凝聚成先进的战斗头盔。随着装甲锁定就位，等离子火花、全息界面碎片与体积光轨在她周身盘旋飞舞。她的姿态也随之从平民站姿切换为战斗戒备状态。
-
-结尾：她已完成彻底蜕变，身披一套由无缝高科技甲片构成的全覆盖式金属战斗装甲，青蓝色的能量纹路流转发光，头盔面罩亮起，原本的背包已完全融入装甲之中，不见踪影。在电影感的霓虹灯光下，雨水继续划过光洁如镜的金属表面。
-
-[视觉风格与氛围]
-纯粹的电影级次世代科幻赛博朋克美学。超精细的金属表面泛着湿润反光，体积光（上帝之光）穿透雨幕与全息雾气，高对比度的霓虹调色，变形宽银幕镜头光晕，以及浓郁的大气纵深感。整个变形过程充满力量感、行云流水且势不可挡。
-
-[镜头]
-以一个极具张力的中全景开场，交代小巷环境与女子。当纳米粒子启动时，平滑的跟踪环绕镜头绕她旋转，随后快速推近，捕捉液态金属在她身上流淌的细节。在最后几块甲片锁定、头盔闭合的瞬间，采用动态低角度仰拍推进，塑造英雄般的视觉冲击。结尾以缓慢而有力的拉远镜头收尾，展现全副武装的身影映衬在璀璨城市天际线前的剪影。
-
-[声音]
-背包启动时传来深沉的超低频轰鸣，交织着清脆的金属形变声与纳米粒子群的呼啸声、噼啪作响的能量释放声，以及沉重的液压甲片锁定撞击声。环境音包含赛博朋克风格的雨声、远处的车流声与全息投影的低鸣。结尾以一声浑厚有力的装甲充能音效和一段绵长的电影感渐强音浪收束。
-
-[保持一致性]
-始终以这名女子作为唯一主体。背包是变形的唯一来源，并最终完全融入成品装甲之中。装甲必须是完整的、金属材质的、全覆盖式的战斗风格，不得出现局部裸露或覆盖不全的情况。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="赛博朋克风格背包变机甲视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13520)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117832838594896196) | **发布时间:** Nov 4, 2026
-
----
-### 包袋变身擎天柱女性角色视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的视频生成提示词：一位女性放下她的包，随后该包幻化为身着擎天柱（Optimus Prime）装扮的她本人。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段进阶版女性变身视频：她将手提包丢在地上，手提包瞬间变身为 Optimus 形态的她自己。
-
-[事件脚本]
-开场时，她站立着手持手提包，随后刻意将其丢到地上。手提包触地的瞬间，立刻开启一场极具张力的高能变身：包体膨胀、展开，金属装甲板与机械关节随之显现，发光的能量纹路在变幻的形体上飞速游走，甲片逐一锁定就位，手提包最终彻底重塑为 Optimus 形态的她——身姿挺拔、气场强大、全副武装、蓄势待发。结尾处，她（以 Optimus 形态）自信地伫立在原本手提包所在的位置，变身圆满完成。
-
-[保持一致性]
-她与 Optimus 形态的她在整个过程中始终是同一个角色；手提包是本次变身的唯一来源，并完全转化为 Optimus 形态的她，不会残留任何多余的物品或角色。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg" width="600" alt="包袋变身擎天柱女性角色视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13521)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117796166192578893) | **发布时间:** Nov 4, 2026
-
----
-### Grok Imagine 提示词：摄像机推拉行走
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 详细的视频提示词，描述两名女性手持光剑向前行走的摄像机推拉镜头，强调自然运动且无变形效果。
-
-#### 📝 提示词
-
-```
-摄影机恢复推轨拍摄，两名女子从容地朝镜头方向走来。行走过程中，中国女子看向另一名女子，步伐流畅不卡顿，没有怪异动作，也不疾走。两人手中始终握着军刀，无变形，无不自然的动作
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg" width="600" alt="Grok Imagine 提示词：摄像机推拉行走">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13518)**
-
-**作者:** [Gentugo](https://x.com/GentugoMartukro) | **来源:** [Link](https://x.com/GentugoMartukro/status/2117779510976290960) | **发布时间:** Nov 4, 2026
-
----
-### 80 年代情景喜剧场景：超模的秘密
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，旨在创建一个 80 年代情景喜剧风格的搞笑场景，讲述一名少女向超级名模询问美容秘诀的故事。
-
-#### 📝 提示词
-
-```
-80 年代情景喜剧中的一幕：一位少女苦苦哀求超模，想让她透露拥有完美肌肤和曼妙身材的秘诀。超模停顿片刻，随后掏出了一台小型气泵和一支喷枪。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg" width="600" alt="80 年代情景喜剧场景：超模的秘密">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13519)**
-
-**作者:** [Rusty Zimmer](https://x.com/Rust_E) | **来源:** [Link](https://x.com/Rust_E/status/2117727865550856421) | **发布时间:** Nov 3, 2026
-
----
-### 将图片整合到场景视频中
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 该提示词指导模型将特定图片融入场景，并与之前的视频一起运行。
-
-#### 📝 提示词
-
-```
-将这张图片融入场景提示词中一起生成，并与之前的视频进行合成；同时制作一张富有创意和想象力的信息图片，再将其与之前的视频融合在一起。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg" width="600" alt="将图片整合到场景视频中">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13517)**
-
-**作者:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **来源:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **发布时间:** Nov 3, 2026
-
----
-### 埃隆·马斯克单色水中悬浮视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的视频生成提示词，可创建埃隆·马斯克悬浮于与肤色一致的水中的连续场景。该提示词强调缓慢自然的运动、无水面破裂效果以及身份特征的一致性保持。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段 Elon Musk 在水中持续漂浮的视频，水的颜色与周围漂浮的水完全一致，Elon Musk 在其中轻柔地漂浮悬浮。
-
-[事件脚本]
-开场：Elon Musk 完全浸没在单色水中，处于失重漂浮状态，身体放松轻盈，四肢微微舒展，呈现自然的漂浮姿态。
-主要事件：他缓慢而持续地漂移，随着细微的水流起伏，身体轻轻转动或位移，始终保持完全浸没和悬浮状态；同色的水流在他周身及上方流淌，水面始终平静无波。
-结尾：Elon Musk 在同色水中保持稳定漂浮与悬浮，依然完全浸没，动作平缓且连贯。
-
-[保持一致性]
-全程保持 Elon Musk 的身份、面部特征、发型和身材比例稳定不变。水的颜色始终保持均匀，并与他周围漂浮的水完全一致。画面中不出现其他人物、物体或颜色变化。动作保持缓慢、自然、连贯，没有突然的动作或水面波动。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117671174524276737/img/r8RAvhFoJOKn4Qzx.jpg" width="600" alt="埃隆·马斯克单色水中悬浮视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13554)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117671226097483934) | **发布时间:** Nov 3, 2026
-
----
-### 科幻列车机器人变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的提示词，用于生成电影级科幻视频，展示未来主义子弹头列车变形成巨型双足战斗机器人的过程。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段次世代科幻视频：一列未来感十足的高速列车完成全机械变形，化身为一台高耸的双足战斗机甲。
-
-[事件脚本]
-开场：一列流线型的银黑子弹头列车在夜间疾驰于霓虹闪烁的赛博朋克巨型都市上空，沿着高架磁悬浮轨道飞驰。引擎低鸣，拖曳出幽蓝的能量尾迹，城市灯火化作流光飞速掠过。
-核心事件：列车启动完整变形程序。车头面板以液压般的精准度向两侧裂开，露出内部发光的反应堆核心。侧方车厢折叠重组：车轮收缩，化作复杂的机械腿展开并锁定，形成重装甲双足肢体。车体旋转 90 度，抬升为巨大的人形躯干，装甲板层层咬合。前端导流罩重塑为细节拉满的机械头部，面罩双眼亮起红橙色光芒。车顶与底盘模块组装成双臂，配备多关节机械手与能量武器挂架。所有部件在火花四溅、蒸汽喷涌中咬合锁定，液压活塞重重砸入最终位置。
-结尾：完成变形的巨型机甲巍然矗立于轨道之上，身形远超城市天际线，摆出蓄势待发的战斗姿态，胸口的核心光芒耀眼，随时准备出击。
-
-[视觉风格]
-超精细机械科幻变形，展现错综复杂的互锁装甲板、清晰可见的齿轮、活塞、线缆与能量导管。超写实金属质感，融合镀铬、哑光黑以及发光的霓虹蓝/红点缀。电影级赛博朋克氛围，搭配体积光、镜头光晕，以及蒸汽与火花带来的粒子特效。
-
-[镜头]
-动态多角度运镜：开场采用低机位跟拍，与疾驰的列车并肩前行；变形过程中切换为极具张力的环绕镜头；快速剪辑至变形部件特写（车轮化为双足、面板折叠成装甲）；最后镜头后拉，呈现英雄式低角度全景，展示巍峨屹立于霓虹都市之中的完整机甲。
-
-[音效]
-低沉轰鸣的列车引擎声逐渐过渡为厚重的液压嘶鸣、金属撞击、齿轮摩擦、能量充能的呼啸声，并在机甲完全激活时爆发出一声深沉浑厚的机械怒吼。背景融入赛博朋克城市的白噪音与远处的车流声。
-
-[保持一致性]
-确保整段画面为单列列车连续变形为一台完整机甲的过程。所有机械部件均须源自原列车结构。全程保持统一的科幻设计语言、发光的能量点缀以及赛博朋克夜景环境。
-
-免责声明：
-本视频为 AI 生成的虚构科幻概念内容，仅供娱乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="科幻列车机器人变形">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13515)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **发布时间:** Nov 3, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2554,6 +2512,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-18T07:08:47.169Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-18T17:24:32.425Z</sub>
 
 </div>

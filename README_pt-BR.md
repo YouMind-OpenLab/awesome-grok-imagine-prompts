@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3427** |
+| 📝 Total Prompts | **3438** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-18** |
 
@@ -189,6 +189,171 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Expansão de Cena de Desfile de Moda no Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine que expande uma cena de desfile de moda, adicionando celebridades e personagens específicos a uma imagem base existente.
+
+#### 📝 Prompt
+
+```
+Usando a primeira imagem como base — a cena do desfile de adoção da moda equality com Charlize Theron, Michelle Obama segurando o bebê Donald Trump Jr., Donald Trump e Melania —, amplie o grupo: adicione com precisão Paris Hilton, da segunda imagem, em pé ao lado de C...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122951565917216769/img/_vFnfIx4TCJAzp55.jpg" width="600" alt="Expansão de Cena de Desfile de Moda no Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13991)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2122951597483589966) | **Published:** Nov 18, 2026
+
+---
+### Robôs Tesla Optimus na Times Square
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para um vídeo mostrando robôs em formação do Tesla Optimus marchando pela Times Square.
+
+#### 📝 Prompt
+
+```
+Robôs do exército Tesla Optimus marchando pela Times Square, desfilando pela cidade!
+A solução para a Polícia de Nova York.
+Força Robótica Antiterrorista 🇺🇸
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122930461525606400/img/IjNg6AnsBjdUuFoR.jpg" width="600" alt="Robôs Tesla Optimus na Times Square">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13992)**
+
+**Author:** [Sherry Cord](https://x.com/SherryBossMama) | **Source:** [Link](https://x.com/SherryBossMama/status/2122930521269526583) | **Published:** Nov 18, 2026
+
+---
+### Prompt do Grok Imagine para Animação da Capa da The Economist
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um usuário compartilha um prompt utilizado no Grok Imagine para animar uma imagem relacionada à capa da The Economist, resultando em um vídeo humorístico de tanques de guerra voadores.
+
+#### 📝 Prompt
+
+```
+Vamos dar vida a essa imagem com as recentes reportagens sobre a nova capa da The Economist.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122874678393925632/img/nFP2ZyZHkAioAgb4.jpg" width="600" alt="Prompt do Grok Imagine para Animação da Capa da The Economist">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13995)**
+
+**Author:** [Gabriel Santini](https://x.com/GCSantiniX) | **Source:** [Link](https://x.com/GCSantiniX/status/2122876989698875451) | **Published:** Nov 18, 2026
+
+---
+### Música Celestial do Panda e Urso-Polar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar um vídeo onde um filhote de panda e um filhote de urso-polar tocam instrumentos musicais cercados por espirais celestiais.
+
+#### 📝 Prompt
+
+```
+coloque o filhote de panda e o filhote de urso polar tocando seus instrumentos, com espirais celestes. Crie a sua própria versão
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122876434389827585/img/OoWVbVn958H2bfzq.jpg" width="600" alt="Música Celestial do Panda e Urso-Polar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13990)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122876464718897609) | **Published:** Nov 18, 2026
+
+---
+### Vídeo de Habitats de Centros de Dados em Órbita
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine apresentando habitats habitados conectados a centros de dados orbitando a Terra.
+
+#### 📝 Prompt
+
+```
+Habitats conectados a Data centers, orbitando a Terra
+Quando os Data Centers se tornam o Lar, a expectativa de vida de um emprego, proteger os Dados,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122861868771577856/img/EJf1SfT9YzjhEzWx.jpg" width="600" alt="Vídeo de Habitats de Centros de Dados em Órbita">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13993)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2122861994206441622) | **Published:** Nov 18, 2026
+
+---
+### Cena da Janela da Torre com Calças de Estar em Casa Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo para o Grok Imagine descrevendo uma mulher caminhando até a janela da torre, com ajustes adicionados de arbustos de rosas e tapete.
+
+#### 📝 Prompt
+
+```
+Ela vestindo calça de moletom, caminhando até a janela da sua torre alta, adicione um roseiral perto da janela. Deixe o tapete mais vibrante, combinando com as rosas....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122833801365569536/img/i2W4W7Dc5aYjx_ox.jpg" width="600" alt="Cena da Janela da Torre com Calças de Estar em Casa Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13994)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2122833828658180547) | **Published:** Nov 17, 2026
+
+---
+### Prompt de Vídeo: Cidade Cyberpunk e Metrópole do Futuro
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt para um vídeo em plano-sequência que mescla uma cidade tradicional japonesa com uma megacidade cyberpunk futurista, apresentando movimento de câmera estilo pássaro e detalhes específicos da infraestrutura de tráfego.
+
+#### 📝 Prompt
+
+```
+Um mundo que funde uma área de centro urbano japonês com uma cidade futurista (megaestrutura), em estilo cyberpunk.
+
+A infraestrutura de transporte é dividida.
+Na zona do centro, há bondes antigos com pneus rodando pelo chão e pelas ruas.
+A parte da cidade futurista utiliza redes de conexão em formato de tubos, por dentro das quais se deslocam carros pessoais sem pneus.
+Em um canto do centro urbano, há um único torii vermelho, cercado por árvores exuberantes.
+
+O vídeo é um plano-sequência longo, sem cortes.
+O trabalho de câmera é como o de um pássaro em voo (não mostre o pássaro em si).
+
+*Nota: os carros pessoais que fluem pela rede de transporte em tubos são um por tubo, o mesmo...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122815120938295296/img/udqXNLnUA6Bty2n9.jpg" width="600" alt="Prompt de Vídeo: Cidade Cyberpunk e Metrópole do Futuro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13999)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2122815472446185554) | **Published:** Nov 17, 2026
+
+---
+### Elfo de Natal Panda em Stop Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para uma cena em estilo de animação stop motion, apresentando um panda com textura de feltro vestido como elfo de Natal.
+
+#### 📝 Prompt
+
+```
+Uma cena detalhada e de alta qualidade no estilo de animação stop-motion, apresentando um Panda com textura de feltro vestido de elfo de Natal. O Panda é o elemento central da composição, usando uma túnica verde de feltro com acabamento em pelúcia branca, um b...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122774303058063360/img/5myr2nsYECOkjdcX.jpg" width="600" alt="Elfo de Natal Panda em Stop Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13989)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122774319164252365) | **Published:** Nov 17, 2026
+
+---
 ### Vídeo de Cosplay Miko de Garota Élfica
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -850,6 +1015,27 @@ Personagens fictícios de ficção científica gerados por IA e transformações
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13858)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **Published:** Nov 13, 2026
+
+---
+### Vídeo de Bolo de Aniversário em Marte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um tweet descrevendo um cenário de vídeo: Elon Musk trazendo um bolo para Marte via Grok Imagine. O texto fornece contexto, mas é mais um comentário do que um prompt estrito, embora descreva a cena.
+
+#### 📝 Prompt
+
+```
+Feliz aniversário, @dvorahfr ! 🎂🚀
+
+O Elon trouxe o bolo. O Grok Imagine nos levou pra Marte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121257454625251328/img/aRfWU2v01Pq1KX-o.jpg" width="600" alt="Vídeo de Bolo de Aniversário em Marte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13998)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2121258069321789716) | **Published:** Nov 13, 2026
 
 ---
 ### Prompt de Transformação do Cavaleiro das Trevas
@@ -2257,234 +2443,6 @@ Mantenha inalterados a identidade dela, a emissão dos lasers pelos olhos e o pr
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
 
 ---
-### Dragões Voadores com Pó Estelar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo que adiciona pequenos dragões verde-pálidos e azul-brilhantes voando lentamente com efeitos de pó estelar.
-
-#### 📝 Prompt
-
-```
-Adicione um dragãozinho verde-claro e um dragão azul-claro brilhante voando lentamente ao redor, deixando um rastro de poeira estelar a cada batida de asa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117853828729217024/img/_UDmHIIc2gMiLSdR.jpg" width="600" alt="Dragões Voadores com Pó Estelar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13548)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2117853925177221209) | **Published:** Nov 4, 2026
-
----
-### Prompt de Vestido Neoninja Futurista para Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de imagem para o Grok Imagine descrevendo uma kunoichi (ninja feminina) do futuro, com cabelo preso em coque e vestido neoninja, contra um cenário urbano, destinado a ser animado posteriormente.
-
-#### 📝 Prompt
-
-```
-"Uma kunoichi futurista em frente a um cenário de uma cidade repleta de arranha-céus rosa e lilás, usando o cabelo preso em um coque preto e um traje ninja nas cores ciano e preto. Proporção 9:16. Sem texto, por favor 🥷"
-```
-
-<img src="https://cms-assets.youmind.com/media/1793865241306_98do0q_HWQXzhabwAAQF0c.jpg" width="600" alt="Prompt de Vestido Neoninja Futurista para Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13558)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2117844350847840763) | **Published:** Nov 4, 2026
-
----
-### Prompt de Vídeo: Transformação de Bolsa Cyberpunk em Armadura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para geração de vídeo no Grok Imagine que cria uma sequência cinematográfica de ficção científica, onde a bolsa de uma mulher se transforma em armadura metálica completa de combate em um beco cyberpunk com luzes neon.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere uma sequência de Transformações Sci-Fi cyberpunk puramente cinematográfica e de altíssimo nível, na qual a bolsa transforma a mulher em um traje completo de armadura metálica de combate. O foco central é a mulher, e o evento principal é a bolsa iniciando uma metamorfose high-tech completa que termina com ela totalmente vestida em uma avançada armadura metálica de combate.
-
-[Roteiro do Evento]
-No início: Uma mulher solitária está de pé em um beco cyberpunk noturno, encharcado pela chuva e banhado por luzes neon. Anúncios holográficos gigantescos e uma densa arquitetura vertical brilham ao fundo. Ela veste um traje contemporâneo estiloso e carrega uma bolsa high-tech elegante no ombro. Luzes intensas de ciano, magenta e roxo profundo refletem no asfalto molhado e no vidro.
-
-Evento principal: A bolsa é ativada por um pulso de energia de baixa frequência. Fluxos de nanites e tentáculos de metal líquido irrompem dela, envolvendo rapidamente o corpo da mulher em uma cascada contínua e fluida. O material escorre sobre sua pele, membros e tronco, construindo placas metálicas sobrepostas, articulações móveis, condutores de energia brilhantes, blindagem reforçada e um capacete de combate avançado que se forma ao redor de sua cabeça. Faíscas de plasma, fragmentos de interface holográfica e rastros de luz volumétrica espiralam ao seu redor enquanto a armadura se trava no lugar. Sua postura muda de uma pose casual para uma posição de prontidão para o combate.
-
-No final: Ela permanece de pé, totalmente transformada em um traje completo de armadura metálica de combate de corpo inteiro, feita de placas high-tech contínuas com linhas de energia ciano brilhantes, a viseira do capacete iluminada, e a bolsa original completamente integrada e desaparecida. A chuva continua a escorrer pelas superfícies metálicas polidas sob uma iluminação neon cinematográfica.
-
-[Estilo Visual e Atmosfera]
-Estética Sci-Fi cyberpunk puramente cinematográfica e de altíssimo nível. Superfícies metálicas ultradetalhadas com reflexos úmidos, raios de luz volumétricos (god rays) cortando a chuva e a névoa holográfica, color grading neon de alto contraste, lens flares anamórficos e uma rica profundidade atmosférica. A transformação transmite uma sensação de poder, fluidez e inevitabilidade.
-
-[Câmera]
-Começa com um plano médio-aberto dramático que estabelece o beco e a mulher. Um movimento orbital suave de tracking circula a personagem enquanto os nanites são ativados, depois avança em um close fechado para capturar o fluxo de metal líquido pelo seu corpo. Avanço dinâmico e heroico em contra-plongée (ângulo baixo) enquanto as últimas placas da armadura se travam e o capacete se fecha. Termina com um dolly-out lento e imponente, revelando a figura totalmente blindada em silhueta contra o cenário urbano iluminado.
-
-[Som]
-Um grave profundo de sub-bass quando a bolsa é ativada, combinado com sons metálicos afiados de transformação, o zumbido rápido do enxame de nanites, descargas de energia crepitantes e impactos hidráulicos pesados das placas se travando. Chuva ambiente cyberpunk, trânsito distante e zumbidos holográficos. Encerra com um tom poderoso e ressonante de ativação da armadura e um único swell cinematográfico sustentado.
-
-[Manter Consistência]
-Mantenha a mulher como o único sujeito da cena. A bolsa é a fonte exclusiva da transformação e se integra totalmente à armadura final. A armadura deve ser completa, metálica, de estilo combate cobrindo o corpo inteiro, sem nenhuma parte exposta ou cobertura parcial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="Prompt de Vídeo: Transformação de Bolsa Cyberpunk em Armadura">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13520)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117832838594896196) | **Published:** Nov 4, 2026
-
----
-### Prompt de Vídeo: Transformação de Mulher em Optimus Prime a partir de Bolsa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para geração de vídeo no Grok Imagine, onde uma mulher solta sua bolsa, que se transforma em sua própria persona vestida como Optimus Prime.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere um vídeo de transformação de outro nível com uma mulher que solta a bolsa no chão; a bolsa se transforma repentinamente nela mesma como Optimus.
-
-[Roteiro do Evento]
-No início, ela está de pé segurando a bolsa e, em seguida, a solta propositalmente no chão. A bolsa atinge o solo e imediatamente inicia uma transformação dramática e cheia de energia: ela se expande, se desdobra, placas metálicas e articulações mecânicas surgem, linhas de energia brilhantes percorrem a forma em constante mudança, painéis de armadura se encaixam no lugar, e a bolsa se reconfigura por completo na sua exata versão como Optimus — imponente, poderosa, totalmente blindada e pronta para a ação. No final, ela (como Optimus) permanece de pé, confiante, exatamente onde a bolsa estava, com a transformação concluída.
-
-[Manter a Consistência]
-Ela e sua forma Optimus permanecem como a mesma personagem única durante todo o vídeo; a bolsa é a única fonte da transformação e se converte inteiramente nela mesma como Optimus, sem que sobrem objetos ou personagens extras.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg" width="600" alt="Prompt de Vídeo: Transformação de Mulher em Optimus Prime a partir de Bolsa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13521)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117796166192578893) | **Published:** Nov 4, 2026
-
----
-### Prompt do Grok Imagine: Movimento de Câmera Dollie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado descrevendo um movimento de câmera dollie de duas mulheres caminhando para frente com sabres, enfatizando o movimento natural e sem deformação.
-
-#### 📝 Prompt
-
-```
-Câmera em dolly de volta enquanto as duas mulheres caminham casualmente em direção à câmera. A mulher chinesa olha para a outra mulher enquanto andam, sem tropeços no passo, sem ações estranhas, sem andar rápido. Elas mantêm os sabres nas mãos, sem deformações (morphing), sem movimentos antinaturais.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg" width="600" alt="Prompt do Grok Imagine: Movimento de Câmera Dollie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13518)**
-
-**Author:** [Gentugo](https://x.com/GentugoMartukro) | **Source:** [Link](https://x.com/GentugoMartukro/status/2117779510976290960) | **Published:** Nov 4, 2026
-
----
-### Cena de Sitcom dos Anos 80 com o Segredo da Supermodelo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo que cria uma cena cômica no estilo de sitcom dos anos 80, apresentando uma adolescente pedindo segredos de beleza a uma supermodelo.
-
-#### 📝 Prompt
-
-```
-Uma cena de uma sitcom dos anos 80 em que uma adolescente implora para uma supermodelo revelar o segredo da sua pele e corpo perfeitos. A supermodelo faz uma pausa por um instante e então mostra um pequeno compressor e um aerógrafo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg" width="600" alt="Cena de Sitcom dos Anos 80 com o Segredo da Supermodelo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13519)**
-
-**Author:** [Rusty Zimmer](https://x.com/Rust_E) | **Source:** [Link](https://x.com/Rust_E/status/2117727865550856421) | **Published:** Nov 3, 2026
-
----
-### Integrar Imagem ao Vídeo de Cena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que instrui o modelo a integrar uma imagem específica em uma cena e executá-la junto com os vídeos anteriores.
-
-#### 📝 Prompt
-
-```
-Integre esta imagem ao prompt da cena, execute junto com os vídeos anteriores e combine uma imagem criativa e imaginativa da mensagem com os vídeos anteriores
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg" width="600" alt="Integrar Imagem ao Vídeo de Cena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13517)**
-
-**Author:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **Source:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **Published:** Nov 3, 2026
-
----
-### Prompt de Vídeo: Elon Musk Flutuando em Água Monocromática
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de geração de vídeo para o Grok Imagine que cria uma cena contínua e flutuante de Elon Musk suspenso em água com a mesma cor do seu corpo. O prompt especifica movimento lento e natural, sem quebras na superfície e preservação consistente da identidade.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gerar um vídeo contínuo de Elon Musk flutuando em uma água exatamente da mesma cor da água suspensa ao redor, com ele flutuando suavemente e mantido suspenso dentro dela.
-
-[Roteiro de Eventos]
-No início: Elon Musk está totalmente imerso e flutuando sem peso na água monocromática, com o corpo relaxado e leve, e os membros levemente estendidos em uma postura natural de flutuação.
-Evento principal: Ele se move lentamente e de forma contínua, subindo e descendo conforme as sutis correntes da água, com o corpo girando ou mudando de posição suavemente enquanto permanece totalmente submerso e suspenso, com a água de cor idêntica fluindo ao redor e sobre ele sem romper a superfície.
-No final: Elon Musk continua flutuando de maneira estável e suspenso na água da mesma cor, ainda totalmente imerso, com movimentos calmos e contínuos.
-
-[Manter Consistência]
-Mantenha a identidade, os traços do rosto, o penteado e as proporções corporais de Elon Musk estáveis durante todo o vídeo. A cor da água permanece uniforme e idêntica à da água suspensa ao redor dele o tempo todo. Nenhuma outra pessoa, objeto ou mudança de cor deve aparecer. O movimento deve ser lento, natural e contínuo, sem movimentos bruscos ou rupturas na superfície.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117671174524276737/img/r8RAvhFoJOKn4Qzx.jpg" width="600" alt="Prompt de Vídeo: Elon Musk Flutuando em Água Monocromática">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13554)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117671226097483934) | **Published:** Nov 3, 2026
-
----
-### Transformação de trem-robô de ficção científica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt altamente detalhado para gerar um vídeo cinematográfico de ficção científica onde um trem-bala futurista se transforma em um robô gigante bípede de combate.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere um vídeo de ficção científica de alto nível mostrando um trem-bala futurista passando por uma transformação mecânica e robótica completa, tornando-se um imponente robô de combate bípede.
-
-[Roteiro do Evento]
-No início: Um trem-bala prateado e preto, elegante e aerodinâmico, dispara pelos trilhos elevados de levitação magnética (maglev) de uma megacidade cyberpunk iluminada por neon durante a noite. Os motores zumbem deixando rastros de energia azul, enquanto as luzes da cidade passam como borrões.
-Evento principal: O trem inicia sua sequência completa de transformação. Os painéis frontais da locomotiva se abrem com precisão hidráulica, revelando reatores centrais incandescentes. Os vagões laterais se dobram e se reconfiguram: as rodas se retraem para dar lugar a pernas mecânicas complexas que se desdobram e travam no lugar, formando membros bípedes blindados. A carroceria principal gira 90 graus, erguendo-se para formar um torso humanoide colossal com placas de armadura entrelaçadas. O cone frontal se transforma em uma cabeça robótica detalhada, cujos olhos em formato de visor acendem em um tom vermelho-alaranjado. Os braços são montados a partir dos módulos do teto e da parte inferior, equipados com mãos mecânicas multiarticuladas e suportes para armas de energia. Todas as peças se encaixam entre faíscas, vapor e pistões hidráulicos batendo na posição final.
-No final: O mecha gigante já totalmente transformado permanece de pé sobre os trilhos, dominando o horizonte da cidade em uma pose poderosa e pronta para o combate, com o núcleo do peito brilhando intensamente, preparado para a ação.
-
-[Estilo Visual]
-Transformação mecânica de ficção científica ultradetalhada, com placas de armadura complexas e entrelaçadas, engrenagens, pistões, cabos e dutos de energia visíveis. Texturas metálicas hiper-realistas em cromo e preto fosco, com detalhes em neon azul e vermelho brilhantes. Atmosfera cyberpunk cinematográfica com iluminação volumétrica, lens flares e efeitos de partículas gerados por vapor e faíscas.
-
-[Câmera]
-Sequência dinâmica em múltiplos ângulos: começa com um travelling baixo acompanhando o trem em alta velocidade, muda para tomadas orbitais dramáticas durante a transformação, cortes rápidos para closes das peças se transformando (rodas virando pés, painéis se dobrando em armaduras) e, por fim, a câmera se afasta para um plano aberto heroico em contra-plongée, mostrando o robô completo erguido contra a cidade de neon.
-
-[Som]
-O ronco grave dos motores do trem dá lugar a fortes chiados hidráulicos, estalos metálicos, engrenagens rangendo, zumbidos de energia carregando e, por fim, um rugido mecânico grave e profundo quando o robô é totalmente ativado. Ruído ambiente de uma cidade cyberpunk e trânsito ao longe.
-
-[Manter Consistência]
-Preserve a transformação única e contínua de um único trem em um único robô completo. Mantenha todas as peças mecânicas originadas da estrutura original do trem. Preserve a mesma linguagem visual de ficção científica, os brilhos de energia e o ambiente noturno cyberpunk do início ao fim.
-
-Aviso legal: 
-Este vídeo é um conceito fictício de ficção científica gerado por IA, criado exclusivamente para fins de entretenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="Transformação de trem-robô de ficção científica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13515)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2546,6 +2504,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-18T07:08:56.212Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-18T17:24:45.127Z</sub>
 
 </div>

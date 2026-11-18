@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3427** |
+| 📝 Total Prompts | **3438** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-18** |
 
@@ -189,6 +189,171 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Mở rộng cảnh thời trang trên Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine giúp mở rộng cảnh diễn thời trang bằng cách thêm các người nổi tiếng và nhân vật cụ thể vào hình nền hiện có.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh đầu tiên làm nền tảng cho cảnh trình diễn thời trang bình đẳng với Charlize Theron, Michelle Obama đang bế bé Donald Trump Jr, Donald Trump và Melania, hãy mở rộng nhóm nhân vật: thêm chính xác Paris Hilton từ hình ảnh thứ hai đứng cạnh C...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122951565917216769/img/_vFnfIx4TCJAzp55.jpg" width="600" alt="Mở rộng cảnh thời trang trên Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13991)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2122951597483589966) | **Published:** Nov 18, 2026
+
+---
+### Robot Tesla Optimus tại Quảng trường Times
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho video về đội quân robot Tesla Optimus diễu hành qua Quảng trường Times.
+
+#### 📝 Prompt
+
+```
+Đội quân robot Tesla Optimus đang diễu hành qua Quảng trường Thời đại, tiến bước giữa lòng thành phố!
+Giải pháp cho Lực lượng Cảnh sát New York.
+Lực lượng Robot Chống Khủng bố 🇺🇸
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122930461525606400/img/IjNg6AnsBjdUuFoR.jpg" width="600" alt="Robot Tesla Optimus tại Quảng trường Times">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13992)**
+
+**Author:** [Sherry Cord](https://x.com/SherryBossMama) | **Source:** [Link](https://x.com/SherryBossMama/status/2122930521269526583) | **Published:** Nov 18, 2026
+
+---
+### Prompt Grok Imagine cho hoạt ảnh bìa The Economist
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Người dùng chia sẻ một prompt được sử dụng với Grok Imagine để tạo hiệu ứng động cho hình ảnh liên quan đến bìa tạp chí The Economist, kết quả là một video hài hước về các xe tăng chiến đấu bay.
+
+#### 📝 Prompt
+
+```
+Hãy cùng làm rõ hơn bức tranh này qua những thông tin mới nhất về trang bìa của The Economist.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122874678393925632/img/nFP2ZyZHkAioAgb4.jpg" width="600" alt="Prompt Grok Imagine cho hoạt ảnh bìa The Economist">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13995)**
+
+**Author:** [Gabriel Santini](https://x.com/GCSantiniX) | **Source:** [Link](https://x.com/GCSantiniX/status/2122876989698875451) | **Published:** Nov 18, 2026
+
+---
+### Âm Nhạc Thiên Thể Của Gấu Trúc Và Gấu Bắc Cực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cảnh gấu trúc con và gấu bắc cực con chơi nhạc cụ giữa những xoáy thiên thể.
+
+#### 📝 Prompt
+
+```
+Cho gấu trúc con và gấu Bắc Cực con cùng chơi nhạc cụ, thêm những vòng xoắn thiên hà. Hoặc tự tạo phương án của riêng bạn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122876434389827585/img/OoWVbVn958H2bfzq.jpg" width="600" alt="Âm Nhạc Thiên Thể Của Gấu Trúc Và Gấu Bắc Cực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13990)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122876464718897609) | **Published:** Nov 18, 2026
+
+---
+### Video về Môi trường Sống Trung tâm Dữ liệu Quay Quanh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine, mô tả các môi trường sống kết nối với trung tâm dữ liệu đang quay quanh Trái Đất.
+
+#### 📝 Prompt
+
+```
+Môi trường sống kết nối với các Data centers, bay quanh quỹ đạo Trái Đất
+Khi Data Centers trở thành Nhà, tuổi thọ của một công việc, bảo vệ Dữ liệu,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122861868771577856/img/EJf1SfT9YzjhEzWx.jpg" width="600" alt="Video về Môi trường Sống Trung tâm Dữ liệu Quay Quanh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13993)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2122861994206441622) | **Published:** Nov 18, 2026
+
+---
+### Grok Imagine: Cảnh Cửa Sổ Tháp Với Quần Lounge Pants
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine, mô tả một phụ nữ bước đến cửa sổ tháp với các điều chỉnh thêm về bụi hồng và thảm.
+
+#### 📝 Prompt
+
+```
+Cô ấy mặc quần loungewear bước tới ô cửa sổ trên tòa tháp cao, thêm một bụi hoa hồng bên cửa sổ. Làm tấm thảm sáng màu hơn cho ton-sur-ton với những bông hồng....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122833801365569536/img/i2W4W7Dc5aYjx_ox.jpg" width="600" alt="Grok Imagine: Cảnh Cửa Sổ Tháp Với Quần Lounge Pants">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13994)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2122833828658180547) | **Published:** Nov 17, 2026
+
+---
+### Prompt Video Thành Phố Cyberpunk và Đô Thị Tương Lai
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt cho video một cú máy dài kết hợp thị trấn truyền thống Nhật Bản với siêu đô thị cyberpunk tương lai, nổi bật với chuyển động camera như chim bay và các chi tiết cụ thể về hạ tầng giao thông.
+
+#### 📝 Prompt
+
+```
+Một thế giới giao thoa giữa khu phố cổ Nhật Bản và thành phố tương lai (megastructure), mang đậm phong cách cyberpunk.
+
+Hệ thống hạ tầng giao thông được phân chia riêng biệt.
+Khu phố cổ có những chuyến xe điện kiểu cũ lắp bánh lốp chạy trên mặt đất/đường phố.
+Phần thành phố tương lai sử dụng mạng lưới đường ống kết nối, bên trong là các phương tiện cá nhân không bánh lốp di chuyển.
+Nơi góc khuất của khu phố cổ, có một cổng torii màu đỏ đứng đơn độc, bao quanh là cây cối xanh tươi um tùm.
+
+Video là một cú máy dài (long take), quay liền mạch không cắt cảnh.
+Góc máy di chuyển như một chú chim đang bay lượn (không hiển thị hình ảnh con chim).
+
+*Lưu ý: Các phương tiện cá nhân lưu thông trong mạng lưới đường ống chỉ có một chiếc mỗi ống, giống nhau...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122815120938295296/img/udqXNLnUA6Bty2n9.jpg" width="600" alt="Prompt Video Thành Phố Cyberpunk và Đô Thị Tương Lai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13999)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2122815472446185554) | **Published:** Nov 17, 2026
+
+---
+### Panda Elf Giáng Sinh Stop Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho cảnh hoạt hình stop-motion với chú gấu trúc bằng vải nỉ hóa trang thành yêu tinh Giáng sinh.
+
+#### 📝 Prompt
+
+```
+Một khung cảnh phong cách hoạt hình stop-motion chất lượng cao, chi tiết, nổi bật với chú Panda có kết cấu vải nỉ hóa trang thành yêu tinh Giáng sinh. Chú Panda là chủ thể trung tâm, mặc chiếc áo tunic bằng nỉ màu xanh lá viền lông trắng, một chiếc b...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122774303058063360/img/5myr2nsYECOkjdcX.jpg" width="600" alt="Panda Elf Giáng Sinh Stop Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13989)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2122774319164252365) | **Published:** Nov 17, 2026
+
+---
 ### Video Cosplay Elf Girl Miko
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -852,6 +1017,27 @@ Các nhân vật khoa học viễn tưởng do AI tạo ra và những màn bi�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13858)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2121261462983192595) | **Published:** Nov 13, 2026
+
+---
+### Video Bánh Sinh Nhật Trên Sao Hỏa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một tweet mô tả kịch bản video: Elon Musk mang bánh sinh nhật lên sao Hỏa thông qua Grok Imagine. Văn bản cung cấp bối cảnh nhưng thiên về bình luận hơn là một câu lệnh (prompt) nghiêm ngặt, mặc dù nó vẫn mô tả rõ ràng cảnh tượng.
+
+#### 📝 Prompt
+
+```
+Chúc mừng sinh nhật @dvorahfr ! 🎂🚀
+
+Elon thì mang bánh kem đến, còn Grok Imagine đưa cả hội bay thẳng lên Sao Hỏa luôn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121257454625251328/img/aRfWU2v01Pq1KX-o.jpg" width="600" alt="Video Bánh Sinh Nhật Trên Sao Hỏa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13998)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2121258069321789716) | **Published:** Nov 13, 2026
 
 ---
 ### Lời Nhắc Biến Hình Hiệp Sĩ Bóng Tối
@@ -2260,234 +2446,6 @@ Giữ nguyên danh tính của cô, cơ chế phóng tia laser từ mắt và ch
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
 
 ---
-### Rồng Bay Cùng Tinh Hà
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video mô tả những chú rồng nhỏ màu xanh nhạt và xanh sáng lấp lánh bay chậm rãi cùng hiệu ứng bụi sao.
-
-#### 📝 Prompt
-
-```
-Thêm một chú rồng nhỏ màu xanh lục nhạt và một chú rồng màu xanh lam sáng bóng đang chầm chậm bay lượn, để lại những vệt bụi sao lấp lánh sau mỗi nhịp vỗ cánh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117853828729217024/img/_UDmHIIc2gMiLSdR.jpg" width="600" alt="Rồng Bay Cùng Tinh Hà">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13548)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2117853925177221209) | **Published:** Nov 4, 2026
-
----
-### Prompt Grok Imagine: Ninja Tương Lai
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt hình ảnh cho Grok Imagine mô tả một nữ ninja tương lai (kunoichi) với kiểu tóc búi đen và bộ đồ neoninja trên nền thành phố, dự kiến sẽ được tạo hoạt ảnh sau đó.
-
-#### 📝 Prompt
-
-```
-"Một nữ ninja tương lai đứng trước bối cảnh thành phố với những tòa nhà chọc trời màu hồng và tím nhạt, tóc búi đen, mặc trang phục ninja tông xanh lơ và đen. Tỷ lệ khung hình 9:16. Xin đừng thêm chữ 🥷"
-```
-
-<img src="https://cms-assets.youmind.com/media/1793865241306_98do0q_HWQXzhabwAAQF0c.jpg" width="600" alt="Prompt Grok Imagine: Ninja Tương Lai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13558)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2117844350847840763) | **Published:** Nov 4, 2026
-
----
-### Prompt Video Biến Hình Từ Túi Xách Sang Giáp Chiến Đấu Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho Grok Imagine để tạo ra cảnh biến hình khoa học viễn tưởng điện ảnh, trong đó chiếc túi của một người phụ nữ chuyển hóa thành bộ giáp chiến đấu kim loại hoàn chỉnh trong một con hẻm cyberpunk đầy ánh đèn neon.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo sinh]
-Tạo ra một phân cảnh biến hình Sci-Fi cyberpunk thuần chất điện ảnh, đẳng cấp vượt trội, trong đó chiếc túi xách biến cô thành một bộ giáp chiến đấu kim loại hoàn chỉnh. Nhân vật trung tâm là người phụ nữ, và sự kiện chính là chiếc túi khởi động quá trình biến đổi công nghệ cao toàn diện, kết thúc khi cô khoác lên mình trọn vẹn bộ giáp chiến đấu kim loại tối tân.
-
-[Kịch bản sự kiện]
-Mở đầu: Một người phụ nữ đứng đơn độc trong con hẻm cyberpunk về đêm, mặt đường ướt nhẹp phản chiếu ánh đèn neon rực rỡ. Phía sau cô là những bảng quảng cáo hologram khổng lồ cùng kiến trúc dọc dày đặc đang phát sáng. Cô mặc một bộ trang phục đương thời sành điệu, vai đeo chiếc túi công nghệ cao với thiết kế mượt mà. Ánh sáng u ám mang sắc xanh lơ (cyan), hồng đậm (magenta) và tím thẳm hắt lên mặt đường ướt và những tấm kính.
-
-Sự kiện chính: Chiếc túi kích hoạt bằng một xung năng lượng tần số thấp. Các dòng nanite và xúc tu kim loại lỏng phun trào từ bên trong, nhanh chóng cuốn quanh cơ thể cô theo một dòng chảy liên tục, mượt mà. Chất liệu này trượt trên da, tay chân và thân mình cô, đắp nên từng lớp giáp kim loại xếp tầng, các khớp nối linh hoạt, những ống dẫn năng lượng phát sáng, lớp giáp gia cố và một chiếc mũ bảo hiểm chiến đấu tối tân dần định hình quanh đầu cô. Tia plasma bắn tung tóe, các mảnh giao diện hologram và vệt sáng thể tích xoáy tròn quanh người cô khi bộ giáp khóa chặt vào vị trí. Tư thế của cô chuyển từ dáng vẻ thường dân sang thế đứng sẵn sàng chiến đấu.
-
-Kết thúc: Cô đứng đó, đã biến đổi hoàn toàn trong bộ giáp chiến đấu kim loại bao phủ toàn thân, được ghép từ những phiến công nghệ cao liền mạch với các đường năng lượng xanh lơ phát sáng, kính mũ bảo hiểm bừng sáng, còn chiếc túi ban đầu đã hòa nhập hoàn toàn vào bộ giáp và không còn dấu vết. Mưa vẫn tiếp tục xối trên bề mặt kim loại bóng loáng dưới ánh đèn neon đậm chất điện ảnh.
-
-[Phong cách thị giác và Cảm xúc]
-Thẩm mỹ Sci-Fi cyberpunk thuần chất điện ảnh ở đẳng cấp mới. Bề mặt kim loại siêu chi tiết với độ phản chiếu ướt át, những tia sáng thần thánh (god rays) thể tích xuyên qua màn mưa và sương mù hologram, màu neon tương phản cao, lóa ống kính anamorphic và chiều sâu không khí phong phú. Quá trình biến hình toát lên cảm giác mạnh mẽ, uyển chuyển và tất yếu.
-
-[Góc máy]
-Bắt đầu bằng cú máy medium-wide đầy kịch tính để thiết lập bối cảnh con hẻm và người phụ nữ. Góc máy tracking mượt mà xoay vòng quanh cô khi các nanite kích hoạt, sau đó tiến sát lại để bắt trọn dòng chảy kim loại lỏng lướt trên cơ thể. Cú đẩy máy góc thấp (low-angle) đầy động lực và hào hùng khi những phiến giáp cuối cùng khóa chặt và mũ bảo hiểm khép kín. Kết thúc bằng cú dolly-out chậm rãi, mạnh mẽ, hé lộ bóng đen của nhân vật khoác giáp toàn thân in trên nền thành phố rực sáng.
-
-[Âm thanh]
-Tiếng ầm ì sub-bass trầm đục khi chiếc túi kích hoạt, đan xen với âm thanh biến hình kim loại sắc lạnh, tiếng rít vun vút của bầy nanite, tiếng phóng điện nổ lách tách và những cú va đập thủy lực nặng nề khi các phiến giáp khóa chặt. Âm thanh môi trường gồm tiếng mưa cyberpunk, xe cộ xa xa và tiếng vo ve của hologram. Đoạn kết bùng nổ với âm hưởng nạp năng lượng cho bộ giáp đầy cộng hưởng và một nốt nhạc điện ảnh ngân dài duy nhất.
-
-[Duy trì tính nhất quán]
-Giữ người phụ nữ làm nhân vật duy nhất trong khung hình. Chiếc túi là nguồn gốc duy nhất của quá trình biến hình và phải hòa nhập hoàn toàn vào bộ giáp cuối cùng. Bộ giáp phải hoàn chỉnh, bằng kim loại, che phủ toàn thân theo phong cách chiến đấu, tuyệt đối không hở bất kỳ phần nào.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="Prompt Video Biến Hình Từ Túi Xách Sang Giáp Chiến Đấu Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13520)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117832838594896196) | **Published:** Nov 4, 2026
-
----
-### Lời Nhắc Video Biến Đổi Từ Túi Xách Thành Optimus Prime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc tạo video cho Grok Imagine, trong đó một người phụ nữ thả chiếc túi của mình và nó biến hình thành chính cô ấy với ngoại hình Optimus Prime.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video biến hình đỉnh cao về một người phụ nữ thả chiếc túi xuống đất; chiếc túi bất ngờ biến thành chính cô ấy trong hình hài Optimus.
-
-[Kịch bản sự kiện]
-Mở đầu, cô đứng cầm chiếc túi trên tay, sau đó cố tình thả nó xuống đất. Khi chiếc túi vừa chạm mặt đất, quá trình biến hình đầy kịch tính và bùng nổ năng lượng lập tức diễn ra: nó phình to, bung mở, để lộ các tấm kim loại và khớp nối cơ khí, những đường năng lượng phát sáng chạy dọc theo hình khối đang chuyển động, các mảng giáp khóa chặt vào vị trí, và chiếc túi hoàn toàn tái tạo thành chính cô dưới hình dạng Optimus — cao lớn, mạnh mẽ, khoác trọn bộ giáp và sẵn sàng chiến đấu. Ở cảnh cuối, cô (dưới hình hài Optimus) tự tin đứng ngay tại vị trí của chiếc túi, quá trình biến hình kết thúc trọn vẹn.
-
-[Duy trì tính nhất quán]
-Cô ấy và hình dáng Optimus của mình luôn là cùng một nhân vật xuyên suốt video; chiếc túi là nguồn gốc duy nhất của sự biến hình và hoàn toàn hóa thành chính cô trong hình hài Optimus, không còn sót lại bất kỳ đồ vật hay nhân vật nào khác.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg" width="600" alt="Lời Nhắc Video Biến Đổi Từ Túi Xách Thành Optimus Prime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13521)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117796166192578893) | **Published:** Nov 4, 2026
-
----
-### Grok Imagine Prompt: Camera Dollie Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết prompt video về cảnh quay camera dollie của hai người phụ nữ đi về phía trước với kiếm, nhấn mạnh chuyển động tự nhiên và không có hiệu ứng biến dạng.
-
-#### 📝 Prompt
-
-```
-Camera Dolly trở lại khi hai người phụ nữ thong thả bước về phía camera, người phụ nữ Trung Quốc nhìn sang người phụ nữ còn lại trong lúc cả hai đang đi, nhịp bước đều đặn không vấp váp, không có hành động kỳ lạ, không bước nhanh, họ vẫn cầm thanh kiếm trên tay, không biến dạng hình ảnh, không có chuyển động thiếu tự nhiên
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg" width="600" alt="Grok Imagine Prompt: Camera Dollie Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13518)**
-
-**Author:** [Gentugo](https://x.com/GentugoMartukro) | **Source:** [Link](https://x.com/GentugoMartukro/status/2117779510976290960) | **Published:** Nov 4, 2026
-
----
-### Cảnh phim sitcom thập niên 80 với bí mật của siêu mẫu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video xây dựng một cảnh hài hước theo phong cách sitcom thập niên 80, trong đó một cô gái tuổi teen hỏi bí quyết làm đẹp từ một siêu mẫu.
-
-#### 📝 Prompt
-
-```
-Một phân cảnh trong bộ phim sitcom thập niên 80: cô gái tuổi teen nài nỉ một siêu mẫu tiết lộ bí quyết để có được làn da hoàn hảo cùng vóc dáng vạn người mê. Siêu mẫu trầm ngâm một lát rồi lôi ra một chiếc máy nén khí nhỏ và cây bút phun sơn airbrush.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg" width="600" alt="Cảnh phim sitcom thập niên 80 với bí mật của siêu mẫu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13519)**
-
-**Author:** [Rusty Zimmer](https://x.com/Rust_E) | **Source:** [Link](https://x.com/Rust_E/status/2117727865550856421) | **Published:** Nov 3, 2026
-
----
-### Tích hợp hình ảnh vào video cảnh quay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hướng dẫn mô hình tích hợp một hình ảnh cụ thể vào cảnh quay và chạy cùng với các video trước đó.
-
-#### 📝 Prompt
-
-```
-Lồng ghép hình ảnh này vào prompt bối cảnh để chạy cùng các video trước đó, đồng thời kết hợp một bức ảnh truyền tải thông điệp đầy sáng tạo và giàu trí tưởng tượng với những video cũ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg" width="600" alt="Tích hợp hình ảnh vào video cảnh quay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13517)**
-
-**Author:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **Source:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **Published:** Nov 3, 2026
-
----
-### Prompt Video Elon Musk Lơ Lửng Trong Nước Đơn Sắc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, mô tả cảnh Elon Musk lơ lửng trong nước với màu sắc đồng nhất với cơ thể. Prompt yêu cầu chuyển động chậm, tự nhiên, không phá vỡ bề mặt và giữ nguyên đặc điểm nhận dạng.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video liên tục về cảnh Elon Musk lơ lửng trong nước, với màu nước hoàn toàn giống hệt vùng nước đang trôi nổi xung quanh. Trong đó, Elon Musk nhẹ nhàng bồng bềnh và lơ lửng giữa dòng nước.
-
-[Kịch bản sự kiện]
-Lúc bắt đầu: Elon Musk chìm hoàn toàn và lơ lửng không trọng lượng trong vùng nước đơn sắc, cơ thể thả lỏng và nổi tự nhiên, tay chân hơi duỗi ra theo tư thế bồng bềnh thoải mái.
-Sự kiện chính: Ông chậm rãi trôi liên tục, nhấp nhô lên xuống theo những dòng chảy nhẹ của nước, cơ thể từ từ xoay hoặc dịch chuyển nhưng vẫn luôn chìm hẳn và lơ lửng trong nước. Dòng nước cùng màu chảy bao quanh và lướt qua người ông mà không hề làm vỡ mặt nước.
-Lúc kết thúc: Elon Musk vẫn giữ trạng thái bồng bềnh và lơ lửng ổn định trong vùng nước cùng màu, hoàn toàn chìm trong nước với chuyển động êm ái, liên tục.
-
-[Duy trì tính nhất quán]
-Giữ nguyên đặc điểm nhận dạng, đường nét khuôn mặt, kiểu tóc và tỷ lệ cơ thể của Elon Musk xuyên suốt video. Màu nước luôn đồng nhất và giống hệt vùng nước lơ lửng xung quanh ông ở mọi thời điểm. Không xuất hiện thêm bất kỳ người, đồ vật hay sự thay đổi màu sắc nào khác. Chuyển động duy trì nhịp độ chậm rãi, tự nhiên và liền mạch, không có hành động đột ngột hay làm xáo trộn mặt nước.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117671174524276737/img/r8RAvhFoJOKn4Qzx.jpg" width="600" alt="Prompt Video Elon Musk Lơ Lửng Trong Nước Đơn Sắc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13554)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117671226097483934) | **Published:** Nov 3, 2026
-
----
-### Biến hình robot tàu hỏa khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cao để tạo video khoa học viễn tưởng điện ảnh, trong đó một tàu cao tốc tương lai biến hình thành robot chiến đấu hai chân khổng lồ.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video khoa học viễn tưởng đỉnh cao về một đoàn tàu siêu tốc tương lai đang trải qua quá trình biến đổi cơ khí hoàn toàn thành một robot chiến đấu hai chân khổng lồ.
-
-[Kịch bản sự kiện]
-Mở đầu: Một đoàn tàu cao tốc hình viên đạn màu bạc đen với thiết kế khí động học lướt đi trên đường ray đệm từ trên cao, xuyên qua một siêu đô thị cyberpunk rực ánh đèn neon giữa màn đêm. Động cơ gầm rú để lại những vệt năng lượng xanh lam, trong khi ánh đèn thành phố vụt qua như những dải sáng.
-Sự kiện chính: Đoàn tàu bắt đầu chuỗi biến đổi toàn diện. Các tấm ốp ở đầu tàu tách ra với độ chính xác của hệ thống thủy lực, để lộ lõi phản ứng phát sáng rực rỡ. Các toa xe hai bên gập lại và tái cấu trúc: bánh xe thu vào trong, nhường chỗ cho những cặp chân cơ khí phức tạp bung ra và khóa chặt, tạo thành các chi thể bọc giáp. Thân tàu xoay 90 độ, vươn lên trở thành phần thân mình đồ sộ của một hình nhân khổng lồ với các lớp giáp đan cài vào nhau. Phần mũi tàu biến hóa thành chiếc đầu robot chi tiết, đôi mắt kính visor bừng sáng ánh đỏ cam. Cánh tay được lắp ráp từ các module trên nóc và gầm tàu, hoàn thiện với bàn tay cơ khí đa khớp cùng bệ gắn vũ khí năng lượng. Mọi bộ phận khớp nối vào nhau trong tiếng xèo xèo của tia lửa điện, luồng hơi nước phụt ra và các piston thủy lực đóng sập vào vị trí cuối cùng.
-Kết thúc: Robot mech khổng lồ sau khi biến đổi hoàn toàn đứng thẳng trên đường ray, sừng sững vượt qua cả đường chân trời của thành phố trong tư thế sẵn sàng chiến đấu đầy uy lực, lõi ngực phát sáng rực rỡ, chờ lệnh xuất kích.
-
-[Phong cách hình ảnh]
-Quá trình biến đổi cơ khí khoa học viễn tưởng siêu chi tiết với các lớp giáp đan cài tinh xảo, lộ rõ bánh răng, piston, dây cáp và ống dẫn năng lượng. Chất liệu kim loại siêu thực với sắc chrome, đen nhám, điểm xuyết bằng những vệt neon xanh/đỏ phát sáng. Bầu không khí cyberpunk đậm chất điện ảnh với ánh sáng thể tích (volumetric lighting), hiệu ứng lóa ống kính (lens flare) cùng các hạt bụi từ hơi nước và tia lửa bay tung tóe.
-
-[Góc máy]
-Chuỗi góc quay động linh hoạt: bắt đầu bằng cú lia máy tầm thấp chạy dọc theo đoàn tàu đang lao nhanh, chuyển sang những góc quay bao quanh đầy kịch tính trong lúc biến đổi, cắt cảnh liên tục đến các cận cảnh chi tiết (bánh xe hóa thành bàn chân, tấm ốp gập lại thành áo giáp), rồi lùi xa dần để lấy góc rộng từ dưới lên đầy hào hùng, khắc họa robot hoàn chỉnh đứng sừng sững giữa thành phố neon.
-
-[Âm thanh]
-Tiếng động cơ tàu ầm ầm trầm đục chuyển dần sang tiếng xì hơi thủy lực nặng nề, tiếng kim loại va đập chát chúa, tiếng bánh răng nghiến vào nhau, tiếng vù vù của năng lượng đang nạp, và cuối cùng là tiếng gầm cơ khí trầm vang dội khi robot được kích hoạt hoàn toàn. Âm thanh nền là tiếng ồn đặc trưng của đô thị cyberpunk và dòng xe cộ phía xa.
-
-[Duy trì tính nhất quán]
-Giữ nguyên một quá trình biến đổi liền mạch duy nhất từ một đoàn tàu thành một robot hoàn chỉnh. Đảm bảo mọi chi tiết cơ khí đều bắt nguồn từ chính cấu trúc của đoàn tàu ban đầu. Duy trì ngôn ngữ thiết kế khoa học viễn tưởng, các điểm nhấn năng lượng phát sáng và bối cảnh đêm cyberpunk xuyên suốt toàn bộ video.
-
-Tuyên bố miễn trừ trách nhiệm: 
-Video này là một ý tưởng khoa học viễn tưởng hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="Biến hình robot tàu hỏa khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13515)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2549,6 +2507,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-18T07:08:51.095Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-18T17:24:37.874Z</sub>
 
 </div>
