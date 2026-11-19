@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3438** |
+| 📝 Total Prompts | **3440** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-19** |
 
@@ -189,6 +189,64 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt: Zauberin mit silbernen Flügeln
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt zur Erstellung einer weiblichen Zauberin mit langen schwarzen Haaren, silbernen Flügeln und einem Farbverlaufskleid. Er wird nach der initialen Bildgenerierung durch ChatGPT in Grok Imagine verwendet.
+
+#### 📝 Prompt
+
+```
+Eine Zauberin mit langem, wallendem schwarzem Haar und leuchtenden silbernen Flügeln, gekleidet in ein Gewand mit einem dreifarbigen Farbverlauf aus mediumpurple, mediumslateblue und slateblue. In einer Hand schwebt eine runde, grün leuchtende Energiekugel. Seitenverhältnis 9:16. Bitte keinen Text einfügen. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt: Zauberin mit silbernen Flügeln">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **Published:** Nov 19, 2026
+
+---
+### Kinematografische Nachmittagsszene mit Katze und Taube
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Video-Prompt für Grok Imagine zur Generierung einer 12-sekündigen kinematografischen Szene, in der eine Frau auf einem Holzstuhl entspannt, während ein Kätzchen schläft und eine weiße Taube anwesend ist. Der Prompt enthält spezifische Kamerabewegungen und Anweisungen zur visuellen Konsistenz.
+
+#### 📝 Prompt
+
+```
+Ein 12-sekündiges, filmisches Realfilm-Video. Ein friedlicher Nachmittag: Eine Frau sitzt im Schneidersitz auf einem Holzstuhl am Fenster, während Sonnenlicht durch die Bäume fällt. Während des gesamten Videos müssen die Gesichtszüge der Frau sowie ihre Position visuell und räumlich absolut konsistent bleiben – ihr schwarzes, mit einem weißen Band hochgebundenes Haar, das hellblaue, leicht transparente Hemd, die weiße bequeme Hose, die weiße Taube auf ihrer linken Schulter und das schlafende weiße Kätzchen auf ihrem Schoß.
+
+[0s–4s: Szene 1 (Halbnahe @Image1)]
+Beginn basierend auf @Image1. Die Frau verharrt im Schneidersitz auf dem Stuhl,
+1. führt den Becher, den sie mit beiden Händen hält, langsam zum Mund, nimmt einen Schluck des warmen Getränks und seufzt erleichtert auf.
+2. Dann blickt sie hinab auf das zusammengerollte, schlafende weiße Kätzchen auf ihrem Schoß, betrachtet es liebevoll und lächelt sanft.
+Die weiße Taube auf ihrer linken Schulter legt den Kopf leicht schief, während sich die Spitzengardinen sanft im Wind wiegen.
+
+[4s–8s: Szene 2 (Nahaufnahme @Image2)]
+Die Kamera zoomt fließend heran und wechselt zu einer Brustaufnahme aus @Image2. Sie behält ihren Sitz im Schneidersitz bei,
+1. kneift die Augen leicht zusammen und atmet tief ein, als würde sie den Dampf und das Aroma prüfen, das aus dem Becher aufsteigt.
+2. Dann dreht sie den Kopf langsam zur weißen Taube auf ihrer linken Schulter und lächelt, als spräche sie leise mit ihr.
+Das Grün vor dem Fenster verschwimmt weich, und sanftes, natürliches Nachmittagslicht erhellt ihr Profil und ihr Haar.
+
+[8s–12s: Szene 3 (Halbnahe @Image3)]
+Die Kamera fährt wieder fließend zurück und kehrt zu einer halbnahen Einstellung aus @Image3 zurück. Noch immer im Schneidersitz,
+1. hält sie den Becher mit beiden Händen an die Brust, richtet ihren Blick wieder direkt auf die Kamera, neigt sanft den Kopf und nimmt eine Pose ein.
+2. Ganz am Ende (11s–12s) zwinkert sie verspielt und niedlich mit dem rechten Auge und behält ihr Lächeln bis zum Ausblenden bei.
+
+[Bildstil & Audio]
+Natürliche Bewegungen, die wie Zeitlupe wirken – die Zeit vergeht langsam und fließend. Weiche Textur mit filmischer Anmutung und warmem, natürlichem Licht. Der Hintergrundsound ist ein ruhiges, entspannendes Instrumentalstück aus akustischer Gitarre und sanftem Klavier – perfekt für eine gemütliche Teestunde am Nachmittag.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="Kinematografische Nachmittagsszene mit Katze und Taube">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **Published:** Nov 19, 2026
+
+---
 ### Erweiterung der Modenschau-Szene in Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2397,51 +2455,6 @@ Stell dir vor, ein Typ im Spider-Man-Kostüm betritt im Madison Square Garden di
 **Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
 
 ---
-### Video-Generierung für Autofahrten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anleitung zur Erstellung eines Videos von einem fahrenden Auto mit festgelegten Auflösung- und Dauer-Einstellungen.
-
-#### 📝 Prompt
-
-```
-Erstelle mir ein neues Video mit diesem Prompt: „Ein fahrendes Auto" und den folgenden Einstellungen: 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Video-Generierung für Autofahrten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
-
----
-### Laser Eye Evolution zu Crystal Optimus Prime – Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung einer Transformationssequenz, in der eine Figur Laserstrahlen aus ihren Augen feuert, die eine Evolutionsreaktion auslösen und zu einem Optimus Prime mit Kristallstruktur kristallisieren.
-
-#### 📝 Prompt
-
-```
-[Generierungsziel]
-Erzeuge eine Transformationssequenz der nächsten Stufe, in der sie einen Laserstrahl aus ihren Augen auf den Boden feuert. Der Laser löst eine Evolutionsreaktion aus, und die Energie kristallisiert zu einem Optimus in Kristallstruktur.
-
-[Ereignisskript]
-Zu Beginn steht sie mittig, den Blick fest nach vorn gerichtet, ihr Körper bereits aufgeladen mit der Restenergie der vorherigen Phase. Plötzlich schießen aus beiden Augen zwei hochintensive Laserstrahlen, die direkt vor ihr auf den Boden treffen. Beim Aufprall brechen die Laser in ein sich ausdehnendes Evolutionsfeld auf: Die Erde reißt auf, Licht ergießt sich wellenförmig nach außen, und geometrische Kristallgitter wachsen rasant empor und greifen ineinander. Die entstehende Kristallmasse wächst nach oben, ihre Facetten vervielfachen sich und verzahnen sich zu einem turmhohen Optimus in Kristallstruktur. Die endgültige Form materialisiert sich vollständig – ein imposanter, kristalliner Optimus Prime –, der komplett und stabil dasteht, während die verbleibende Laserenergie verblasst.
-
-[Konsistenz wahren]
-Halte ihre Identität, die Laseremission aus ihren Augen sowie den exakten Prozess der Evolution zum Kristall durchgehend konstant. Das einzige finale Wesen, das erschaffen wird, ist der Optimus in Kristallstruktur – ohne zusätzliche Charaktere oder alternative Ausgänge.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Laser Eye Evolution zu Crystal Optimus Prime – Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2503,6 +2516,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T02:12:54.592Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T13:01:21.043Z</sub>
 
 </div>

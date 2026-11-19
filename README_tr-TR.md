@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3438** |
+| 📝 Total Prompts | **3440** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-19** |
 
@@ -189,6 +189,64 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Gümüş Kanatlı Büyücü Kadın Promptu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ChatGPT ile ilk görüntü oluşturma işleminden sonra Grok Imagine'de kullanılan, uzun siyah saçlı, gümüş kanatlı ve degrade elbiseli bir kadın büyücü üretmek için prompt.
+
+#### 📝 Prompt
+
+```
+Uzun, dalgalanan siyah saçları ve parlayan gümüş kanatları olan bir kadın büyücü; mediumpurple, mediumslateblue ve slateblue renklerinden oluşan üç renkli geçişli bir elbise giyiyor. Bir elinde yuvarlak, yeşil parıltılı bir enerji küresi süzülüyor. En boy oranı 9:16. Lütfen herhangi bir metin eklemeyin. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Gümüş Kanatlı Büyücü Kadın Promptu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **Published:** Nov 19, 2026
+
+---
+### Kedi ve Güvercinli Sinematik Öğleden Sonra Sahnesi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için, bir kadının uyuyan bir yavru kedi ve beyaz bir güvercinle birlikte ahşap bir sandalyede dinlendiği, özel kamera hareketleri ve tutarlılık talimatları içeren 12 saniyelik sinematik bir sahneyi oluşturmak üzere hazırlanmış detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+12 saniyelik sinematik, gerçek çekim bir video. Ağaçların arasından süzülen güneş ışığının aydınlattığı bir pencere kenarında, ahşap bir sandalyede bağdaş kurarak oturan bir kadının huzur dolu öğleden sonra anı. Video boyunca kadının yüz hatlarında, beyaz bir kurdeleyle toplanmış siyah saçlarında, açık mavi ince gömleğinde, beyaz rahat pantolonunda, sol omzundaki beyaz güvercinde ve kucağında uyuyan beyaz yavru kedide tam bir görsel ve konumsal tutarlılık korunmalıdır.
+
+[0s-4s: Sahne 1 (Orta Çekim @Image1)]
+@Image1 referansıyla başlar. Kadın sandalyede bağdaş kurmuş pozisyonunu korur;
+1. İki eliyle tuttuğu kupayı yavaşça ağzına götürür, sıcak içeceğinden bir yudum alır ve rahatlayarak iç çeker.
+2. Ardından kucağında kıvrılıp uyuyan beyaz yavru kediye bakar, ona sevgiyle bakıp usulca gülümser.
+Sol omzundaki beyaz güvercin başını hafifçe eğerken, dantel perdeler esintide usulca dalgalanır.
+
+[4s-8s: Sahne 2 (Yakın Çekim @Image2)]
+Kamera akıcı bir şekilde yaklaşarak @Image2 referansıyla bir büst çekimine geçer. Kadın bağdaş kurmuş duruşunu korur;
+1. Kuptan yükselen buharı ve kokuyu içine çekiyormuş gibi gözlerini kısar ve derin bir nefes alır.
+2. Sonra başını yavaşça sol omzundaki beyaz güvercine çevirir, onunla tatlı tatlı konuşuyormuş gibi gülümser.
+Pencerenin dışındaki yeşillik yumuşak bir şekilde bulanıklaşırken, nazik ve doğal öğleden sonra ışığı profilini ve saçlarını aydınlatır.
+
+[8s-12s: Sahne 3 (Orta Çekim @Image3)]
+Kamera yeniden akıcı bir şekilde geri çekilerek @Image3 referansıyla orta çekime döner. Hâlâ bağdaş kurmuş haldeyken;
+1. Kupayı iki eliyle göğsüne doğru tutar, bakışlarını öndeki kameraya çevirir, başını usulca eğer ve bir poz verir.
+2. En sonda (11s-12s), sağ gözünü şakacı ve sevimli bir şekilde kırpar, karartma (fade out) olana kadar gülümsemesini sürdürür.
+
+[Görsel Stil ve Ses]
+Zamanın yavaş ve akıcı aktığı, ağır çekim hissi veren doğal hareketler. Film dokusunu andıran yumuşak bir doku ve sıcak doğal ışık. Arka plan müziği (BGM); akustik gitar ve yumuşak piyano ile çalınan, tembel bir öğleden sonra çay saati için mükemmel olan, sakin ve huzur verici bir enstrümantal parçadır.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="Kedi ve Güvercinli Sinematik Öğleden Sonra Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **Published:** Nov 19, 2026
+
+---
 ### Grok Imagine Moda Şovu Sahnesi Genişletme
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2403,51 +2461,6 @@ Madison Square Garden sahnesine elinde bir kutu Çin yemeğiyle Örümcek Adam k
 **Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
 
 ---
-### Araba Sürüşü Video Oluşturma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli çözünürlük ve süre ayarlarıyla bir araba sürüş videosu oluşturmak için talimatlar.
-
-#### 📝 Prompt
-
-```
-Şu prompt'u kullanarak benim için yeni bir video oluştur: "A car driving" ve şu ayarları uygula: 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Araba Sürüşü Video Oluşturma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
-
----
-### Lazer Göz Evrimi Crystal Optimus Prime Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin gözlerinden lazer ışınları ateşlemesi ve bu ışınların bir evrim reaksiyonunu tetikleyerek kristal yapıda Optimus Prime'a dönüşmesi için detaylı video prompt.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Gözlerinden yere bir lazer ışını fırlattığı, bu lazerin bir evrim reaksiyonunu tetiklediği ve enerjinin kristalleşerek kristal yapılı bir Optimus'a dönüştüğü bir üst seviye dönüşüm sekansı oluşturun.
-
-[Olay Senaryosu]
-Başlangıçta tam ortada durur, gözleri ileriye kilitlenmiştir ve bedeni önceki aşamadan kalan artık enerjiyle yüklüdür. İki gözü aniden, doğrudan önündeki zemine çarpan çift yüksek yoğunluklu lazer ışını yayar. Temas anında lazerler yayılan bir evrim alanına dönüşür: toprak çatlar, ışık dışarıya doğru yayılır ve geometrik kristal kafesler hızla büyüyerek birbirine kenetlenir. Oluşan kristal kütle yukarı doğru genişler, yüzeyler çoğalarak iç içe geçer ve devasa, kristal yapılı bir Optimus meydana gelir. Son form tamamen somutlaşır; görkemli, kristal bir Optimus Prime ortaya çıkar ve artık lazer enerjisi sönerken eksiksiz ve dengeli bir şekilde ayakta durur.
-
-[Tutarlılığı Koruyun]
-Karakterin kimliğini, gözlerinden yayılan lazeri ve evrimden kristale geçiş sürecinin tam işleyişini sabit tutun; yaratılan tek nihai varlık kristal yapılı Optimus'tur, ek karakter veya alternatif sonuçlar eklenmemelidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Lazer Göz Evrimi Crystal Optimus Prime Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2509,6 +2522,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T02:12:58.210Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T13:01:25.185Z</sub>
 
 </div>

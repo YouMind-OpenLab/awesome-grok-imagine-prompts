@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3438** |
+| 📝 총 프롬프트 수 | **3440** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-19** |
 
@@ -189,6 +189,64 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 은빛 날개를 가진 마녀 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ChatGPT로 초기 이미지를 생성한 후 Grok Imagine에서 사용할 수 있는, 긴 검은 머리와 은빛 날개, 그라데이션 드레스를 입은 여성 마녀를 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+길게 흩날리는 검은 머리카락과 빛나는 은빛 날개를 가진 여성 마법사, mediumpurple, mediumslateblue, slateblue 세 가지 색상이 그라데이션으로 이어지는 드레스를 입고 있습니다. 한 손에는 둥글고 초록색으로 빛나는 에너지가 떠 있습니다. 화면 비율 9:16. 텍스트는 절대 포함하지 마세요. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="은빛 날개를 가진 마녀 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**작성자:** [華月光](https://x.com/hanagekkou) | **출처:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **게시일:** Nov 19, 2026
+
+---
+### 고양이와 비둘기가 있는 시네마틱 오후 장면
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine을 위한 상세한 비디오 프롬프트로, 나무 의자에서 휴식 중인 여성과 잠든 새끼 고양이, 흰 비둘기를 담은 12초 분량의 시네마틱 장면을 생성합니다. 구체적인 카메라 무브먼트와 일관성 유지 지침이 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+12 초 분량의 시네마틱 실사 영상. 나뭇잎 사이로 햇살이 스며드는 창가, 나무 의자에 가부좌를 틀고 앉아 있는 여성의 평화로운 오후 한때. 영상 전체에 걸쳐 여성의 외형과 위치는 완벽하게 일관성을 유지해야 하며, 세부 요소는 다음과 같다: 흰 리본으로 묶어 올린 검은 머리카락, 연한 하늘색 시스루 셔츠, 화이트 이지 팬츠, 왼쪽 어깨 위에 앉은 흰 비둘기, 그리고 무릎 위에서 잠든 흰 새끼 고양이.
+
+[0s-4s: Scene 1 (Medium Shot @Image1)]
+@Image1 을 기반으로 시작한다. 여성은 의자 위에서 가부좌 자세를 유지하며,
+1. 두 손으로 감싸 쥔 머그잔을 천천히 입가로 가져가 따뜻한 음료를 한 모금 마시고 안도의 한숨을 내쉰다.
+2. 이어서 무릎 위에 웅크려 잠든 흰 새끼 고양이를 내려다보며 애틋한 눈길로 바라보고 부드럽게 미소 짓는다.
+왼쪽 어깨 위의 흰 비둘기가 고개를 살짝 갸웃거리고, 레이스 커튼이 미풍에 살랑인다.
+
+[4s-8s: Scene 2 (Close-up @Image2)]
+카메라가 매끄럽게 줌인되며 @Image2 의 상반신 숏으로 전환된다. 그녀는 가부좌 자세를 그대로 유지한 채,
+1. 머그잔에서 피어오르는 김과 향기를 음미하듯 눈을 살짝 가늘게 뜨고 깊게 숨을 들이마신다.
+2. 그런 다음 왼쪽 어깨의 흰 비둘기를 향해 천천히 고개를 돌리며, 다정하게 말을 건네듯 미소 짓는다.
+창밖의 푸른 잎사귀들이 부드럽게 아웃포커싱되고, 은은한 자연광이 그녀의 옆모습과 머리카락을 따스하게 비춘다.
+
+[8s-12s: Scene 3 (Medium Shot @Image3)]
+카메라가 다시 부드럽게 줌아웃되며 @Image3 의 미디엄 숏으로 돌아온다. 여전히 가부좌를 튼 상태에서,
+1. 두 손으로 머그잔을 가슴 앞에 받쳐 들고 정면 카메라를 응시한 뒤, 고개를 살짝 기울이며 포즈를 취한다.
+2. 마지막 순간(11s-12s)에 장난스럽고 귀엽게 오른쪽 눈을 윙크하고, 페이드아웃될 때까지 미소를 유지한다.
+
+[Visual Style & Audio]
+시간이 느리고 부드럽게 흐르는 듯한 슬로우 모션 느낌의 자연스러운 움직임. 필름 특유의 질감을 살린 부드러운 톤과 따스한 자연광. BGM 은 어쿠스틱 기타와 잔잔한 피아노 선율로 연주되는 편안하고 차분한 인스트루멘탈 곡으로, 여유로운 오후 티타임에 완벽하게 어울린다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="고양이와 비둘기가 있는 시네마틱 오후 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **게시일:** Nov 19, 2026
+
+---
 ### Grok Imagine 패션쇼 장면 확장
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2412,51 +2470,6 @@ Optimus 를 유일한 중심 피사체로 유지하고, 영상 전체에 걸쳐 
 **작성자:** [Jesse Coligan](https://x.com/greenteasmokerX) | **출처:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **게시일:** Nov 4, 2026
 
 ---
-### 자동차 주행 영상 생성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 해상도 및 길이 설정으로 자동차 주행 영상을 생성하는 방법
-
-#### 📝 프롬프트
-
-```
-다음 설정으로 이 프롬프트를 사용해 새 영상을 생성해 줘: "A car driving", 설정은 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="자동차 주행 영상 생성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**작성자:** [Joseph Dixon](https://x.com/JosephDixo60750) | **출처:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **게시일:** Nov 4, 2026
-
----
-### 레이저 눈 진화에서 Crystal Optimus Prime까지: 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 눈에서 레이저 빔을 발사하여 진화 반응을 일으키고, 결정 구조의 Optimus Prime으로 변하는 변환 시퀀스를 생성하기 위한 상세 프롬프트.
-
-#### 📝 프롬프트
-
-```
-[Generation Goal]
-그녀가 눈에서 지면을 향해 레이저 빔을 발사하고, 이 레이저가 진화 반응을 촉발하여 에너지가 결정 구조의 Optimus 로 응축되는 한 차원 높은 변신 시퀀스를 생성합니다.
-
-[Event Script]
-시작과 함께 그녀는 중앙에 서서 정면을 응시하며, 몸에는 이전 단계에서 남은 잔류 에너지가 이미 가득 차 있습니다. 두 눈에서 갑자기 고강도 레이저 빔 두 줄기가 뿜어져 나와 바로 앞 지면에 내리꽂힙니다. 닿는 순간 레이저는 사방으로 퍼져나가는 진화 필드로 폭발하듯 펼쳐집니다. 땅이 갈라지고 빛이 바깥으로 쏟아지며, 기하학적인 결정 격자가 빠르게 자라나 서로 맞물립니다. 형성된 결정 덩어리는 위로 솟아오르며, 수많은 단면이 증식하고 결합해 거대한 결정 구조의 Optimus 를 완성합니다. 최종 형태가 온전히 실체화됩니다. 압도적인 위용의 크리스탈 Optimus Prime 가 잔류 레이저 에너지가 사그라드는 가운데 완벽하고 안정적으로 서 있는 모습입니다.
-
-[Maintain Consistency]
-그녀의 정체성, 눈에서 발사되는 레이저, 그리고 결정체로 진화하는 정확한 과정을 일관되게 유지하십시오. 최종적으로 생성되는 존재는 결정 구조의 Optimus 뿐이며, 다른 캐릭터나 대체 결말은 추가하지 않습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="레이저 눈 진화에서 Crystal Optimus Prime까지: 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **게시일:** Nov 4, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2518,6 +2531,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-19T02:12:49.891Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-19T13:01:15.533Z</sub>
 
 </div>

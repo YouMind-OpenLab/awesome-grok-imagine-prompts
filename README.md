@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3438** |
+| 📝 Total Prompts | **3440** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-19** |
 
@@ -189,6 +189,64 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Sorceress with Silver Wings Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for generating a female sorceress with long black hair, silver wings, and a gradient dress, used with Grok Imagine after initial image generation by ChatGPT.
+
+#### 📝 Prompt
+
+```
+A female sorceress with long flowing black hair and shining silver wings, wearing a dress with a three-color gradient of mediumpurple, mediumslateblue, and slateblue. A round green glowing energy floats in one hand. Aspect ratio 9:16. Please do not include any text. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Sorceress with Silver Wings Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **Published:** Nov 19, 2026
+
+---
+### Cinematic Afternoon Scene with Cat and Dove
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video prompt for Grok Imagine generating a 12-second cinematic scene of a woman relaxing on a wooden chair with a sleeping kitten and a white dove, featuring specific camera movements and consistency instructions.
+
+#### 📝 Prompt
+
+```
+A 12-second cinematic live-action video. A peaceful afternoon moment of a woman sitting cross-legged on a wooden chair by a window with sunlight filtering through trees. Throughout the video, maintain complete visual and positional consistency of the woman's features, her black hair tied up with a white ribbon, light blue sheer shirt, white easy pants, a white dove on her left shoulder, and a white kitten sleeping on her lap.
+
+[0s-4s: Scene 1 (Medium Shot @Image1)]
+Start based on @Image1. The woman remains in a cross-legged position on the chair,
+1. Slowly brings a mug held in both hands to her mouth, takes a sip of warm drink, and sighs in relief.
+2. Then looks down at the white kitten curled up sleeping on her lap, gazing at it affectionately and smiling gently.
+The white dove on her left shoulder tilts its head slightly, and the lace curtains sway faintly in the breeze.
+
+[4s-8s: Scene 2 (Close-up @Image2)]
+The camera smoothly zooms in, switching to a bust shot from @Image2. She maintains her cross-legged posture,
+1. Squints her eyes and takes a deep breath as if checking the steam and aroma rising from the mug.
+2. Then slowly turns her head towards the white dove on her left shoulder, smiling as if speaking to it gently.
+The greenery outside the window blurs softly, and gentle natural afternoon light illuminates her profile and hair.
+
+[8s-12s: Scene 3 (Medium Shot @Image3)]
+The camera smoothly pulls back again, returning to a medium shot from @Image3. Still cross-legged,
+1. She holds the mug with both hands against her chest, returns her gaze to the front camera, tilts her head softly, and strikes a pose.
+2. At the very end (11s-12s), she winks her right eye playfully and cutely, keeping the smile until fade out.
+
+[Visual Style & Audio]
+Natural movement that feels like slow motion, where time passes slowly and smoothly. Soft texture with a film-like quality and warm natural light. BGM is a calm and comfortable instrumental piece played by acoustic guitar and soft piano, perfect for a leisurely afternoon tea time.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="Cinematic Afternoon Scene with Cat and Dove">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **Published:** Nov 19, 2026
+
+---
 ### Grok Imagine Fashion Show Scene Expansion
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2408,51 +2466,6 @@ Have a spider man costume guy walk out on stage at Madison Square Garden with a 
 **Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
 
 ---
-### Car Driving Video Generation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Instructions for generating a video of a car driving with specific resolution and duration settings.
-
-#### 📝 Prompt
-
-```
-Generate me a new video using this prompt: "A car driving" with the following settings: 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Car Driving Video Generation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
-
----
-### Laser Eye Crystal Optimus Evolution
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex Grok Imagine prompt describing a character firing laser beams from her eyes that trigger an evolution reaction, crystallizing into a crystal-structure Optimus Prime.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a next-level transformation sequence in which she fires a laser beam from her eyes to the ground, the laser triggers an evolution reaction, and the energy crystallizes into a crystal-structure Optimus.
-
-[Event Script]
-At the start she stands centered, eyes locked forward, body already charged with residual power from the previous stage. Both eyes suddenly emit twin high-intensity laser beams that strike the ground directly in front of her. On contact the lasers erupt into a spreading evolutionary field: the earth cracks, light cascades outward, and geometric crystal lattices rapidly grow and interlock. The forming crystal mass expands upward, facets multiplying and interlocking into a towering crystal-structure Optimus. The final form fully materializes—an imposing crystalline Optimus Prime—standing complete and stable as the residual laser energy fades.
-
-[Maintain Consistency]
-Keep her identity, eye-laser emission, and the exact evolution-to-crystal process stable; the only final entity created is the crystal-structure Optimus, with no added characters or alternate outcomes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Laser Eye Crystal Optimus Evolution">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2514,6 +2527,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T02:12:46.603Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T13:01:11.529Z</sub>
 
 </div>

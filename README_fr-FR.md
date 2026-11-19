@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3438** |
+| 📝 Total Prompts | **3440** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-19** |
 
@@ -189,6 +189,64 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Sorcière aux Ailes d'Argent
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt pour générer une sorcière féminine aux longs cheveux noirs, aux ailes d'argent et à la robe dégradée, utilisé avec Grok Imagine après la génération initiale de l'image par ChatGPT.
+
+#### 📝 Prompt
+
+```
+Une sorcière aux longs cheveux noirs flottants et aux ailes argentées étincelantes, portant une robe au dégradé de trois couleurs : mediumpurple, mediumslateblue et slateblue. Une sphère d'énergie verte et lumineuse flotte dans l'une de ses mains. Format 9:16. Veuillez ne pas inclure de texte. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt de Sorcière aux Ailes d'Argent">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **Published:** Nov 19, 2026
+
+---
+### Scène cinématographique d'après-midi avec un chat et une colombe
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt vidéo détaillé pour Grok Imagine générant une scène cinématographique de 12 secondes où une femme se détend sur une chaise en bois avec un chaton endormi et une colombe blanche, incluant des mouvements de caméra spécifiques et des instructions de cohérence.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique en prise de vues réelles de 12 secondes. Un paisible moment d'après-midi : une femme est assise en tailleur sur une chaise en bois près d'une fenêtre, baignée par la lumière du soleil qui filtre à travers les arbres. Tout au long de la vidéo, maintenir une cohérence visuelle et spatiale absolue des traits de la femme, de ses cheveux noirs attachés avec un ruban blanc, de sa chemise bleu clair légèrement transparente, de son pantalon ample blanc, de la colombe blanche posée sur son épaule gauche et du chaton blanc endormi sur ses genoux.
+
+[0s-4s : Scène 1 (Plan moyen @Image1)]
+Commencer à partir de @Image1. La femme reste assise en tailleur sur la chaise,
+1. Elle porte lentement à ses lèvres le mug tenu à deux mains, prend une gorgée de boisson chaude et pousse un soupir de soulagement.
+2. Puis elle baisse les yeux vers le chaton blanc blotti et endormi sur ses genoux, le contemple avec tendresse et esquisse un doux sourire.
+La colombe blanche sur son épaule gauche penche légèrement la tête, tandis que les rideaux de dentelle ondulent doucement dans la brise.
+
+[4s-8s : Scène 2 (Gros plan @Image2)]
+La caméra effectue un zoom avant fluide pour passer à un plan poitrine d'après @Image2. Elle conserve sa posture en tailleur,
+1. Elle plisse légèrement les yeux et inspire profondément, comme pour savourer la vapeur et l'arôme qui s'échappent du mug.
+2. Puis elle tourne lentement la tête vers la colombe blanche sur son épaule gauche, souriant comme si elle lui parlait tout bas.
+La verdure à l'extérieur de la fenêtre se fond dans un flou délicat, et la douce lumière naturelle de l'après-midi illumine son profil et ses cheveux.
+
+[8s-12s : Scène 3 (Plan moyen @Image3)]
+La caméra recule à nouveau avec fluidité pour revenir à un plan moyen d'après @Image3. Toujours assise en tailleur,
+1. Elle serre le mug à deux mains contre sa poitrine, ramène son regard vers la caméra face à elle, incline doucement la tête et prend la pose.
+2. À la toute fin (11s-12s), elle fait un clin d'œil espiègle et mignon de l'œil droit, gardant son sourire jusqu'au fondu de sortie.
+
+[Style visuel et audio]
+Des mouvements naturels évoquant le ralenti, où le temps s'écoule lentement et avec fluidité. Une texture douce à l'esthétique argentique, baignée d'une lumière naturelle chaleureuse. Le BGM est un morceau instrumental apaisant et réconfortant joué à la guitare acoustique et au piano doux, idéal pour accompagner une pause thé nonchalante en milieu d'après-midi.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="Scène cinématographique d'après-midi avec un chat et une colombe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **Published:** Nov 19, 2026
+
+---
 ### Extension de scène de défilé de mode avec Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2398,51 +2456,6 @@ Faire monter sur la scène du Madison Square Garden un gars déguisé en Spider-
 **Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
 
 ---
-### Génération de vidéos de conduite automobile
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Instructions pour générer une vidéo d'une voiture en mouvement avec des paramètres spécifiques de résolution et de durée.
-
-#### 📝 Prompt
-
-```
-Génère-moi une nouvelle vidéo à partir de ce prompt : « A car driving » avec les paramètres suivants : 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Génération de vidéos de conduite automobile">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
-
----
-### Prompt vidéo : Évolution du rayon laser oculaire vers l'Optimus Prime de cristal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une séquence de transformation où un personnage tire des rayons laser depuis ses yeux, déclenchant une réaction d'évolution qui se cristallise en un Optimus Prime à structure cristalline.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une séquence de transformation d'un niveau supérieur dans laquelle elle projette un rayon laser depuis ses yeux vers le sol. Ce laser déclenche une réaction d'évolution, et l'énergie se cristallise pour former un Optimus à structure cristalline.
-
-[Script de l'événement]
-Au début, elle se tient au centre, le regard fixé droit devant elle, le corps déjà chargé de l'énergie résiduelle de l'étape précédente. Ses deux yeux émettent soudainement des rayons laser jumeaux de haute intensité qui frappent le sol juste devant elle. Au point d'impact, les lasers explosent en un champ d'évolution qui se propage : la terre se fissure, la lumière se répand en cascade et des réseaux cristallins géométriques croissent rapidement pour s'emboîter les uns dans les autres. La masse de cristaux en formation s'élève, ses facettes se multipliant et s'imbriquant pour donner naissance à un imposant Optimus à structure cristalline. La forme finale se matérialise entièrement — un majestueux Optimus Prime cristallin — qui se dresse, complet et stable, tandis que l'énergie résiduelle du laser s'estompe.
-
-[Maintenir la cohérence]
-Préserver intactes son identité, l'émission des lasers oculaires et le processus exact d'évolution vers le cristal ; la seule entité finale créée est l'Optimus à structure cristalline, sans ajout de personnages ni d'issues alternatives.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Prompt vidéo : Évolution du rayon laser oculaire vers l'Optimus Prime de cristal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2504,6 +2517,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T02:12:55.358Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T13:01:21.928Z</sub>
 
 </div>

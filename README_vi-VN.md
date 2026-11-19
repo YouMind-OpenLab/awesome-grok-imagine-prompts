@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3438** |
+| 📝 Total Prompts | **3440** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-19** |
 
@@ -189,6 +189,64 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Nữ Phù Thủy Cánh Bạc
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt tạo hình ảnh nữ phù thủy với mái tóc đen dài, đôi cánh bạc và chiếc váy chuyển màu, sử dụng Grok Imagine sau khi tạo ảnh ban đầu bằng ChatGPT.
+
+#### 📝 Prompt
+
+```
+Một nữ phù thủy với mái tóc đen dài buông xõa và đôi cánh bạc lấp lánh, mặc chiếc váy chuyển màu gradient ba sắc độ mediumpurple, mediumslateblue và slateblue. Một quả cầu năng lượng tròn phát sáng màu xanh lục lơ lửng trên một tay. Tỷ lệ khung hình 9:16. Vui lòng không thêm bất kỳ văn bản nào. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt Nữ Phù Thủy Cánh Bạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **Published:** Nov 19, 2026
+
+---
+### Cảnh chiều điện ảnh với mèo và bồ câu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Lời nhắc video chi tiết cho Grok Imagine để tạo ra một cảnh quay điện ảnh dài 12 giây về một người phụ nữ đang thư giãn trên ghế gỗ cùng một chú mèo con đang ngủ và một con bồ câu trắng, bao gồm các chỉ dẫn cụ thể về chuyển động camera và tính nhất quán.
+
+#### 📝 Prompt
+
+```
+Một video live-action mang phong cách điện ảnh dài 12 giây. Khoảnh khắc buổi chiều yên bình của một người phụ nữ đang ngồi khoanh chân trên chiếc ghế gỗ cạnh cửa sổ, ánh nắng xuyên qua kẽ lá. Xuyên suốt video, cần giữ nguyên sự nhất quán tuyệt đối về hình ảnh và vị trí các đặc điểm của người phụ nữ: mái tóc đen buộc cao bằng dải ruy băng trắng, áo voan mỏng màu xanh nhạt, quần ống rộng màu trắng, một chú bồ câu trắng đậu trên vai trái và một chú mèo con trắng đang ngủ say trong lòng cô.
+
+[0s-4s: Cảnh 1 (Cảnh trung @Image1)]
+Bắt đầu dựa trên @Image1. Người phụ nữ vẫn giữ tư thế khoanh chân trên ghế,
+1. Từ từ đưa chiếc cốc đang cầm bằng hai tay lên miệng, nhấp một ngụm nước ấm rồi khẽ thở ra đầy thư thái.
+2. Sau đó cúi xuống nhìn chú mèo con trắng đang cuộn tròn ngủ trong lòng, ánh mắt trìu mến và nở nụ cười dịu dàng.
+Chú bồ câu trắng trên vai trái hơi nghiêng đầu, tấm rèm ren khẽ lay động theo làn gió nhẹ.
+
+[4s-8s: Cảnh 2 (Cận cảnh @Image2)]
+Camera zoom vào mượt mà, chuyển sang khung hình bán thân từ @Image2. Cô vẫn duy trì tư thế khoanh chân,
+1. Khẽ nheo mắt và hít một hơi thật sâu như đang cảm nhận hơi nóng cùng hương thơm tỏa ra từ chiếc cốc.
+2. Rồi chậm rãi quay đầu về phía chú bồ câu trắng trên vai trái, mỉm cười như đang thủ thỉ trò chuyện cùng nó.
+Khung cảnh cây xanh ngoài cửa sổ mờ ảo nhẹ nhàng, ánh sáng tự nhiên êm dịu của buổi chiều tà soi tỏ gương mặt nghiêng cùng mái tóc cô.
+
+[8s-12s: Cảnh 3 (Cảnh trung @Image3)]
+Camera lại lùi ra mượt mà, trở về khung hình trung cảnh từ @Image3. Vẫn trong tư thế khoanh chân,
+1. Cô ôm chiếc cốc bằng hai tay trước ngực, hướng ánh nhìn thẳng về camera, khẽ nghiêng đầu và tạo dáng.
+2. Ở những giây cuối cùng (11s-12s), cô nháy mắt phải đầy tinh nghịch và đáng yêu, giữ nguyên nụ cười cho đến khi hình ảnh mờ dần (fade out).
+
+[Phong cách hình ảnh & Âm thanh]
+Chuyển động tự nhiên mang cảm giác slow motion, khiến thời gian như trôi qua thật chậm rãi và êm đềm. Chất liệu hình ảnh mềm mại với hiệu ứng phim nhựa (film) cùng ánh sáng tự nhiên ấm áp. Nhạc nền (BGM) là một bản hòa tấu êm ái, dễ chịu được chơi bởi guitar acoustic và piano du dương, vô cùng hoàn hảo cho một buổi chiều thưởng trà thư thả.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="Cảnh chiều điện ảnh với mèo và bồ câu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **Published:** Nov 19, 2026
+
+---
 ### Mở rộng cảnh thời trang trên Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2401,51 +2459,6 @@ Cho một anh chàng mặc đồ Spider-Man bước ra sân khấu tại Madison
 **Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
 
 ---
-### Tạo video lái xe ô tô
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn tạo video cảnh xe ô tô đang di chuyển với các thiết lập cụ thể về độ phân giải và thời lượng.
-
-#### 📝 Prompt
-
-```
-Tạo cho tôi một video mới bằng prompt: "A car driving" với các cài đặt sau: 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Tạo video lái xe ô tô">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
-
----
-### Prompt Video Laser Eye Evolution to Crystal Optimus Prime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo ra chuỗi biến hình, trong đó nhân vật bắn tia laser từ mắt kích hoạt phản ứng tiến hóa, kết tinh thành Optimus Prime cấu trúc pha lê.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo sinh]
-Tạo ra một chuỗi biến hình đột phá, trong đó cô phóng tia laser từ mắt xuống mặt đất; tia laser kích hoạt phản ứng tiến hóa và năng lượng kết tinh thành Optimus với cấu trúc tinh thể.
-
-[Kịch bản sự kiện]
-Mở đầu, cô đứng ở vị trí trung tâm, ánh mắt hướng thẳng về phía trước, cơ thể vẫn còn tích tụ nguồn năng lượng dư thừa từ giai đoạn trước. Đột nhiên, cả hai mắt cùng phát ra hai luồng laser cường độ cao giáng thẳng xuống mặt đất ngay trước mặt cô. Khi chạm đất, các tia laser bùng nổ tạo thành một trường tiến hóa lan rộng: mặt đất nứt toác, ánh sáng tuôn trào ra xung quanh, những mạng tinh thể hình học nhanh chóng mọc lên và đan cài vào nhau. Khối tinh thể đang hình thành vươn cao dần, các mặt cắt nhân lên rồi khớp nối chặt chẽ, dựng nên một Optimus sừng sững mang cấu trúc tinh thể. Hình thái cuối cùng hiện diện trọn vẹn — một Optimus Prime bằng pha lê đầy uy lực — đứng vững vàng và ổn định khi phần năng lượng laser còn sót lại dần tan biến.
-
-[Duy trì tính nhất quán]
-Giữ nguyên danh tính của cô, cơ chế phóng tia laser từ mắt và chính xác quá trình tiến hóa thành tinh thể; thực thể duy nhất được tạo ra ở cuối là Optimus với cấu trúc tinh thể, không thêm bất kỳ nhân vật nào hay diễn biến thay thế khác.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Prompt Video Laser Eye Evolution to Crystal Optimus Prime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2507,6 +2520,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T02:12:51.593Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T13:01:17.385Z</sub>
 
 </div>

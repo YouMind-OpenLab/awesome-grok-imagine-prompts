@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3438** |
+| 📝 提示詞總數 | **3440** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-19** |
 
@@ -189,6 +189,64 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 銀翼女巫提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 用於生成長黑髮、銀色翅膀及漸層禮服的女巫的提示詞，適用於在 ChatGPT 初步生成圖像後使用 Grok Imagine。
+
+#### 📝 提示詞
+
+```
+一位女魔法師，擁有飄逸的黑色長髮與閃耀的銀色翅膀，身穿由 mediumpurple、mediumslateblue 與 slateblue 三色漸層構成的洋裝。其中一隻手懸浮著一顆散發綠光的圓形能量球。畫面比例 9:16。請勿包含任何文字。🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="銀翼女巫提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **來源:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **發布時間:** Nov 19, 2026
+
+---
+### _cat_與_dove_的電影感午後場景
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 為 Grok Imagine 設計的詳細影片提示，用於生成一段 12 秒的電影感場景：一名女子坐在木椅上放鬆，身旁有一隻熟睡的小貓和一隻白鴿，並包含特定的鏡頭運動與一致性指令。
+
+#### 📝 提示詞
+
+```
+一段 12 秒的電影感真人實拍影片。描繪一個寧靜的午後時光：一名女子盤腿坐在窗邊的木椅上，陽光透過樹葉灑落。整段影片中，女子的外貌特徵與位置必須保持完全一致：黑髮以白色緞帶束起、身穿淺藍色透膚襯衫與白色寬鬆長褲、左肩停著一隻白鴿，腿上則有一隻正在熟睡的白貓。
+
+[0s-4s：場景 1（中景 @Image1）]
+以 @Image1 為基礎開始。女子維持盤腿坐在椅上的姿勢，
+1. 緩緩將雙手捧著的馬克杯移至嘴邊，輕啜一口熱飲，並滿足地輕嘆一聲。
+2. 接著低頭看向蜷縮在腿上熟睡的白貓，眼神充滿疼愛，露出溫柔的微笑。
+停在左肩的白鴿微微歪頭，蕾絲窗簾隨微風輕輕搖曳。
+
+[4s-8s：場景 2（特寫 @Image2）]
+鏡頭平滑推進，切換至 @Image2 的胸部以上近景。她依然保持盤腿坐姿，
+1. 微微瞇起雙眼深吸一口氣，彷彿在感受馬克杯中升起的熱氣與香氣。
+2. 隨後慢慢轉頭望向左肩的白鴿，面帶微笑，像是在對牠輕聲說話。
+窗外的綠意柔和地虛化，溫暖自然的午後光線照亮了她的側臉與髮絲。
+
+[8s-12s：場景 3（中景 @Image3）]
+鏡頭再次平滑拉遠，回到 @Image3 的中景畫面。她依舊盤腿坐著，
+1. 雙手將馬克杯抱在胸前，視線重新看向前方鏡頭，輕輕歪頭擺出一個姿態。
+2. 在最後一刻（11s-12s），她俏皮可愛地眨了一下右眼，並保持微笑直到畫面淡出。
+
+[視覺風格與音效]
+動作自然流暢，宛如慢動作般讓時間緩慢而平穩地流逝。畫面質感柔和，帶有底片般的電影氛圍與溫暖的自然光。背景音樂（BGM）為一首由木吉他與柔和鋼琴演奏的平靜舒適純音樂，完美契合悠閒的下午茶時光。
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="_cat_與_dove_的電影感午後場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **發布時間:** Nov 19, 2026
+
+---
 ### Grok Imagine 時裝秀場景擴展
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2407,51 +2465,6 @@ Have a spider man costume guy walk out on stage at Madison Square Garden with a 
 **作者:** [Jesse Coligan](https://x.com/greenteasmokerX) | **來源:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **發布時間:** Nov 4, 2026
 
 ---
-### 汽車駕駛影片生成
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成特定解析度與時長設定的汽車駕駛影片之操作說明。
-
-#### 📝 提示詞
-
-```
-請使用以下提示詞：「A car driving」，並套用這些設定：480p、15s、auto，幫我生成一支新影片。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="汽車駕駛影片生成">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**作者:** [Joseph Dixon](https://x.com/JosephDixo60750) | **來源:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **發布時間:** Nov 4, 2026
-
----
-### 雷射眼進化至水晶 Optimus Prime 影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這段詳細的提示詞用於生成一段變身序列，描述角色從眼中發射雷射光束，引發進化反應，最終結晶化為水晶結構的 Optimus Prime。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段進階的變身序列：她從雙眼向地面射出雷射光束，雷射觸發進化反應，能量隨之結晶化，最終形成水晶結構的 Optimus。
-
-[事件腳本]
-開場時，她佇立於畫面中央，目光直視前方，身上仍蓄積著上一階段殘留的能量。她的雙眼突然射出兩道高強度雷射光束，直接擊中眼前的地面。接觸瞬間，雷射爆發並向外擴散成一片進化力場：大地龜裂、光芒四射，幾何狀的水晶晶格迅速生長並彼此交錯嵌合。逐漸成形的水晶團塊向上攀升，切面不斷增生、相互咬合，最終堆疊成一座高聳的水晶結構 Optimus。最終形態完全實體化——一尊氣勢磅礡的水晶版 Optimus Prime 巍然矗立，穩固而完整，殘餘的雷射能量也隨之消散。
-
-[保持一致性]
-請維持她的身分、眼部雷射發射，以及「進化轉化為水晶」的精確過程不變；最終生成的唯一實體就是水晶結構的 Optimus，不得新增任何角色或衍生其他結局。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="雷射眼進化至水晶 Optimus Prime 影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **發布時間:** Nov 4, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2513,6 +2526,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-19T02:12:48.315Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-19T13:01:13.530Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3438** |
+| 📝 提示词总数 | **3440** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-19** |
 
@@ -189,6 +189,64 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 银翼女巫提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 用于生成一位拥有黑色长发、银色翅膀和渐变长裙的女性女巫的提示词，适用于在 ChatGPT 初步生成图像后使用 Grok Imagine。
+
+#### 📝 提示词
+
+```
+一位女魔法师，乌黑长发飘逸，银色双翼闪耀，身穿一件由 mediumpurple、mediumslateblue 和 slateblue 三色渐变而成的长裙。一只手中悬浮着一颗散发绿色光芒的圆形能量球。画面比例 9:16。请勿包含任何文字。🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="银翼女巫提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **发布时间:** Nov 19, 2026
+
+---
+### 午后电影感场景：猫咪与白鸽
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 生成的详细视频提示词，用于创作一段 12 秒的电影感场景：一位女士在木椅上放松休息，身旁有一只熟睡的小猫和一只白鸽，包含特定的镜头运动及画面一致性指令。
+
+#### 📝 提示词
+
+```
+一段 12 秒的电影感真人实拍视频。一个宁静的午后，一位女子盘腿坐在窗边的木椅上，阳光透过树叶洒落下来。整段视频中，女子的外貌特征及位置需保持完全一致：黑发用白色丝带束起，身穿浅蓝色薄纱衬衫和白色休闲裤，左肩停着一只白鸽，腿上卧着一只熟睡的白猫。
+
+[0s-4s：场景 1（中景 @Image1）]
+以 @Image1 为基础开始。女子保持盘腿坐在椅子上的姿势，
+1. 缓缓将双手捧着的马克杯送到嘴边，轻啜一口热饮，满足地舒了一口气。
+2. 接着低头看向蜷缩在腿上熟睡的白猫，满眼怜爱地注视着它，露出温柔的微笑。
+她左肩的白鸽微微歪了歪头，蕾丝窗帘在微风中轻轻摇曳。
+
+[4s-8s：场景 2（特写 @Image2）]
+镜头平滑推进，切换为 @Image2 中的半身近景。她依然保持盘腿坐姿，
+1. 微微眯起双眼深吸一口气，仿佛在感受马克杯中升腾的热气与香气。
+2. 随后慢慢转头看向左肩的白鸽，微笑着轻声细语，像是在和它说话。
+窗外的绿意柔和虚化，午后温柔的自然光勾勒出她的侧脸与发丝。
+
+[8s-12s：场景 3（中景 @Image3）]
+镜头再次平滑拉远，回到 @Image3 的中景画面。她依旧盘腿而坐，
+1. 双手将马克杯抱在胸前，目光重新看向前方镜头，轻柔地歪了歪头，摆出一个造型。
+2. 在最后时刻（11s-12s），她俏皮可爱地眨了一下右眼，保持着笑容直至画面淡出。
+
+[视觉风格与音频]
+动作自然流畅，宛如慢动作般让时光缓缓流淌。画面质感柔和，带有电影胶片感，沐浴在温暖的自然光中。BGM 是一首由原声吉他与轻柔钢琴演奏的舒缓纯音乐，完美契合悠闲的下午茶时光。
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="午后电影感场景：猫咪与白鸽">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **发布时间:** Nov 19, 2026
+
+---
 ### Grok Imagine 时装秀场景扩展
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2406,51 +2464,6 @@ SpaceX – Beyond Earth
 **作者:** [Jesse Coligan](https://x.com/greenteasmokerX) | **来源:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **发布时间:** Nov 4, 2026
 
 ---
-### 汽车行驶视频生成
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成特定分辨率和时长设置下汽车行驶视频的说明。
-
-#### 📝 提示词
-
-```
-使用以下提示词帮我生成一个新视频：“A car driving”，设置如下：480p、15s、auto。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="汽车行驶视频生成">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**作者:** [Joseph Dixon](https://x.com/JosephDixo60750) | **来源:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **发布时间:** Nov 4, 2026
-
----
-### 激光眼进化至水晶擎天柱视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成变形序列的详细提示词：角色从眼中发射激光束，触发进化反应，最终结晶为水晶结构的擎天柱。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段进阶变身序列：她从双眼向地面射出激光束，激光触发进化反应，能量最终结晶化为一尊晶体结构的 Optimus。
-
-[事件脚本]
-开场时，她居于画面中央，目光直视前方，体内仍充盈着上一阶段残留的能量。突然，她的双眼同时射出两道高强度激光束，直击正前方的地面。接触瞬间，激光爆发扩散，形成一片进化力场：大地龟裂，光芒向外奔涌，几何晶格迅速生长并彼此咬合。正在成形的晶体不断向上攀升，切面层层倍增、交错嵌合，最终拔地而起，化作一尊高耸的晶体结构 Optimus。终极形态彻底显现——威风凛凛的晶体 Optimus Prime 巍然矗立，随着残余激光能量的消散，整个形态变得完整而稳固。
-
-[保持一致性]
-保持她的身份、眼部激光发射以及“进化至结晶”的完整过程稳定不变；最终生成的唯一实体就是这尊晶体结构的 Optimus，不得添加任何额外角色或衍生其他结局。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="激光眼进化至水晶擎天柱视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **发布时间:** Nov 4, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2512,6 +2525,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-19T02:12:47.476Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-19T13:01:12.515Z</sub>
 
 </div>

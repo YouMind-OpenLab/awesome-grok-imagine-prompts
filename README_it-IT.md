@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3438** |
+| 📝 Total Prompts | **3440** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-19** |
 
@@ -189,6 +189,64 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt per Strega con Ali d'Argento
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt per generare una strega donna con lunghi capelli neri, ali d'argento e un abito sfumato, da utilizzare con Grok Imagine dopo la generazione iniziale dell'immagine tramite ChatGPT.
+
+#### 📝 Prompt
+
+```
+Una maga dai lunghi capelli neri fluenti e scintillanti ali argentate, che indossa un abito con una sfumatura tricolore di mediumpurple, mediumslateblue e slateblue. In una mano fluttua una sfera di energia verde luminosa. Rapporto d'aspetto 9:16. Non includere alcun testo. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt per Strega con Ali d'Argento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **Published:** Nov 19, 2026
+
+---
+### Scena cinematografica del pomeriggio con gatto e colomba
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt video dettagliato per Grok Imagine che genera una scena cinematografica di 12 secondi di una donna rilassata su una sedia di legno con un gattino addormentato e una colomba bianca, caratterizzata da specifici movimenti della camera e istruzioni per la coerenza visiva.
+
+#### 📝 Prompt
+
+```
+Un video cinematografico live-action di 12 secondi. Un tranquillo momento pomeridiano: una donna è seduta a gambe incrociate su una sedia di legno accanto a una finestra, con la luce del sole che filtra tra gli alberi. Per tutta la durata del video, mantenere assoluta coerenza visiva e posizionale dei tratti della donna: capelli neri raccolti con un nastro bianco, camicia trasparente azzurra, pantaloni morbidi bianchi, una colomba bianca sulla spalla sinistra e un gattino bianco addormentato in grembo.
+
+[0s-4s: Scena 1 (Piano medio @Image1)]
+Inizio basato su @Image1. La donna resta seduta a gambe incrociate sulla sedia,
+1. Porta lentamente alla bocca una tazza tenuta con entrambe le mani, beve un sorso della bevanda calda e sospira di sollievo.
+2. Poi abbassa lo sguardo sul gattino bianco raggomitolato e addormentato sulle sue ginocchia, fissandolo con affetto e sorridendo dolcemente.
+La colomba bianca sulla sua spalla sinistra inclina leggermente la testa, mentre le tende di pizzo ondeggiano appena nella brezza.
+
+[4s-8s: Scena 2 (Primo piano @Image2)]
+La camera esegue uno zoom fluido, passando a un mezzo busto da @Image2. Lei mantiene la postura a gambe incrociate,
+1. Stringe leggermente gli occhi e inspira profondamente, come per percepire il vapore e l'aroma che salgono dalla tazza.
+2. Poi gira lentamente la testa verso la colomba bianca sulla spalla sinistra, sorridendo come se le parlasse con dolcezza.
+Il verde fuori dalla finestra si sfoca delicatamente, mentre la tenue luce naturale del pomeriggio illumina il suo profilo e i suoi capelli.
+
+[8s-12s: Scena 3 (Piano medio @Image3)]
+La camera arretra di nuovo con fluidità, tornando a un piano medio da @Image3. Sempre a gambe incrociate,
+1. Tiene la tazza con entrambe le mani contro il petto, riporta lo sguardo verso la camera frontale, inclina dolcemente la testa e assume una posa.
+2. Proprio alla fine (11s-12s), fa l'occhiolino con l'occhio destro in modo giocoso e tenero, mantenendo il sorriso fino al fade out.
+
+[Stile visivo e audio]
+Movimenti naturali che ricordano lo slow motion, dove il tempo scorre lento e fluido. Texture morbida con un look cinematografico e una luce naturale calda. Il BGM è un brano strumentale rilassante e confortevole, suonato con chitarra acustica e pianoforte delicato, perfetto per un tranquillo tè pomeridiano.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="Scena cinematografica del pomeriggio con gatto e colomba">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **Published:** Nov 19, 2026
+
+---
 ### Espansione della scena di sfilata di moda con Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2398,51 +2456,6 @@ Fai salire sul palco del Madison Square Garden un tizio vestito da Spider-Man co
 **Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
 
 ---
-### Generazione Video di Guida Auto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Istruzioni per generare un video di un'auto in movimento con impostazioni specifiche di risoluzione e durata.
-
-#### 📝 Prompt
-
-```
-Generami un nuovo video usando questo prompt: "A car driving" con le seguenti impostazioni: 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Generazione Video di Guida Auto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
-
----
-### Prompt Video: Evoluzione Laser degli Occhi in Optimus Prime di Cristallo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare una sequenza di trasformazione in cui un personaggio emette raggi laser dagli occhi, innescando una reazione evolutiva che lo cristallizza in un Optimus Prime di struttura cristallina.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera una sequenza di trasformazione di livello superiore in cui lei spara un raggio laser dagli occhi verso il suolo; il laser innesca una reazione evolutiva e l'energia si cristallizza dando forma a un Optimus dalla struttura cristallina.
-
-[Script dell'evento]
-All'inizio è in piedi al centro, lo sguardo fisso in avanti, il corpo già carico dell'energia residua della fase precedente. All'improvviso, da entrambi gli occhi partono due raggi laser ad alta intensità che colpiscono il terreno esattamente davanti a lei. Al momento dell'impatto, i laser esplodono generando un campo evolutivo in espansione: la terra si spacca, la luce si propaga a cascata verso l'esterno e reticoli geometrici di cristallo crescono rapidamente incastrandosi tra loro. La massa cristallina in formazione si sviluppa verso l'alto, moltiplicando le proprie sfaccettature che si intrecciano fino a comporre un imponente Optimus dalla struttura cristallina. La forma finale si materializza completamente — un maestoso Optimus Prime di cristallo — che resta stabile e compiuto mentre l'energia residua del laser svanisce.
-
-[Mantenere la coerenza]
-Mantieni inalterati la sua identità, l'emissione dei laser dagli occhi e l'esatto processo di evoluzione in cristallo; l'unica entità finale creata è l'Optimus dalla struttura cristallina, senza aggiungere altri personaggi o esiti alternativi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Prompt Video: Evoluzione Laser degli Occhi in Optimus Prime di Cristallo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2504,6 +2517,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T02:12:56.061Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T13:01:22.713Z</sub>
 
 </div>

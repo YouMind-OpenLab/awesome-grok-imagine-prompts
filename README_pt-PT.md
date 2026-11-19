@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3438** |
+| 📝 Total Prompts | **3440** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-19** |
 
@@ -189,6 +189,64 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Feiticeira com Asas de Prata
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt para gerar uma feiticeira feminina com cabelos longos e negros, asas de prata e um vestido em degradê, utilizado com o Grok Imagine após a geração inicial da imagem pelo ChatGPT.
+
+#### 📝 Prompt
+
+```
+Uma feiticeira de longos cabelos negros esvoaçantes e asas prateadas brilhantes, vestindo um vestido com um degradê de três cores: mediumpurple, mediumslateblue e slateblue. Uma esfera de energia verde e luminosa flutua em uma de suas mãos. Proporção 9:16. Por favor, não inclua nenhum texto. 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt de Feiticeira com Asas de Prata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2123303256768352580) | **Published:** Nov 19, 2026
+
+---
+### Cena Cinematográfica de Tarde com Gato e Pomba
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo detalhado para o Grok Imagine, gerando uma cena cinematográfica de 12 segundos de uma mulher relaxando em uma cadeira de madeira com um gatinho dormindo e uma pomba branca, incluindo movimentos de câmera específicos e instruções de consistência.
+
+#### 📝 Prompt
+
+```
+Um vídeo cinematográfico em live-action de 12 segundos. Um momento tranquilo de tarde, com uma mulher sentada de pernas cruzadas numa cadeira de madeira junto a uma janela, enquanto a luz do sol atravessa as folhas das árvores. Ao longo de todo o vídeo, manter total consistência visual e posicional dos traços da mulher: cabelo preto preso com uma fita branca, camisa azul-claro translúcida, calça branca confortável, uma pomba branca no ombro esquerdo e um gatinho branco a dormir no seu colo.
+
+[0s-4s: Cena 1 (Plano Médio @Image1)]
+Iniciar com base na @Image1. A mulher mantém-se sentada de pernas cruzadas na cadeira,
+1. Leva lentamente até à boca uma caneca que segura com as duas mãos, bebe um gole da bebida quente e suspira de alívio.
+2. Em seguida, olha para baixo, para o gatinho branco enroscado a dormir no seu colo, contemplando-o com carinho e um sorriso suave.
+A pomba branca no seu ombro esquerdo inclina levemente a cabeça, e as cortinas de renda balançam suavemente com a brisa.
+
+[4s-8s: Cena 2 (Plano Fechado @Image2)]
+A câmara aproxima-se suavemente, passando para um plano médio curto a partir da @Image2. Ela mantém a postura de pernas cruzadas,
+1. Semicerre os olhos e respira fundo, como se apreciasse o vapor e o aroma que sobem da caneca.
+2. Depois, vira lentamente a cabeça para a pomba branca no ombro esquerdo, sorrindo como se lhe falasse com ternura.
+A vegetação lá fora desfoca-se suavemente, e a luz natural e delicada da tarde ilumina o seu perfil e o seu cabelo.
+
+[8s-12s: Cena 3 (Plano Médio @Image3)]
+A câmara afasta-se novamente de forma fluida, regressando a um plano médio a partir da @Image3. Ainda de pernas cruzadas,
+1. Ela segura a caneca com as duas mãos contra o peito, volta o olhar para a câmara frontal, inclina a cabeça suavemente e faz uma pose.
+2. Bem no final (11s-12s), pisca o olho direito de forma divertida e fofa, mantendo o sorriso até ao fade out.
+
+[Estilo Visual e Áudio]
+Movimentos naturais que parecem câmara lenta, onde o tempo passa de forma tranquila e fluida. Textura suave com aspeto cinematográfico analógico e luz natural acolhedora. O BGM é uma faixa instrumental calma e reconfortante, tocada com guitarra acústica e piano suave, perfeita para um descontraído chá da tarde.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795073925607_dw83yc_HXZzsQiboAAJLbC.jpg" width="600" alt="Cena Cinematográfica de Tarde com Gato e Pomba">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14032)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2123257455878754415) | **Published:** Nov 19, 2026
+
+---
 ### Expansão de Cena de Desfile de Moda no Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2398,51 +2456,6 @@ Imagina um cara fantasiado de Homem-Aranha entrando no palco do Madison Square G
 **Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
 
 ---
-### Geração de Vídeo de Carro em Movimento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Instruções para gerar um vídeo de um carro em movimento com configurações específicas de resolução e duração.
-
-#### 📝 Prompt
-
-```
-Gere um novo vídeo para mim usando este prompt: "A car driving" com as seguintes configurações: 480p, 15s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Geração de Vídeo de Carro em Movimento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
-
-**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
-
----
-### Prompt de Vídeo: Evolução a Laser para Optimus Prime de Cristal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma sequência de transformação onde um personagem dispara raios laser dos olhos, desencadeando uma reação evolutiva que o cristaliza em um Optimus Prime de estrutura cristalina.
-
-#### 📝 Prompt
-
-```
-[Objetivo de Geração]
-Gere uma sequência de transformação de outro nível na qual ela dispara um feixe de laser dos olhos em direção ao chão; o laser desencadeia uma reação evolutiva e a energia cristaliza-se num Optimus com estrutura de cristal.
-
-[Roteiro do Evento]
-No início, ela está posicionada no centro, com o olhar fixo à frente e o corpo já carregado com a energia residual da fase anterior. De repente, ambos os olhos emitem dois feixes de laser de alta intensidade que atingem o chão diretamente diante dela. Ao entrar em contato, os lasers explodem num campo evolutivo em expansão: o solo racha, a luz irradia para fora e redes cristalinas geométricas crescem rapidamente, encaixando-se umas nas outras. A massa de cristal em formação expande-se para cima, com as facetas multiplicando-se e unindo-se até formar um imponente Optimus com estrutura de cristal. A forma final materializa-se por completo — um majestoso Optimus Prime cristalino —, erguendo-se estável e inteiro enquanto a energia residual do laser se dissipa.
-
-[Manter a Consistência]
-Mantenha inalteradas a identidade dela, a emissão do laser ocular e o processo exato de evolução para cristal; a única entidade final criada é o Optimus com estrutura de cristal, sem personagens adicionais ou desfechos alternativos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Prompt de Vídeo: Evolução a Laser para Optimus Prime de Cristal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2504,6 +2517,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T02:12:57.467Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T13:01:24.438Z</sub>
 
 </div>
