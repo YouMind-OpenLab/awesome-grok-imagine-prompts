@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3440** |
+| 📝 Total Prompts | **3442** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Catedral da Musa Biomecânica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para uma renderização cinematográfica ampla de uma dançarina em uma catedral construída com ossos biomecânicos e órgãos de tubos.
+
+#### 📝 Prompt
+
+```
+Renderização cinematográfica em formato amplo de uma dançarina arqueando-se graciosamente para trás no centro de uma vasta catedral construída com costelas biomecânicas, colunas vertebrais e imponentes órgãos de tubos, vestindo um body preto esculpido com placas caneladas e um dos braços estendido para o alto. Um único feixe de luz âmbar corta a escuridão e incide sobre ela. Monocromático em obsidiana e cinza-escuro metálico, brilho úmido, névoa atmosférica, surrealismo sombrio, efeito aerógrafo, renderização 3D fotorrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="Catedral da Musa Biomecânica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **Published:** Nov 20, 2026
+
+---
+### Vídeo de Lucia Dirigindo o BMW M50
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que apresenta Lucia dirigindo um BMW M50 com elementos culturais específicos.
+
+#### 📝 Prompt
+
+```
+BMW M50 Competition com a Lucia a conduzir pelo hood, a ouvir música alta do Anthony Santos e com uma bandeira dominicana no capô do carro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="Vídeo de Lucia Dirigindo o BMW M50">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**Author:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **Source:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **Published:** Nov 19, 2026
+
+---
 ### Prompt de Feiticeira com Asas de Prata
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 Uma feiticeira de longos cabelos negros esvoaçantes e asas prateadas brilhantes, vestindo um vestido com um degradê de três cores: mediumpurple, mediumslateblue e slateblue. Uma esfera de energia verde e luminosa flutua em uma de suas mãos. Proporção 9:16. Por favor, não inclua nenhum texto. 🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt de Feiticeira com Asas de Prata">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt de Feiticeira com Asas de Prata">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2407,55 +2445,6 @@ Um close-up de um velho cowboy, olhando fixamente para o céu noturno. A câmera
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### Destruição a Laser e Transformação em Traje de Cristal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para o Grok Imagine onde uma personagem feminina dispara lasers, destruindo o ambiente ao redor enquanto seu vestido se transforma em um traje de cristal branco e preto.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere uma sequência de transformação de outro nível em que a personagem feminina libera energia laser de sua mão em direção ao chão, destruindo tudo ao seu redor, enquanto seu vestido se transforma em um traje de cristal branco e preto.
-
-[Roteiro do Evento]
-No início: Ela está pronta em sua forma e vestido originais, com a mão erguida.
-Evento principal: Ela canaliza e dispara intensos feixes de laser de sua mão diretamente para o chão. Os lasers atingem o solo e explodem em uma onda destrutiva colossal que aniquila todo o ambiente — estruturas estilhaçam, destroços voam pelos ares, superfícies racham e vaporizam em clarões intensos. Simultaneamente, seu vestido se transforma e cristaliza: o tecido endurece e se remodela em um elegante traje de cristal branco e preto, com facetas cristalinas afiadas, veias negras brilhantes e placas de armadura brancas e reflexivas que cobrem totalmente seu corpo, revelando uma nova forma poderosa.
-No final: Ela permanece imponente no traje de cristal branco e preto já completo, cercada pela devastação ao redor, com a energia residual do laser se dissipando e a destruição consumada.
-
-[Manter Consistência]
-Mantenha inalterados sua identidade central, traços faciais, proporções corporais e o resultado destrutivo da transformação durante toda a cena. O traje de cristal deve ser exclusivamente branco e preto. Nenhum outro personagem aparece.
-
-Aviso: Este vídeo é um conceito fictício de ficção científica gerado por IA, criado apenas para fins de entretenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Destruição a Laser e Transformação em Traje de Cristal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
-
----
-### Prompt do Grok Imagine: Fantasia do Homem-Aranha no MSG
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para o Grok Imagine mostrando alguém vestindo a fantasia do Homem-Aranha entrando no palco do Madison Square Garden para se apresentar no Kill Tony.
-
-#### 📝 Prompt
-
-```
-Imagina um cara fantasiado de Homem-Aranha entrando no palco do Madison Square Garden com uma caixa de comida chinesa e se apresentando no Kill Tony
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Prompt do Grok Imagine: Fantasia do Homem-Aranha no MSG">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2517,6 +2506,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T07:01:35.121Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T17:08:55.639Z</sub>
 
 </div>

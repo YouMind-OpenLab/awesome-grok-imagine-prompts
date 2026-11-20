@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3440** |
+| 📝 Total Prompts | **3442** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Cathédrale de la Muse Biomécanique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour un rendu cinématographique grand angle d'une danseuse dans une cathédrale construite à partir d'os biomécaniques et d'orgues à tuyaux.
+
+#### 📝 Prompt
+
+```
+Rendu cinématographique au format large d'une danseuse se cambrant gracieusement en arrière au centre d'une vaste cathédrale bâtie de côtes biomécaniques, de colonnes vertébrales et d'orgues à tuyaux monumentales. Elle porte une combinaison noire sculptée aux plaques nervurées, un bras tendu vers le ciel. Un unique rayon de lumière ambrée fend les ténèbres pour venir l'éclairer. Monochrome obsidienne et gris canon de fusil, reflets humides, brume atmosphérique, surréalisme sombre, rendu aérographe, rendu 3D photoréaliste.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="Cathédrale de la Muse Biomécanique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **Published:** Nov 20, 2026
+
+---
+### Vidéo de conduite de la BMW M50 par Lucia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo mettant en scène Lucia au volant d'une BMW M50, intégrant des éléments culturels spécifiques.
+
+#### 📝 Prompt
+
+```
+BMW M50 Competition avec Lucia au volant, capot ouvert, écoutant la musique d'Anthony Santos à plein volume et un drapeau dominicain sur le capot de la voiture
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="Vidéo de conduite de la BMW M50 par Lucia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**Author:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **Source:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **Published:** Nov 19, 2026
+
+---
 ### Prompt de Sorcière aux Ailes d'Argent
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 Une sorcière aux longs cheveux noirs flottants et aux ailes argentées étincelantes, portant une robe au dégradé de trois couleurs : mediumpurple, mediumslateblue et slateblue. Une sphère d'énergie verte et lumineuse flotte dans l'une de ses mains. Format 9:16. Veuillez ne pas inclure de texte. 🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt de Sorcière aux Ailes d'Argent">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt de Sorcière aux Ailes d'Argent">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2407,55 +2445,6 @@ Gros plan sur un vieux cow-boy qui fixe le ciel nocturne. La caméra recule pour
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### Destruction par laser et transformation en costume de cristal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour Grok Imagine où un personnage féminin tire des lasers qui détruisent son environnement, tandis que sa robe se transforme en un costume de cristal blanc et noir.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une séquence de transformation spectaculaire où le personnage féminin libère une énergie laser de sa main vers le sol, détruisant tout ce qui l'entoure, tandis que sa robe se métamorphose en une armure cristalline noire et blanche.
-
-[Scénario des événements]
-Au début : Elle se tient prête dans sa forme et sa tenue d'origine, la main levée.
-Événement principal : Elle canalise puis projette d'intenses rayons laser de sa main directement vers le sol. À l'impact, les lasers déclenchent une onde de choc dévastatrice qui anéantit tout l'environnement — les structures volent en éclats, les débris sont projetés dans les airs, les surfaces se fissurent et se vaporisent dans des éclairs aveuglants. Simultanément, sa robe se transforme et se cristallise : le tissu se durcit et se restructure pour former une élégante combinaison de cristaux noirs et blancs, dotée de facettes acérées, de veines noires luminescentes et de plaques d'armure blanches réfléchissantes qui recouvrent entièrement son corps, lui conférant une nouvelle apparence redoutable.
-À la fin : Elle se dresse, investie d'une puissance nouvelle, revêtue de son armure cristalline noire et blanche achevée au milieu du décor ravagé, tandis que l'énergie laser résiduelle s'estompe et que la destruction est totale.
-
-[Maintenir la cohérence]
-Préserver constamment son identité fondamentale, ses traits du visage, ses proportions corporelles ainsi que l'issue destructrice de la transformation. L'armure cristalline doit rester exclusivement noire et blanche. Aucun autre personnage n'apparaît.
-
-Avertissement : Cette vidéo est un concept fictif de science-fiction généré par l'IA, créé uniquement à des fins de divertissement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Destruction par laser et transformation en costume de cristal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
-
----
-### Prompt Grok Imagine : Costume de Spider-Man au MSG
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de génération vidéo pour Grok Imagine mettant en scène une personne portant un costume de Spider-Man qui monte sur scène au Madison Square Garden pour interpréter Kill Tony.
-
-#### 📝 Prompt
-
-```
-Faire monter sur la scène du Madison Square Garden un gars déguisé en Spider-Man, une boîte de nourriture chinoise à la main, pour jouer dans Kill Tony.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Prompt Grok Imagine : Costume de Spider-Man au MSG">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2517,6 +2506,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T07:01:31.984Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T17:08:52.776Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3440** |
+| 📝 提示词总数 | **3442** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-20** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 生物力学缪斯大教堂
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段用于生成宽幅电影级渲染的提示词，画面中一位舞者在由生物力学骨骼和管风琴构建的大教堂中起舞。
+
+#### 📝 提示词
+
+```
+宽幅电影级渲染画面：一座由生物机械肋骨、脊椎柱与高耸管风琴构筑的宏伟大教堂中央，一名舞者身着一袭肋状甲片拼接的立体剪裁黑色连体衣，单臂高举，身体优雅地向后弯成拱形。一道琥珀色光柱划破黑暗，精准落在她身上。黑曜石与枪铁灰的单色调，湿润光泽，氛围薄雾，暗黑超现实主义，喷绘质感，照片级真实 3D 渲染。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="生物力学缪斯大教堂">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**作者:** [AI Aimee](https://x.com/RockGrokAI) | **来源:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **发布时间:** Nov 20, 2026
+
+---
+### BMW M50 Lucia 驾驶视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频生成提示词，展示 Lucia 驾驶 BMW M50 的场景，并融入特定的文化元素。
+
+#### 📝 提示词
+
+```
+Lucia 驾驶着一辆 BMW M50 competition 穿梭街头，车内大声播放着 Anthony Santos 的音乐，引擎盖上还插着一面多米尼加国旗
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="BMW M50 Lucia 驾驶视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**作者:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **来源:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **发布时间:** Nov 19, 2026
+
+---
 ### 银翼女巫提示词
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 一位女魔法师，乌黑长发飘逸，银色双翼闪耀，身穿一件由 mediumpurple、mediumslateblue 和 slateblue 三色渐变而成的长裙。一只手中悬浮着一颗散发绿色光芒的圆形能量球。画面比例 9:16。请勿包含任何文字。🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="银翼女巫提示词">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="银翼女巫提示词">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2415,55 +2453,6 @@ SpaceX – Beyond Earth
 **作者:** [Carlton Hinds](https://x.com/methuselaschild) | **来源:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **发布时间:** Nov 4, 2026
 
 ---
-### 激光破坏与水晶战衣变身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的提示词：女性角色发射激光摧毁周围环境，同时她的连衣裙变身为黑白水晶战衣。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段进阶变身序列：女性角色将激光能量从手中释放至地面，摧毁周围的一切，同时她的裙装变为一套黑白水晶战衣。
-
-[事件脚本]
-开场：她以原本的形象与裙装伫立待命，单手高举。
-核心事件：她将强烈的激光束汇聚于掌心，径直轰向地面。激光触地瞬间爆发出巨大的毁灭冲击波，将环境中的一切夷为平地——建筑崩塌碎裂，残骸漫天飞舞，地表在刺眼的强光中龟裂、气化。与此同时，她的裙装开始蜕变结晶：布料硬化重塑，化作一套利落的黑白水晶战衣，棱角分明的晶面、泛着幽光的黑色脉络与高反光白色甲片层层覆盖全身，让她蜕变为力量感爆棚的全新形态。
-结尾：她身着成型后的黑白水晶战衣傲然挺立于废墟之中，残余的激光能量逐渐消散，毁灭已然落幕。
-
-[保持一致性]
-全程保持她的核心特征、面部五官、身材比例以及变身造成的破坏效果稳定不变。水晶战衣仅限黑、白两色。不出现其他任何角色。
-
-免责声明：本视频为 AI 生成的虚构科幻概念作品，仅供娱乐之用。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="激光破坏与水晶战衣变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **发布时间:** Nov 4, 2026
-
----
-### Grok Imagine 提示词：蜘蛛侠服装亮相 MSG
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 视频生成提示词：身穿蜘蛛侠服装在麦迪逊广场花园表演《Kill Tony》。
-
-#### 📝 提示词
-
-```
-让一个穿着蜘蛛侠服装的人拎着一盒中餐走上麦迪逊广场花园的舞台，来一场 Kill Tony 式的表演
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine 提示词：蜘蛛侠服装亮相 MSG">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**作者:** [Jesse Coligan](https://x.com/greenteasmokerX) | **来源:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **发布时间:** Nov 4, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2525,6 +2514,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-20T07:01:21.028Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-20T17:08:41.895Z</sub>
 
 </div>

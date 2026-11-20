@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3440** |
+| 📝 Total Prompts | **3442** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-20** |
 
@@ -189,19 +189,57 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Sorceress with Silver Wings Prompt
+### Biomechanical Muse Cathedral
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a female sorceress with long black hair, silver wings, and a gradient dress, used with Grok Imagine after initial image generation by ChatGPT.
+> A prompt for a wide cinematic render of a dancer in a cathedral built from biomechanical bones and pipe organs.
 
 #### 📝 Prompt
 
 ```
-A female sorceress with long flowing black hair and shining silver wings, wearing a dress with a three-color gradient of mediumpurple, mediumslateblue, and slateblue. A round green glowing energy floats in one hand. Aspect ratio 9:16. Please do not include any text. 🪽🟢
+Wide cinematic render of a dancer arching gracefully backward at the center of a vast cathedral built from biomechanical ribs, vertebrae columns and towering pipe organs, wearing a sculpted black bodysuit of ribbed plating, one arm reaching upward. A single shaft of amber light cuts through the darkness and lands on her. Monochrome obsidian and gunmetal, wet sheen, atmospheric haze, dark surrealism, airbrushed, photorealistic 3D render.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Sorceress with Silver Wings Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="Biomechanical Muse Cathedral">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **Published:** Nov 20, 2026
+
+---
+### BMW M50 Lucia Drive Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt featuring Lucia driving a BMW M50 with specific cultural elements.
+
+#### 📝 Prompt
+
+```
+BMW M50 competition with Lucia driving through the hood listening to loud anthony santos music and a Dominican flag on the hood of the car
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="BMW M50 Lucia Drive Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**Author:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **Source:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **Published:** Nov 19, 2026
+
+---
+### Fantasy Sorceress Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt used to generate a video of a fantasy sorceress with silver wings and a gradient dress, mentioning Grok Imagine as part of the workflow.
+
+#### 📝 Prompt
+
+```
+A female sorceress with long flowing black hair and shining silver wings, wearing a dress with a three-color gradient of mediumpurple, mediumslateblue, and slateblue. A round energy glowing green floats in one hand. Aspect ratio 9:16. Please no text 🪽🟢
+```
+
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Fantasy Sorceress Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2417,55 +2455,6 @@ A close-up of an old cowboy, staring at the sky at night. the camera pulls back 
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### Female Character Crystal Suit Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine featuring a female character destroying surroundings with lasers while transforming her dress into a crystal suit.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a next-level transformation sequence where the female character drops laser energy from her hand to the ground, destroying everything around her, while her dress transforms into a white and black crystal suit.
-
-[Event Script]
-At the start: She stands ready in her original form and dress, hand raised. 
-Principal event: She channels and drops intense laser beams from her hand straight down to the ground. The lasers impact and erupt into a massive destructive wave that obliterates everything in the environment—structures shatter, debris flies, surfaces crack and vaporize in bright flashes. Simultaneously, her dress morphs and crystallizes: fabric hardens and reforms into a sleek white and black crystal suit, with sharp crystalline facets, glowing black veins, and reflective white armor plating that fully covers her body in a powerful new form. 
-At the end: She stands empowered in the completed white and black crystal suit amid the devastated surroundings, residual laser energy fading, destruction complete.
-
-[Maintain Consistency]
-Keep her core identity, facial features, body proportions, and the transformation's destructive outcome stable throughout. The crystal suit remains white and black only. No other characters appear.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Female Character Crystal Suit Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
-
----
-### Grok Imagine Prompt: Spider-Man costume at MSG
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine featuring a Spider-Man costume wearer walking onto stage at Madison Square Garden performing Kill Tony.
-
-#### 📝 Prompt
-
-```
-Have a spider man costume guy walk out on stage at Madison Square Garden with a box of Chinese food performing kill tony
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine Prompt: Spider-Man costume at MSG">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2527,6 +2516,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T07:01:20.028Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T17:08:40.745Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3440** |
+| 📝 提示詞總數 | **3442** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-20** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 生物力學靈感大教堂
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段用於生成寬幅電影感渲染的提示詞，描繪舞者在由生物力學骨骼與管風琴構築的大教堂中起舞。
+
+#### 📝 提示詞
+
+```
+寬幅電影級渲染畫面：一名舞者身處宏偉大教堂的正中央，優雅地向後彎腰成拱形。這座大教堂由生物機械肋骨、脊椎柱與高聳的管風琴構築而成；她穿著以肋狀甲片雕塑而成的黑色緊身衣，單臂向上伸展。一道琥珀色光束劃破黑暗，精準灑落在她身上。黑曜石與槍鐵灰的單色調、濕潤光澤、迷濛氛圍、黑暗超現實主義、噴繪質感、照片級寫實 3D 渲染。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="生物力學靈感大教堂">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**作者:** [AI Aimee](https://x.com/RockGrokAI) | **來源:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **發布時間:** Nov 20, 2026
+
+---
+### BMW M50 Lucia 駕駛影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段包含特定文化元素的影片生成提示，內容為 Lucia 駕駛 BMW M50。
+
+#### 📝 提示詞
+
+```
+Lucia 開著 BMW M50 competition 穿梭街頭，車上大聲播放著 Anthony Santos 的音樂，引擎蓋上還插著一面多明尼加國旗
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="BMW M50 Lucia 駕駛影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**作者:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **來源:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **發布時間:** Nov 19, 2026
+
+---
 ### 銀翼女巫提示詞
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 一位女魔法師，擁有飄逸的黑色長髮與閃耀的銀色翅膀，身穿由 mediumpurple、mediumslateblue 與 slateblue 三色漸層構成的洋裝。其中一隻手懸浮著一顆散發綠光的圓形能量球。畫面比例 9:16。請勿包含任何文字。🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="銀翼女巫提示詞">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="銀翼女巫提示詞">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2416,55 +2454,6 @@ SpaceX – Beyond Earth
 **作者:** [Carlton Hinds](https://x.com/methuselaschild) | **來源:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **發布時間:** Nov 4, 2026
 
 ---
-### 雷射破壞與水晶戰衣變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 提示詞：女性角色發射雷射摧毀周圍環境，同時她的禮服轉變為黑白水晶戰衣。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段進階變身序列：女性角色從手中向地面釋放雷射能量，摧毀周遭的一切，同時她的洋裝轉變為黑白水晶戰衣。
-
-[事件腳本]
-開場：她以原始形態與服裝就緒站立，單手高舉。
-主要事件：她凝聚能量，從手中向下朝地面釋放出強烈的雷射光束。雷射擊中地面後爆發成巨大的破壞波，將環境中的一切徹底摧毀——建築碎裂、殘骸飛散、地表在刺眼閃光中龜裂並氣化。同時，她的洋裝開始變形結晶化：布料硬化並重塑為俐落的黑白水晶戰衣，具備銳利的晶體切面、發光的黑色紋路，以及反光白色裝甲板，完整包覆全身，展現出強大的全新姿態。
-結尾：她身穿完成的黑白水晶戰衣，充滿力量地佇立於一片廢墟之中，殘餘的雷射能量逐漸消散，破壞已然結束。
-
-[保持一致性]
-全程維持她的核心身分、臉部特徵、身體比例，以及變身所造成的破壞結果不變。水晶戰衣僅限黑、白兩色。不得出現其他角色。
-
-免責聲明：本影片為 AI 生成的虛構科幻概念創作，僅供娛樂用途。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="雷射破壞與水晶戰衣變身">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **發布時間:** Nov 4, 2026
-
----
-### Grok Imagine 提示詞：MSG 的蜘蛛人服裝
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段用於 Grok Imagine 的影片生成提示，描述一位身穿蜘蛛人服裝的人走上麥迪遜廣場花園的舞台，進行《Kill Tony》表演。
-
-#### 📝 提示詞
-
-```
-Have a spider man costume guy walk out on stage at Madison Square Garden with a box of Chinese food performing kill tony
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine 提示詞：MSG 的蜘蛛人服裝">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**作者:** [Jesse Coligan](https://x.com/greenteasmokerX) | **來源:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **發布時間:** Nov 4, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2526,6 +2515,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-20T07:01:22.199Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-20T17:08:43.126Z</sub>
 
 </div>

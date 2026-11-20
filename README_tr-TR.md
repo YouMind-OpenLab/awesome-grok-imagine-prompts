@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3440** |
+| 📝 Total Prompts | **3442** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Biomekanik Müze Katedrali
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Biomekanik kemiklerden ve borulu orglardan oluşan bir katedralde dans eden bir figürün geniş sinematik render'ı için bir istem.
+
+#### 📝 Prompt
+
+```
+Biyomekanik kaburgalar, omurga sütunları ve devasa borulu orglardan inşa edilmiş geniş bir katedralin tam ortasında zarifçe geriye doğru kavislenen, nervürlü plakalardan oluşan kalıplı siyah bir tulum giyen ve bir kolunu yukarı uzatan bir dansçının geniş sinematik render'ı. Tek bir kehribar rengi ışık huzmesi karanlığı yararak üzerine düşüyor. Monokrom obsidyen ve koyu metalik gri tonlar, ıslak parlaklık, atmosferik pus, karanlık sürrealizm, airbrush tekniğiyle işlenmiş, fotogerçekçi 3D render.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="Biomekanik Müze Katedrali">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **Published:** Nov 20, 2026
+
+---
+### BMW M50 Lucia Sürüş Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lucia'nın belirli kültürel unsurlarla BMW M50 kullandığı bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Lucia'nın kullandığı, yüksek sesle Anthony Santos müziği çalan ve kaputunda Dominik bayrağı bulunan bir BMW M50 Competition
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="BMW M50 Lucia Sürüş Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**Author:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **Source:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **Published:** Nov 19, 2026
+
+---
 ### Gümüş Kanatlı Büyücü Kadın Promptu
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 Uzun, dalgalanan siyah saçları ve parlayan gümüş kanatları olan bir kadın büyücü; mediumpurple, mediumslateblue ve slateblue renklerinden oluşan üç renkli geçişli bir elbise giyiyor. Bir elinde yuvarlak, yeşil parıltılı bir enerji küresi süzülüyor. En boy oranı 9:16. Lütfen herhangi bir metin eklemeyin. 🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Gümüş Kanatlı Büyücü Kadın Promptu">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Gümüş Kanatlı Büyücü Kadın Promptu">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2412,55 +2450,6 @@ Gece gökyüzüne bakan yaşlı bir kovboyun yakın çekimi. Kamera geriye doğr
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### Lazer Yıkımı ve Kristal Takım Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadın karakterin çevresini yok eden lazerler ateşlediği ve elbisesinin siyah-beyaz kristal bir takıma dönüştüğü Grok Imagine için bir istem.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Kadın karakterin elindeki lazer enerjisini yere bırakarak etrafındaki her şeyi yok ettiği, bu sırada elbisesinin siyah beyaz bir kristal zırha dönüştüğü üst düzey bir dönüşüm sahnesi oluşturun.
-
-[Olay Senaryosu]
-Başlangıç: Orijinal hâli ve elbisesiyle, elini kaldırmış şekilde hazır bekliyor. 
-Ana olay: Elindeki yoğun lazer ışınlarını yönlendirerek doğrudan yere bırakıyor. Lazerler zemine çarparak devasa bir yıkım dalgasına dönüşüyor ve çevredeki her şeyi yerle bir ediyor; yapılar parçalanıyor, enkaz havaya saçılıyor, yüzeyler çatlayıp parlak flaşlarla buharlaşıyor. Aynı anda elbisesi şekil değiştirip kristalleşiyor: kumaş sertleşerek keskin kristal yüzeylere, parlayan siyah damarlara ve tüm vücudunu saran yansıtıcı beyaz zırh plakalarına sahip, şık siyah beyaz bir kristal zırha dönüşüyor ve onu yepyeni, güçlü bir forma kavuşturuyor. 
-Sonuç: Yıkıma uğramış çevrenin ortasında, tamamlanmış siyah beyaz kristal zırhıyla güçlenmiş bir şekilde duruyor; kalıntı lazer enerjisi sönüyor ve yıkım tamamlanıyor.
-
-[Tutarlılığı Koruyun]
-Temel kimliğini, yüz hatlarını, vücut oranlarını ve dönüşümün yarattığı yıkıcı sonucu baştan sona sabit tutun. Kristal zırh yalnızca siyah ve beyaz renklerde kalmalıdır. Başka hiçbir karakter görünmemelidir.
-
-Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş yapay zekâ destekli kurgusal bir bilim kurgu konseptidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Lazer Yıkımı ve Kristal Takım Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
-
----
-### Grok Imagine İstemi: MSG'de Örümcek Adam Kostümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Madison Square Garden'da Kill Tony performansını sergileyen bir Örümcek Adam kostümü giyen kişinin sahneye çıktığı Grok Imagine video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Madison Square Garden sahnesine elinde bir kutu Çin yemeğiyle Örümcek Adam kostümlü bir adam çıksın ve Kill Tony performansı sergilesin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine İstemi: MSG'de Örümcek Adam Kostümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2522,6 +2511,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T07:01:36.149Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T17:08:56.668Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3440** |
+| 📝 Total Prompts | **3442** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Nhà Thờ Sinh Cơ Học Của Nàng Thơ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo hình ảnh điện ảnh góc rộng về một vũ công trong nhà thờ được xây dựng từ xương sinh cơ học và đàn organ ống.
+
+#### 📝 Prompt
+
+```
+Bản render điện ảnh khổ rộng khắc họa một vũ công đang uốn cong người ra sau đầy duyên dáng ngay giữa trung tâm của một thánh đường khổng lồ được kiến tạo từ những chiếc xương sườn cơ sinh học, các cột sống và những cỗ đàn ống cao vút. Cô khoác trên mình bộ bodysuit đen tạc khối với lớp giáp gân nổi, một cánh tay vươn thẳng lên cao. Một luồng sáng màu hổ phách duy nhất xé toạc bóng tối và đổ xuống người cô. Tông màu đơn sắc của đá hắc diện thạch và xám súng, bề mặt ướt bóng, sương mù bao phủ, chủ nghĩa siêu thực tăm tối, hiệu ứng phun sơn airbrush, bản render 3D chân thực như ảnh chụp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="Nhà Thờ Sinh Cơ Học Của Nàng Thơ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **Published:** Nov 20, 2026
+
+---
+### Video BMW M50 do Lucia Lái
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video với cảnh Lucia lái xe BMW M50, kết hợp các yếu tố văn hóa đặc trưng.
+
+#### 📝 Prompt
+
+```
+Chiếc BMW M50 competition do Lucia cầm lái, chạy xuyên qua khu hood với nhạc Anthony Santos mở hết cỡ và lá cờ Dominican phấp phới trên nắp capo xe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="Video BMW M50 do Lucia Lái">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**Author:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **Source:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **Published:** Nov 19, 2026
+
+---
 ### Prompt Nữ Phù Thủy Cánh Bạc
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 Một nữ phù thủy với mái tóc đen dài buông xõa và đôi cánh bạc lấp lánh, mặc chiếc váy chuyển màu gradient ba sắc độ mediumpurple, mediumslateblue và slateblue. Một quả cầu năng lượng tròn phát sáng màu xanh lục lơ lửng trên một tay. Tỷ lệ khung hình 9:16. Vui lòng không thêm bất kỳ văn bản nào. 🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt Nữ Phù Thủy Cánh Bạc">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Prompt Nữ Phù Thủy Cánh Bạc">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2410,55 +2448,6 @@ Cảnh cận một chàng cao bồi già đang ngước nhìn bầu trời đêm
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### Tia Laser Hủy Diệt và Biến Hình Bộ Đồ Tinh Thể
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cho Grok Imagine, trong đó một nhân vật nữ bắn tia laser phá hủy môi trường xung quanh, đồng thời chiếc váy của cô biến đổi thành bộ đồ tinh thể màu trắng và đen.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo sinh]
-Tạo một phân cảnh biến hình đỉnh cao, trong đó nhân vật nữ phóng năng lượng laser từ tay xuống mặt đất, phá hủy mọi thứ xung quanh, đồng thời bộ váy của cô hóa thành bộ giáp tinh thể hai màu trắng đen.
-
-[Kịch bản sự kiện]
-Khởi đầu: Cô đứng ở tư thế sẵn sàng với hình dáng và bộ váy ban đầu, một tay giơ cao.
-Sự kiện chính: Cô dồn tụ rồi phóng những luồng laser cường độ mạnh từ tay đâm thẳng xuống mặt đất. Tia laser chạm đất bùng nổ thành một làn sóng hủy diệt khổng lồ, quét sạch mọi thứ trong khung cảnh—các công trình vỡ vụn, mảnh vỡ bắn tung tóe, mặt đất nứt toác và bốc hơi trong những tia chớp sáng lóa. Cùng lúc đó, bộ váy của cô biến đổi và kết tinh: lớp vải cứng lại, tái cấu trúc thành một bộ giáp tinh thể trắng đen ôm sát, sắc sảo với các mặt cắt pha lê góc cạnh, những đường vân đen phát sáng cùng lớp giáp trắng phản quang bao bọc toàn thân, mang đến cho cô một diện mạo mới đầy uy lực.
-Kết thúc: Cô đứng sừng sững, tràn đầy sức mạnh trong bộ giáp tinh thể trắng đen hoàn chỉnh giữa đống đổ nát hoang tàn, những tàn dư năng lượng laser dần tan biến, cuộc tàn phá đã kết thúc.
-
-[Duy trì tính nhất quán]
-Giữ nguyên đặc điểm nhận dạng cốt lõi, đường nét khuôn mặt, tỷ lệ cơ thể của nhân vật cũng như mức độ tàn phá của quá trình biến hình xuyên suốt video. Bộ giáp tinh thể chỉ có hai màu trắng và đen. Không xuất hiện thêm bất kỳ nhân vật nào khác.
-
-Tuyên bố miễn trừ trách nhiệm: Video này là một ý tưởng khoa học viễn tưởng hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Tia Laser Hủy Diệt và Biến Hình Bộ Đồ Tinh Thể">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
-
----
-### Grok Imagine Prompt: Trang phục Spider-Man tại MSG
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, mô tả một người mặc trang phục Spider-Man bước lên sân khấu tại Madison Square Garden để biểu diễn Kill Tony.
-
-#### 📝 Prompt
-
-```
-Cho một anh chàng mặc đồ Spider-Man bước ra sân khấu tại Madison Square Garden, tay cầm hộp đồ ăn Trung Quốc rồi diễn luôn show Kill Tony.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine Prompt: Trang phục Spider-Man tại MSG">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2520,6 +2509,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T07:01:26.439Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T17:08:47.460Z</sub>
 
 </div>

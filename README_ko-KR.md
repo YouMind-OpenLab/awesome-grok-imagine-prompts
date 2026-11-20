@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3440** |
+| 📝 총 프롬프트 수 | **3442** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 생체역학적 뮤즈 대성당
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 생체역학적 뼈와 파이프 오르간으로 구성된 대성당에서 춤추는 무용가의 와이드 시네마틱 렌더링을 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+생체역학적 갈비뼈, 척추 기둥, 거대한 파이프 오르간으로 지어진 웅장한 대성당의 중앙에서 한 무용수가 우아하게 허리를 뒤로 젖히고 있는 와이드 시네마틱 렌더링. 리브드 플레이트로 조각된 블랙 바디수트를 입고 한쪽 팔을 위로 뻗고 있습니다. 호박색 빛줄기 하나가 어둠을 가르며 그녀에게 내려앉습니다. 모노크롬 옵시디언과 건메탈 톤, 촉촉한 광택, 몽환적인 대기 안개, 다크 초현실주의, 에어브러시 기법, 포토리얼리스틱 3D 렌더.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="생체역학적 뮤즈 대성당">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**작성자:** [AI Aimee](https://x.com/RockGrokAI) | **출처:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **게시일:** Nov 20, 2026
+
+---
+### BMW M50 루치아 드라이브 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 특정 문화적 요소를 포함하여 루치아가 BMW M50 을 운전하는 장면을 묘사한 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Lucia 가 운전하는 BMW M50 competition, 보닛 위에서 Anthony Santos 의 신나는 음악을 크게 틀어놓고 달리는 모습과 자동차 후드에 걸린 도미니카 국기
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="BMW M50 루치아 드라이브 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**작성자:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **출처:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **게시일:** Nov 19, 2026
+
+---
 ### 은빛 날개를 가진 마녀 프롬프트
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 길게 흩날리는 검은 머리카락과 빛나는 은빛 날개를 가진 여성 마법사, mediumpurple, mediumslateblue, slateblue 세 가지 색상이 그라데이션으로 이어지는 드레스를 입고 있습니다. 한 손에는 둥글고 초록색으로 빛나는 에너지가 떠 있습니다. 화면 비율 9:16. 텍스트는 절대 포함하지 마세요. 🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="은빛 날개를 가진 마녀 프롬프트">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="은빛 날개를 가진 마녀 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2421,55 +2459,6 @@ Optimus 를 유일한 중심 피사체로 유지하고, 영상 전체에 걸쳐 
 **작성자:** [Carlton Hinds](https://x.com/methuselaschild) | **출처:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **게시일:** Nov 4, 2026
 
 ---
-### 레이저 파괴와 크리스탈 슈트 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 프롬프트로, 여성 캐릭터가 레이저를 발사해 주변을 파괴하면서 드레스가 흑백 크리스탈 슈트로 변신하는 장면입니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-여성 캐릭터가 손에서 레이저 에너지를 지면으로 내리꽂아 주변 모든 것을 파괴하고, 입고 있던 드레스가 화이트 앤 블랙 크리스탈 수트로 변하는 한 차원 높은 변신 시퀀스를 생성합니다.
-
-[이벤트 스크립트]
-시작: 원래 모습과 드레스를 갖춘 채 손을 들어 올린 상태로 대기합니다. 
-주요 이벤트: 손에 강력한 레이저 빔을 응축한 뒤 곧바로 지면을 향해 내리꽂습니다. 레이저가 닿는 순간 거대한 파괴의 파동이 폭발하며 주변 환경을 완전히 초토화합니다. 구조물은 산산조각 나고 잔해가 허공으로 흩날리며, 바닥은 갈라지고 눈부신 섬광과 함께 증발합니다. 이와 동시에 드레스가 형태를 바꾸며 결정화됩니다. 천이 단단하게 굳어 유려한 화이트 앤 블랙 크리스탈 수트로 재탄생하며, 날카로운 크리스탈 절단면, 빛을 발하는 블랙 맥, 반사되는 화이트 아머 플레이트가 전신을 빈틈없이 감싸 압도적인 새로운 형태로 완성됩니다. 
-종료: 폐허가 된 주변 환경 속에서 완성된 화이트 앤 블랙 크리스탈 수트를 입고 강해진 힘으로 당당히 서 있으며, 잔존하던 레이저 에너지가 서서히 사라지며 파괴가 마무리됩니다.
-
-[일관성 유지]
-캐릭터의 핵심 정체성, 이목구비, 신체 비율, 그리고 변신으로 인한 파괴 결과는 처음부터 끝까지 동일하게 유지합니다. 크리스탈 수트는 오직 화이트와 블랙 컬러로만 구성됩니다. 다른 캐릭터는 등장하지 않습니다.
-
-면책 조항: 본 영상은 순수하게 오락 목적으로 제작된 AI 생성 가상 SF 콘셉트입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="레이저 파괴와 크리스탈 슈트 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **게시일:** Nov 4, 2026
-
----
-### Grok Imagine 프롬프트: MSG에서의 Spider-Man 코스튬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Madison Square Garden 무대에서 Kill Tony를 공연하는 Spider-Man 코스튬 착용자가 등장하는 Grok Imagine용 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-매디슨 스퀘어 가든 무대에 스파이더맨 코스튬을 입은 사람이 중국 음식 상자를 들고 나와서 Kill Tony 공연을 하는 거죠.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine 프롬프트: MSG에서의 Spider-Man 코스튬">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**작성자:** [Jesse Coligan](https://x.com/greenteasmokerX) | **출처:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **게시일:** Nov 4, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2531,6 +2520,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-20T07:01:24.341Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-20T17:08:45.383Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3440** |
+| 📝 Total Prompts | **3442** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### มหาวิหารแห่งแรงบันดาลใจเชิงชีวกลศาสตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับเรนเดอร์ภาพยนต์มุมกว้างของนักเต้นในมหาวิหารที่สร้างขึ้นจากกระดูกเชิงชีวกลศาสตร์และออร์แกนท่อ
+
+#### 📝 Prompt
+
+```
+ภาพเรนเดอร์แบบไวด์ซีนีมาติกของนักเต้นที่แอ่นหลังอย่างสง่างามอยู่ตรงกลางมหาวิหารอันกว้างใหญ่ ซึ่งสร้างขึ้นจากโครงกระดูกไบโอเมคานิค เสากระดูกสันหลัง และออร์แกนท่อขนาดสูงตระหง่าน สวมชุดบอดี้สูทสีดำขึ้นรูปทรงด้วยแผ่นเกราะซี่โครง แขนข้างหนึ่งเอื้อมขึ้นไปด้านบน ลำแสงสีอำพันเพียงเส้นเดียวตัดผ่านความมืดและสาดส่องลงมาที่ตัวเธอ โทนสีโมโนโครมแบบออบซิเดียนและกันเมทัล ผิวดูเปียกเป็นเงา หมอกบรรยากาศ เซอร์เรียลลิสม์โทนเข้ม งานพ่นแอร์บรัช ภาพเรนเดอร์ 3D แบบโฟโตรีอัลลิสติก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="มหาวิหารแห่งแรงบันดาลใจเชิงชีวกลศาสตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **Published:** Nov 20, 2026
+
+---
+### วิดีโอ BMW M50 ขับโดย Lucia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่แสดง Lucia กำลังขับ BMW M50 พร้อมองค์ประกอบทางวัฒนธรรมเฉพาะ
+
+#### 📝 Prompt
+
+```
+BMW M50 competition ขับโดย Lucia ลุยย่าน Hood เปิดเพลง Anthony Santos ดังกระหึ่ม พร้อมประดับธงชาติโดมินิกันบนฝากระโปรงรถ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="วิดีโอ BMW M50 ขับโดย Lucia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**Author:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **Source:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **Published:** Nov 19, 2026
+
+---
 ### พรอมต์แม่มดปีกสีเงิน
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Why use our gallery?
 แม่มดสาวผมยาวสีดำสลวยพริ้วไหว มีปีกสีเงินเปล่งประกาย สวมชุดเดรสไล่เฉดสามสี ได้แก่ mediumpurple, mediumslateblue และ slateblue มือข้างหนึ่งประคองลูกกลมพลังงานสีเขียวเรืองแสงลอยอยู่ อัตราส่วนภาพ 9:16 กรุณาอย่าใส่ข้อความใด ๆ ลงในภาพ 🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="พรอมต์แม่มดปีกสีเงิน">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="พรอมต์แม่มดปีกสีเงิน">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2415,55 +2453,6 @@ Video Prompt (Grok Imagine)
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### การทำลายด้วยเลเซอร์และการแปลงร่างเป็นชุดคริสตัล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่ตัวละครหญิงยิงเลเซอร์ทำลายสภาพแวดล้อมรอบข้าง ขณะที่ชุดเดรสของเธอเปลี่ยนรูปเป็นชุดคริสตัลสีขาวและดำ
-
-#### 📝 Prompt
-
-```
-[เป้าหมายการสร้าง]
-สร้างฉากแปลงร่างระดับเหนือชั้น โดยตัวละครหญิงปลดปล่อยพลังงานเลเซอร์จากมือลงสู่พื้นดิน ทำลายทุกสิ่งรอบตัวจนพินาศ ขณะที่ชุดของเธอแปรสภาพกลายเป็นชุดเกราะคริสตัลสีขาวดำ
-
-[สคริปต์เหตุการณ์]
-จุดเริ่มต้น: เธอยืนอยู่ในร่างและชุดเดิมในท่าเตรียมพร้อม พร้อมยกมือขึ้น
-เหตุการณ์หลัก: เธอรวบรวมพลังและปลดปล่อยลำแสงเลเซอร์เข้มข้นจากมือพุ่งตรงลงสู่พื้นดิน เมื่อเลเซอร์กระทบพื้นก็ระเบิดออกเป็นคลื่นทำลายล้างขนาดมหึมาที่กวาดล้างทุกสิ่งในบริเวณนั้น—โครงสร้างแตกละเอียด ซากปรักหักพังปลิวว่อน พื้นผิวปริแตกและระเหยหายไปในแสงสว่างวาบ ในเวลาเดียวกัน ชุดของเธอก็แปรสภาพและตกผลึก: เนื้อผ้าแข็งตัวและก่อรูปใหม่เป็นชุดเกราะคริสตัลสีขาวดำสุดโฉบเฉี่ยว มาพร้อมเหลี่ยมมุมคริสตัลคมกริบ เส้นสายสีดำเรืองแสง และแผ่นเกราะสีขาวสะท้อนแสงที่ห่อหุ้มร่างกายของเธอไว้อย่างมิดชิด กลายเป็นร่างใหม่ที่ทรงพลัง
-ตอนจบ: เธอยืนหยัดอย่างเปี่ยมพลังในชุดเกราะคริสตัลสีขาวดำที่สมบูรณ์ ท่ามกลางซากความพินาศรอบตัว พลังงานเลเซอร์ที่เหลืออยู่ค่อยๆ จางหายไป พร้อมกับการทำลายล้างที่สิ้นสุดลง
-
-[รักษาความสอดคล้อง]
-คงเอกลักษณ์หลัก ลักษณะใบหน้า สัดส่วนร่างกาย และผลลัพธ์ของการทำลายล้างจากการแปลงร่างให้สม่ำเสมอตลอดทั้งเรื่อง ชุดเกราะคริสตัลต้องเป็นสีขาวดำเท่านั้น ห้ามมีตัวละครอื่นปรากฏในเรื่อง
-
-ข้อควรทราบ: วิดีโอนี้เป็นแนวคิดนิยายไซไฟที่สร้างขึ้นด้วย AI เพื่อความบันเทิงเท่านั้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="การทำลายด้วยเลเซอร์และการแปลงร่างเป็นชุดคริสตัล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
-
----
-### Grok Imagine Prompt: ชุดสไปเดอร์แมนบนเวที MSG
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine ที่แสดงภาพผู้สวมชุดสไปเดอร์แมนเดินขึ้นเวทีที่ Madison Square Garden เพื่อทำการแสดง Kill Tony
-
-#### 📝 Prompt
-
-```
-ลองนึกภาพคนใส่ชุดสไปเดอร์แมนเดินออกมาบนเวทีที่ Madison Square Garden พร้อมกล่องอาหารจีนในมือ แล้วขึ้นไปแสดงในรายการ Kill Tony ดูสิ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine Prompt: ชุดสไปเดอร์แมนบนเวที MSG">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2525,6 +2514,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T07:01:25.394Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T17:08:46.303Z</sub>
 
 </div>

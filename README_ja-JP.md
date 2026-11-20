@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3440** |
+| 📝 プロンプト総数 | **3442** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 生体力学的ミューズ大聖堂
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生体力学的な骨とパイプオルガンで構築された大聖堂の中で踊るダンサーを描いた、ワイドなシネマティックレンダリングのプロンプト。
+
+#### 📝 プロンプト
+
+```
+バイオメカニカルな肋骨、脊椎の柱、そびえ立つパイプオルガンで構築された広大な大聖堂の中央で、ダンサーが優雅に背中を反らすワイドシネマティックレンダリング。リブ状のプレートで造形されたブラックボディスーツを身にまとい、片腕を空へと伸ばしている。琥珀色の 1 筋の光が闇を切り裂き、彼女の身体を照らし出す。モノクロームの黒曜石とガンメタル、濡れたような艶、大気中の霞み、ダークシュルレアリスム、エアブラシ仕上げ、フォトリアルな 3D レンダリング。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="生体力学的ミューズ大聖堂">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**作者:** [AI Aimee](https://x.com/RockGrokAI) | **ソース:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **公開日:** Nov 20, 2026
+
+---
+### BMW M50 Lucia Drive Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lucia が BMW M50 を運転する動画生成プロンプトで、特定の文化的要素を盛り込んでいます。
+
+#### 📝 プロンプト
+
+```
+Lucia が運転する BMW M50 competition。大音量で Anthony Santos の音楽を流しながら Hood を走り抜け、ボンネットにはドミニカ共和国の国旗が掲げられている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="BMW M50 Lucia Drive Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**作者:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **ソース:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **公開日:** Nov 19, 2026
+
+---
 ### 銀の翼を持つ魔法使いのプロンプト
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 長くたなびく黒髪と輝く銀色の翼を持つ女性魔術師。mediumpurple、mediumslateblue、slateblue の 3 色グラデーションのドレスを纏い、片手には丸く緑色に発光するエネルギーが浮かんでいます。アスペクト比 9:16。テキストは含めないでください。🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="銀の翼を持つ魔法使いのプロンプト">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="銀の翼を持つ魔法使いのプロンプト">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2433,55 +2471,6 @@ Optimus を唯一の中心被写体として扱い、次世代 SF デザイン�
 **作者:** [Carlton Hinds](https://x.com/methuselaschild) | **ソース:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **公開日:** Nov 4, 2026
 
 ---
-### レーザー破壊とクリスタルスーツ変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性キャラクターがレーザーを発射して周囲を破壊し、ドレスが白と黒のクリスタルスーツに変化する Grok Imagine 向けのプロンプト。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-女性キャラクターが手からレーザーエネルギーを地面へと放ち、周囲のすべてを破壊し尽くす一方で、ドレスが白と黒のクリスタルスーツへと変貌する、次世代レベルの変身シーケンスを生成してください。
-
-[イベントスクリプト]
-開始時：元の姿とドレスのまま、片手を掲げて構えている。
-主要イベント：彼女は強烈なレーザービームを手から集束させ、真下の地面へと一気に放つ。レーザーが着弾すると巨大な破壊波となって爆発し、周囲の環境にあるすべてを消滅させる——建造物は崩壊し、瓦礫が舞い散り、地表はひび割れ、まばゆい閃光とともに蒸発していく。それと同時に、彼女のドレスも変化し結晶化していく。布地は硬化して形を変え、シャープな結晶面、発光する黒い脈状のライン、反射する白い装甲板を備えた、流線型の白と黒のクリスタルスーツへと再構築され、力強い新たな姿で全身を完全に包み込む。
-終了時：白と黒のクリスタルスーツへの変身を遂げ、力を得た彼女が、荒廃した周囲に佇んでいる。残存するレーザーエネルギーが消えゆき、破壊が完了する。
-
-[一貫性の維持]
-彼女の基本的なアイデンティティ、顔立ち、体型のプロポーション、そして変身による破壊の結果は、全体を通して一定に保ってください。クリスタルスーツの色は白と黒のみとします。他のキャラクターは一切登場させないでください。
-
-免責事項：本動画はエンターテインメント目的で作成された、AI 生成によるフィクションの SF コンセプトです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="レーザー破壊とクリスタルスーツ変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **公開日:** Nov 4, 2026
-
----
-### Grok Imagine プロンプト: MSG での Spider-Man コスチューム
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Madison Square Garden のステージ上で Kill Tony を披露する Spider-Man コスチュームの着用者を描いた、Grok Imagine 向け動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-マディソン・スクエア・ガーデンのステージに、中華料理のテイクアウトボックスを持ったスパイダーマンのコスプレ姿の男が歩いて出てきて、Kill Tony を披露するんだ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine プロンプト: MSG での Spider-Man コスチューム">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**作者:** [Jesse Coligan](https://x.com/greenteasmokerX) | **ソース:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **公開日:** Nov 4, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2543,6 +2532,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-20T07:01:23.227Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-20T17:08:44.289Z</sub>
 
 </div>

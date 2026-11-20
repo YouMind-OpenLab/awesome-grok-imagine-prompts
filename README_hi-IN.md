@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3440** |
+| 📝 Total Prompts | **3442** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-20** |
 
@@ -189,6 +189,44 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### जैवयांत्रिक म्यूज़ कैथेड्रल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत सिनेमैटिक रेंडर के लिए प्रॉम्प्ट, जिसमें एक नर्तकी को जैवयांत्रिक हड्डियों और पाइप ऑर्गन्स से बने कैथेड्रल में दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+बायोमैकेनिकल पसलियों, रीढ़ की हड्डियों के स्तंभों और ऊँचे पाइप ऑर्गन से बने एक विशाल कैथेड्रल के बीचों-बीच एक नर्तकी का शानदार ढंग से पीछे की ओर झुकना — वह पसलियों जैसी प्लेटिंग वाला एक उभरा हुआ काला बॉडीसूट पहने हुए है और उसका एक हाथ ऊपर की ओर फैला है। यह एक वाइड सिनेमैटिक रेंडर है। अंबर रंग की रोशनी की एक अकेली किरण अंधेरे को चीरती हुई सीधे उस पर आकर गिरती है। मोनोक्रोम ऑब्सीडियन और गनमेटल रंग, गीली चमक, वातावरणीय धुंध, डार्क सररियलिज़्म, एयरब्रश्ड, फोटोरियलिस्टिक 3D रेंडर।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg" width="600" alt="जैवयांत्रिक म्यूज़ कैथेड्रल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14076)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123575803376259559) | **Published:** Nov 20, 2026
+
+---
+### BMW M50 लूसिया ड्राइव वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जिसमें लूसिया BMW M50 चला रही हैं, विशिष्ट सांस्कृतिक तत्वों के साथ।
+
+#### 📝 Prompt
+
+```
+Lucia BMW M50 competition चला रही हैं, तेज़ आवाज़ में Anthony Santos का संगीत सुन रही हैं और कार के हुड पर Dominican flag लगा हुआ है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg" width="600" alt="BMW M50 लूसिया ड्राइव वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14075)**
+
+**Author:** [ViceCityClipsX](https://x.com/ViceCityClipsX) | **Source:** [Link](https://x.com/ViceCityClipsX/status/2123306479797330326) | **Published:** Nov 19, 2026
+
+---
 ### Silver Wings वाली Sorceress का Prompt
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,7 +239,7 @@ Why use our gallery?
 लंबे, लहराते काले बालों और चमकदार चाँदी के पंखों वाली एक जादूगरनी, जिसने mediumpurple, mediumslateblue और slateblue रंगों के तीन-रंगीय ग्रेडिएंट वाली ड्रेस पहनी है। उसके एक हाथ में हरे रंग की चमकती हुई गोल ऊर्जा तैर रही है। आस्पेक्ट रेशियो 9:16। कृपया इसमें कोई टेक्स्ट शामिल न करें। 🪽🟢
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Silver Wings वाली Sorceress का Prompt">
+<img src="https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg" width="600" alt="Silver Wings वाली Sorceress का Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14033)**
 
@@ -2426,55 +2464,6 @@ Optimus को पूरे वीडियो में एकमात्र �
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### लेज़र विनाश और क्रिस्टल सूट रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक प्रॉम्प्ट जिसमें एक महिला किरदार लेज़र चलाकर अपने आस-पास को नष्ट करती है, जबकि उसका ड्रेस सफेद और काले क्रिस्टल सूट में बदल जाता है।
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-एक नेक्स्ट-लेवल ट्रांसफॉर्मेशन सीक्वेंस जनरेट करें, जिसमें महिला किरदार अपने हाथ से लेज़र एनर्जी ज़मीन पर छोड़ती है और अपने आस-पास की हर चीज़ को तबाह कर देती है, जबकि उसकी ड्रेस एक सफेद और काले क्रिस्टल सूट में बदल जाती है।
-
-[Event Script]
-शुरुआत में: वह अपने असली रूप और ड्रेस में तैयार खड़ी है, हाथ ऊपर उठा हुआ है।
-मुख्य घटना: वह अपने हाथ से तेज़ लेज़र बीम को चैनल करके सीधे ज़मीन की तरफ छोड़ती है। लेज़र के टकराते ही एक विशाल विनाशकारी लहर पैदा होती है जो आस-पास की हर चीज़ को खाक कर देती है—इमारतें बिखर जाती हैं, मलबा हवा में उड़ता है, और सतहें चमकीली रोशनी के साथ दरक कर भाप बन जाती हैं। इसी दौरान, उसकी ड्रेस का रूप बदलने लगता है और वह क्रिस्टलाइज़ हो जाती है: कपड़ा सख्त होकर एक स्लीक सफेद और काले क्रिस्टल सूट में ढल जाता है, जिसमें नुकीले क्रिस्टलाइन फेसेट्स, चमकती हुई काली वेन्स और रिफ्लेक्टिव सफेद आर्मर प्लेटिंग होती है, जो उसके पूरे शरीर को कवर करते हुए उसे एक नया दमदार रूप देती है।
-अंत में: वह पूरी तरह तबाह हो चुके माहौल के बीच अपने सफेद और काले क्रिस्टल सूट में नई ताकत के साथ खड़ी है, बची हुई लेज़र एनर्जी धीरे-धीरे गायब हो रही है और विनाश का काम पूरा हो चुका है।
-
-[Maintain Consistency]
-उसकी मूल पहचान, चेहरे के नैन-नक्श, शरीर के अनुपात और ट्रांसफॉर्मेशन के विनाशकारी परिणाम को पूरे सीन में एक समान रखें। क्रिस्टल सूट सिर्फ सफेद और काले रंग का ही रहेगा। कोई अन्य किरदार दिखाई नहीं देगा।
-
-अस्वीकरण (Disclaimer): यह वीडियो एक AI-जनरेटेड काल्पनिक साइ-फाई कॉन्सेप्ट है, जिसे सिर्फ मनोरंजन के उद्देश्य से बनाया गया है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="लेज़र विनाश और क्रिस्टल सूट रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
-
----
-### Grok Imagine प्रॉम्प्ट: MSG पर स्पाइडर-मैन कॉस्ट्यूम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Madison Square Garden पर Kill Tony प्रस्तुत करते हुए स्टेज पर चलते हुए एक स्पाइडर-मैन कॉस्ट्यूम पहने व्यक्ति को दर्शाने वाला Grok Imagine के लिए वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-कल्पना करो कि Madison Square Garden के स्टेज पर Spider-Man की कॉस्ट्यूम पहने कोई बंदा चाइनीज़ खाने का डिब्बा लेकर निकले और Kill Tony कर रहा हो।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: MSG पर स्पाइडर-मैन कॉस्ट्यूम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
-
-**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2536,6 +2525,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T07:01:27.501Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T17:08:48.519Z</sub>
 
 </div>
