@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video İstemi: Cam Gözlem Evindeki Kelebekler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karlı bir zirvede, alacakaranlıkta parlayan kelebeklerle çevrili cam bir gözlem evini anlatan detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Kuzeydeki bir dağ zirvesine tüneyen devasa cam bir gözlemevi; alacakaranlıkta kuzey gökyüzünü bekliyor. Yeni yağmış karın üzerinde, kubbesinin etrafında toplanan yüzlerce ışıl ışıl, rengarenk kelebek...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Grok Imagine Video İstemi: Cam Gözlem Evindeki Kelebekler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Sıvı Altın Kalp Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, belirli ses talimatlarıyla birlikte sıvı altın ipliklerinin atan bir kalbe dönüştüğü makro çekim videosu oluşturmak üzere hazırlanmış detaylı video üretim istemi.
+
+#### 📝 Prompt
+
+```
+VİDEO: Serin ve atmosferik bir spot ışığı altında kesintisiz bir makro yörünge çekimi. Yansıtıcı sıvı altından ince iplikler siyah camın üzerinde süzülerek merkezde birleşir. Yukarı doğru kıvrılarak pürüzsüz, heykelsi bir kalp oluştururlar; biyolojik bir organdan çok ince işçilikli bir altın mücevher gibi cilalıdır. Kalp hafifçe atar, her vuruş ayna yüzeyinde ışıltılı bir dalgalanma yaratırken ince bir altın zincir cama doğru uzanır. Karartmayla sonlanır. Büyüleyici bir sıvı metal işçiliği. SES: İnce metalik şırıltılar, yumuşak kalp atışları, sıvının katlanma sesi ve net saat tik-takları. Çelesta benzeri notalar eşliğinde minimal ambient elektronika ve tik-tak sesine dönüşen derin bir ritim. Vokal yok. Son iki saniye boyunca ses yavaşça kısılır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Sıvı Altın Kalp Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Biomekanik Müze Katedrali
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2399,57 +2437,6 @@ Kurgu Kompozisyonu (Toplam 8 saniye / Her 4 saniyede bir geçiş)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Kadın, Hırsızı Yakalamak İçin Çubuğu Polis Arabasına Dönüştürdü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için detaylı bir video üretim istemi: Bir kadın, yere düşürdüğü çubuğun polis arabasına dönüştüğünü ve ardından hırsızı yakalamak için bu aracı kullandığı sahneyi tasvir eder.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Kesintisiz, bir sonraki seviyeye geçen bir dönüşüm videosu oluşturun. Ana konu, yere bir sopa bırakarak onu bir polis arabasına dönüştüren bir kadındır; kadın arabaya biner, oradan uzaklaşır ve yan sokaktaki bir hırsızı yakalar.
-
-[Olay Senaryosu]
-Başlangıçta: Kadın elinde düz bir sopayla durmakta, odaklanmış ve hazır beklemektedir. Sopayı önündeki yere bırakır. Sopa anında dönüşmeye başlar; uzar, şekil değiştirir ve parlayarak ışıkları, amblem işaretleri ve sağlam bir gövdesi olan tam boyutlu bir polis arabasına genişler. Kadın öne doğru adım atar, sürücü kapısını açar, içeri oturur, kapıyı kapatır, motoru çalıştırır ve sokağın aşağısına doğru sürerek uzaklaşır.
-
-Ana olay: Polis arabası yan sokağa döner. Bir hırsız, çalıntı malları taşıyarak kaldırımda ya da yolda ileriye doğru koşmaktadır. Kadın hızlanır, arabayı hırsızın yolunu kesecek şekilde konumlandırır, hızla araçtan iner ve hırsızı yakalayıp kaçamayacak şekilde tutarak etkisiz hale getirir.
-
-Sonunda: Hırsız güvenli bir şekilde yakalanmış olup park halindeki polis arabasının yanında kadın tarafından tutulmaktadır; sopanın polis arabasına dönüşümü tamamen gerçekleşmiş ve kararlıdır, herhangi bir geri dönüş yaşanmaz.
-
-[Tutarlılığı Koruyun]
-Kadının kimliğini, kıyafetini ve görünümünü baştan sona tutarlı tutun. Tamamen tek bir polis arabasına dönüşen tek bir sopayı koruyun. Nedensel sıralamayı muhafaza edin: bırakma → dönüşme → arabaya binme → uzaklaşma → yan sokaktaki hırsızı yakalama. Mekânsal ilişkileri net tutun (yere bırakılma noktası, sokak güzergâhı, yan sokaktaki yakalama). Diyalog veya altyazı bulunmamalıdır.
-
-Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zekâ tarafından üretilmiş kurgusal bir bilim kurgu konseptidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Kadın, Hırsızı Yakalamak İçin Çubuğu Polis Arabasına Dönüştürdü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Kovboy Kartal Başlı Uzay Gezegeni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzay gezegeninde kartal başlı bir kovboyun yer aldığı sürreal video istemi.
-
-#### 📝 Prompt
-
-```
-Gece gökyüzüne bakan yaşlı bir kovboyun yakın çekimi. Kamera geriye doğru çekilirken, orantılı büyüklükte bir kartal kafasına sahip bir atın üzerinde oturduğu ortaya çıkar. Kamera geriye çekilmeye devam ettikçe, ikisinin de yabancı yıldızların altındaki bir uzaylı gezegeninde, tozlu bir tepenin zirvesinde olduğu anlaşılır. Kovboy bineğini çevirir ve kamera geniş açı için geriye doğru çekilirken yavaşça uzaklaşır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Kovboy Kartal Başlı Uzay Gezegeni">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2511,6 +2498,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:30:07.750Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:39:05.682Z</sub>
 
 </div>

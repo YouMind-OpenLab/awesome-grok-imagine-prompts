@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Vídeo Grok Imagine: Borboletas no Observatório de Vidro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado descrevendo um observatório de vidro em um pico nevado ao anoitecer, cercado por borboletas luminosas.
+
+#### 📝 Prompt
+
+```
+Um enorme observatório de vidro erguido no cume de uma montanha a norte, aguardando o crepúsculo para contemplar o céu setentrional. Neve acabada de cair e centenas de borboletas luminosas e coloridas a reunir-se em torno da sua cúpula...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Borboletas no Observatório de Vidro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Prompt de Vídeo: Coração de Ouro Líquido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo no Grok Imagine, criando uma tomada macro de fios de ouro líquido entrelaçando-se em um coração pulsante, com instruções específicas de áudio.
+
+#### 📝 Prompt
+
+```
+VÍDEO: Uma órbita macro contínua sob um foco de luz frio e envolvente. Finos fios de ouro líquido reflexivo deslizam sobre o vidro negro e convergem para o centro. Entrelaçam-se para cima, formando um coração escultural e suave, polido como uma joia de ouro refinada, e não como um órgão biológico. O coração pulsa suavemente, e cada batida envia uma ondulação luminosa pela sua superfície espelhada, enquanto uma delicada corrente de ouro se derrama sobre o vidro. Transição para preto (fade to black). Um artesanato hipnótico em metal líquido. ÁUDIO: Finos murmúrios metálicos, pulsações suaves de batimentos cardíacos, o som de um líquido a dobrar-se e o tique-taque preciso de um relógio. Eletrónica ambiente minimalista com notas semelhantes às de uma celesta e uma pulsação grave que transita para o tique-taque. Sem vozes. O som desvanece-se nos últimos dois segundos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Prompt de Vídeo: Coração de Ouro Líquido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Catedral da Musa Biomecânica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2394,57 +2432,6 @@ Composição dos Cortes (Total de 8 segundos / Troca a cada 4 segundos)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Mulher transforma bastão em carro de polícia para pegar ladrão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detalhado para geração de vídeo no Grok Imagine, onde uma mulher solta um bastão que se transforma em um carro de polícia, o qual ela dirige para pegar um ladrão na rua seguinte.
-
-#### 📝 Prompt
-
-```
-[Objetivo de Geração]
-Gerar um vídeo contínuo de transformação de alto nível. O elemento central é uma mulher que solta um bastão no chão, transformando-o em uma viatura policial; ela entra no carro, arranca e captura um ladrão na rua seguinte.
-
-[Roteiro de Eventos]
-No início: A mulher está de pé, segurando um bastão simples, concentrada e pronta. Ela solta o bastão no chão à sua frente. O objeto começa imediatamente a transformar-se — esticando, mudando de forma e brilhando enquanto se expande até se tornar uma viatura policial em tamanho real, com luzes, distintivos e uma carroçaria sólida. Ela dá um passo em frente, abre a porta do condutor, senta-se, fecha a porta, liga o motor e arranca pela rua.
-
-Evento principal: A viatura vira para a rua seguinte. Um ladrão corre à frente pelo passeio ou pela estrada, carregando bens roubados. A mulher acelera, posiciona o carro para cortar o caminho ao fugitivo, sai rapidamente e agarra-o, imobilizando-o para impedir a fuga.
-
-No final: O ladrão está firmemente detido e controlado pela mulher junto à viatura estacionada; a transformação do bastão em carro de polícia mantém-se completa e estável, sem qualquer reversão.
-
-[Manter Consistência]
-Manter a identidade, o vestuário e a aparência da mulher consistentes ao longo de todo o vídeo. Garantir que existe apenas um bastão, que se transforma integralmente numa única viatura policial. Preservar a sequência causal: largar → transformar → entrar no carro → arrancar → capturar o ladrão na rua seguinte. Manter as relações espaciais claras (local onde o bastão cai, trajeto na rua, captura na rua seguinte). Sem diálogos nem legendas.
-
-Aviso legal: Este vídeo é um conceito fictício de ficção científica gerado por IA, criado exclusivamente para fins de entretenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Mulher transforma bastão em carro de polícia para pegar ladrão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Caubói com Cabeça de Águia em Planeta Alienígena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surrealista apresentando um caubói com cabeça de águia em um planeta alienígena.
-
-#### 📝 Prompt
-
-```
-Um close-up de um velho cowboy, olhando fixamente para o céu noturno. A câmera se afasta e revela que ele está montado num cavalo com uma cabeça de águia em tamanho proporcional. À medida que a câmera continua a recuar, descobre-se que ambos estão no topo de uma colina poeirenta, num planeta alienígena sob estrelas desconhecidas. Ele faz a sua montaria dar meia-volta e afasta-se lentamente, enquanto a câmera se afasta para um plano geral.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Caubói com Cabeça de Águia em Planeta Alienígena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2506,6 +2493,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:30:06.673Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:39:04.884Z</sub>
 
 </div>

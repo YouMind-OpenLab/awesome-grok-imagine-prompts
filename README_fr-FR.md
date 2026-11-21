@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo Grok Imagine : Papillons dans un observatoire en verre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé décrivant un observatoire en verre sur un sommet enneigé au crépuscule, entouré de papillons lumineux.
+
+#### 📝 Prompt
+
+```
+Un immense observatoire de verre perché sur un sommet montagneux du nord, guettant le ciel boréal à la tombée de la nuit. De la neige fraîchement tombée et des centaines de papillons lumineux aux couleurs chatoyantes qui virevoltent autour de son dôme...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Prompt vidéo Grok Imagine : Papillons dans un observatoire en verre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Prompt vidéo Cœur en Or Liquide
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour la génération de vidéos avec Grok Imagine, créant un plan macro de fils d'or liquide se tissant en un cœur battant, avec des instructions audio spécifiques.
+
+#### 📝 Prompt
+
+```
+VIDÉO : Un travelling macro en orbite continue sous un projecteur froid et atmosphérique. De fins filets d'or liquide réfléchissant glissent sur le verre noir pour converger vers le centre. Ils s'élèvent et s'entrelacent pour former un cœur sculptural aux courbes lisses, poli comme un bijou en or fin plutôt que comme un organe biologique. Le cœur pulse doucement, chaque battement envoyant une ondulation lumineuse sur sa surface miroir, tandis qu'une fine chaîne en or se déploie sur le verre. Fondu au noir. Un savoir-faire hypnotique de métal liquide. AUDIO : Fins ruissellements métalliques, pulsations douces de battements de cœur, bruit de liquide qui se replie et tic-tac précis d'horloge. Electronica ambiante minimaliste avec des notes évoquant un célesta et une pulsation grave qui se mue en tic-tac. Aucune voix. Fondu sonore sur les deux dernières secondes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Prompt vidéo Cœur en Or Liquide">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Cathédrale de la Muse Biomécanique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2395,56 +2433,6 @@ Découpage des plans (Durée totale : 8 secondes / Changement toutes les 4 secon
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Une femme transforme un bâton en voiture de police pour attraper un voleur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt détaillé pour la génération de vidéo avec Grok Imagine : une femme laisse tomber un bâton qui se transforme en voiture de police, qu'elle conduit ensuite pour attraper un voleur dans la rue voisine.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo de transformation continue et évolutive. Le sujet principal est une femme qui laisse tomber un bâton au sol pour qu'il se transforme en voiture de police ; elle monte à bord, démarre et part intercepter un voleur dans la rue voisine.
-
-[Scénario des événements]
-Au début : La femme se tient debout, un simple bâton à la main, concentrée et prête à agir. Elle lâche le bâton sur le sol devant elle. Celui-ci commence immédiatement à se transformer : il s'étire, change de forme et se met à briller tout en prenant du volume, jusqu'à devenir une voiture de police grandeur nature, équipée de gyrophares, d'insignes officiels et d'une carrosserie solide. Elle s'avance, ouvre la portière conducteur, s'installe au volant, referme la porte, démarre le moteur et s'engage dans la rue.
-
-Événement principal : La voiture de police tourne dans la rue suivante. Un voleur court devant elle sur le trottoir ou la chaussée, chargé de marchandises volées. La femme accélère, positionne son véhicule pour lui couper la route, sort rapidement et l'interpelle en l'attrapant et en le maîtrisant pour l'empêcher de fuir.
-À la fin : Le voleur est solidement maîtrisé et maintenu par la femme à côté de la voiture de police garée ; la transformation du bâton en voiture de police reste totale et stable, sans aucun retour en arrière.
-
-[Maintenir la cohérence]
-Conserver l'identité, les vêtements et l'apparence de la femme identiques tout au long de la vidéo. S'assurer qu'un seul et même bâton se transforme intégralement en une unique voiture de police. Respecter scrupuleusement l'enchaînement logique : lâcher le bâton → transformation → monter dans la voiture → démarrer → attraper le voleur dans la rue voisine. Préserver la clarté des repères spatiaux (point de chute au sol, trajet dans la rue, lieu d'interpellation dans la rue suivante). Aucun dialogue ni sous-titre.
-
-Avertissement : Cette vidéo est un concept fictif de science-fiction généré par l'IA, créé uniquement à des fins de divertissement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Une femme transforme un bâton en voiture de police pour attraper un voleur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Cowboy à tête d'aigle sur une planète extraterrestre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo surréaliste mettant en scène un cowboy avec une tête d'aigle sur une planète extraterrestre.
-
-#### 📝 Prompt
-
-```
-Gros plan sur un vieux cow-boy qui fixe le ciel nocturne. La caméra recule pour révéler qu'il est assis sur un cheval dont la tête, proportionnée au reste du corps, est celle d'un aigle. Alors que la caméra continue de reculer, on découvre qu'ils se trouvent au sommet d'une colline poussiéreuse, sur une planète extraterrestre, sous un ciel parsemé d'étoiles inconnues. Il fait tourner sa monture et s'éloigne lentement, tandis que la caméra recule pour offrir un plan large.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Cowboy à tête d'aigle sur une planète extraterrestre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2506,6 +2494,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:30:03.513Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:39:02.743Z</sub>
 
 </div>

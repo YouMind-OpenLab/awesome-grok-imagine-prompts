@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Video Grok Imagine: Farfalle nell'Osservatorio di Vetro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato che descrive un osservatorio di vetro su una vetta innevata al crepuscolo, circondato da farfalle luminose.
+
+#### 📝 Prompt
+
+```
+Un enorme osservatorio di vetro arroccato sulla vetta di una montagna del nord, che al crepuscolo attende il cielo settentrionale. Neve appena caduta e centinaia di farfalle luminose e colorate che si radunano attorno alla sua cupola...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Prompt Video Grok Imagine: Farfalle nell'Osservatorio di Vetro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Prompt Video Cuore in Oro Liquido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la generazione video con Grok Imagine, che descrive una ripresa macro di filamenti d'oro liquido che si intrecciano formando un cuore pulsante, incluse specifiche istruzioni audio.
+
+#### 📝 Prompt
+
+```
+VIDEO: Un'orbita macro continua sotto un riflettore freddo e suggestivo. Sottili fili di oro liquido riflettente scivolano sul vetro nero convergendo verso il centro. Si intrecciano verso l'alto formando un cuore scultoreo e levigato, lucido come un raffinato gioiello in oro più che come un organo biologico. Il cuore pulsa dolcemente: ogni battito invia un'increspatura luminosa sulla sua superficie a specchio, mentre una sottile catena d'oro si snoda verso l'esterno sul vetro. Dissolvenza al nero. Artigianalità ipnotica in metallo liquido. AUDIO: Sottili rivoli metallici, morbide pulsazioni di battito cardiaco, un suono di liquido che si ripiega su se stesso e ticchettii precisi. Elettronica ambient minimale con note simili a quelle di una celesta e una pulsazione profonda che sfuma nel ticchettio. Nessuna voce. Dissolvenza del suono negli ultimi due secondi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Prompt Video Cuore in Oro Liquido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Cattedrale della Musa Biomeccanica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2394,57 +2432,6 @@ Composizione delle Inquadrature (Totale 8 secondi / Cambio ogni 4 secondi)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Una donna trasforma un bastone in un'auto della polizia per catturare un ladro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per la generazione video con Grok Imagine: una donna lascia cadere un bastone che si trasforma in un'auto della polizia, che poi guida per catturare un ladro nella strada successiva.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera un video di trasformazione continua e di livello superiore. Il soggetto principale è una donna che lascia cadere a terra un bastone, il quale si trasforma in un'auto della polizia; la donna sale a bordo, parte e cattura un ladro nella strada successiva.
-
-[Sceneggiatura degli eventi]
-All'inizio: la donna è in piedi con un semplice bastone tra le mani, concentrata e pronta. Lascia cadere il bastone a terra davanti a sé. Il bastone inizia immediatamente a trasformarsi: si allunga, cambia forma e si illumina mentre si espande fino a diventare un'auto della polizia a grandezza naturale, completa di lampeggianti, stemmi e carrozzeria solida. La donna fa un passo avanti, apre la portiera del conducente, si siede all'interno, la richiude, avvia il motore e si allontana lungo la strada.
-
-Evento principale: l'auto della polizia svolta nella strada successiva. Un ladro corre lungo il marciapiede o la carreggiata portando con sé della refurtiva. La donna accelera, posiziona l'auto per sbarrargli la strada, scende rapidamente e lo cattura afferrandolo e immobilizzandolo per impedirgli di fuggire.
-
-Alla fine: il ladro è saldamente catturato e trattenuto dalla donna accanto all'auto della polizia parcheggiata; la trasformazione da bastone ad auto della polizia resta completa e stabile, senza alcun ritorno allo stato iniziale.
-
-[Mantenere la coerenza]
-Mantieni costanti l'identità, l'abbigliamento e l'aspetto della donna per tutta la durata del video. Usa un unico bastone che si trasforma completamente in una sola auto della polizia. Rispetta la sequenza causale: caduta → trasformazione → salita in auto → partenza → cattura del ladro nella strada successiva. Mantieni chiari i rapporti spaziali (punto di caduta a terra, percorso stradale, luogo della cattura nella strada successiva). Nessun dialogo o sottotitolo.
-
-Avvertenza: questo video è un concept fantascientifico fittizio generato dall'IA, creato esclusivamente a scopo di intrattenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Una donna trasforma un bastone in un'auto della polizia per catturare un ladro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Alieno con testa di aquila cowboy su un pianeta alieno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video surreale che presenta un cowboy con la testa di aquila su un pianeta alieno.
-
-#### 📝 Prompt
-
-```
-Un primo piano di un vecchio cowboy che fissa il cielo notturno. La camera si allontana, rivelando che è in sella a un cavallo con una testa d'aquila dalle proporzioni realistiche. Man mano che la camera continua ad arretrare, si scopre che i due si trovano sulla cima di una collina polverosa di un pianeta alieno, sotto stelle sconosciute. Il cowboy fa voltare la sua cavalcatura e si allontana al passo, mentre l'inquadratura si allarga fino a diventare un campo lungo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Alieno con testa di aquila cowboy su un pianeta alieno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2506,6 +2493,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:30:04.584Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:39:03.490Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: Bướm trong Đài Quan Sát Kính
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho prompt video về một đài quan sát bằng kính trên đỉnh núi phủ tuyết lúc hoàng hôn, bao quanh bởi những cánh bướm phát sáng.
+
+#### 📝 Prompt
+
+```
+Một đài quan sát bằng kính khổng lồ tọa lạc trên đỉnh núi phía Bắc, lặng lẽ chờ đợi bầu trời đêm phương Bắc khi hoàng hôn buông xuống. Tuyết vừa rơi phủ trắng xóa, hàng trăm cánh bướm rực rỡ sắc màu phát sáng đang tụ hội quanh mái vòm...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Grok Imagine Video Prompt: Bướm trong Đài Quan Sát Kính">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Prompt Video Trái Tim Vàng Lỏng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video chi tiết cho Grok Imagine, mô tả cảnh quay macro các sợi vàng lỏng đan xen thành một trái tim đang đập cùng với hướng dẫn âm thanh cụ thể.
+
+#### 📝 Prompt
+
+```
+VIDEO: Cảnh quay macro liên tục xoay vòng dưới luồng sáng spotlight lạnh và đầy tâm trạng. Những sợi chất lỏng vàng phản quang mỏng mảnh trượt trên nền kính đen rồi hội tụ tại trung tâm. Chúng đan vào nhau vươn lên, tạo thành một trái tim điêu khắc mượt mà, được đánh bóng tinh xảo như trang sức vàng cao cấp chứ không phải một cơ quan sinh học. Trái tim đập nhẹ nhàng, mỗi nhịp lại lan tỏa một gợn sóng ánh sáng rực rỡ trên bề mặt gương, trong khi một sợi dây chuyền vàng thanh mảnh chảy tràn ra mặt kính. Chuyển cảnh sang màu đen. Nghệ thuật chế tác kim loại lỏng đầy mê hoặc. AUDIO: Tiếng kim loại nhỏ giọt li ti, nhịp tim đập êm ái, âm thanh chất lỏng cuộn gấp cùng tiếng tích tắc đồng hồ chuẩn xác. Nền nhạc electronica ambient tối giản với những nốt vang tựa đàn celesta và một nhịp trầm chuyển dần sang tiếng tích tắc. Không có giọng hát. Âm thanh mờ dần trong hai giây cuối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Prompt Video Trái Tim Vàng Lỏng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Nhà Thờ Sinh Cơ Học Của Nàng Thơ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2397,57 +2435,6 @@ Bố cục cảnh quay (Tổng 8 giây / Chuyển cảnh mỗi 4 giây)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Người Phụ Nữ Biến Cây Gậy Thành Xe Cảnh Sát Để Bắt Trộm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho việc tạo video bằng Grok Imagine, trong đó một người phụ nữ thả một cây gậy biến thành xe cảnh sát, sau đó cô lái chiếc xe này để bắt tên trộm ở con phố tiếp theo.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video biến hình liền mạch, chuyển cảnh sang cấp độ tiếp theo. Nhân vật chính là một người phụ nữ thả một cây gậy xuống đất để nó biến thành xe cảnh sát; cô bước vào xe, lái đi và tóm gọn một tên trộm ở con phố kế bên.
-
-[Kịch bản sự kiện]
-Mở đầu: Người phụ nữ đứng cầm một cây gậy trơn, ánh mắt tập trung và sẵn sàng hành động. Cô thả cây gậy xuống mặt đất ngay trước mặt. Cây gậy lập tức bắt đầu biến đổi — kéo dài, thay hình dạng và phát sáng khi phình to thành một chiếc xe cảnh sát kích thước thật, đầy đủ đèn tín hiệu, phù hiệu và thân xe cứng cáp. Cô bước tới, mở cửa ghế lái, ngồi vào trong, đóng cửa lại, nổ máy và lái xe chạy dọc con phố.
-
-Sự kiện chính: Chiếc xe cảnh sát rẽ vào con phố kế bên. Một tên trộm đang cắm đầu chạy trên vỉa hè hoặc lòng đường, tay ôm theo đồ vừa trộm được. Người phụ nữ tăng tốc, điều khiển xe chặn ngang đường tẩu thoát của hắn, nhanh chóng bước ra ngoài và khống chế tên trộm bằng cách túm chặt lấy hắn khiến hắn không thể trốn thoát.
-
-Kết thúc: Tên trộm đã bị người phụ nữ tóm gọn và giữ chặt ngay cạnh chiếc xe cảnh sát đang đỗ; quá trình biến hình từ cây gậy thành xe cảnh sát đã hoàn tất trọn vẹn, duy trì ổn định và không hề có dấu hiệu trở lại trạng thái ban đầu.
-
-[Duy trì tính nhất quán]
-Giữ nguyên danh tính, trang phục và ngoại hình của người phụ nữ xuyên suốt toàn bộ video. Chỉ sử dụng duy nhất một cây gậy và nó phải biến đổi hoàn toàn thành một chiếc xe cảnh sát. Tuân thủ đúng chuỗi nhân quả: thả gậy → biến hình → lên xe → lái đi → tóm tên trộm ở con phố kế bên. Đảm bảo mối quan hệ không gian rõ ràng (vị trí thả gậy trên mặt đất, lộ trình trên phố, địa điểm bắt giữ ở phố bên). Không có lời thoại hay phụ đề.
-
-Tuyên bố miễn trừ trách nhiệm: Video này là một ý tưởng khoa học viễn tưởng hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Người Phụ Nữ Biến Cây Gậy Thành Xe Cảnh Sát Để Bắt Trộm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Cao Bồi Đầu Đại Bàng Trên Hành Tinh Ngoài Trái Đất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video siêu thực về một cao bồi đầu đại bàng trên hành tinh ngoài trái đất.
-
-#### 📝 Prompt
-
-```
-Cảnh cận một chàng cao bồi già đang ngước nhìn bầu trời đêm. Ống kính lùi dần, để lộ ra ông đang ngồi trên lưng một con ngựa với cái đầu đại bàng to lớn cân xứng. Khi ống kính tiếp tục lùi xa, khung cảnh hiện rõ: họ đang đứng trên đỉnh một ngọn đồi bụi bặm thuộc hành tinh xa lạ, dưới những vì sao không thuộc về Trái Đất. Ông quay đầu ngựa và chậm rãi phi đi trong lúc ống kính lùi lại để lấy toàn cảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Cao Bồi Đầu Đại Bàng Trên Hành Tinh Ngoài Trái Đất">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2509,6 +2496,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:29:57.925Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:38:58.128Z</sub>
 
 </div>

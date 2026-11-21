@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Vídeo Grok Imagine: Borboletas no Observatório de Vidro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado descrevendo um observatório de vidro em um pico nevado ao anoitecer, cercado por borboletas luminosas.
+
+#### 📝 Prompt
+
+```
+Um enorme observatório de vidro erguido no pico de uma montanha ao norte, aguardando o anoitecer para contemplar o céu setentrional. Neve recém-caída e centenas de borboletas luminosas e coloridas se reunindo ao redor de sua cúpula...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Borboletas no Observatório de Vidro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Prompt de Vídeo Coração de Ouro Líquido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo no Grok Imagine, criando um plano macro de fios de ouro líquido entrelaçando-se em um coração pulsante, com instruções específicas de áudio.
+
+#### 📝 Prompt
+
+```
+VÍDEO: Uma órbita macro contínua sob um spotlight frio e atmosférico. Finos fios de ouro líquido reflexivo deslizam sobre o vidro negro e convergem para o centro. Eles se entrelaçam para cima, formando um coração escultural e suave, polido como uma joia de ouro refinada, e não como um órgão biológico. O coração pulsa suavemente, e cada batida envia uma ondulação luminosa por sua superfície espelhada, enquanto uma delicada corrente de ouro escorre para fora, sobre o vidro. Fade to black (escurecimento gradual). Um artesanato hipnótico em metal líquido. ÁUDIO: Finos gotejamentos metálicos, pulsações suaves de batimentos cardíacos, o som de um líquido se dobrando e tiques precisos de relógio. Electronica ambiente minimalista com notas que lembram uma celesta e uma pulsação grave que faz a transição para os tiques. Sem vocais. Fade out do som durante os dois segundos finais.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Prompt de Vídeo Coração de Ouro Líquido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Catedral da Musa Biomecânica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2394,57 +2432,6 @@ Composição dos Cortes (Total de 8 segundos / Troca a cada 4 segundos)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Mulher transforma galho em carro de polícia para pegar ladrão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detalhado para geração de vídeo no Grok Imagine, onde uma mulher solta um galho que se transforma em um carro de polícia, e ela o dirige para pegar um ladrão na rua seguinte.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere um vídeo contínuo de transformação de alto nível. O elemento central é uma mulher que solta um graveto no chão para que ele se transforme em uma viatura policial; ela entra no carro, sai dirigindo e captura um ladrão na rua seguinte.
-
-[Roteiro de Eventos]
-No início: A mulher está de pé, segurando um graveto simples, concentrada e pronta. Ela solta o graveto no chão à sua frente. O graveto começa a se transformar imediatamente — esticando, mudando de forma e brilhando enquanto se expande até virar uma viatura policial em tamanho real, com giroflex, insígnias e carroceria sólida. Ela dá um passo à frente, abre a porta do motorista, senta-se, fecha a porta, liga o motor e sai dirigindo pela rua.
-
-Evento principal: A viatura vira na rua seguinte. Um ladrão corre à frente pela calçada ou pela pista, carregando itens roubados. A mulher acelera, posiciona o carro para bloquear a rota de fuga do ladrão, desce rapidamente e o captura, agarrando-o e imobilizando-o para que não consiga escapar.
-
-No final: O ladrão está firmemente capturado e segurado pela mulher ao lado da viatura estacionada; a transformação do graveto em viatura permanece completa e estável, sem reverter.
-
-[Manter Consistência]
-Mantenha a identidade, as roupas e a aparência da mulher consistentes durante todo o vídeo. Mantenha um único graveto que se transforma por completo em uma única viatura. Preserve a sequência causal: soltar → transformar → entrar no carro → sair dirigindo → capturar o ladrão na rua seguinte. Mantenha as relações espaciais claras (local onde o graveto cai no chão, trajeto pela rua, captura na rua seguinte). Sem diálogos ou legendas.
-
-Aviso: Este vídeo é um conceito fictício de ficção científica gerado por IA, criado exclusivamente para fins de entretenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Mulher transforma galho em carro de polícia para pegar ladrão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Cowboy com Cabeça de Águia em Planeta Alienígena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surrealista apresentando um cowboy com cabeça de águia em um planeta alienígena.
-
-#### 📝 Prompt
-
-```
-Um close-up de um velho cowboy, olhando fixamente para o céu noturno. A câmera se afasta e revela que ele está montado em um cavalo com a cabeça de uma águia em tamanho proporcional. Conforme a câmera continua recuando, descobre-se que eles estão no topo de uma colina empoeirada em um planeta alienígena, sob estrelas de outro mundo. Ele faz sua montaria dar meia-volta e cavalga lentamente para longe, enquanto a câmera se afasta para um plano aberto
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Cowboy com Cabeça de Águia em Planeta Alienígena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2506,6 +2493,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:30:05.621Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:39:04.234Z</sub>
 
 </div>

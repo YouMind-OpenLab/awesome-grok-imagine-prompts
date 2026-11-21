@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de video para Grok Imagine: Mariposas en observatorio de cristal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado de video que describe un observatorio de cristal en una cumbre nevada al atardecer, rodeado de mariposas luminosas.
+
+#### 📝 Prompt
+
+```
+Un enorme observatorio de cristal encaramado en la cima de una montaña del norte, aguardando al cielo boreal al caer el crepúsculo. Nieve recién caída y cientos de mariposas luminosas de mil colores revoloteando alrededor de su cúpula...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Prompt de video para Grok Imagine: Mariposas en observatorio de cristal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Prompt de Video: Corazón de Oro Líquido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para la generación de video con Grok Imagine, diseñado para crear una toma macro de hilos de oro líquido que se entrelazan formando un corazón latiente, incluyendo instrucciones específicas de audio.
+
+#### 📝 Prompt
+
+```
+VÍDEO: Una órbita macro continua bajo un foco frío y envolvente. Finos hilos de oro líquido reflectante se deslizan sobre el cristal negro y convergen en el centro. Se entrelazan hacia arriba hasta formar un corazón escultórico y pulido, con el acabado de una joya de oro fino más que el de un órgano biológico. El corazón late suavemente; cada latido envía una onda luminosa por su superficie de espejo, mientras una delicada cadena de oro se despliega hacia el exterior sobre el cristal. Fundido a negro. Artesanía hipnótica de metal líquido. AUDIO: Sutiles goteos metálicos, pulsos suaves de latidos, el sonido de un pliegue líquido y tics de reloj precisos. Electrónica ambiental minimalista con notas similares a las de una celesta y un pulso profundo que da paso al tic-tac. Sin voces. Desvanecer el sonido durante los dos últimos segundos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Prompt de Video: Corazón de Oro Líquido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Catedral de la musa biomecánica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2396,57 +2434,6 @@ Composición de planos (8 segundos en total / Cambio cada 4 segundos)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Mujer transforma un palo en coche de policía para atrapar a un ladrón
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para la generación de video con Grok Imagine, donde una mujer deja caer un palo que se transforma en un coche de policía, el cual conduce para atrapar a un ladrón en la calle siguiente.
-
-#### 📝 Prompt
-
-```
-[Objetivo de generación]
-Generar un video continuo de transformación al siguiente nivel. La protagonista es una mujer que deja caer un palo al suelo para que se transforme en un coche patrulla; ella sube al vehículo, arranca y atrapa a un ladrón en la calle contigua.
-
-[Guion de eventos]
-Al inicio: La mujer está de pie sosteniendo un simple palo, concentrada y lista. Lo deja caer al suelo frente a ella. El palo comienza a transformarse de inmediato: se estira, cambia de forma y brilla mientras crece hasta convertirse en un coche patrulla a tamaño real, con luces, distintivos policiales y una carrocería sólida. Ella da un paso al frente, abre la puerta del conductor, se sienta, cierra la puerta, enciende el motor y se marcha calle abajo.
-
-Evento principal: El coche patrulla gira hacia la calle contigua. Un ladrón corre por delante, ya sea por la acera o por la calzada, cargando objetos robados. La mujer acelera, maniobra el coche para cortarle el paso, baja rápidamente y lo atrapa sujetándolo e inmovilizándolo para que no pueda escapar.
-
-Al final: El ladrón está firmemente atrapado y retenido por la mujer junto al coche patrulla estacionado; la transformación del palo en coche patrulla permanece completa y estable, sin revertirse en ningún momento.
-
-[Mantener la coherencia]
-Mantener constante la identidad, la ropa y el aspecto físico de la mujer durante todo el video. Asegurar que haya un único palo que se convierta por completo en un solo coche patrulla. Respetar la secuencia causal: dejar caer → transformar → subir al coche → marcharse → atrapar al ladrón en la calle contigua. Mantener claras las relaciones espaciales (el punto donde cae el palo, el recorrido por la calle, la captura en la calle contigua). Sin diálogos ni subtítulos.
-
-Aviso legal: Este video es un concepto ficticio de ciencia ficción generado por inteligencia artificial, creado únicamente con fines de entretenimiento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Mujer transforma un palo en coche de policía para atrapar a un ladrón">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Vaquero con Cabeza de Águila en Planeta Alienígena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video surrealista que presenta a un vaquero con cabeza de águila en un planeta alienígena.
-
-#### 📝 Prompt
-
-```
-Un primer plano de un viejo vaquero que mira fijamente al cielo nocturno. La cámara se aleja para revelar que está sentado sobre un caballo con una cabeza de águila de tamaño proporcionado. A medida que la cámara sigue retrocediendo, se descubre que ambos se encuentran en la cima de una colina polvorienta de un planeta alienígena, bajo estrellas de otro mundo. Él hace girar a su montura y se aleja cabalgando lentamente mientras la cámara se retira para mostrar un plano general.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Vaquero con Cabeza de Águila en Planeta Alienígena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2508,6 +2495,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:30:00.212Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:38:59.810Z</sub>
 
 </div>

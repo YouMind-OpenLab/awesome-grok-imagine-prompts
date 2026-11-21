@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3442** |
+| 📝 提示词总数 | **3445** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-21** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 视频提示词：玻璃天文台与发光蝴蝶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的视频提示词，描绘了黄昏时分雪山顶上的玻璃天文台，周围环绕着发光的蝴蝶。
+
+#### 📝 提示词
+
+```
+一座巨大的玻璃天文台矗立在北方的山巅，于暮色中静候北天。新雪初霁，数百只流光溢彩的蝴蝶翩跹而至，萦绕在穹顶四周……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Grok Imagine 视频提示词：玻璃天文台与发光蝴蝶">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **发布时间:** Nov 20, 2026
+
+---
+### 液态黄金心脏视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的详细视频生成提示词，用于创作液态金丝交织成跳动心脏的微距镜头，并包含具体的音频指令。
+
+#### 📝 提示词
+
+```
+视频：在冷调而富有氛围感的聚光灯下，镜头持续进行微距环绕拍摄。纤细的液态反光金丝在黑玻璃上滑动，向中心汇聚。它们向上交织成一颗光滑、极具雕塑感的心形，质感如精致的黄金珠宝般打磨抛光，而非生物器官。心脏轻柔地搏动，每一次跳动都在其镜面表面荡起一圈光晕涟漪，同时一条纤细的金链向外流淌至玻璃之上。画面渐隐为黑屏。呈现出令人沉醉的液态金属工艺美学。音频：细微的金属滴流声、柔和的心跳脉动、液体翻折的声响与精准的钟表滴答声。极简氛围电子乐，点缀着钢片琴般的音符与深沉的律动，并逐渐过渡为滴答声。无人声。最后两秒声音渐弱消失。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="液态黄金心脏视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**作者:** [AI Aimee](https://x.com/RockGrokAI) | **来源:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **发布时间:** Nov 20, 2026
+
+---
 ### 生物力学缪斯大教堂
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2402,57 +2440,6 @@ SpaceX – Beyond Earth
 **作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **发布时间:** Nov 5, 2026
 
 ---
-### 女子将木棍变成警车抓捕小偷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的详细视频生成提示词：一名女子丢下一根木棍，木棍瞬间变为一辆警车，她随即驾车前往下一条街道追捕小偷。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段连贯的进阶变形视频。核心主体是一名女子，她将一根木棍丢在地上，木棍随即变成一辆警车；她坐进车内驶离现场，并在下一条街道抓获了一名小偷。
-
-[事件脚本]
-开场：女子手持一根普通木棍站立，神情专注、蓄势待发。她将木棍丢在面前的地上。木棍立刻开始变形——不断拉伸、重塑并散发光芒，最终扩展成一辆全尺寸的警车，配有警灯、徽章标识和坚固的车身。她走上前，打开驾驶座车门，坐进车内，关上车门，启动引擎，沿街道驶离。
-
-主要事件：警车拐入下一条街道。一名小偷正抱着赃物在人行道或路面上向前狂奔。女子加速行驶，将车横在小偷前方截断去路，随后迅速下车，一把抓住并制服小偷，使其无法逃脱。
-
-结尾：小偷被女子牢牢控制，两人站在停好的警车旁；木棍变警车的变形过程彻底完成且状态稳定，没有发生任何回退还原。
-
-[保持一致性]
-全程保持女子的身份、服装和外貌一致。确保始终是同一根木棍，并完整变成一辆警车。保留因果顺序：丢下 → 变形 → 上车 → 驶离 → 在下一条街道抓获小偷。空间关系需清晰明确（木棍落地的位置、行驶路线、下一条街道的抓捕地点）。不包含任何对话或字幕。
-
-免责声明：本视频为 AI 生成的虚构科幻概念内容，仅供娱乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="女子将木棍变成警车抓捕小偷">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **发布时间:** Nov 5, 2026
-
----
-### 牛仔鹰头外星人星球
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实的视频提示词，描绘了一位长着鹰头的牛仔身处外星世界。
-
-#### 📝 提示词
-
-```
-一位老牛仔的特写镜头，他正仰望夜空。镜头缓缓拉远，只见他骑在一匹马上，马长着一颗比例匀称的鹰头。随着镜头继续后拉，画面逐渐展现出他们身处一颗外星球尘土飞扬的山丘之巅，头顶是异星的璀璨星空。他调转坐骑，在镜头拉至全景的过程中缓缓策马远去。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="牛仔鹰头外星人星球">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**作者:** [Carlton Hinds](https://x.com/methuselaschild) | **来源:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **发布时间:** Nov 4, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2514,6 +2501,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-21T01:29:52.132Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-21T12:38:53.755Z</sub>
 
 </div>

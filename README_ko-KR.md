@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3442** |
+| 📝 총 프롬프트 수 | **3445** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine Video 프롬프트: 유리 천문대의 나비
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈 덮인 산봉우리의 유리 전망대를 황혼에 빛나는 나비들이 둘러싼 장면을 묘사한 상세한 영상 프롬프트
+
+#### 📝 프롬프트
+
+```
+북쪽 산봉우리 위에 자리 잡은 거대한 유리 천문대, 해 질 녘 북쪽 하늘을 기다리고 있습니다. 갓 내린 눈 위로 수백 마리의 빛나는 알록달록한 나비들이 돔 주위로 모여드는데...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Grok Imagine Video 프롬프트: 유리 천문대의 나비">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**작성자:** [Cathy has this](https://x.com/lighthouse42f) | **출처:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **게시일:** Nov 20, 2026
+
+---
+### 액체 금 심장 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을(를) 사용하여 액체 금 실이 박동하는 심장으로 짜여 나가는 매크로 샷을 생성하기 위한 상세한 비디오 프롬프트로, 특정 오디오 지시사항을 포함합니다.
+
+#### 📝 프롬프트
+
+```
+영상: 차갑고 분위기 있는 스포트라이트 아래 끊임없이 이어지는 매크로 궤도. 반사되는 액체 금빛의 가느다란 실들이 블랙 글라스 위를 미끄러지듯 흘러 중앙으로 모입니다. 이 실들은 위로 엮이며 매끄럽고 조형적인 하트를 만들어내는데, 생물학적 장기가 아닌 고급 금세공 주얼리처럼 윤이 나게 연마된 모습입니다. 하트는 부드럽게 고동치고, 박동이 울릴 때마다 거울 같은 표면을 따라 빛나는 물결이 번지며, 얇은 금 체인이 글라스 위로 흘러나옵니다. 페이드 투 블랙. 몽환적인 리퀴드 메탈 장인정신. 오디오: 가늘게 떨어지는 금속성 소리, 부드러운 심장 박동, 액체가 접히는 듯한 소리와 정교한 시계 초침 소리. 첼레스타를 닮은 음색과 째깍거리는 소리로 전환되는 깊은 펄스가 어우러진 미니멀 앰비언트 일렉트로니카. 보컬 없음. 마지막 2 초 동안 사운드 페이드아웃.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="액체 금 심장 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**작성자:** [AI Aimee](https://x.com/RockGrokAI) | **출처:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **게시일:** Nov 20, 2026
+
+---
 ### 생체역학적 뮤즈 대성당
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2408,57 +2446,6 @@ Optimus 를 유일한 중심 피사체로 유지하고, 영상 전체에 걸쳐 
 **작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **게시일:** Nov 5, 2026
 
 ---
-### 막대기가 경찰차로 변신? 여성이 도둑을 잡는 순간
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 상세 영상 생성 프롬프트: 여성이 떨어뜨린 막대기가 경찰차로 변신하고, 그녀는 이 차를 운전해 다음 거리에서 도둑을 추격합니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-끊김 없이 이어지는 다음 단계 변형 영상을 생성합니다. 핵심 주제는 한 여성이 막대기를 땅에 떨어뜨려 경찰차로 변형시키는 장면입니다. 이후 여성은 차에 올라타 출발한 뒤, 바로 옆 골목에서 도둑을 검거합니다.
-
-[이벤트 스크립트]
-시작: 여성이 아무런 장식이 없는 평범한 막대기를 든 채 집중하며 준비된 자세로 서 있습니다. 여성은 자기 앞 바닥에 막대기를 떨어뜨립니다. 막대기는 즉시 변형을 시작합니다. 늘어나고 형태가 바뀌며 빛을 발하더니, 경광등과 경찰 마크, 견고한 차체를 갖춘 실물 크기의 경찰차로 커집니다. 여성은 앞으로 걸어가 운전석 문을 열고 차에 올라탄 뒤, 문을 닫고 시동을 걸어 거리를 따라 달려갑니다.
-
-주요 이벤트: 경찰차가 다음 골목으로 꺾어 들어갑니다. 도둑이 훔친 물건을 들고 인도나 차도를 따라 앞쪽으로 달아나고 있습니다. 여성은 가속 페달을 밟아 도둑의 진로를 막을 위치로 차를 세운 뒤, 재빨리 내려 도둑을 붙잡아 제압하여 도망칠 수 없게 만듭니다.
-
-끝: 도둑은 주차된 경찰차 옆에서 여성에게 완전히 제압당한 채 꼼짝 못 하고 붙잡혀 있습니다. 막대기에서 경찰차로의 변형은 되돌아가지 않고 끝까지 완벽하고 안정적으로 유지됩니다.
-
-[일관성 유지]
-영상 전체에 걸쳐 여성의 신원, 의상, 외모를 일관되게 유지하세요. 하나의 막대기가 온전히 한 대의 경찰차로 변하도록 설정하세요. 인과적 순서를 반드시 지켜주세요: 막대기를 떨어뜨림 → 변형 → 탑승 → 출발 → 다음 골목에서 도둑 검거. 공간 관계(막대기를 떨어뜨린 지면 위치, 도로 경로, 다음 골목에서의 검거 위치)를 명확하게 유지하세요. 대사나 자막은 포함하지 않습니다.
-
-면책 조항: 본 영상은 오직 엔터테인먼트 목적으로 제작된 AI 생성 가상 SF 콘셉트입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="막대기가 경찰차로 변신? 여성이 도둑을 잡는 순간">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **게시일:** Nov 5, 2026
-
----
-### 카우보이 독수리 머리 외계 행성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 외계 행성에 서 있는 독수리 머리의 카우보이를 담은 초현실적인 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-밤하늘을 응시하는 늙은 카우보이의 클로즈업. 카메라가 뒤로 빠지면서, 그가 독수리 머리에 비례하는 크기의 말을 타고 앉아 있다는 것이 드러납니다. 카메라가 계속 뒤로 빠지자, 이들이 외계 별이 빛나는 어느 외계 행성의 먼지 자욱한 언덕 꼭대기에 있다는 사실이 밝혀집니다. 그는 말머리를 돌리고 천천히 멀어져 가며, 카메라는 와이드 숏을 위해 더 멀리 물러납니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="카우보이 독수리 머리 외계 행성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**작성자:** [Carlton Hinds](https://x.com/methuselaschild) | **출처:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **게시일:** Nov 4, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2520,6 +2507,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-21T01:29:55.496Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-21T12:38:56.489Z</sub>
 
 </div>

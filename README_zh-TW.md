@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3442** |
+| 📝 提示詞總數 | **3445** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-21** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 影片提示詞：玻璃天文台的蝴蝶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的影片提示詞，描述黃昏時分位於積雪山頂的玻璃天文台，周圍環繞著發光的蝴蝶。
+
+#### 📝 提示詞
+
+```
+一座巨大的玻璃天文台矗立於北方山巔，在黃昏時分靜候北國夜空。新雪初霽，數百隻散發著絢麗光芒的蝴蝶翩然飛舞，環繞著它的穹頂……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Grok Imagine 影片提示詞：玻璃天文台的蝴蝶">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **來源:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **發布時間:** Nov 20, 2026
+
+---
+### 液態黃金之心影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細影片生成提示詞，用於製作液態黃金絲線編織成跳動心臟的微距鏡頭，並包含特定的音訊指令。
+
+#### 📝 提示詞
+
+```
+影片：在冷調且充滿氛圍的聚光燈下，鏡頭以微距視角持續環繞拍攝。細如絲線的液態反光黃金在黑玻璃上滑動，匯聚於畫面中央。它們向上交織成一顆光滑、極具雕塑感的心形，質感宛如精緻打磨的黃金珠寶，而非生物器官。這顆心輕輕跳動，每一次搏動都在鏡面般的表面上盪開一圈光暈漣漪，同時一條細緻的金鍊向外流淌至玻璃面上。畫面漸暗至全黑。呈現令人著迷的液態金屬工藝美學。音訊：細膩的金屬滴流聲、柔和的心跳脈動、液態摺疊的聲響與精準的鐘錶滴答聲。極簡的環境電子樂，搭配類似鋼片琴的空靈音符，以及深沉的脈動並逐漸轉為滴答聲。無人聲。最後兩秒聲音漸弱淡出。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="液態黃金之心影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**作者:** [AI Aimee](https://x.com/RockGrokAI) | **來源:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **發布時間:** Nov 20, 2026
+
+---
 ### 生物力學靈感大教堂
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2403,57 +2441,6 @@ SpaceX – Beyond Earth
 **作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **發布時間:** Nov 5, 2026
 
 ---
-### 女子將樹枝變為警車以逮捕小偷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的詳細影片生成提示詞：描述一名女子丟下一根樹枝，該樹枝隨即變形成一輛警車，她駕駛這輛警車前往下一條街道追捕小偷。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段流暢且具備進階轉場效果的影片。核心主角是一名女子，她將一根木棍丟到地上，木棍隨即變形成一輛警車；她坐進車內、開車駛離，並在下一條街上逮捕一名竊賊。
-
-[事件腳本]
-開場：女子手持一根普通木棍站立，神情專注、蓄勢待發。她將木棍丟在面前的地上。木棍立刻開始變形——不斷拉長、重塑並發出光芒，逐漸膨脹成一輛全尺寸的警車，配備警示燈、警徽標誌與堅固的車身。她向前邁步，打開駕駛座車門坐進車內，關上車門、發動引擎，沿著街道駛離。
-
-主要事件：警車轉入下一條街。一名竊賊正帶著贓物，在前方的行人道或路面上狂奔。女子加速前進，將車子橫擋在竊賊的去路上，迅速下車抓住並制伏對方，讓他無處可逃。
-
-結尾：竊賊被女子牢牢制伏，兩人站在停妥的警車旁；木棍變形成警車的過程已徹底完成且狀態穩定，沒有變回原樣。
-
-[保持一致性]
-全程維持女子的身份、服裝與外貌一致。確保同一根木棍完整變形成一輛警車。保留因果順序：丟下 → 變形 → 上車 → 駛離 → 在下一條街逮捕竊賊。保持空間關係清晰（木棍落地的位置、行駛路線、下一條街的逮捕地點）。不含任何對話或字幕。
-
-免責聲明：本影片為 AI 生成的虛構科幻概念創作，僅供娛樂用途。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="女子將樹枝變為警車以逮捕小偷">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **發布時間:** Nov 5, 2026
-
----
-### 老鷹頭牛仔的外星世界
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超現實的影片提示，描繪一位長著老鷹頭的牛仔置身於外星世界。
-
-#### 📝 提示詞
-
-```
-一位老牛仔的特寫鏡頭，他在夜晚凝視著天空。鏡頭逐漸拉遠，顯示他正騎在一匹馬背上，而這匹馬卻長著一顆比例相當的鷹頭。隨著鏡頭持續後退，畫面揭露他們身處一座塵土飛揚的山丘頂端，位於某個外星球上，頭頂是陌生的異星星空。他調轉坐騎方向緩緩離去，鏡頭則繼續拉遠，呈現出全景畫面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="老鷹頭牛仔的外星世界">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**作者:** [Carlton Hinds](https://x.com/methuselaschild) | **來源:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **發布時間:** Nov 4, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2515,6 +2502,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-21T01:29:53.286Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-21T12:38:54.668Z</sub>
 
 </div>

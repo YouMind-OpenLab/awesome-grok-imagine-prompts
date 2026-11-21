@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: Glass Observatory Butterflies
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing a glass observatory on a snowy peak at dusk surrounded by glowing butterflies.
+
+#### 📝 Prompt
+
+```
+An enormous glass observatory perched on a northern mountain peak, at dusk waiting for the northern sky. Fresh fallen snow with hundreds of glowing colorful butterflies gathering around its dome...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Grok Imagine Video Prompt: Glass Observatory Butterflies">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Liquid Gold Heart Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for Grok Imagine creating a macro shot of liquid gold threads weaving into a beating heart with specific audio instructions.
+
+#### 📝 Prompt
+
+```
+VIDEO: A continuous macro orbit under a cool, moody spotlight. Thin threads of reflective liquid gold slide across black glass and converge at the center. They weave upward into a smooth, sculptural heart, polished like fine gold jewelry rather than a biological organ. The heart pulses gently, each beat sending a luminous ripple across its mirror surface, while a fine gold chain flows outward onto the glass. Fade to black. Hypnotic liquid-metal craftsmanship. AUDIO: Fine metallic trickles, soft heartbeat pulses, a liquid folding sound and precise clock ticks. Minimal ambient electronica with celesta-like notes and a deep pulse that transitions into ticking. No vocals. Fade sound during the final two seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Liquid Gold Heart Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Biomechanical Muse Cathedral
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2406,55 +2444,6 @@ Cut Composition (Total 8 seconds / Switch every 4 seconds)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Stick to Police Car Transformation Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex video generation prompt for Grok Imagine describing a woman transforming a stick into a police car and catching a thief.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a continuous next-level transformation video. The core subject is a woman who drops a stick on the ground so it transforms into a police car; she gets inside the car, drives away, and catches a thief from the next street.
-
-[Event Script]
-At the start: The woman stands holding a plain stick, focused and ready. She drops the stick onto the ground in front of her. The stick immediately begins transforming—stretching, reshaping, and glowing as it expands into a full-sized police car with lights, badge markings, and a solid body. She steps forward, opens the driver’s door, sits inside, closes the door, starts the engine, and drives away down the street.
-
-Principal event: The police car turns onto the next street. A thief is running ahead along the sidewalk or roadway, carrying stolen goods. The woman accelerates, positions the car to cut off the thief’s path, exits quickly, and catches the thief by grabbing and restraining him so he cannot escape.
-
-At the end: The thief is securely caught and held by the woman next to the parked police car; the stick-to-police-car transformation remains complete and stable with no reversion.
-
-[Maintain Consistency]
-Keep the woman’s identity, clothing, and appearance consistent throughout. Maintain a single stick that fully becomes one police car. Preserve the causal sequence: drop → transform → enter car → drive away → catch the thief from the next street. Keep spatial relationships clear (ground drop location, street path, next-street capture). No dialogue or subtitles.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Stick to Police Car Transformation Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Cowboy Eagle Head Alien Planet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video prompt featuring a cowboy with an eagle head on an alien planet.
-
-#### 📝 Prompt
-
-```
-A close-up of an old cowboy, staring at the sky at night. the camera pulls back to reveal that he is sitting on  a horse with a proportionately sized ￼head of an eagle. ￼As a camera continues to pull back it is revealed that they are on the top of dusty hill on an alien planet under alien stars. He turns his steed around and slowly rides off as the camera pulls back for a wide shot
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Cowboy Eagle Head Alien Planet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2516,6 +2505,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:29:51.024Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:38:52.726Z</sub>
 
 </div>

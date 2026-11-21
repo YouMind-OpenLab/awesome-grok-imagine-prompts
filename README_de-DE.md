@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3442** |
+| 📝 Total Prompts | **3445** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -189,6 +189,44 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video-Prompt: Glas-Observatorium mit Schmetterlingen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt, der ein Glas-Observatorium auf einem verschneiten Gipfel in der Dämmerung beschreibt, umgeben von leuchtenden Schmetterlingen.
+
+#### 📝 Prompt
+
+```
+Ein gewaltiges gläsernes Observatorium thront auf einem nördlichen Berggipfel und erwartet in der Dämmerung den Nordhimmel. Frisch gefallener Schnee, um dessen Kuppel sich Hunderte leuchtender, farbenprächtiger Schmetterlinge versammeln …
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg" width="600" alt="Grok Imagine Video-Prompt: Glas-Observatorium mit Schmetterlingen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14120)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2123825272348889247) | **Published:** Nov 20, 2026
+
+---
+### Video-Prompt: Flüssiges Gold-Herz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Generierungs-Prompt für Grok Imagine, der eine Makroaufnahme von flüssigen Goldfäden zeigt, die sich zu einem schlagenden Herz verweben, inklusive spezifischer Audio-Anweisungen.
+
+#### 📝 Prompt
+
+```
+VIDEO: Eine durchgehende Makro-Umkreisung unter einem kühlen, stimmungsvollen Spot. Feine Fäden aus reflektierendem flüssigem Gold gleiten über schwarzes Glas und laufen in der Mitte zusammen. Sie winden sich nach oben zu einem glatten, skulpturalen Herz – poliert wie edler Goldschmuck, nicht wie ein biologisches Organ. Das Herz pulsiert sanft; mit jedem Schlag breitet sich eine leuchtende Welle über seine spiegelnde Oberfläche aus, während eine feine Goldkette nach außen auf das Glas fließt. Abblende ins Schwarz. Hypnotische Liquid-Metal-Handwerkskunst. AUDIO: Zartes metallisches Rieseln, weiche Herzschläge, das Geräusch sich faltender Flüssigkeit und präzises Uhrenticken. Minimale Ambient-Electronica mit celestaartigen Klängen und einem tiefen Puls, der in ein Ticken übergeht. Kein Gesang. Ton in den letzten zwei Sekunden ausblenden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg" width="600" alt="Video-Prompt: Flüssiges Gold-Herz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14119)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2123789657842328011) | **Published:** Nov 20, 2026
+
+---
 ### Biomechanische Musenkathedrale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2394,56 +2432,6 @@ Schnittkomposition (Gesamt 8 Sekunden / Wechsel alle 4 Sekunden)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Frau verwandelt Stock in Polizeiauto, um Dieb zu fangen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungs-Prompt für Grok Imagine: Eine Frau wirft einen Stock, der sich in ein Polizeiauto verwandelt, mit dem sie dann zum Fangen eines Diebes auf der nächsten Straße fährt.
-
-#### 📝 Prompt
-
-```
-[Generierungsziel]
-Erstelle ein durchgehendes Transformationsvideo der nächsten Stufe. Im Mittelpunkt steht eine Frau, die einen Stock auf den Boden fallen lässt, woraufhin sich dieser in ein Polizeiauto verwandelt; sie steigt ein, fährt los und fängt einen Dieb in der nächsten Straße.
-
-[Ereignisablauf]
-Zu Beginn: Die Frau steht konzentriert und bereit mit einem einfachen Stock in der Hand da. Sie lässt den Stock direkt vor sich auf den Boden fallen. Der Stock beginnt sofort, sich zu verwandeln – er dehnt sich aus, verändert seine Form und leuchtet, während er zu einem Polizeiauto in Originalgröße mit Blaulicht, Polizei-Emblemen und einer massiven Karosserie heranwächst. Sie tritt nach vorn, öffnet die Fahrertür, setzt sich hinein, schließt die Tür, startet den Motor und fährt die Straße hinunter davon.
-
-Hauptereignis: Das Polizeiauto biegt in die nächste Straße ein. Ein Dieb rennt mit Diebesgut beladen über den Gehweg oder die Fahrbahn davon. Die Frau beschleunigt, bringt das Auto so in Position, dass es dem Dieb den Weg abschneidet, steigt blitzschnell aus und packt ihn, um ihn festzuhalten und daran zu hindern, zu entkommen.
-Am Ende: Der Dieb ist sicher gefasst und wird von der Frau neben dem geparkten Polizeiauto festgehalten; die Verwandlung vom Stock zum Polizeiauto bleibt vollständig abgeschlossen und stabil, ohne sich zurückzuverwandeln.
-
-[Konsistenz wahren]
-Die Identität, Kleidung und das Aussehen der Frau müssen durchgehend einheitlich bleiben. Es handelt sich stets um denselben Stock, der vollständig zu genau einem Polizeiauto wird. Die kausale Abfolge muss beibehalten werden: fallen lassen → verwandeln → ins Auto steigen → losfahren → den Dieb in der nächsten Straße fangen. Die räumlichen Beziehungen müssen klar erkennbar sein (Stelle, an der der Stock auf den Boden fällt, Straßenverlauf, Ort der Festnahme in der nächsten Straße). Keine Dialoge oder Untertitel.
-
-Haftungsausschluss: Dieses Video ist ein KI-generiertes, fiktives Sci-Fi-Konzept, das ausschließlich zu Unterhaltungszwecken erstellt wurde.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Frau verwandelt Stock in Polizeiauto, um Dieb zu fangen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
-
----
-### Cowboy-Adlerkopf auf fremdem Planeten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Video-Prompt: ein Cowboy mit Adlerkopf auf einem fremden Planeten.
-
-#### 📝 Prompt
-
-```
-Eine Nahaufnahme eines alten Cowboys, der nachts in den Himmel starrt. Die Kamera fährt zurück und enthüllt, dass er auf einem Pferd sitzt, dessen Kopf proportional die Größe eines Adlerkopfes hat. Während die Kamera weiter zurückfährt, wird sichtbar, dass sich beide auf der Spitze eines staubigen Hügels auf einem fremden Planeten unter außerirdischen Sternen befinden. Er wendet sein Reittier und reitet langsam davon, während die Kamera für eine Totale zurückfährt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Cowboy-Adlerkopf auf fremdem Planeten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
-
-**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2505,6 +2493,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:30:02.406Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:39:01.837Z</sub>
 
 </div>
