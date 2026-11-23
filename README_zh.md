@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3445** |
+| 📝 提示词总数 | **3448** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-23** |
 
@@ -189,6 +189,64 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 吊坠变身超级摩托车提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的创意视频提示词：心形吊坠展开并组装成未来感超级摩托车。
+
+#### 📝 提示词
+
+```
+心坠化超跑：她的心形吊坠脱落并展开为机械核心。数百个部件随之浮现，迅速组装成一辆动力强劲的红色未来感超级摩托车。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="吊坠变身超级摩托车提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **发布时间:** Nov 23, 2026
+
+---
+### Heart Reactor 服装变换提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，展示由发光的心形吊坠和能量波触发的服装变换效果。
+
+#### 📝 提示词
+
+```
+心形反应堆变身：
+她的心形吊坠开始发出耀眼的光芒。一股强大的红色能量波席卷整个房间，将她优雅的装束瞬间转化为一套先进的未来战甲，胸口处镶嵌着熠熠生辉的心形反应堆。
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Heart Reactor 服装变换提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **发布时间:** Nov 23, 2026
+
+---
+### 赛博天使变身视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描绘一位拥有机械翅膀和未来感盔甲的赛博天使变身场景。
+
+#### 📝 提示词
+
+```
+Cyber Angel：耀眼的白光将她环绕。随着她的服装幻化为优雅的红白相间未来感战甲，一对巨大的银色机械双翼随之展开。
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="赛博天使变身视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **发布时间:** Nov 22, 2026
+
+---
 ### Grok Imagine 视频提示词：玻璃天文台与发光蝴蝶
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2345,101 +2403,6 @@ SpaceX – Beyond Earth
 **作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **来源:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **发布时间:** Nov 5, 2026
 
 ---
-### 科幻战斗装甲激活序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的提示词，生成一段逼真的视频，展示模块化战斗装甲以液压精度和能量点火从非激活状态转变为战斗就绪配置。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段极具电影感且逼真的科幻视频，展示次世代变形战斗装甲。核心主体是一套先进的模块化战斗装甲，它将经历多阶段变形——从流线型的休眠战衣，逐步转化为全面激活、随时投入战斗的动力装甲，重点突出机械精密感、能量系统以及高度紧张的临战状态。
-
-[事件脚本]
-开场：一套流线型贴身基础战斗服静立在光线昏暗的高科技机库中。装甲呈哑光黑色，表面带有低调的六边形甲片纹理；在冰冷的工业照明下，处于休眠状态的蓝色能量纹路若隐若现。
-主要事件：变形程序启动。甲片以液压级的精准度开始位移与扩张——胸甲与肩甲模块向外展开，层层咬合的复合装甲迅速覆盖躯干与四肢，护手重组为适配重型武器的形态，头盔闭合锁死，多段式面甲精准卡入位。与此同时，沿脊柱、关节及胸部反应堆分布的能量核心依次点亮。伺服机构锁定，推进器从小腿与背部弹出，全身能量护盾网格短暂闪耀后趋于稳定，装甲正式进入战斗构型。
-结尾：完成变形的战斗装甲全面激活，摆出充满张力的备战姿态——头盔内 HUD 界面泛着微光，能量纹路脉动着明亮的青蓝色光芒，甲片紧密咬合，表面布满逼真的金属质感与战斗划痕，随时准备投入激战。
-
-[保持一致性]
-全程将装甲视为一个连续的整体：基础轮廓保持不变，仅通过机械结构进行变形演化；材质始终保持哑光黑与拉丝金属质感，搭配青蓝色能量点缀；整体比例与核心设计语言不得改变。不添加任何额外角色、集成系统以外的武器，也不切换场景环境。
-
-画面需呈现超写实的科幻材质细节，包括细微划痕、油膜反光、能量散热口周围的热浪扭曲效果、体积光以及锐利的景深表现。
-镜头采用连贯的电影级环绕运镜：起始于未激活战衣的低角度四分之三侧面中景，在变形过程中平滑推进并环绕拍摄，用特写捕捉铰链的机械运动与能量核心的点火瞬间，最后拉远至展现英雄般全身备战姿态的全景。
-音效包含低沉的液压嘶鸣声、金属甲片的碰撞声与伺服电机的运转声、逐渐升高的能量嗡鸣与启动提示音、最终锁定时的沉闷撞击声，以及伴随远处机械轰鸣的低频机库环境底噪。
-
-免责声明：本视频为 AI 生成的虚构科幻概念内容，仅供娱乐用途。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="科幻战斗装甲激活序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **发布时间:** Nov 5, 2026
-
----
-### Grok Imagine 电影级奇幻骑士视频提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 为 Grok Imagine 设计的详细视频生成提示词，用于创建高质量 3D 电影级奇幻场景，展现一位带有红色魔法特效和动态镜头运镜的女骑士。
-
-#### 📝 提示词
-
-```
-忠实还原原图的角色设计、五官、发型、盔甲、武器及配色。
-
-超高质量 3D CG 电影级奇幻画面。
-
-一位美丽的女骑士傲然伫立于战场之上，手握长剑。长发与披风随风飘扬，盔甲上精致的纹饰折射出耀眼光芒。
-
-镜头缓缓推进，鲜红的魔法能量从剑身喷涌而出，红色光粒在四周飞舞流转。
-
-女骑士目光如炬直视前方，猛然挥出强力一剑。一道巨大的红色斩击撕裂空间，激荡出层层冲击波。
-
-电影级动态运镜，人物动作自然流畅……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine 电影级奇幻骑士视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**作者:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **来源:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **发布时间:** Nov 5, 2026
-
----
-### Grok Imagine 视频提示词：礼服变身
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个用于 Grok Imagine 的复杂视频生成提示词，展示了一位身穿薄纱礼服的女性在废墟场景中变换姿势的过程，并引用了两张输入图像。
-
-#### 📝 提示词
-
-```
-视频提示词（Grok Imagine）
-全局设置与一致性保持
- * 角色：来自 @Image1 和 @Image2 的女性（同一人）。务必完整保留黑色薄纱荷叶边连衣裙、颈部丝带项圈、黑色盘发造型以及自然妆容。
- * 背景/氛围：时尚废墟风格空间。光影投射在墙面上，营造神秘而慵懒的氛围。
- * BGM：忧郁安静的 chill lo-fi hip-hop，或氛围感钢琴曲。
-分镜构成（总时长 8 秒 / 每 4 秒切换一次）
-[CUT 1]（0:00 - 0:04）
- * 参考图片：@Image1
- * 姿势 1（0:00 - 0:02）：右手置于脑后，神情慵懒地静静注视镜头。
- * 姿势 2（0:02 - 0:04）：视线微微下垂，指尖轻触颈部的丝带项圈。
-[CUT 2]（0:04 - 0:08）
- * 参考图片：@Image2
- * 姿势 1（0:04 - 0:06）：左手绕至脑后，头部微倾，对着镜头微笑。
- * 姿势 2（0:06 - 0:08）：脸部微微后仰，轻抚头发，同时羞涩地移开视线。
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine 视频提示词：礼服变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **发布时间:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2501,6 +2464,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-23T00:56:23.204Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-23T14:32:05.610Z</sub>
 
 </div>

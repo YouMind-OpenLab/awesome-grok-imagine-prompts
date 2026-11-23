@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3445** |
+| 📝 Total Prompts | **3448** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-23** |
 
@@ -189,6 +189,64 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Pendant to Superbike Morph Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt for Grok Imagine where a heart pendant expands and assembles into a futuristic superbike.
+
+#### 📝 Prompt
+
+```
+Heart-to-Superbike: Her heart pendant detaches and expands into a mechanical core. Hundreds of components emerge and assemble into a powerful red futuristic superbike.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="Pendant to Superbike Morph Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **Published:** Nov 23, 2026
+
+---
+### Heart Reactor Outfit Change Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine featuring an outfit transformation triggered by a glowing heart pendant and energy wave.
+
+#### 📝 Prompt
+
+```
+Heart Reactor Transformation: 
+Her heart-shaped pendant begins glowing intensely. A powerful red energy wave spreads across the room, transforming her elegant outfit into advanced futuristic armor with a glowing heart reactor in the chest.
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Heart Reactor Outfit Change Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **Published:** Nov 23, 2026
+
+---
+### Cyber Angel Transformation Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting a cyber angel transforming with mechanical wings and futuristic armor.
+
+#### 📝 Prompt
+
+```
+Cyber Angel: A bright white light surrounds her. Two enormous silver mechanical wings emerge as her clothing transforms into elegant white-and-red futuristic armor.
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="Cyber Angel Transformation Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **Published:** Nov 22, 2026
+
+---
 ### Grok Imagine Video Prompt: Glass Observatory Butterflies
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2349,101 +2407,6 @@ a young prince extending his hand out to the maid, and when then maid takes the 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
 
 ---
-### Sci-Fi Combat Armor Transformation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for generating a sci-fi video showing modular combat armor transforming from inactive to battle-ready.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a fully cinematic and realistic Sci-Fi video of next-level Transformations Combat Armor. The core subject is advanced modular combat armor that undergoes a multi-stage transformation from a sleek inactive suit into fully activated battle-ready power armor, emphasizing mechanical precision, energy systems, and high-stakes readiness.
-
-[Event Script]
-At the start: A sleek, form-fitting base combat suit stands inert in a dimly lit high-tech hangar, matte black with subtle hexagonal plating and dormant blue energy lines faintly visible under cold industrial lighting.
-Principal event: Transformation sequence activates. Plates begin shifting and expanding with hydraulic precision—chest and shoulder modules unfold outward, interlocking layered armor expands across the torso and limbs, gauntlets reconfigure into heavy weapon-ready forms, helmet seals shut with a multi-segment faceplate locking into place, and glowing energy cores ignite along the spine, joints, and chest reactor. Servos lock, thrusters extend from the calves and back, and a full-body energy shield lattice briefly flares then stabilizes as the armor reaches combat configuration.
-At the end: The fully transformed combat armor stands fully activated in a dynamic ready stance—helmet glowing with HUD light, energy lines pulsing bright cyan, plating locked and battle-scarred with realistic metal textures, ready for immediate engagement.
-
-[Maintain Consistency]
-Keep the armor as a single continuous entity throughout: same base silhouette evolving only through mechanical transformation, consistent matte-black and brushed-metal materials, cyan energy accents, and no change in overall scale or core design language. No additional characters, weapons beyond integrated systems, or environment shifts.
-
-The visuals present ultra-realistic Sci-Fi materials with micro-scratches, oil sheen, heat distortion around energy vents, volumetric lighting, and sharp depth of field.
-The camera uses a continuous cinematic orbit starting from a low three-quarter medium shot of the inactive suit, smoothly pushing in and circling during the transformation to capture plate mechanics and energy ignition in extreme close-ups of hinges and cores, then pulling back to a heroic full-body stance at the end.
-The sound includes deep hydraulic hisses, metallic plate clanks and servo whirs, rising energy hums and power-up chimes, a final heavy lock-in thud, and a low ambient hangar drone with distant machinery.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Sci-Fi Combat Armor Transformation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Cinematic Fantasy Knight Video Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed video generation prompt for Grok Imagine creating a high-quality 3D cinematic fantasy scene featuring a female knight with red magic effects and dynamic camera work.
-
-#### 📝 Prompt
-
-```
-Faithfully maintain the character design, facial features, hairstyle, armor, weapon, and colors of the original image.
-
-Ultra-high quality 3D CG cinematic fantasy footage.
-
-A beautiful female knight stands proudly on the battlefield, holding her sword. Her long hair and cape flow in the wind, and the fine decorations on her armor reflect the light.
-
-As the camera slowly approaches, vivid red magical energy overflows from the sword, and red particles of light dance around.
-
-The female knight looks forward with a sharp gaze and swings her sword powerfully. A massive red slash tears through space, spreading shockwaves.
-
-Cinematic dynamic camera work, natural and smooth human movements...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine Cinematic Fantasy Knight Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Video Prompt: Dress Transformation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A complex video generation prompt for Grok Imagine featuring a woman in a tulle dress transitioning between poses in a ruined setting, referencing two input images.
-
-#### 📝 Prompt
-
-```
-Video Prompt (Grok Imagine)
-Global Settings & Consistency Maintenance
- * Character: Woman from @Image1 and @Image2 (same person). Completely maintain black tulle frill dress, ribbon choker at neck, black hair up-style, natural makeup.
- * Background/Atmosphere: Chic ruin-like space. Light and shadow hitting walls, mysterious and ennui atmosphere.
- * BGM: Melancholic and quiet chill lo-fi hip-hop, or ambient piano piece.
-Cut Composition (Total 8 seconds / Switch every 4 seconds)
-[CUT 1] (0:00 - 0:04)
- * Reference Image: @Image1
- * Pose 1 (0:00 - 0:02): Right hand placed behind head, looking quietly at the camera with an ennui expression.
- * Pose 2 (0:02 - 0:04): Gaze drops slightly, fingertips gently touch the ribbon on the neck choker.
-[CUT 2] (0:04 - 0:08)
- * Reference Image: @Image2
- * Pose 1 (0:04 - 0:06): Left hand wrapped behind head, tilting neck slightly and smiling at the camera.
- * Pose 2 (0:06 - 0:08): Pull face back slightly, gently touching hair while shyly averting gaze.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video Prompt: Dress Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2505,6 +2468,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T00:56:22.078Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T14:32:04.663Z</sub>
 
 </div>

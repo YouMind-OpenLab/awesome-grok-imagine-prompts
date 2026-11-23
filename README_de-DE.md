@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3445** |
+| 📝 Total Prompts | **3448** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-23** |
 
@@ -189,6 +189,64 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### A heart pendant that assembles itself
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heart pendant that assembles itself
+
+#### 📝 Prompt
+
+```
+Vom Herz zum Superbike: Ihr Herz-Anhänger löst sich ab und entfaltet sich zu einem mechanischen Kern. Hunderte Einzelteile treten hervor und fügen sich zu einem kraftvollen, roten Superbike der Zukunft zusammen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="A heart pendant that assembles itself">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **Published:** Nov 23, 2026
+
+---
+### Herzreaktor-Outfit-Wechsel-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, der eine Outfit-Transformation zeigt, ausgelöst durch ein leuchtendes Herz-Anhänger und eine Energiewelle.
+
+#### 📝 Prompt
+
+```
+Herz-Reaktor-Transformation:
+Ihr herzförmiger Anhänger beginnt intensiv zu leuchten. Eine kraftvolle rote Energiewelle breitet sich im Raum aus und verwandelt ihr elegantes Outfit in eine hochentwickelte futuristische Rüstung mit einem leuchtenden Herz-Reaktor auf der Brust.
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Herzreaktor-Outfit-Wechsel-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **Published:** Nov 23, 2026
+
+---
+### Cyber-Engel-Verwandlungsvideo-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungsprompt für Grok Imagine, der eine Cyber-Angel mit mechanischen Flügeln und futuristischer Rüstung bei einer Verwandlung darstellt.
+
+#### 📝 Prompt
+
+```
+Cyber Angel: Ein strahlend weißes Licht umhüllt sie. Zwei gewaltige silberne mechanische Flügel entfalten sich, während sich ihre Kleidung in eine elegante, weiß-rote futuristische Rüstung verwandelt.
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="Cyber-Engel-Verwandlungsvideo-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **Published:** Nov 22, 2026
+
+---
 ### Grok Imagine Video-Prompt: Glas-Observatorium mit Schmetterlingen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2337,101 +2395,6 @@ Ein junger Prinz streckt dem Dienstmädchen die Hand entgegen, und als sie seine
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
 
 ---
-### Sci-Fi-Kampfpanzerung-Aktivierungssequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine zur Generierung eines realistischen Videos, das die Transformation modularer Kampfpanzerung von einem inaktiven Zustand zu einer gefechtsbereiten Konfiguration mit hydraulischer Präzision und Energiezündung zeigt.
-
-#### 📝 Prompt
-
-```
-[Generierungsziel]
-Erstelle ein vollständig kinoreifes und realistisches Sci-Fi-Video einer Transformations-Kampfrüstung der nächsten Generation. Im Mittelpunkt steht eine hochentwickelte, modulare Kampfrüstung, die sich in mehreren Stufen von einem schlanken, inaktiven Anzug zu einer voll aktivierten, gefechtsbereiten Power-Rüstung transformiert – mit besonderem Fokus auf mechanische Präzision, Energiesysteme und höchste Einsatzbereitschaft.
-
-[Ablaufskript]
-Zu Beginn: Ein schlanker, eng anliegender Basis-Kampfanzug steht reglos in einem schwach beleuchteten High-Tech-Hangar. Mattschwarz, mit dezenten sechseckigen Panzerplatten und ruhenden blauen Energielinien, die unter dem kalten Industrie-Licht nur schemenhaft sichtbar sind.
-Hauptereignis: Die Transformationssequenz wird aktiviert. Die Platten beginnen sich mit hydraulischer Präzision zu verschieben und auszudehnen – Brust- und Schultermodule klappen nach außen auf, ineinandergreifende, geschichtete Panzerungen breiten sich über Torso und Gliedmaßen aus, die Armschienen formen sich zu massiven, waffenbereiten Strukturen um, der Helm schließt sich hermetisch, während eine mehrteilige Gesichtsplatte einrastet, und leuchtende Energiekerne erwachen entlang der Wirbelsäule, der Gelenke und des Brustreaktors zum Leben. Servos verriegeln, Schubdüsen fahren aus den Waden und dem Rücken aus, und ein energiegeladenes Schutzschild-Gitter umhüllt kurz flackernd den gesamten Körper, bevor es sich stabilisiert, als die Rüstung ihre Kampfkonfiguration erreicht.
-Am Ende: Die vollständig transformierte Kampfrüstung steht voll aktiviert in einer dynamischen Gefechtsstellung – der Helm leuchtet im Licht des HUDs, die Energielinien pulsieren in hellem Cyan, die Panzerung ist verriegelt und zeigt durch realistische Metalltexturen bereits erste Kampfspuren. Bereit für den sofortigen Einsatz.
-
-[Konsistenz wahren]
-Die Rüstung muss durchgehend als eine einzige, zusammenhängende Einheit dargestellt werden: Dieselbe Grundsilhouette, die sich ausschließlich durch die mechanische Transformation verändert, konsistente Materialien in Mattschwarz und gebürstetem Metall, cyanfarbene Energie-Akzente sowie keine Änderungen am Gesamtmaßstab oder der grundlegenden Designsprache. Keine zusätzlichen Charaktere, keine Waffen außerhalb der integrierten Systeme und keine Wechsel der Umgebung.
-
-Die Visuals zeigen ultrarealistische Sci-Fi-Materialien mit Mikrokratzern, Ölschimmer, Hitzeflimmern rund um die Energieauslässe, volumetrischer Beleuchtung und scharfer Tiefenschärfe.
-Die Kamera führt eine durchgehende, kinoreife Kreisfahrt aus: Sie beginnt mit einer tiefen Dreiviertel-Halbtotale des inaktiven Anzugs, fährt während der Transformation sanft heran und umkreist das Motiv, um die Mechanik der Platten und das Zünden der Energie in extremen Nahaufnahmen von Scharnieren und Kernen einzufangen, bevor sie am Ende zu einer heroischen Ganzkörperaufnahme zurückfährt.
-Der Sound umfasst tiefe hydraulische Zischgeräusche, metallisches Klappern der Panzerplatten und das Surren der Servos, anschwellendes Energiebrummen und Hochfahr-Sounds, einen finalen, schweren Verriegelungsschlag sowie ein tiefes, atmosphärisches Hangar-Brummen mit entfernter Maschinerie im Hintergrund.
-
-Haftungsausschluss: Dieses Video ist ein KI-generiertes, fiktives Sci-Fi-Konzept, das ausschließlich zu Unterhaltungszwecken erstellt wurde.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Sci-Fi-Kampfpanzerung-Aktivierungssequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine: Cinematic Fantasy Knight Video Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Video-Generierungsprompt für Grok Imagine zur Erstellung einer hochwertigen 3D-Cinematic-Fantasy-Szene mit einer weiblichen Ritterin, roten Magieeffekten und dynamischer Kameraführung.
-
-#### 📝 Prompt
-
-```
-Charakterdesign, Gesichtszüge, Frisur, Rüstung, Waffe und Farben des Originalbildes originalgetreu beibehalten.
-
-3D-CG-Fantasy-Aufnahmen in kinoreifer Ultra-High-Quality.
-
-Eine wunderschöne Ritterin steht stolz mit gezücktem Schwert auf dem Schlachtfeld. Ihr langes Haar und der Umhang wehen im Wind, während die feinen Verzierungen ihrer Rüstung das Licht reflektieren.
-
-Während sich die Kamera langsam nähert, strömt leuchtend rote magische Energie aus dem Schwert, umgeben von tanzenden roten Lichtpartikeln.
-
-Die Ritterin blickt mit scharfem Blick nach vorn und holt zu einem kraftvollen Schwerthieb aus. Ein gewaltiger roter Schnitt zerreißt den Raum und sendet Schockwellen aus.
-
-Dynamische, filmreife Kameraführung, natürliche und fließende Bewegungen …
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine: Cinematic Fantasy Knight Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Video-Prompt: Kleiderwechsel
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein komplexer Prompt für die Video-Generierung mit Grok Imagine, der eine Frau in einem Tüllkleid zeigt, die zwischen Posen in einer Ruinenkulisse wechselt und dabei zwei Eingabebilder referenziert.
-
-#### 📝 Prompt
-
-```
-Video-Prompt (Grok Imagine)
-Globale Einstellungen & Konsistenzwahrung
- * Figur: Frau aus @Image1 und @Image2 (dieselbe Person). Schwarzes Tüllkleid mit Rüschen, Ribbon-Choker am Hals, schwarze Hochsteckfrisur und natürliches Make-up müssen exakt beibehalten werden.
- * Hintergrund/Stimmung: Schicker, ruinenartiger Raum. Licht und Schatten fallen auf die Wände, geheimnisvolle Atmosphäre voller Ennui.
- * BGM: Melancholischer, ruhiger Chill-Lo-Fi-Hip-Hop oder ein Ambient-Klavierstück.
-Schnittkomposition (Gesamt 8 Sekunden / Wechsel alle 4 Sekunden)
-[SCHNITT 1] (0:00 - 0:04)
- * Referenzbild: @Image1
- * Pose 1 (0:00 - 0:02): Rechte Hand hinter den Kopf gelegt, blickt ruhig und mit einem Ausdruck von Ennui in die Kamera.
- * Pose 2 (0:02 - 0:04): Der Blick senkt sich leicht, die Fingerspitzen berühren sanft das Band des Chokers am Hals.
-[SCHNITT 2] (0:04 - 0:08)
- * Referenzbild: @Image2
- * Pose 1 (0:04 - 0:06): Linke Hand hinter dem Kopf verschränkt, den Hals leicht geneigt, lächelt in die Kamera.
- * Pose 2 (0:06 - 0:08): Das Gesicht wird leicht zurückgenommen, streicht sanft durchs Haar und wendet schüchtern den Blick ab.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video-Prompt: Kleiderwechsel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2493,6 +2456,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T00:56:32.384Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T14:32:14.172Z</sub>
 
 </div>

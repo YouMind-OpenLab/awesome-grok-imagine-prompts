@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3445** |
+| 📝 Total Prompts | **3448** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-23** |
 
@@ -189,6 +189,64 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt di Trasformazione da Ciondolo a Superbike
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video creativo per Grok Imagine in cui un ciondolo a forma di cuore si espande e si assembla in una superbike futuristica.
+
+#### 📝 Prompt
+
+```
+Da cuore a Superbike: il suo ciondolo a forma di cuore si stacca e si espande trasformandosi in un nucleo meccanico. Centinaia di componenti fuoriescono e si assemblano fino a formare una potente superbike futuristica rossa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="Prompt di Trasformazione da Ciondolo a Superbike">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **Published:** Nov 23, 2026
+
+---
+### Prompt Cambio Abbigliamento Heart Reactor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt di generazione video per Grok Imagine che presenta una trasformazione dell'abbigliamento attivata da un ciondolo a cuore luminoso e un'onda energetica.
+
+#### 📝 Prompt
+
+```
+Trasformazione con Reattore Cuore:
+Il suo ciondolo a forma di cuore inizia a brillare intensamente. Una potente onda di energia rossa si propaga per tutta la stanza, trasformando il suo elegante abito in un'avanzata armatura futuristica dotata di un reattore cuore luminoso sul petto.
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Prompt Cambio Abbigliamento Heart Reactor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **Published:** Nov 23, 2026
+
+---
+### Prompt Video per Trasformazione Cyber Angel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per la generazione di video su Grok Imagine che raffigura un angelo cibernetico in trasformazione, dotato di ali meccaniche e armatura futuristica.
+
+#### 📝 Prompt
+
+```
+Cyber Angel: una luce bianca e intensa la avvolge. Due enormi ali meccaniche d'argento si dispiegano, mentre il suo abbigliamento si trasforma in un'elegante armatura futuristica bianca e rossa.
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="Prompt Video per Trasformazione Cyber Angel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **Published:** Nov 22, 2026
+
+---
 ### Prompt Video Grok Imagine: Farfalle nell'Osservatorio di Vetro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2337,101 +2395,6 @@ un giovane principe che porge la mano a una serva e, quando lei la prende, si tr
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
 
 ---
-### Sequenza di Attivazione dell'Armatura da Combattimento Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per Grok Imagine: genera un video realistico di armatura da combattimento modulare che si trasforma da uno stato inattivo a una configurazione pronta per la battaglia, con precisione idraulica e accensione energetica.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera un video Sci-Fi dal taglio cinematografico e iperrealistico che mostri una Combat Armor Transformations di livello superiore. Il soggetto principale è un'armatura da combattimento modulare avanzata che affronta una trasformazione in più fasi: da una tuta inattiva dal design affusolato a una power armor completamente attivata e pronta alla battaglia, mettendo in risalto la precisione meccanica, i sistemi energetici e l'elevato livello di prontezza operativa.
-
-[Sceneggiatura degli eventi]
-Inizio: una tuta da combattimento base aderente e dal profilo aerodinamico giace inerte all'interno di un hangar high-tech in penombra. È nero opaco con sottili piastre esagonali e linee energetiche blu dormienti, appena visibili sotto la fredda illuminazione industriale.
-Evento principale: si attiva la sequenza di trasformazione. Le piastre iniziano a spostarsi ed espandersi con precisione idraulica: i moduli del petto e delle spalle si aprono verso l'esterno, l'armatura stratificata a incastro si espande su torso e arti, i guanti d'arme si riconfigurano assumendo forme massicce pronte per le armi pesanti, il casco si sigilla ermeticamente mentre una visiera multi-segmento scatta in posizione, e nuclei energetici luminosi si accendono lungo la colonna vertebrale, le articolazioni e il reattore toracico. I servomotori si bloccano, i propulsori fuoriescono dai polpacci e dalla schiena, e una griglia di scudi energetici su tutto il corpo divampa per un istante per poi stabilizzarsi quando l'armatura raggiunge la configurazione da combattimento.
-Fine: l'armatura da combattimento, ora completamente trasformata, si erge a piena potenza in una posa dinamica e pronta all'azione: il casco illuminato dalla luce dell'HUD, le linee energetiche che pulsano di un ciano brillante, le piastre bloccate e segnate dalla battaglia con texture metalliche realistiche, pronta per l'ingaggio immediato.
-
-[Mantenere la coerenza]
-Mantieni l'armatura come un'unica entità continua per tutta la durata: la stessa silhouette di base che evolve esclusivamente attraverso la trasformazione meccanica, materiali coerenti in nero opaco e metallo spazzolato, dettagli energetici color ciano, senza alcuna variazione nelle proporzioni complessive o nel linguaggio stilistico fondamentale. Nessun personaggio aggiuntivo, nessuna arma esterna ai sistemi integrati e nessun cambiamento di ambientazione.
-
-Le immagini presentano materiali Sci-Fi ultra-realistici con micro-graffi, riflessi oleosi, distorsione termica attorno alle prese d'aria energetiche, illuminazione volumetrica e una profondità di campo nitida.
-La telecamera esegue un orbitale cinematografico continuo, partendo da un piano medio dal basso a tre quarti della tuta inattiva, avvicinandosi dolcemente e ruotando durante la trasformazione per catturare la meccanica delle piastre e l'accensione energetica con primissimi piani di cerniere e nuclei, per poi allontanarsi fino a inquadrare una posa eroica a figura intera nel finale.
-Il sonoro include profondi sibili idraulici, clangori metallici delle piastre e ronzii dei servomotori, vibrazioni energetiche crescenti e segnali acustici di accensione, un ultimo tonfo sordo di blocco definitivo e un cupo brusio ambientale dell'hangar con macchinari in lontananza.
-
-Avvertenza: questo video è un concept sci-fi fittizio generato dall'IA, creato esclusivamente a scopo di intrattenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Sequenza di Attivazione dell'Armatura da Combattimento Sci-Fi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **Published:** Nov 5, 2026
-
----
-### Prompt Video Fantasy Cinematografico Cavaliere per Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt dettagliato per la generazione video con Grok Imagine: crea una scena fantasy cinematografica 3D di alta qualità, con una cavaliere donna avvolta da effetti magici rossi e movimenti di camera dinamici.
-
-#### 📝 Prompt
-
-```
-Mantieni fedelmente il character design, i tratti del viso, l'acconciatura, l'armatura, l'arma e i colori dell'immagine originale.
-
-Riprese fantasy cinematografiche in CG 3D di altissima qualità.
-
-Una bellissima donna cavaliere si erge fiera sul campo di battaglia, stringendo la spada. I lunghi capelli e il mantello sventolano al vento, mentre le raffinate decorazioni dell'armatura riflettono la luce.
-
-Man mano che la telecamera si avvicina lentamente, un'intensa energia magica rossa sprigiona dalla spada, circondandola di particelle luminose scarlatte che danzano nell'aria.
-
-La donna cavaliere guarda dritto davanti a sé con uno sguardo affilato e sferra un fendente potente. Un enorme squarcio rosso lacera lo spazio, propagando onde d'urto.
-
-Movimenti di camera dinamici e cinematografici, movimenti umani naturali e fluidi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Prompt Video Fantasy Cinematografico Cavaliere per Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Video Prompt: Trasformazione dell'abito
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt video complesso per Grok Imagine: una donna in un abito di tulle cambia posa in un ambiente in rovina, con riferimento a due immagini di input.
-
-#### 📝 Prompt
-
-```
-Prompt Video (Grok Imagine)
-Impostazioni Globali e Mantenimento della Coerenza
- * Personaggio: La donna di @Image1 e @Image2 (la stessa persona). Mantenere rigorosamente l'abito in tulle nero con balze, il choker a fiocco al collo, i capelli neri raccolti e il trucco naturale.
- * Sfondo/Atmosfera: Uno spazio chic che ricorda delle rovine. Giochi di luce e ombra sulle pareti, atmosfera misteriosa e languida.
- * BGM: Chill lo-fi hip-hop malinconico e sommesso, oppure un brano ambient per pianoforte.
-Composizione delle Inquadrature (Totale 8 secondi / Cambio ogni 4 secondi)
-[INQUADRATURA 1] (0:00 - 0:04)
- * Immagine di riferimento: @Image1
- * Posa 1 (0:00 - 0:02): Mano destra dietro la testa, sguardo fisso e silenzioso in camera con un'espressione annoiata.
- * Posa 2 (0:02 - 0:04): Lo sguardo si abbassa leggermente, le punte delle dita sfiorano delicatamente il fiocco del choker al collo.
-[INQUADRATURA 2] (0:04 - 0:08)
- * Immagine di riferimento: @Image2
- * Posa 1 (0:04 - 0:06): Mano sinistra intrecciata dietro la testa, collo leggermente inclinato e sorriso rivolto alla camera.
- * Posa 2 (0:06 - 0:08): Viso ritratto leggermente all'indietro, accarezza dolcemente i capelli distogliendo timidamente lo sguardo.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video Prompt: Trasformazione dell'abito">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2493,6 +2456,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T00:56:34.145Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T14:32:15.544Z</sub>
 
 </div>

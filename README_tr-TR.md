@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3445** |
+| 📝 Total Prompts | **3448** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-23** |
 
@@ -189,6 +189,64 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Kolyeden Süper Motosiklete Dönüşüm İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için kalp kolyenin genişleyip fütüristik bir süper motosiklete dönüştüğü yaratıcı video istemi.
+
+#### 📝 Prompt
+
+```
+Kalpten Superbike'a: Kalp şeklindeki kolye ucu göğsünden ayrılır ve mekanik bir çekirdeğe dönüşerek genişler. Yüzlerce parça ortaya çıkar ve bir araya gelerek güçlü, kırmızı, fütüristik bir superbike oluşturur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="Kolyeden Süper Motosiklete Dönüşüm İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **Published:** Nov 23, 2026
+
+---
+### Kalp Reaktörü Kıyafet Değişimi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parlayan bir kalp kolyesi ve enerji dalgasıyla tetiklenen kıyafet dönüşümünü içeren, Grok Imagine için bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Kalp Reaktörü Dönüşümü:
+Kalp şeklindeki kolye ucu yoğun bir şekilde parlamaya başlar. Güçlü bir kırmızı enerji dalgası odaya yayılarak zarif kıyafetini, göğsünde parlayan bir kalp reaktörü bulunan gelişmiş fütüristik bir zırha dönüştürür.
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Kalp Reaktörü Kıyafet Değişimi İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **Published:** Nov 23, 2026
+
+---
+### Siber Melek Dönüşüm Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için mekanik kanatlar ve fütüristik zırhla dönüşen bir siber meleği tasvir eden video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Cyber Angel: Etrafını parlak beyaz bir ışık sarar. Kıyafetleri zarif beyaz-kırmızı fütüristik bir zırha dönüşürken, iki devasa gümüş mekanik kanat belirir.
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="Siber Melek Dönüşüm Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **Published:** Nov 22, 2026
+
+---
 ### Grok Imagine Video İstemi: Cam Gözlem Evindeki Kelebekler
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2342,101 +2400,6 @@ Genç bir prensin elini hizmetçiye uzatması ve hizmetçinin prensin elini tutt
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
 
 ---
-### Bilim Kurgu Savaş Zırhı Aktivasyon Dizisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, modüler savaş zırhının hidrolik hassasiyet ve enerji ateşlemesiyle pasif durumdan savaşa hazır konfigürasyona dönüştüğünü gösteren gerçekçi bir video oluşturan istem.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Yeni nesil Dönüşümlü Savaş Zırhını anlatan, tamamen sinematik ve gerçekçi bir Bilim Kurgu videosu oluşturun. Ana konu; şık ve pasif bir kıyafetten tam aktif, savaşa hazır bir güç zırhına çok aşamalı bir dönüşüm geçiren gelişmiş modüler savaş zırhıdır. Videoda mekanik hassasiyet, enerji sistemleri ve yüksek riskli muharebe hazırlığı vurgulanmalıdır.
-
-[Olay Senaryosu]
-Başlangıçta: Vücudu saran şık bir temel savaş kıyafeti, loş ışıklı yüksek teknolojili bir hangarda hareketsiz durmaktadır. Mat siyah renkteki zırhın üzerinde ince altıgen plakalar bulunur ve soğuk endüstriyel aydınlatma altında, sönmüş mavi enerji hatları belli belirsiz seçilir.
-Ana olay: Dönüşüm dizisi devreye girer. Plakalar hidrolik bir hassasiyetle kaymaya ve genişlemeye başlar; göğüs ve omuz modülleri dışa doğru açılır, birbirine kenetlenen katmanlı zırh gövde ve uzuvlara yayılır, eldivenler ağır silah kullanımına uygun biçime bürünür, kask çok parçalı yüz plakası yerine oturarak kapanır ve omurga, eklem yerleri ile göğüs reaktörü boyunca parlayan enerji çekirdekleri ateşlenir. Servolar kilitlenir, baldırlardan ve sırttan iticiler çıkar; zırh savaş konfigürasyonuna ulaştığında tüm vücudu kaplayan enerji kalkanı ağı kısa bir an parlar ve ardından dengelenir.
-Sonunda: Tamamen dönüşmüş savaş zırhı, dinamik bir hazır duruş pozisyonunda tam aktif hâlde ayakta durur. Kask HUD ışığıyla parlar, enerji hatları canlı bir camgöbeği renginde titreşir, plakalar kilitlenmiştir ve gerçekçi metal dokularıyla üzerlerinde savaş izleri taşıyan zırh, anında çatışmaya girmeye hazırdır.
-
-[Tutarlılığı Koruyun]
-Zırhı baştan sona tek ve kesintisiz bir bütün olarak koruyun: aynı temel siluet yalnızca mekanik dönüşümle evrilmeli; mat siyah ve fırçalanmış metal malzemeler ile camgöbeği enerji detayları tutarlı olmalı, genel ölçek veya temel tasarım dilinde hiçbir değişiklik yapılmamalıdır. Ek karakterler, entegre sistemlerin dışında silahlar veya ortam değişiklikleri kesinlikle olmamalıdır.
-
-Görseller; mikro çizikler, yağ yansımaları, enerji havalandırmalarının etrafındaki ısı bozulması, hacimsel aydınlatma ve keskin alan derinliği içeren ultra gerçekçi bilim kurgu materyallerini yansıtmalıdır.
-Kamera, pasif zırhın aşağıdan üç çeyrek orta plan çekimiyle başlayan kesintisiz sinematik bir yörünge izlemeli; dönüşüm sırasında yumuşak bir şekilde yaklaşıp etrafında dönerek menteşe ve çekirdeklerin aşırı yakın çekimleriyle plaka mekaniğini ve enerji ateşlemesini yakalamalı, ardından sonunda kahramanca bir tam boy duruşunu gösterecek şekilde geri çekilmelidir.
-Ses tasarımı; derin hidrolik tıslamaları, metalik plaka şakırtıları ve servo vızıltıları, yükselen enerji uğultuları ve güç açılış sesleri, son bir ağır kilitlenme gürültüsü ile uzaktan gelen makine seslerinin eşlik ettiği düşük frekanslı bir hangar ambiyansı içermelidir.
-
-Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zeka tarafından üretilen kurgusal bir bilim kurgu konseptidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Bilim Kurgu Savaş Zırhı Aktivasyon Dizisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Sinematik Fantastik Şövalye Video İstemi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine için, kırmızı büyü efektleri ve dinamik kamera hareketleriyle öne çıkan yüksek kaliteli 3D sinematik fantastik bir sahne oluşturan detaylı bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Orijinal görseldeki karakter tasarımını, yüz hatlarını, saç stilini, zırhı, silahı ve renkleri birebir koru.
-
-Ultra yüksek kaliteli 3D CG sinematik fantastik görüntü.
-
-Güzel bir kadın şövalye, kılıcını kavramış halde savaş meydanında gururla dikiliyor. Uzun saçları ve pelerini rüzgârda dalgalanırken, zırhındaki ince işlemeler ışığı yansıtıyor.
-
-Kamera yavaşça yaklaştıkça, kılıçtan canlı kırmızı bir büyü enerjisi taşıyor ve etrafta kırmızı ışık parçacıkları dans ediyor.
-
-Kadın şövalye keskin bakışlarla ileriye doğru bakıp kılıcını tüm gücüyle savuruyor. Devasa kırmızı bir kılıç darbesi uzayı yararak şok dalgaları yayıyor.
-
-Sinematik dinamik kamera hareketleri, doğal ve akıcı insan hareketleri...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine Sinematik Fantastik Şövalye Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Video Prompt: Elbise Dönüşümü
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Yıkık bir ortamda tül elbiseli bir kadının pozlar arasında geçiş yaptığı ve iki girdi görseline atıfta bulunan, Grok Imagine için karmaşık bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Video Prompt (Grok Imagine)
-Genel Ayarlar ve Tutarlılığın Korunması
- * Karakter: @Image1 ve @Image2'deki kadın (aynı kişi). Siyah tül fırfırlı elbise, boyundaki kurdeleli choker, siyah topuz saç modeli ve doğal makyaj eksiksiz şekilde korunmalıdır.
- * Arka Plan/Atmosfer: Şık, harabe görünümlü bir mekan. Duvarlara vuran ışık ve gölgeler; gizemli ve melankolik bir atmosfer.
- * BGM: Hüzünlü ve sakin bir chill lo-fi hip-hop ya da ambient piyano parçası.
-Kurgu Kompozisyonu (Toplam 8 saniye / Her 4 saniyede bir geçiş)
-[CUT 1] (0:00 - 0:04)
- * Referans Görsel: @Image1
- * Poz 1 (0:00 - 0:02): Sağ el başın arkasına yerleştirilmiş, hüzünlü bir ifadeyle kameraya sessizce bakıyor.
- * Poz 2 (0:02 - 0:04): Bakışlar hafifçe aşağı kayıyor, parmak uçları nazikçe boyundaki choker'ın kurdelesine dokunuyor.
-[CUT 2] (0:04 - 0:08)
- * Referans Görsel: @Image2
- * Poz 1 (0:04 - 0:06): Sol el başın arkasına dolanmış, boyun hafifçe yana eğilerek kameraya gülümseniyor.
- * Poz 2 (0:06 - 0:08): Yüz hafifçe geriye çekiliyor, mahcup bir şekilde bakışlar kaçırılırken saçlarla usulca oynanıyor.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video Prompt: Elbise Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2498,6 +2461,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T00:56:37.056Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T14:32:18.226Z</sub>
 
 </div>

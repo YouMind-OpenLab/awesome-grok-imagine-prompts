@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3445** |
+| 📝 Total Prompts | **3448** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-23** |
 
@@ -189,6 +189,64 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Transformação de Pingente em Superbike
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo para o Grok Imagine, onde um pingente em forma de coração se expande e se monta em uma superbike futurista.
+
+#### 📝 Prompt
+
+```
+Coração para Superbike: O pingente de coração dela se desprende e se expande, transformando-se em um núcleo mecânico. Centenas de componentes surgem e se encaixam, formando uma poderosa superbike futurista vermelha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="Prompt de Transformação de Pingente em Superbike">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **Published:** Nov 23, 2026
+
+---
+### Prompt de Troca de Roupa do Heart Reactor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine, apresentando uma transformação de roupa ativada por um pingente de coração brilhante e uma onda de energia.
+
+#### 📝 Prompt
+
+```
+Transformação do Heart Reactor:
+O pingente em formato de coração dela começa a brilhar intensamente. Uma poderosa onda de energia vermelha se espalha pelo ambiente, transformando seu traje elegante em uma armadura futurista avançada, com um heart reactor brilhante no peito.
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Prompt de Troca de Roupa do Heart Reactor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **Published:** Nov 23, 2026
+
+---
+### Prompt de Vídeo: Transformação do Anjo Cibernético
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine que retrata um anjo cibernético se transformando com asas mecânicas e armadura futurista.
+
+#### 📝 Prompt
+
+```
+Cyber Angel: Uma luz branca e intensa a envolve. Duas enormes asas mecânicas prateadas surgem enquanto suas roupas se transformam em uma elegante armadura futurista nas cores branco e vermelho.
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="Prompt de Vídeo: Transformação do Anjo Cibernético">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **Published:** Nov 22, 2026
+
+---
 ### Prompt de Vídeo Grok Imagine: Borboletas no Observatório de Vidro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2337,101 +2395,6 @@ um jovem príncipe estendendo a mão para a criada e, quando ela aceita a mão d
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
 
 ---
-### Sequência de Ativação da Armadura de Combate Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para o Grok Imagine gerar um vídeo realista de uma armadura de combate modular se transformando de um estado inativo para uma configuração pronta para batalha, com precisão hidráulica e ignição de energia.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere um vídeo de ficção científica totalmente cinematográfico e realista mostrando uma Armadura de Combate de Transformações de outro nível. O foco central é uma armadura de combate modular avançada que passa por uma transformação em múltiplos estágios, saindo de um traje inativo e aerodinâmico para se tornar uma power armor totalmente ativada e pronta para a batalha, destacando a precisão mecânica, os sistemas de energia e o estado de prontidão para situações de alto risco.
-
-[Roteiro do Evento]
-No início: Um traje de combate base, elegante e ajustado ao corpo, permanece inerte dentro de um hangar tecnológico com iluminação fraca. Ele tem acabamento preto fosco com discretas placas hexagonais e linhas de energia azuis adormecidas, levemente visíveis sob a fria luz industrial.
-Evento principal: A sequência de transformação é ativada. As placas começam a se mover e expandir com precisão hidráulica — os módulos do peito e dos ombros se abrem para fora, a armadura em camadas interligadas se expande pelo tronco e pelos membros, as manoplas se reconfiguram em formatos pesados prontos para armas, o capacete se fecha hermeticamente com uma viseira multissegmentada travando no lugar, e núcleos de energia brilhantes acendem ao longo da coluna, das articulações e do reator peitoral. Os servomotores travam, propulsores se estendem a partir das panturrilhas e das costas, e uma malha de escudo de energia corporal inteira pisca rapidamente antes de se estabilizar quando a armadura atinge sua configuração de combate.
-No final: A armadura de combate totalmente transformada fica de pé, completamente ativada e em uma postura dinâmica de prontidão — o capacete brilha com a luz do HUD, as linhas de energia pulsam em um ciano intenso, as placas estão travadas e marcadas por cicatrizes de batalha com texturas metálicas realistas, pronta para entrar em ação imediatamente.
-
-[Manter Consistência]
-Mantenha a armadura como uma entidade única e contínua durante todo o vídeo: a mesma silhueta base evoluindo apenas por meio da transformação mecânica, materiais consistentes em preto fosco e metal escovado, detalhes de energia em ciano e nenhuma alteração na escala geral ou na linguagem visual central. Sem personagens adicionais, sem armas além dos sistemas integrados e sem mudanças de ambiente.
-
-O visual apresenta materiais de ficção científica ultrarrealistas com microrriscos, brilho oleoso, distorção térmica ao redor das saídas de energia, iluminação volumétrica e profundidade de campo nítida.
-A câmera faz uma órbita cinematográfica contínua, começando em um plano médio de três quartos, de baixo para cima, focando o traje inativo; avança suavemente e circula durante a transformação para capturar a mecânica das placas e a ignição da energia em closes extremos das dobradiças e dos núcleos, recuando depois para um plano inteiro heroico da postura final.
-O som inclui chiados hidráulicos profundos, batidas metálicas de placas e zumbidos de servomotores, ruídos crescentes de energia e sons de ativação, um baque final pesado de travamento e um zumbido ambiente grave do hangar com maquinário ao fundo.
-
-Aviso: Este vídeo é um conceito fictício de ficção científica gerado por IA, criado exclusivamente para fins de entretenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Sequência de Ativação da Armadura de Combate Sci-Fi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **Published:** Nov 5, 2026
-
----
-### Prompt de Vídeo Cinematográfico de Cavaleiro Fantasia no Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt detalhado para geração de vídeo no Grok Imagine, criando uma cena cinematográfica de fantasia em 3D de alta qualidade, com uma cavaleira feminina, efeitos mágicos vermelhos e movimentos dinâmicos de câmera.
-
-#### 📝 Prompt
-
-```
-Mantenha fielmente o design da personagem, os traços faciais, o penteado, a armadura, a arma e as cores da imagem original.
-
-Cenas de fantasia cinematográfica em CG 3D de altíssima qualidade.
-
-Uma bela cavaleira se ergue com orgulho no campo de batalha, empunhando sua espada. Seus longos cabelos e a capa esvoaçam ao vento, enquanto os detalhes refinados de sua armadura refletem a luz.
-
-À medida que a câmera se aproxima lentamente, uma intensa energia mágica vermelha transborda da espada, e partículas de luz escarlate dançam ao redor.
-
-A cavaleira olha para frente com um olhar penetrante e desfere um golpe poderoso com a espada. Um imenso corte vermelho rasga o espaço, propagando ondas de choque.
-
-Movimentação de câmera dinâmica e cinematográfica, movimentos humanos naturais e fluidos...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Prompt de Vídeo Cinematográfico de Cavaleiro Fantasia no Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
-
----
-### Prompt de vídeo Grok Imagine: Transformação de Vestido
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt complexo de geração de vídeo para o Grok Imagine, apresentando uma mulher em um vestido de tule transicionando entre poses em um cenário em ruínas, com referência a duas imagens de entrada.
-
-#### 📝 Prompt
-
-```
-Prompt de Vídeo (Grok Imagine)
-Configurações Globais e Manutenção de Consistência
- * Personagem: Mulher da @Image1 e @Image2 (a mesma pessoa). Manter rigorosamente o vestido de tule preto com babados, a gargantilha de fita no pescoço, o cabelo preto preso em coque e a maquiagem natural.
- * Cenário/Atmosfera: Espaço sofisticado com visual de ruínas. Luz e sombra projetadas nas paredes, clima misterioso e entediado.
- * BGM: Lo-fi hip-hop melancólico e calmo, ou uma peça ambiente de piano.
-Composição dos Cortes (Total de 8 segundos / Troca a cada 4 segundos)
-[CORTE 1] (0:00 - 0:04)
- * Imagem de Referência: @Image1
- * Pose 1 (0:00 - 0:02): Mão direita apoiada atrás da cabeça, olhando fixamente para a câmera com uma expressão de tédio.
- * Pose 2 (0:02 - 0:04): O olhar desce levemente, as pontas dos dedos tocam suavemente a fita da gargantilha no pescoço.
-[CORTE 2] (0:04 - 0:08)
- * Imagem de Referência: @Image2
- * Pose 1 (0:04 - 0:06): Mão esquerda apoiada atrás da cabeça, inclinando levemente o pescoço e sorrindo para a câmera.
- * Pose 2 (0:06 - 0:08): Recua o rosto um pouco, tocando delicadamente o cabelo enquanto desvia o olhar timidamente.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Prompt de vídeo Grok Imagine: Transformação de Vestido">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2493,6 +2456,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T00:56:35.085Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T14:32:16.372Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3445** |
+| 📝 提示詞總數 | **3448** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-23** |
 
@@ -189,6 +189,64 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 吊墜變身超級摩托車生成提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的創意影片提示詞，描述心形吊墜展開並組裝成未來感十足的超級摩托車。
+
+#### 📝 提示詞
+
+```
+心之吊飾變身超級機車：她的心形吊飾脫落並展開為機械核心，數百個零件隨之湧現，組裝成一輛強悍的紅色未來感超級機車。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="吊墜變身超級摩托車生成提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **發布時間:** Nov 23, 2026
+
+---
+### Heart Reactor 服裝變換提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，透過發光的心形吊墜與能量波觸發服裝變換效果。
+
+#### 📝 提示詞
+
+```
+Heart Reactor 變身：
+她的心形吊墜開始綻放耀眼光芒。一股強大的紅色能量波席捲整個房間，將她優雅的服裝轉化為先進的未來感裝甲，胸口處更鑲嵌著一顆發光的 Heart Reactor。
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Heart Reactor 服裝變換提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **發布時間:** Nov 23, 2026
+
+---
+### 賽博天使變身影片提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示，描繪機械翅膀與未來感裝甲下的賽博天使變身場景。
+
+#### 📝 提示詞
+
+```
+Cyber Angel：耀眼的白光環繞著她。兩片巨大的銀色機械羽翼隨之展開，身上的衣裝也幻化為優雅的白紅配色未來感鎧甲。
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="賽博天使變身影片提示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **發布時間:** Nov 22, 2026
+
+---
 ### Grok Imagine 影片提示詞：玻璃天文台的蝴蝶
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2346,101 +2404,6 @@ SpaceX – Beyond Earth
 **作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **來源:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **發布時間:** Nov 5, 2026
 
 ---
-### 科幻戰鬥裝甲啟動序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於 Grok Imagine 的提示詞，生成一段寫實影片，展示模組化戰鬥裝甲如何以液壓精準度與能量點火，從非啟動狀態轉換為備戰配置。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段完全具備電影感且寫實的科幻影片，展現次世代「變形戰鬥裝甲」。核心主體為先進的模組化戰鬥裝甲，呈現從流線型待機服到完全啟動、隨時可投入戰場的動力裝甲之多階段變形過程，著重強調機械精密感、能量系統與高張力的備戰狀態。
-
-[事件腳本]
-開場：一套流線貼身的基礎戰鬥服靜止佇立於光線昏暗的高科技機庫中。在冷冽的工業照明下，啞光黑色的表面隱約可見六角形裝甲板，以及尚未啟動的藍色能量紋路。
-主要事件：變形程序啟動。裝甲板以液壓般的精準度開始位移與擴張——胸甲與肩部模組向外展開，層層交疊的互鎖裝甲覆蓋軀幹與四肢，護手重新組合成重型武器就緒形態，頭盔密合封閉，多段式面罩鎖定定位；同時，沿著脊椎、關節與胸部反應爐的能量核心逐一亮起。伺服馬達鎖定，推進器自小腿與背部伸出，全身能量護盾網格短暫閃耀後趨於穩定，裝甲正式進入戰鬥配置。
-結尾：完成變形的戰鬥裝甲全面啟動，擺出充滿動感的備戰姿態——頭盔透出 HUD 顯示光芒，能量紋路閃爍著明亮的青藍色，裝甲板緊密咬合並帶有寫實金屬質感的戰鬥磨損痕跡，隨時準備迎戰。
-
-[維持一致性]
-全程將裝甲視為單一連續個體：相同的基礎輪廓僅透過機械變形演進，維持一致的啞光黑與拉絲金屬材質、青藍色能量點綴，整體比例與核心設計語言不得改變。不可新增其他角色、內建系統以外的武器，或變更場景環境。
-
-畫面需呈現超寫實的科幻材質細節，包含細微刮痕、油膜反光、能量散熱孔周圍的熱氣扭曲、體積光效果與銳利的景深。
-運鏡採用連續的電影級環繞鏡頭：由待機裝甲的低角度四分之三側面中景開始，在變形過程中平滑推進並環繞拍攝，以極特寫捕捉鉸鏈與核心的機械運作及能量點燃瞬間，最後拉遠至展現英雄般氣勢的全身備戰姿態。
-音效包含低沉的液壓嘶聲、金屬板撞擊與伺服馬達運轉聲、逐漸增強的能量嗡鳴與啟動提示音、最終沉重的鎖定悶響，以及伴隨遠處機械聲的機庫低頻環境音。
-
-免責聲明：本影片為 AI 生成的虛構科幻概念創作，僅供娛樂用途。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="科幻戰鬥裝甲啟動序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **發布時間:** Nov 5, 2026
-
----
-### Grok Imagine 電影感奇幻騎士影片提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine 高品質 3D 電影感奇幻場景影片生成提示詞，特色為女性騎士搭配紅色魔法特效與動態鏡頭運鏡。
-
-#### 📝 提示詞
-
-```
-忠實還原原圖的角色設計、五官特徵、髮型、鎧甲、武器與色彩。
-
-超高畫質 3D CG 電影級奇幻影像。
-
-一位美麗的女騎士傲然佇立於戰場之上，手持長劍。她的長髮與披風隨風飄揚，鎧甲上精緻的裝飾閃耀著光芒。
-
-隨著鏡頭緩緩推進，鮮紅色的魔法能量自劍身滿溢而出，紅色光粒在四周飛舞流轉。
-
-女騎士以銳利的目光直視前方，奮力揮出長劍。一道巨大的紅色斬擊撕裂空間，激起層層衝擊波。
-
-電影級動態運鏡，人物動作自然流暢……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine 電影感奇幻騎士影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**作者:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **來源:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **發布時間:** Nov 5, 2026
-
----
-### Grok Imagine 影片提示詞：禮服變裝
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 適用於 Grok Imagine 的複雜影片生成提示詞，描述一名身穿薄紗禮服的女性在廢墟場景中轉換姿勢，並參考兩張輸入圖片。
-
-#### 📝 提示詞
-
-```
-影片提示詞（Grok Imagine）
-全域設定與一致性維持
- * 角色：來自 @Image1 與 @Image2 的女性（同一人）。請完整保留黑色薄紗荷葉邊洋裝、頸部緞帶項圈、黑色盤髮造型及自然妝容。
- * 背景／氛圍：時髦的廢墟風空間。光影灑落牆面，營造出神祕又帶著慵懶倦怠感的氛圍。
- * BGM：憂鬱靜謐的 chill lo-fi hip-hop，或 ambient 鋼琴曲。
-分鏡構成（總長 8 秒／每 4 秒切換一次）
-[CUT 1]（0:00 - 0:04）
- * 參考圖片：@Image1
- * 姿勢 1（0:00 - 0:02）：右手輕放於腦後，以慵懶的神情靜靜凝視鏡頭。
- * 姿勢 2（0:02 - 0:04）：視線微微垂下，指尖輕觸頸部項圈上的緞帶。
-[CUT 2]（0:04 - 0:08）
- * 參考圖片：@Image2
- * 姿勢 1（0:04 - 0:06）：左手繞至腦後，頭部微傾並對著鏡頭微笑。
- * 姿勢 2（0:06 - 0:08）：臉部稍微往後退，一邊輕撫頭髮，一邊害羞地移開視線。
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine 影片提示詞：禮服變裝">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **發布時間:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2502,6 +2465,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-23T00:56:24.198Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-23T14:32:06.514Z</sub>
 
 </div>

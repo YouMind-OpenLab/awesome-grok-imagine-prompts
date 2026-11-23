@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3445** |
+| 📝 Total Prompts | **3448** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-23** |
 
@@ -189,6 +189,64 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Biến Đổi Từ Mặt Dây Chuyền Sang Superbike
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video sáng tạo cho Grok Imagine, nơi mặt dây chuyền hình trái tim mở rộng và lắp ráp thành một chiếc superbike tương lai.
+
+#### 📝 Prompt
+
+```
+Từ Trái Tim Đến Siêu Mô Tô: Mặt dây chuyền hình trái tim của cô tách rời và bung nở thành một lõi cơ khí. Hàng trăm chi tiết máy xuất hiện, tự động lắp ráp thành một chiếc siêu mô tô tương lai màu đỏ đầy uy lực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="Prompt Biến Đổi Từ Mặt Dây Chuyền Sang Superbike">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **Published:** Nov 23, 2026
+
+---
+### Prompt Biến Đổi Trang Phục Heart Reactor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine, mô tả cảnh biến đổi trang phục được kích hoạt bởi mặt dây chuyền hình trái tim phát sáng và sóng năng lượng.
+
+#### 📝 Prompt
+
+```
+Biến Hóa Nhờ Heart Reactor:
+Mặt dây chuyền hình trái tim của cô bắt đầu phát sáng rực rỡ. Một luồng năng lượng đỏ mạnh mẽ lan tỏa khắp căn phòng, biến bộ trang phục thanh lịch của cô thành một bộ giáp tương lai tối tân với heart reactor phát sáng ngay trước ngực.
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="Prompt Biến Đổi Trang Phục Heart Reactor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **Published:** Nov 23, 2026
+
+---
+### Prompt Video Biến Hình Thiên Thần Cyber
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt tạo video cho Grok Imagine mô tả một thiên thần cyber biến hình với đôi cánh cơ khí và bộ giáp tương lai.
+
+#### 📝 Prompt
+
+```
+Cyber Angel: Một luồng sáng trắng rực rỡ bao quanh cô. Đôi cánh cơ khí khổng lồ màu bạc vươn ra khi trang phục của cô hóa thành bộ giáp tương lai thanh lịch hai sắc trắng đỏ.
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="Prompt Video Biến Hình Thiên Thần Cyber">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **Published:** Nov 22, 2026
+
+---
 ### Grok Imagine Video Prompt: Bướm trong Đài Quan Sát Kính
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2340,101 +2398,6 @@ Một chàng hoàng tử trẻ đưa tay ra cho cô hầu gái, và khi nàng n�
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
 
 ---
-### Chuỗi kích hoạt giáp chiến đấu khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh cho Grok Imagine tạo video chân thực về bộ giáp chiến đấu mô-đun biến hình từ trạng thái không hoạt động sang cấu hình sẵn sàng chiến đấu với độ chính xác thủy lực và khởi động năng lượng.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video Sci-Fi hoàn toàn mang tính điện ảnh và chân thực về bộ Giáp Chiến Đấu Biến Hình thế hệ mới. Chủ thể chính là bộ giáp chiến đấu module tiên tiến, trải qua quá trình biến hình nhiều giai đoạn từ một bộ đồ trơn nhẵn ở trạng thái ngủ đông thành bộ giáp năng lượng sẵn sàng chiến đấu, nhấn mạnh vào độ chính xác cơ khí, hệ thống năng lượng và trạng thái chuẩn bị cho những nhiệm vụ khốc liệt nhất.
-
-[Kịch bản sự kiện]
-Mở đầu: Một bộ giáp chiến đấu nền ôm sát cơ thể, thiết kế khí động học, đứng bất động trong nhà chứa máy công nghệ cao ánh sáng lờ mờ. Bộ giáp màu đen nhám với các tấm ốp lục giác tinh tế cùng những đường dẫn năng lượng xanh dương đang tắt, chỉ thấp thoáng hiện lên dưới ánh đèn công nghiệp lạnh lẽo.
-Sự kiện chính: Chuỗi biến hình được kích hoạt. Các tấm giáp bắt đầu dịch chuyển và mở rộng với độ chính xác của hệ thống thủy lực — module ngực và vai bung ra ngoài, lớp giáp xếp tầng đan cài nhau phủ kín thân và tứ chi, găng tay tái cấu trúc thành dạng hỗ trợ vũ khí hạng nặng, mũ giáp khép kín với mặt nạ đa khớp khóa chặt vào vị trí, đồng thời các lõi năng lượng phát sáng rực rỡ dọc sống lưng, khớp nối và lò phản ứng trước ngực. Các servo chốt cứng, ống đẩy vươn ra từ bắp chân và lưng, mạng lưới khiên năng lượng bao phủ toàn thân lóe sáng rồi nhanh chóng ổn định khi bộ giáp hoàn tất cấu hình chiến đấu.
-Kết thúc: Bộ giáp chiến đấu sau khi biến hình đứng sừng sững trong tư thế sẵn sàng đầy uy lực — mũ giáp phát sáng ánh HUD, các đường năng lượng nhấp nháy sắc xanh cyan, lớp giáp đã khóa chặt và in hằn vết xước chiến trận với chất liệu kim loại chân thực, sẵn sàng lao vào giao tranh ngay lập tức.
-
-[Duy trì tính nhất quán]
-Giữ nguyên bộ giáp như một thực thể liền mạch xuyên suốt: cùng một dáng nền ban đầu và chỉ thay đổi thông qua cơ chế biến hình cơ khí, chất liệu đen nhám và kim loại phay xước nhất quán, điểm xuyết bằng các chi tiết năng lượng xanh cyan, không thay đổi tỷ lệ tổng thể hay ngôn ngữ thiết kế cốt lõi. Không thêm nhân vật phụ, không có vũ khí ngoài hệ thống tích hợp sẵn, và không thay đổi bối cảnh môi trường.
-
-Phần hình ảnh thể hiện chất liệu Sci-Fi siêu chân thực với các vết xước dăm, vệt dầu bóng loáng, hiệu ứng khúc xạ nhiệt quanh khe tản năng lượng, ánh sáng thể tích (volumetric lighting) và độ sâu trường ảnh sắc nét.
-Góc máy sử dụng cú lia vòng cung liên tục đậm chất điện ảnh, bắt đầu từ góc trung cảnh 3/4 phía dưới của bộ giáp khi chưa kích hoạt, mượt mà tiến lại gần và xoay vòng trong lúc biến hình để ghi lại cận cảnh cực đại cơ chế hoạt động của các tấm giáp cùng quá trình đánh lửa năng lượng tại bản lề và lõi, sau đó lùi dần ra để thu trọn tư thế toàn thân đầy anh dũng ở cuối video.
-Âm thanh bao gồm tiếng xì thủy lực trầm đục, tiếng va đập kim loại lanh canh và tiếng rì rì của servo, tiếng vo ve năng lượng dâng cao cùng âm thanh khởi động, tiếng chốt khóa "thịch" nặng trịch cuối cùng, hòa cùng tiếng ù ù đặc trưng của nhà chứa máy và tiếng máy móc vọng lại từ xa.
-
-Tuyên bố miễn trừ trách nhiệm: Video này là một ý tưởng khoa học viễn tưởng hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Chuỗi kích hoạt giáp chiến đấu khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **Published:** Nov 5, 2026
-
----
-### Prompt Video Fantasy Knight Cinematic Cho Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt tạo video chi tiết cho Grok Imagine, giúp tạo ra cảnh fantasy 3D điện ảnh chất lượng cao với nữ hiệp sĩ, hiệu ứng ma thuật đỏ và chuyển động camera linh hoạt.
-
-#### 📝 Prompt
-
-```
-Giữ nguyên trung thực thiết kế nhân vật, đường nét khuôn mặt, kiểu tóc, bộ giáp, vũ khí và màu sắc của hình ảnh gốc.
-
-Đoạn phim 3D CG fantasy chất lượng siêu cao mang đậm chất điện ảnh.
-
-Một nữ hiệp sĩ xinh đẹp đứng hiên ngang giữa chiến trường, tay nắm chặt thanh kiếm. Mái tóc dài cùng chiếc áo choàng tung bay trong gió, những họa tiết chạm khắc tinh xảo trên bộ giáp lấp lánh phản chiếu ánh sáng.
-
-Khi ống kính từ từ tiến lại gần, luồng năng lượng ma thuật đỏ rực trào ra từ lưỡi kiếm, vô số hạt sáng đỏ nhảy múa xung quanh.
-
-Nữ hiệp sĩ phóng tầm mắt sắc lẹm về phía trước rồi vung kiếm đầy uy lực. Một nhát chém khổng lồ mang sắc đỏ xé toạc không gian, tạo ra những đợt sóng xung kích lan tỏa dữ dội.
-
-Góc máy điện ảnh chuyển động linh hoạt, các cử động của nhân vật tự nhiên và mượt mà...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Prompt Video Fantasy Knight Cinematic Cho Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Video Prompt: Biến đổi Trang phục
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt tạo video phức tạp cho Grok Imagine, mô tả một phụ nữ trong chiếc váy voan chuyển động giữa các tư thế tại bối cảnh đổ nát, tham chiếu hai hình ảnh đầu vào.
-
-#### 📝 Prompt
-
-```
-Video Prompt (Grok Imagine)
-Cài đặt chung & Duy trì tính nhất quán
- * Nhân vật: Người phụ nữ trong @Image1 và @Image2 (cùng một người). Giữ nguyên tuyệt đối chiếc váy voan đen xếp tầng, vòng cổ ribbon, tóc đen búi cao và lối trang điểm tự nhiên.
- * Bối cảnh/Không khí: Không gian mang nét hoài cổ như một phế tích sang trọng. Ánh sáng và bóng tối đổ trên các bức tường, tạo nên bầu không khí bí ẩn và phảng phất nét u buồn.
- * BGM: Nhạc chill lo-fi hip-hop trầm lắng, tĩnh lặng, hoặc một bản piano ambient.
-Bố cục cảnh quay (Tổng 8 giây / Chuyển cảnh mỗi 4 giây)
-[CUT 1] (0:00 - 0:04)
- * Ảnh tham khảo: @Image1
- * Tư thế 1 (0:00 - 0:02): Tay phải đặt sau đầu, ánh mắt tĩnh lặng nhìn thẳng vào camera với vẻ mặt đượm buồn.
- * Tư thế 2 (0:02 - 0:04): Ánh mắt khẽ cụp xuống, đầu ngón tay nhẹ nhàng chạm vào dải ribbon trên vòng cổ.
-[CUT 2] (0:04 - 0:08)
- * Ảnh tham khảo: @Image2
- * Tư thế 1 (0:04 - 0:06): Tay trái vòng ra sau đầu, hơi nghiêng cổ và mỉm cười hướng về phía camera.
- * Tư thế 2 (0:06 - 0:08): Hơi ngả mặt ra sau, nhẹ nhàng vuốt tóc trong khi e thẹn lảng tránh ánh nhìn.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video Prompt: Biến đổi Trang phục">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2496,6 +2459,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T00:56:28.154Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-23T14:32:10.572Z</sub>
 
 </div>

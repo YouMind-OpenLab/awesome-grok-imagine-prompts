@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3445** |
+| 📝 총 프롬프트 수 | **3448** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-23** |
 
@@ -189,6 +189,64 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 펜던트에서 슈퍼바이크로 변신하는 모프 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 창의적인 영상 프롬프트로, 하트 펜던트가 확장되어 미래형 슈퍼바이크로 조립되는 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+Heart-to-Superbike: 그녀의 하트 펜던트가 분리되며 기계식 코어로 확장됩니다. 수백 개의 부품이 쏟아져 나와 강력한 붉은색 미래형 superbike 로 조립됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124696791044005888/img/QGWrhGSJndefUGzT.jpg" width="600" alt="펜던트에서 슈퍼바이크로 변신하는 모프 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14134)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2124697159828373968) | **게시일:** Nov 23, 2026
+
+---
+### 하트 리액터 의상 변경 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 빛나는 하트 펜던트와 에너지 파동에 의해 트리거되는 의상 변신 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하트 리액터 변신:
+그녀의 하트 모양 펜던트가 강렬하게 빛나기 시작합니다. 강력한 붉은 에너지 파동이 방 전체로 퍼져나가며, 우아했던 의상이 가슴에 빛나는 하트 리액터가 장착된 최첨단 미래형 갑옷으로 변합니다.
+```
+
+<img src="https://pbs.twimg.com/media/HXxoLwAbgAAP_Qs.jpg" width="600" alt="하트 리액터 의상 변경 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14132)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2124687802734678120) | **게시일:** Nov 23, 2026
+
+---
+### 사이버 엔젤 변신 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 기계 날개와 미래지향적 갑옷으로 변신하는 사이버 엔젤을 묘사하는 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사이버 엔젤: 눈부신 백색 빛이 그녀의 몸을 감싸고, 거대한 두 개의 은빛 기계 날개가 펼쳐지며 그녀의 옷은 우아한 화이트 앤 레드 퓨처 아머로 변합니다.
+```
+
+<img src="https://pbs.twimg.com/media/HXv721BXEAA8WKD.jpg" width="600" alt="사이버 엔젤 변신 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14133)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2124568642608300232) | **게시일:** Nov 22, 2026
+
+---
 ### Grok Imagine Video 프롬프트: 유리 천문대의 나비
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2351,101 +2409,6 @@ Optimus 를 유일한 중심 피사체로 유지하고, 영상 전체에 걸쳐 
 **작성자:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **출처:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **게시일:** Nov 5, 2026
 
 ---
-### SF 전투 아머 활성화 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을(를) 사용하여 모듈식 전투 아머가 비활성 상태에서 유압 정밀도와 에너지 점화를 통해 전투 준비 상태로 변형되는 현실적인 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[Generation Goal]
-차세대 Transformations Combat Armor 를 담은 완전한 시네마틱 스타일의 사실적인 SF 영상을 생성합니다. 핵심 피사체는 세련된 비활성 슈트에서 완전히 활성화된 전투용 파워 아머로 다단계 변형을 거치는 첨단 모듈형 전투 아머이며, 기계적 정밀함, 에너지 시스템, 그리고 긴박한 전투 준비 태세를 강조합니다.
-
-[Event Script]
-시작: 유선형의 몸에 밀착되는 기본 전투 슈트가 어두운 하이테크 격납고에 움직임 없이 서 있습니다. 무광 블랙 컬러에 은은한 육각형 플레이트가 새겨져 있으며, 차가운 산업용 조명 아래서 꺼져 있는 푸른색 에너지 라인이 희미하게 보입니다.
-주요 장면: 변형 시퀀스가 시작됩니다. 유압 장치의 정밀한 작동과 함께 플레이트가 이동하고 팽창하기 시작합니다. 가슴과 어깨 모듈이 바깥쪽으로 펼쳐지고, 서로 맞물리는 다층 장갑이 몸통과 사지로 확장되며, 건틀릿은 중화기 운용이 가능한 형태로 재구성됩니다. 헬멧은 다중 분할 페이스플레이트가 제자리에 고정되며 밀폐되고, 척추와 관절, 가슴 리액터를 따라 빛나는 에너지 코어가 점화됩니다. 서보 모터가 잠기고 종아리와 등에서 스러스터가 뻗어 나오며, 전신 에너지 실드 격자가 짧게 번쩍인 뒤 아머가 전투 구성을 완료하며 안정화됩니다.
-끝: 변형을 마친 전투 아머가 완전히 활성화되어 역동적인 전투 대기 자세로 서 있습니다. 헬멧에서는 HUD 조명이 빛나고, 에너지 라인은 밝은 시안 색으로 맥동합니다. 플레이트는 단단히 잠긴 채 사실적인 금속 질감과 전투 흔적을 띠며 즉각적인 교전에 돌입할 준비를 마칩니다.
-
-[Maintain Consistency]
-아머는 처음부터 끝까지 하나의 연속된 개체로 유지해야 합니다. 동일한 기본 실루엣이 오직 기계적 변형을 통해서만 변화하며, 일관된 무광 블랙 및 브러시드 메탈 소재, 시안 색 에너지 포인트를 유지하고 전체적인 크기나 핵심 디자인 언어는 바뀌지 않아야 합니다. 추가 캐릭터, 내장 시스템을 제외한 무기, 또는 배경 변화는 허용되지 않습니다.
-
-영상은 미세한 흠집, 기름 반사, 에너지 배출구 주변의 열 왜곡, 볼류메트릭 라이팅, 선명한 피사계 심도를 갖춘 초현실적 SF 소재를 표현합니다.
-카메라는 비활성 상태의 슈트를 로우 앵글 3/4 미디엄 숏으로 담으며 시작해, 연속적인 시네마틱 궤도로 움직입니다. 변형 과정에서는 부드럽게 다가가고 회전하며 힌지와 코어의 익스트림 클로즈업을 통해 플레이트 역학과 에너지 점화를 포착하고, 마지막에는 영웅적인 전신 대기 자세를 담아내며 뒤로 빠집니다.
-사운드는 묵직한 유압 소리, 금속 플레이트 부딪히는 소리와 서보 모터 구동음, 고조되는 에너지 웅웅거림과 기동 알림음, 마지막으로 잠기는 묵직한 충격음, 그리고 멀리서 들리는 기계 소리가 섞인 낮은 격납고 앰비언스 드론으로 구성됩니다.
-
-면책 조항: 본 영상은 순수하게 엔터테인먼트 목적으로 제작된 AI 생성 가상 SF 콘셉트입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="SF 전투 아머 활성화 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13550)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **게시일:** Nov 5, 2026
-
----
-### Grok Imagine 시네마틱 판타지 기사 영상 프롬프트
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine에서 역동적인 카메라 워크와 붉은 마법 효과를 지닌 여성 기사를 표현한 고품질 3D 시네마틱 판타지 장면을 생성하기 위한 상세한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-원본 이미지의 캐릭터 디자인, 이목구비, 헤어스타일, 갑옷, 무기, 색상을 그대로 유지합니다.
-
-초고화질 3D CG 시네마틱 판타지 영상.
-
-아름다운 여성 기사가 검을 쥔 채 전장에 당당히 서 있습니다. 바람에 흩날리는 긴 머리카락과 망토, 그리고 갑옷에 새겨진 정교한 장식이 빛을 반사합니다.
-
-카메라가 천천히 다가오자, 검에서 선명한 붉은 마력이 뿜어져 나오며 붉은빛 입자들이 주변을 맴돕니다.
-
-여성 기사가 날카로운 눈빛으로 정면을 응시하며 힘차게 검을 휘두릅니다. 거대한 붉은 참격이 공간을 가르고 충격파를 퍼뜨립니다.
-
-시네마틱한 역동적 카메라 워크, 자연스럽고 부드러운 인물의 움직임...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine 시네마틱 판타지 기사 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13557)**
-
-**작성자:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **출처:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **게시일:** Nov 5, 2026
-
----
-### Grok Imagine 영상 프롬프트: 드레스 변신
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine용 복잡한 영상 생성 프롬프트로, 폐허 배경에서 튤 드레스를 입은 여성이 두 장의 입력 이미지를 참조하며 포즈를 전환하는 장면을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-비디오 프롬프트 (Grok Imagine)
-전역 설정 및 일관성 유지
- * 캐릭터: @Image1 과 @Image2 에 등장하는 여성(동일 인물). 블랙 튤 프릴 드레스, 목에 착용한 리본 초커, 업스타일의 흑발, 내추럴 메이크업을 완벽하게 유지할 것.
- * 배경/분위기: 세련된 폐허 느낌의 공간. 벽면에 드리운 빛과 그림자, 신비로우면서도 나른한 분위기.
- * BGM: 우울하고 잔잔한 칠 로파이 힙합(chill lo-fi hip-hop), 또는 앰비언트 피아노 곡.
-컷 구성 (총 8 초 / 4 초마다 전환)
-[CUT 1] (0:00 - 0:04)
- * 참고 이미지: @Image1
- * 포즈 1 (0:00 - 0:02): 오른손을 머리 뒤로 받치고, 나른한 표정으로 카메라를 조용히 응시.
- * 포즈 2 (0:02 - 0:04): 시선을 살짝 아래로 내리며, 손끝으로 목 초커의 리본을 부드럽게 만짐.
-[CUT 2] (0:04 - 0:08)
- * 참고 이미지: @Image2
- * 포즈 1 (0:04 - 0:06): 왼손을 머리 뒤로 감싸듯 올리고, 고개를 살짝 기울인 채 카메라를 향해 미소.
- * 포즈 2 (0:06 - 0:08): 얼굴을 살짝 뒤로 빼며, 머리카락을 가볍게 매만지고 수줍은 듯 시선을 피함.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 드레스 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13604)**
-
-**작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **게시일:** Nov 5, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2507,6 +2470,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-23T00:56:26.165Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-23T14:32:08.435Z</sub>
 
 </div>
