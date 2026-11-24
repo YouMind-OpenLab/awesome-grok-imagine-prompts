@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Fantasy Knight Cosplay Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A video prompt for Grok Imagine creating a 15-second cinematic sequence of a woman in high-fantasy knight attire posing on a terrace, using reference images for consistency.
+
+#### 📝 Prompt
+
+```
+A 15-second cinematic video set on a high terrace with stone railings overlooking blue skies and European-style streets. A beautiful woman with pink hair adorned with butterfly accessories, wearing fantasy-style attire in red and white with gold decorations and white long boots, shows meaningful and photogenic poses while feeling a comfortable breeze. Natural light streams in softly, making the long hem of the costume, sheer sleeves, and hair flutter in the wind.
+
+[Scene 1: 0-6 seconds (Based on Image 1, Medium Long Shot)]
+Start by standing slightly diagonally in front of the stone railing, looking away with a melancholic expression. At 3 seconds, smoothly twist the upper body, lightly placing one hand near the gemstone at the chest, shifting to a pose with a meaningful gaze towards the camera.
+
+[Scene 2: 6-12 seconds (Based on Image 2, Waist Up ~ Medium Shot)]
+Angle switches to a frontal composition. From a glamorous standing pose with fingertips lightly touching the red sash/decorations at the waist, at 9 seconds transition to a dynamic pose raising one arm elegantly to gently brush up the pink hair and butterfly accessory near the ear, smiling softly.
+
+[Scene 3: 12-15 seconds (Last 3 seconds, Bust Up ~ Close Up)]
+Camera cuts to a close-up focusing on her face and shoulders. Amidst the lingering wind causing hair to sway, tilt head slightly and lightly place fingertips on chin in a decisive pose, finally winking charmingly with the right eye while looking at the camera, leaving a lasting impression.
+
+[Video Style & BGM]
+High-definition texture like a live-action movie, shallow depth of field, smooth camera work. BGM is a gentle and calm acoustic sound where strumming of warm acoustic guitar and melodies of calm acoustic piano overlap.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Fantasy Knight Cosplay Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### Pendant to Superbike Morph Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2388,25 +2419,6 @@ Disclaimer: This video is an AI-generated fictional sci-fi concept created for e
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Grok Imagine Prompt: Prince transforms maid into princess
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine where a young prince extends his hand to a maid, who transforms into a princess upon taking it.
-
-#### 📝 Prompt
-
-```
-a young prince extending his hand out to the maid, and when then maid takes the hand of the prince, she turns into a princess.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine Prompt: Prince transforms maid into princess">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2468,6 +2480,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:09.030Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:06.128Z</sub>
 
 </div>

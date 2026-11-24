@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Vidéo Cosplay Chevalier Fantasy
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo pour Grok Imagine créant une séquence cinématographique de 15 secondes d'une femme en tenue de chevalier high-fantasy posant sur une terrasse, utilisant des images de référence pour la cohérence.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique de 15 secondes se déroulant sur une haute terrasse bordée de balustrades en pierre, surplombant un ciel bleu et des rues d'inspiration européenne. Une magnifique femme aux cheveux roses ornés d'accessoires en forme de papillon, vêtue d'une tenue fantaisie rouge et blanche rehaussée de détails dorés et de longues bottes blanches, enchaîne les poses expressives et photogéniques tout en savourant une brise légère. La lumière naturelle baigne doucement la scène, faisant flotter au vent l'ourlet long du costume, les manches vaporeuses et la chevelure.
+
+[Scène 1 : 0 à 6 secondes (d'après l'image 1, plan moyen rapproché)]
+Commencez debout, légèrement de biais devant la balustrade en pierre, le regard perdu ailleurs avec une expression mélancolique. À 3 secondes, pivotez fluidement le haut du corps en posant délicatement une main près de la pierre précieuse sur la poitrine, pour adopter une pose où le regard plonge intensément dans l'objectif.
+
+[Scène 2 : 6 à 12 secondes (d'après l'image 2, plan taille à plan moyen)]
+L'angle bascule vers une composition frontale. Partez d'une pose élégante, le bout des doigts effleurant la ceinture ou les ornements rouges à la taille, puis à 9 secondes, passez à une posture plus dynamique en levant gracieusement un bras pour replacer doucement les mèches roses et l'accessoire papillon près de l'oreille, accompagnée d'un sourire tendre.
+
+[Scène 3 : 12 à 15 secondes (les 3 dernières secondes, plan poitrine à gros plan)]
+La caméra coupe sur un gros plan centré sur le visage et les épaules. Tandis que le vent persistant fait onduler la chevelure, inclinez légèrement la tête et posez le bout des doigts sur le menton dans une attitude affirmée, avant de terminer par un clin d'œil charmeur de l'œil droit face à l'objectif, pour laisser une impression inoubliable.
+
+[Style visuel et BGM]
+Un rendu haute définition digne d'un film en prises de vues réelles, avec une faible profondeur de champ et des mouvements de caméra fluides. La BGM est une piste acoustique douce et apaisante, où les accords chaleureux de la guitare acoustique se mêlent aux mélodies sereines du piano.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Prompt Vidéo Cosplay Chevalier Fantasy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### Prompt de transformation : Pendentif vers Superbike
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2377,25 +2408,6 @@ Avertissement : Cette vidéo est un concept fictif de science-fiction généré 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Prompt Grok Imagine : Le prince transforme la servante en princesse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine où un jeune prince tend la main à une servante, qui se transforme en princesse dès qu'elle la prend.
-
-#### 📝 Prompt
-
-```
-un jeune prince tendant la main à une servante, et lorsque celle-ci saisit la main du prince, elle se transforme en princesse.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Prompt Grok Imagine : Le prince transforme la servante en princesse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2457,6 +2469,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:20.199Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:17.421Z</sub>
 
 </div>

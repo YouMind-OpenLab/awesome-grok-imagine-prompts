@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Fantastik Şövalye Cosplay Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine kullanarak, referans görsellerle tutarlılığı koruyan, terasta poz veren yüksek fantastik şövalye kıyafetli bir kadının 15 saniyelik sinematik sekansını oluşturan video istemi.
+
+#### 📝 Prompt
+
+```
+Taş korkuluklu yüksek bir terasta, masmavi gökyüzüne ve Avrupa tarzı sokaklara bakan bir mekânda geçen 15 saniyelik sinematik bir video. Kelebek aksesuarlarla süslenmiş pembe saçlı güzel bir kadın; altın detaylarla işlenmiş kırmızı-beyaz fantastik kostümü ve beyaz uzun çizmeleriyle hafif esen rüzgârın tadını çıkarırken anlamlı ve fotojenik pozlar veriyor. Doğal ışık yumuşak bir şekilde içeri süzülürken kostümün uzun eteği, tül kolları ve saçları rüzgârda dalgalanıyor.
+
+[Sahne 1: 0-6 saniye (Görsel 1'e dayalı, Orta Uzun Plan)]
+Taş korkuluğun önünde hafif çapraz durarak, melankolik bir ifadeyle uzaklara bakarak başlayın. 3. saniyede üst bedeninizi akıcı bir şekilde döndürün, bir elinizi hafifçe göğsünüzdeki değerli taşın yanına koyun ve kameraya anlamlı bir bakış attığınız bir poza geçin.
+
+[Sahne 2: 6-12 saniye (Görsel 2'ye dayalı, Belden Yukarısı ~ Orta Plan)]
+Açı, önden bir kompozisyona geçer. Parmak uçlarınız belinizdeki kırmızı kuşağa/süslere hafifçe dokunan göz alıcı bir ayakta duruş pozundan, 9. saniyede dinamik bir poza geçiş yapın: Bir kolunuzu zarifçe kaldırarak kulağınızdaki pembe saçlarınızı ve kelebek aksesuarınızı nazikçe geriye doğru tarayın ve hafifçe gülümseyin.
+
+[Sahne 3: 12-15 saniye (Son 3 saniye, Göğüs Hizasından ~ Yakın Plan)]
+Kamera, yüzüne ve omuzlarına odaklanan bir yakın çekime kesilir. Saçlarını dalgalandıran rüzgârın etkisi sürerken başınızı hafifçe eğin ve parmak uçlarınızı çenenize koyarak kararlı bir poz verin; son olarak kameraya bakarken sağ gözünüzle büyüleyici bir şekilde göz kırpın ve akıllardan silinmeyecek bir iz bırakın.
+
+[Video Tarzı ve BGM]
+Gerçek bir film gibi yüksek çözünürlüklü doku, sığ alan derinliği ve akıcı kamera çalışması. BGM; sıcak akustik gitarın tellerinden yükselen sesler ile dingin akustik piyanonun melodilerinin iç içe geçtiği, yumuşak ve sakin bir akustik müzikten oluşuyor.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Fantastik Şövalye Cosplay Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### Kolyeden Süper Motosiklete Dönüşüm İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2381,25 +2412,6 @@ Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zeka 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Grok Imagine İstem: Prens, hizmetçiyi prensese dönüştürüyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genç bir prensin elini uzattığı ve hizmetçinin bu eli aldığında prensese dönüştüğü Grok Imagine için video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Genç bir prensin elini hizmetçiye uzatması ve hizmetçinin prensin elini tuttuğunda bir prensese dönüşmesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine İstem: Prens, hizmetçiyi prensese dönüştürüyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2461,6 +2473,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:24.251Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:21.232Z</sub>
 
 </div>

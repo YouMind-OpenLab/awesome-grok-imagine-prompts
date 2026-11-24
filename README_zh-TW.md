@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3448** |
+| 📝 提示詞總數 | **3449** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-24** |
 
@@ -189,6 +189,37 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 奇幻騎士 Cosplay 影片提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 為 Grok Imagine 設計的影片提示詞，用於生成一段 15 秒的電影感鏡頭：一位身穿高奇幻騎士裝扮的女性在露台上擺姿勢，並使用參考圖片確保視覺一致性。
+
+#### 📝 提示詞
+
+```
+一段 15 秒的電影感影片，場景設在擁有石砌欄杆的高處露台上，俯瞰蔚藍天空與歐風街道。一位粉髮美女頭戴蝴蝶飾品，身穿紅白相間、點綴金色裝飾的奇幻風格服裝與白色長靴，迎著舒適微風擺出充滿意境且上鏡的姿勢。柔和的自然光灑落，讓服裝的長裙襬、透膚衣袖與秀髮隨風飄逸。
+
+[場景 1：0-6 秒（根據圖片 1，中遠景）]
+開場以略微斜側的角度站在石砌欄杆前，帶著憂鬱神情望向遠方。第 3 秒時，上半身流暢地轉動，單手輕觸胸前的寶石，轉換成凝視鏡頭、充滿故事感的姿勢。
+
+[場景 2：6-12 秒（根據圖片 2，腰部以上～中景）]
+鏡頭切換為正面構圖。從指尖輕觸腰間紅色腰帶／裝飾的華麗站姿開始，於第 9 秒轉換為動態姿勢，優雅地抬起單手輕撥耳畔的粉髮與蝴蝶飾品，並露出淺淺微笑。
+
+[場景 3：12-15 秒（最後 3 秒，胸部以上～特寫）]
+鏡頭切換至聚焦臉部與肩膀的特寫。在餘風吹拂、髮絲輕揚之中，微微傾頭並將指尖輕抵下巴，擺出果斷俐落的姿勢；最後直視鏡頭，右眼迷人地眨了一下，留下令人難忘的深刻印象。
+
+[影片風格與 BGM]
+具備真人電影般的高畫質質感、淺景深與流暢運鏡。BGM 採用溫柔平靜的原聲配樂，溫暖的木吉他刷弦與沉穩的鋼琴旋律相互交織。
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="奇幻騎士 Cosplay 影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **發布時間:** Nov 23, 2026
+
+---
 ### 吊墜變身超級摩托車生成提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2385,25 +2416,6 @@ SpaceX – Beyond Earth
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **發布時間:** Nov 5, 2026
 
 ---
-### Grok Imagine 提示詞：王子將女僕變成公主
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片生成提示詞：年輕王子向女僕伸出手，女僕接住後瞬間變身成公主。
-
-#### 📝 提示詞
-
-```
-一位年輕的王子向女僕伸出手，當女僕握住王子的手時，她便化身為公主。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine 提示詞：王子將女僕變成公主">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **來源:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **發布時間:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2465,6 +2477,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-24T03:07:11.228Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-24T14:59:08.338Z</sub>
 
 </div>

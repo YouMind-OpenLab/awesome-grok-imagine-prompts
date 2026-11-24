@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Video para Cosplay de Caballero Fantástico
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt de video para Grok Imagine que crea una secuencia cinematográfica de 15 segundos de una mujer con atuendo de caballero de alta fantasía posando en una terraza, utilizando imágenes de referencia para mantener la consistencia.
+
+#### 📝 Prompt
+
+```
+Un video cinematográfico de 15 segundos ambientado en una terraza alta con barandales de piedra, con vista a un cielo azul y calles de estilo europeo. Una hermosa mujer de cabello rosa adornado con accesorios de mariposas, vestida con un atuendo de fantasía en rojo y blanco con detalles dorados y botas blancas altas, posa de manera expresiva y fotogénica mientras disfruta de una brisa agradable. La luz natural entra suavemente, haciendo que el largo vuelo del vestido, las mangas traslúcidas y el cabello ondeen con el viento.
+
+[Escena 1: 0-6 segundos (Basada en la Imagen 1, Plano Medio Largo)]
+Comienza de pie, ligeramente en diagonal frente al barandal de piedra, mirando hacia otro lado con expresión melancólica. A los 3 segundos, gira el torso con fluidez y apoya suavemente una mano cerca de la gema del pecho, cambiando a una pose con una mirada profunda hacia la cámara.
+
+[Escena 2: 6-12 segundos (Basada en la Imagen 2, De la Cintura para Arriba ~ Plano Medio)]
+El ángulo cambia a una composición frontal. Desde una pose glamurosa de pie, con las puntas de los dedos rozando apenas el fajín o los adornos rojos de la cintura, a los 9 segundos pasa a una pose dinámica: levanta un brazo con elegancia para acomodar suavemente el cabello rosa y el accesorio de mariposa cerca de la oreja, esbozando una sonrisa delicada.
+
+[Escena 3: 12-15 segundos (Últimos 3 segundos, Busto ~ Primer Plano)]
+La cámara corta a un primer plano centrado en su rostro y hombros. Mientras el viento persistente hace mecer su cabello, inclina ligeramente la cabeza y apoya las puntas de los dedos en el mentón en una pose contundente; por último, guiña el ojo derecho con encanto mientras mira a la cámara, dejando una impresión inolvidable.
+
+[Estilo del Video y BGM]
+Textura de alta definición como en una película de acción real, poca profundidad de campo y movimientos de cámara fluidos. El BGM es un sonido acústico suave y sereno donde se entrelazan los rasgueos de una cálida guitarra acústica con las melodías de un tranquilo piano acústico.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Prompt de Video para Cosplay de Caballero Fantástico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### Prompt de Transformación de Colgante a Superbici
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2377,25 +2408,6 @@ Aviso legal: Este video es un concepto ficticio de ciencia ficción generado por
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Prompt de Grok Imagine: El príncipe transforma a la sirvienta en princesa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video para Grok Imagine donde un joven príncipe le extiende la mano a una sirvienta, quien se transforma en princesa al tomarla.
-
-#### 📝 Prompt
-
-```
-un joven príncipe que le extiende la mano a la sirvienta y, cuando ella la toma, se transforma en princesa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Prompt de Grok Imagine: El príncipe transforma a la sirvienta en princesa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2457,6 +2469,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:18.326Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:15.564Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Fantasy-Kosplay-Video-Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Video-Prompt für Grok Imagine zur Erstellung einer 15-sekündigen cineastischen Sequenz einer Frau in High-Fantasy-Ritterrüstung, die auf einer Terrasse posiert, unter Verwendung von Referenzbildern für Konsistenz.
+
+#### 📝 Prompt
+
+```
+Ein 15-sekündiges, cineastisches Video auf einer hohen Terrasse mit steinerner Balustrade und Blick auf blauen Himmel sowie Straßen im europäischen Stil. Eine wunderschöne Frau mit rosa Haar, verziert mit Schmetterlings-Accessoires, trägt ein Fantasy-Outfit in Rot und Weiß mit goldenen Verzierungen und langen weißen Stiefeln. Sie nimmt ausdrucksstarke, fotogene Posen ein, während sie eine angenehme Brise genießt. Natürliches Licht fällt sanft ein und lässt den langen Saum des Kostüms, die transparenten Ärmel und das Haar im Wind wehen.
+
+[Szene 1: 0–6 Sekunden (Basierend auf Bild 1, amerikanische Einstellung)]
+Beginne leicht schräg vor der Steinbalustrade stehend, den Blick melancholisch abgewandt. Bei Sekunde 3 drehst du den Oberkörper fließend ein, legst eine Hand leicht an den Edelstein auf Brusthöhe und wechselst in eine Pose mit einem bedeutungsvollen Blick direkt in die Kamera.
+
+[Szene 2: 6–12 Sekunden (Basierend auf Bild 2, Halbtotale bis Halbnahe)]
+Der Winkel wechselt zu einer frontalen Bildkomposition. Aus einer glamourösen Stehpose heraus, bei der die Fingerspitzen leicht die rote Schärpe bzw. die Verzierungen an der Taille berühren, gehst du bei Sekunde 9 dynamisch über in eine Pose, in der du elegant einen Arm hebst, um sanft das rosa Haar und das Schmetterlings-Accessoire am Ohr nach oben zu streichen – begleitet von einem zarten Lächeln.
+
+[Szene 3: 12–15 Sekunden (Letzte 3 Sekunden, Nahe bis Großaufnahme)]
+Die Kamera schneidet auf eine Nahaufnahme, die Gesicht und Schultern fokussiert. Während der nachklingende Wind das Haar sanft bewegt, neigst du den Kopf leicht und legst die Fingerspitzen entschlossen ans Kinn. Zum Schluss zwinkerst du charmant mit dem rechten Auge direkt in die Kamera und hinterlässt so einen bleibenden Eindruck.
+
+[Videostil & BGM]
+Hochauflösende Textur wie in einem Realfilm, geringe Schärfentiefe, fließende Kameraführung. Die BGM besteht aus sanften, ruhigen Akustikklängen, bei denen sich das warme Spiel einer Akustikgitarre und die Melodien eines ruhigen Klaviers überlagern.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Fantasy-Kosplay-Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### A heart pendant that assembles itself
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,25 +2407,6 @@ Haftungsausschluss: Dieses Video ist ein KI-generiertes, fiktionales Sci-Fi-Konz
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Grok Imagine Prompt: Prinz verwandelt Magd in Prinzessin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungsprompt für Grok Imagine, in dem ein junger Prinz einer Magd die Hand reicht, die sich beim Ergreifen der Hand in eine Prinzessin verwandelt.
-
-#### 📝 Prompt
-
-```
-Ein junger Prinz streckt dem Dienstmädchen die Hand entgegen, und als sie seine Hand ergreift, verwandelt sie sich in eine Prinzessin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine Prompt: Prinz verwandelt Magd in Prinzessin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2456,6 +2468,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:19.210Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:16.532Z</sub>
 
 </div>

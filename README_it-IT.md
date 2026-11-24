@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Video per Cosplay di Cavaliere Fantasy
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video per Grok Imagine che crea una sequenza cinematografica di 15 secondi di una donna in abiti da cavaliere high-fantasy che posa su una terrazza, utilizzando immagini di riferimento per la coerenza.
+
+#### 📝 Prompt
+
+```
+Un video cinematografico di 15 secondi ambientato su un'alta terrazza con balaustre in pietra, affacciata su cieli azzurri e strade in stile europeo. Una bellissima donna dai capelli rosa adornati con accessori a forma di farfalla, vestita con un abito fantasy rosso e bianco impreziosito da dettagli dorati e lunghi stivali bianchi, assume pose espressive e fotogeniche mentre si lascia accarezzare da una piacevole brezza. La luce naturale entra dolcemente, facendo danzare al vento l'orlo lungo del costume, le maniche trasparenti e i capelli.
+
+[Scena 1: 0-6 secondi (Basata sull'Immagine 1, Piano Medio Lungo)]
+Inizia stando leggermente di tre quarti davanti alla balaustra in pietra, guardando altrove con un'espressione malinconica. Al terzo secondo, ruota fluidamente il busto, appoggiando delicatamente una mano vicino alla gemma sul petto, passando a una posa con uno sguardo intenso rivolto verso la telecamera.
+
+[Scena 2: 6-12 secondi (Basata sull'Immagine 2, Mezzo Busto ~ Piano Medio)]
+L'inquadratura passa a una composizione frontale. Da una posa elegante e affascinante, con le punte delle dita che sfiorano appena la fascia o le decorazioni rosse in vita, al nono secondo si transita verso una posa dinamica, sollevando un braccio con grazia per scostare dolcemente i capelli rosa e l'accessorio a farfalla vicino all'orecchio, accompagnando il gesto con un sorriso tenue.
+
+[Scena 3: 12-15 secondi (Ultimi 3 secondi, Primo Piano ~ Primissimo Piano)]
+Stacco su un primissimo piano concentrato sul viso e sulle spalle. Mentre il vento persistente continua a far ondeggiare i capelli, inclina leggermente la testa e appoggia con leggerezza le punte delle dita sul mento in una posa decisa, per poi chiudere infine l'occhio destro in un ammiccante occhiolino guardando dritta in camera, lasciando un'impressione indimenticabile.
+
+[Stile Video e BGM]
+Texture in alta definizione da film live-action, profondità di campo ridotta e movimenti di macchina fluidi. Il BGM è un suono acustico dolce e rilassato, in cui gli accordi caldi di una chitarra acustica si intrecciano alle melodie pacate di un pianoforte acustico.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Prompt Video per Cosplay di Cavaliere Fantasy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### Prompt di Trasformazione da Ciondolo a Superbike
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,25 +2407,6 @@ Avvertenza: Questo video è un concept Sci-Fi fittizio generato dall'IA, creato 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Prompt Grok Imagine: il principe trasforma la cameriera in principessa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per la generazione video di Grok Imagine: un giovane principe porge la mano a una cameriera, che si trasforma in principessa nel momento in cui la accetta.
-
-#### 📝 Prompt
-
-```
-un giovane principe che porge la mano a una serva e, quando lei la prende, si trasforma in una principessa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Prompt Grok Imagine: il principe trasforma la cameriera in principessa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2456,6 +2468,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:21.289Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:18.374Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Mô Tả Video Cho Nhân Vật Hiệp Sĩ Fantasy Cosplay
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Mô tả video cho Grok Imagine tạo một cảnh quay điện ảnh dài 15 giây về một nữ hiệp sĩ trong trang phục fantasy cổ điển, tạo dáng trên ban công, sử dụng hình ảnh tham chiếu để đảm bảo tính nhất quán.
+
+#### 📝 Prompt
+
+```
+Một video điện ảnh dài 15 giây, bối cảnh trên sân thượng cao với lan can đá nhìn ra bầu trời xanh và những con phố mang phong cách châu Âu. Một cô gái xinh đẹp sở hữu mái tóc hồng điểm xuyết phụ kiện hình bướm, khoác trên mình trang phục fantasy hai gam đỏ - trắng phối chi tiết vàng kim cùng đôi bốt trắng cổ cao, liên tục tạo những dáng chụp đầy biểu cảm và ăn ảnh trong lúc tận hưởng làn gió mát lành. Ánh sáng tự nhiên chiếu vào dịu nhẹ, làm tà váy dài, lớp tay áo voan mỏng và mái tóc tung bay theo gió.
+
+[Cảnh 1: 0-6 giây (Dựa trên Hình 1, Cảnh trung toàn)]
+Bắt đầu bằng tư thế đứng hơi chéo người trước lan can đá, ánh mắt hướng về phía xa với vẻ mặt đượm buồn. Đến giây thứ 3, phần thân trên xoay chuyển mượt mà, một bàn tay đặt hờ lên viên ngọc trước ngực, chuyển sang dáng pose với ánh nhìn đầy tâm trạng hướng thẳng về phía camera.
+
+[Cảnh 2: 6-12 giây (Dựa trên Hình 2, Cảnh trung ~ Cận trung)]
+Góc máy chuyển sang bố cục chính diện. Từ dáng đứng kiêu sa với các đầu ngón tay chạm nhẹ vào dải lụa/chi tiết trang trí màu đỏ nơi eo, đến giây thứ 9, nhân vật chuyển sang tư thế động: nâng một cánh tay thật duyên dáng để vuốt nhẹ mái tóc hồng cùng chiếc kẹp bướm gần tai, nở nụ cười mỉm dịu dàng.
+
+[Cảnh 3: 12-15 giây (3 giây cuối, Cận ngực ~ Cận cảnh)]
+Camera cắt sang góc cận, tập trung vào gương mặt và bờ vai. Giữa làn gió còn vương vấn khiến mái tóc khẽ lay động, cô gái hơi nghiêng đầu, đặt nhẹ đầu ngón tay lên cằm trong một dáng pose đầy quyết đoán, cuối cùng nháy mắt phải thật cuốn hút khi nhìn thẳng vào ống kính, để lại ấn tượng khó phai.
+
+[Phong cách video & BGM]
+Chất lượng hình ảnh sắc nét như phim điện ảnh người đóng, độ sâu trường ảnh mỏng, góc máy di chuyển mượt mà. Nhạc nền (BGM) là âm thanh acoustic êm dịu và tĩnh lặng, nơi tiếng rải đàn guitar ấm áp hòa quyện cùng giai điệu piano mộc mạc du dương.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Mô Tả Video Cho Nhân Vật Hiệp Sĩ Fantasy Cosplay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### Prompt Biến Đổi Từ Mặt Dây Chuyền Sang Superbike
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2379,25 +2410,6 @@ Tuyên bố miễn trừ trách nhiệm: Video này là một ý tưởng Sci-Fi
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Grok Imagine Prompt: Hoàng tử biến cô hầu gái thành công chúa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, trong đó một hoàng tử trẻ đưa tay ra cho một cô hầu gái, và cô ấy biến thành công chúa khi nắm lấy tay anh.
-
-#### 📝 Prompt
-
-```
-Một chàng hoàng tử trẻ đưa tay ra cho cô hầu gái, và khi nàng nắm lấy tay chàng, cô hầu ấy liền hóa thành một nàng công chúa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine Prompt: Hoàng tử biến cô hầu gái thành công chúa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2459,6 +2471,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:15.238Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:12.705Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3448** |
+| 📝 총 프롬프트 수 | **3449** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 판타지 기사 코스프레 영상 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine 을 사용하여 레퍼런스 이미지를 기반으로 일관성을 유지하며, 테라스에서 포즈를 취하는 하이 판타지 기사 복장의 여성을 담은 15 초 시네마틱 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+파란 하늘과 유럽풍 거리가 내려다보이는 석조 난간이 있는 높은 테라스를 배경으로 한 15 초 분량의 시네마틱 영상입니다. 나비 장식으로 포인트를 준 핑크빛 머리카락, 금장 장식과 화이트 롱부츠가 어우러진 레드 앤 화이트 판타지 의상을 입은 아름다운 여성이 기분 좋은 미풍을 맞으며 의미심장하고 사진 찍기 좋은 포즈를 취합니다. 자연광이 부드럽게 스며들어 의상의 긴 자락과 시스루 소매, 머리카락을 바람에 흩날리게 합니다.
+
+[씬 1: 0-6 초 (이미지 1 기반, 미디엄 롱 샷)]
+석조 난간 앞 대각선 방향으로 살짝 비껴 서서, 쓸쓸한 표정으로 시선을 돌린 채 시작합니다. 3 초 지점에서 상체를 자연스럽게 틀어 한 손을 가슴의 보석 근처에 가볍게 얹고, 카메라를 향해 의미심장한 눈빛을 보내는 포즈로 전환합니다.
+
+[씬 2: 6-12 초 (이미지 2 기반, 웨이스트 업 ~ 미디엄 샷)]
+카메라 앵글이 정면 구도로 바뀝니다. 손끝으로 허리의 붉은 사시(장식)를 가볍게 터치하는 우아한 스탠딩 포즈에서 시작해, 9 초 지점에서는 한쪽 팔을 우아하게 들어 올려 귀 근처의 핑크색 머리카락과 나비 장식을 살포시 넘기며 부드럽게 미소 짓는 역동적인 포즈로 이어집니다.
+
+[씬 3: 12-15 초 (마지막 3 초, 버스트 업 ~ 클로즈업)]
+카메라가 얼굴과 어깨에 집중하는 클로즈업으로 전환됩니다. 잔잔히 부는 바람에 머리카락이 흩날리는 가운데, 고개를 살짝 기울이고 손끝을 턱에 가볍게 대는 강렬한 포즈를 취한 뒤, 마지막으로 카메라를 바라보며 오른쪽 눈을 매력적으로 윙크하여 깊은 여운을 남깁니다.
+
+[영상 스타일 및 BGM]
+실사 영화 같은 고화질 질감, 얕은 피사계 심도, 부드러운 카메라 워크가 특징입니다. BGM 은 따뜻한 어쿠스틱 기타의 스트로크와 차분한 어쿠스틱 피아노 선율이 겹쳐지는 부드럽고 잔잔한 어쿠스틱 사운드입니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="판타지 기사 코스프레 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **게시일:** Nov 23, 2026
+
+---
 ### 펜던트에서 슈퍼바이크로 변신하는 모프 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2390,25 +2421,6 @@ Optimus 를 유일한 중심 피사체로 유지하고, 영상 전체에 걸쳐 
 **작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **게시일:** Nov 5, 2026
 
 ---
-### Grok Imagine 프롬프트: 왕자가 하녀를 공주로 변신시키는 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 그록 Imagine용 영상 생성 프롬프트로, 젊은 왕자가 하녀에게 손을 내밀고 그녀가 그 손을 잡는 순간 공주로 변신하는 장면을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-젊은 왕자가 하녀에게 손을 내밀고, 하녀가 그 손을 잡는 순간 공주로 변하는 모습.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine 프롬프트: 왕자가 하녀를 공주로 변신시키는 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**작성자:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **출처:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **게시일:** Nov 5, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2470,6 +2482,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-24T03:07:13.125Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-24T14:59:10.435Z</sub>
 
 </div>

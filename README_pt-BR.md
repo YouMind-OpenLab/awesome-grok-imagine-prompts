@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Vídeo para Cosplay de Cavaleiro Fantástico
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo para o Grok Imagine criar uma sequência cinematográfica de 15 segundos de uma mulher vestindo trajes de cavaleiro de alta fantasia, posando em um terraço, usando imagens de referência para consistência.
+
+#### 📝 Prompt
+
+```
+Um vídeo cinematográfico de 15 segundos ambientado em um terraço alto com parapeitos de pedra, com vista para o céu azul e ruas de estilo europeu. Uma mulher deslumbrante de cabelos rosas adornados com acessórios de borboleta, vestindo um traje de fantasia em vermelho e branco com detalhes dourados e botas brancas de cano longo, faz poses expressivas e fotogênicas enquanto sente uma brisa suave. A luz natural entra delicadamente, fazendo a barra longa do figurino, as mangas transparentes e os cabelos esvoaçarem ao vento.
+
+[Cena 1: 0-6 segundos (Baseada na Imagem 1, Plano Médio Longo)]
+Comece parada levemente na diagonal em frente ao parapeito de pedra, olhando para o lado com uma expressão melancólica. Aos 3 segundos, gire o tronco suavemente, apoiando levemente uma das mãos perto da pedra preciosa no peito, mudando para uma pose com um olhar profundo e expressivo direcionado à câmera.
+
+[Cena 2: 6-12 segundos (Baseada na Imagem 2, Da Cintura Para Cima ~ Plano Médio)]
+O ângulo muda para uma composição frontal. Partindo de uma pose glamourosa em pé, com as pontas dos dedos tocando levemente a faixa vermelha/os ornamentos na cintura, aos 9 segundos faça a transição para uma pose dinâmica, erguendo um braço com elegância para ajeitar suavemente os cabelos rosas e o acessório de borboleta perto da orelha, sorrindo de forma delicada.
+
+[Cena 3: 12-15 segundos (Últimos 3 segundos, Do Busto Para Cima ~ Close-up)]
+A câmera corta para um close-up focado no rosto e nos ombros dela. Em meio ao vento contínuo que balança os cabelos, incline levemente a cabeça e apoie as pontas dos dedos no queixo em uma pose marcante; por fim, dê uma piscadela charmosa com o olho direito enquanto olha para a câmera, deixando uma impressão inesquecível.
+
+[Estilo do Vídeo e BGM]
+Textura em alta definição como a de um filme live-action, profundidade de campo reduzida e movimentos de câmera fluidos. O BGM é um som acústico suave e tranquilo, onde as dedilhadas de um violão acolhedor se sobrepõem às melodias de um piano acústico sereno.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Prompt de Vídeo para Cosplay de Cavaleiro Fantástico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### Prompt de Transformação de Pingente em Superbike
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,25 +2407,6 @@ Aviso: Este vídeo é um conceito fictício de ficção científica gerado por I
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Prompt do Grok Imagine: Príncipe transforma criada em princesa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de geração de vídeo para o Grok Imagine em que um jovem príncipe estende a mão para uma criada, que se transforma em princesa ao aceitá-la.
-
-#### 📝 Prompt
-
-```
-um jovem príncipe estendendo a mão para a criada e, quando ela aceita a mão do príncipe, se transforma em uma princesa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Prompt do Grok Imagine: Príncipe transforma criada em princesa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2456,6 +2468,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:22.219Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:19.330Z</sub>
 
 </div>

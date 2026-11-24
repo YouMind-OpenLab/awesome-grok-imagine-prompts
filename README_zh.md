@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3448** |
+| 📝 提示词总数 | **3449** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-24** |
 
@@ -189,6 +189,37 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 奇幻骑士 Cosplay 视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 设计的视频提示词，用于生成一段 15 秒的电影感序列：一位身着高魔奇幻风格骑士装束的女性在露台上摆姿势，并使用参考图片以确保角色一致性。
+
+#### 📝 提示词
+
+```
+一段 15 秒的电影感视频，场景设在带有石栏杆的高层露台上，俯瞰蔚蓝天空与欧式街道。一位粉发美女头戴蝴蝶配饰，身穿红白相间、点缀金色装饰的奇幻风格服饰，搭配白色长靴，在惬意微风中摆出富有表现力且极具镜头感的姿势。柔和的自然光倾洒而下，让服装的长下摆、轻薄透纱的衣袖与秀发随风轻舞。
+
+[场景 1：0-6 秒（基于图片 1，中长景）]
+开场时微微侧身站在石栏杆前，带着忧郁的神情望向远方。第 3 秒，上半身流畅转动，一只手轻轻搭在胸前的宝石旁，转为面向镜头、眼神充满故事感的姿势。
+
+[场景 2：6-12 秒（基于图片 2，腰部以上～中景）]
+机位切换为正面构图。从指尖轻触腰间红色束带/装饰的优雅站姿开始，在第 9 秒过渡到动态姿势：单臂优雅抬起，轻轻拨弄耳畔的粉色长发与蝴蝶配饰，嘴角泛起温柔笑意。
+
+[场景 3：12-15 秒（最后 3 秒，胸部以上～特写）]
+镜头切至聚焦面部与肩部的特写。在余风拂动发丝间，微微侧头，指尖轻点下巴，摆出果敢的姿态；最后直视镜头，右眼俏皮地眨了一下，留下令人难忘的瞬间。
+
+[视频风格与 BGM]
+画质如真人电影般高清细腻，浅景深效果，运镜流畅自然。BGM 采用温柔舒缓的原声配乐，温暖的木吉他扫弦与宁静的原声钢琴旋律交织相融。
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="奇幻骑士 Cosplay 视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **发布时间:** Nov 23, 2026
+
+---
 ### 吊坠变身超级摩托车提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2384,25 +2415,6 @@ SpaceX – Beyond Earth
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **发布时间:** Nov 5, 2026
 
 ---
-### Grok Imagine 提示词：王子将女仆变身为公主
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的视频生成提示词，描述一位年轻王子向女仆伸出手，女仆在握住他的手后变身为公主。
-
-#### 📝 提示词
-
-```
-一位年轻的王子向女仆伸出手，当女仆握住王子的手时，她便化身成了公主。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine 提示词：王子将女仆变身为公主">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **来源:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **发布时间:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2464,6 +2476,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-24T03:07:10.147Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-24T14:59:07.386Z</sub>
 
 </div>

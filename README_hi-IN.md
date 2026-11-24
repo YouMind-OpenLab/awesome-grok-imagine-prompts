@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3448** |
+| 📝 Total Prompts | **3449** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -189,6 +189,37 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Fantasy Knight Cosplay Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine के लिए एक वीडियो प्रॉम्प्ट, जिसमें संदर्भ छवियों का उपयोग करके एक उच्च-काल्पनिक नाइट पोशाक में एक महिला को टेरस पर पोज़ देते हुए 15 सेकंड का सिनेमाई सीक्वेंस बनाया गया है।
+
+#### 📝 Prompt
+
+```
+15 सेकंड का एक सिनेमैटिक वीडियो, जो पत्थर की रेलिंग वाले एक ऊँचे छज्जे (टेरेस) पर फिल्माया गया है, जहाँ से नीले आसमान और यूरोपीय शैली की सड़कों का नज़ारा दिखता है। गुलाबी बालों वाली एक खूबसूरत महिला, जिसके बालों में तितलियों के एक्सेसरीज़ लगे हैं, ने लाल और सफेद रंग की फैंटेसी-स्टाइल पोशाक पहनी हुई है जिस पर सुनहरी कढ़ाई है और पैरों में सफेद लंबे बूट्स हैं। वह हल्की-हल्की ठंडी हवा का आनंद लेते हुए बेहद खूबसूरत और भावपूर्ण पोज़ देती है। प्राकृतिक रोशनी कोमलता से बिखर रही है, जिससे पोशाक का लंबा दामन, पारदर्शी आस्तीन और बाल हवा में लहरा रहे हैं।
+
+[सीन 1: 0-6 सेकंड (इमेज 1 पर आधारित, मीडियम लॉन्ग शॉट)]
+शुरुआत पत्थर की रेलिंग के सामने थोड़ा तिरछा खड़े होकर करें, उदास भाव के साथ नज़रें दूसरी तरफ रखें। 3 सेकंड पर, ऊपरी शरीर को सहजता से घुमाएँ, एक हाथ को हल्के से छाती पर लगे रत्न के पास रखें, और कैमरे की ओर गहरी नज़रों वाला एक भावपूर्ण पोज़ लें।
+
+[सीन 2: 6-12 सेकंड (इमेज 2 पर आधारित, वेस्ट अप ~ मीडियम शॉट)]
+कैमरा एंगल बदलकर सीधे सामने का कंपोज़िशन बन जाता है। कमर पर बँधी लाल पट्टी/डेकोरेशन पर उँगलियों को हल्के से टिकाए हुए एक आकर्षक पोज़ से शुरू करें, और 9 सेकंड पर एक डायनामिक पोज़ में बदलें — एक हाथ को शानदार अंदाज़ में ऊपर उठाकर कान के पास गुलाबी बालों और तितली वाले एक्सेसरी को हल्के से संवारें, चेहरे पर एक प्यारी सी मुस्कान के साथ।
+
+[सीन 3: 12-15 सेकंड (आखिरी 3 सेकंड, बस्ट अप ~ क्लोज़ अप)]
+कैमरा कट होकर उनके चेहरे और कंधों पर फोकस करते हुए क्लोज़-अप शॉट में बदल जाता है। बहती हवा में बालों के लहराने के बीच, सिर को हल्का सा झुकाएँ और उँगलियों को ठुड्डी पर रखकर एक प्रभावशाली पोज़ दें, और अंत में कैमरे की ओर देखते हुए दाईं आँख से आकर्षक तरीके से विंक करें, ताकि एक गहरी छाप छोड़ी जा सके।
+
+[वीडियो स्टाइल और BGM]
+लाइव-एक्शन फिल्म जैसी हाई-डेफिनिशन क्वालिटी, शैलो डेप्थ ऑफ फील्ड, और स्मूथ कैमरा वर्क। BGM एक शांत और कोमल एकोस्टिक धुन है, जिसमें गर्माहट भरी एकोस्टिक गिटार की स्ट्रमिंग और शांत एकोस्टिक पियानो की धुनें आपस में गुँथी हुई हैं।
+```
+
+<img src="https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg" width="600" alt="Fantasy Knight Cosplay Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14150)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2124812705286545673) | **Published:** Nov 23, 2026
+
+---
 ### पेंडेंट से सुपरबाइक मॉर्फ प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2395,25 +2426,6 @@ Optimus को पूरे वीडियो में एकमात्र �
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
 
 ---
-### Grok Imagine Prompt: राजकुमार सेविका को राजकुमारी में बदल देता है
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक युवराज एक सेविका का हाथ थामता है और हाथ थामते ही वह राजकुमारी में बदल जाती है।
-
-#### 📝 Prompt
-
-```
-एक युवा राजकुमार अपनी दासी की ओर हाथ बढ़ाता है, और जैसे ही वह दासी राजकुमार का हाथ थामती है, वह एक राजकुमारी में बदल जाती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine Prompt: राजकुमार सेविका को राजकुमारी में बदल देता है">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2475,6 +2487,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T03:07:16.277Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T14:59:13.731Z</sub>
 
 </div>
