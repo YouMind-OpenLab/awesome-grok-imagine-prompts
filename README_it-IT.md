@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3449** |
+| 📝 Total Prompts | **3451** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-25** |
 
@@ -189,6 +189,60 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Video Interfaccia Film Spionaggio CIA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un clip video che simula uno schermo di computer della CIA mentre scansiona volti ricercati e mappa un soggetto in una città, con lo stile di un film di spionaggio.
+
+#### 📝 Prompt
+
+```
+Un video che ricorda lo schermo di un computer della CIA mentre analizza rapidamente una serie di volti ricercati, per poi fermarsi su uno in particolare: a quel punto iniziano ad apparire delle mappe nel tentativo di localizzare il soggetto all'interno di una città. Una scena da vero film di spionaggio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125352364454363137/img/Mq1ShUyjRNE1zlD9.jpg" width="600" alt="Prompt Video Interfaccia Film Spionaggio CIA">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14162)**
+
+**Author:** [Bob ®️](https://x.com/Gundys69) | **Source:** [Link](https://x.com/Gundys69/status/2125352434570567771) | **Published:** Nov 24, 2026
+
+---
+### Prompt Video Documentario Apocalittico in Stop Motion
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt dettagliato per la generazione di video con Grok Imagine, progettato per creare un documentario in stile stop-motion sulla scomparsa dell'umanità, con istruzioni specifiche su inquadrature e audio.
+
+#### 📝 Prompt
+
+```
+Prompt per la generazione del video
+
+"E se l'intera umanità scomparisse in un istante?"
+
+Specifiche di produzione
+
+* Durata del video: 15 secondi, da rispettare rigorosamente
+* Rapporto d'aspetto: 9:16, verticale
+* Visual: animazione in stop-motion di alta qualità con pupazzi
+* Genere: documentario apocalittico, dark fantasy
+* Voce narrante: giapponese, voce maschile bassa e calma
+* Montaggio: timelapse ultra-rapido e movimenti di camera d'impatto
+* Sottotitoli/didascalie: nessuno
+
+Ambientazione e personaggi
+
+Tutti gli esseri umani sono rappresentati come bambole in miniatura realizzate a mano con estrema cura. Abiti in stoffa, volti in resina, occhi di vetro, movimenti leggermente goffi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125255836331319296/img/Loy8ucDZ1IyMTQjf.jpg" width="600" alt="Prompt Video Documentario Apocalittico in Stop Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14163)**
+
+**Author:** [酒禁星人](https://x.com/Sakekinsijin) | **Source:** [Link](https://x.com/Sakekinsijin/status/2125255861128077806) | **Published:** Nov 24, 2026
+
+---
 ### Prompt Video per Cosplay di Cavaliere Fantasy
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2337,76 +2391,6 @@ l'angelo solleva lentamente il viso, la pioggia cade, il fumo si alza dal crater
 **Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
 
 ---
-### Video di Danza Hip Hop Electro Dark
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt dettagliato per la generazione video con Grok Imagine, che presenta una sequenza di danza hip-hop. Utilizza tre immagini di riferimento per mantenere la coerenza del personaggio (capelli neri raccolti verso l'alto, abito gotico in velluto) e specifica quattro scene con coreografie precise come body wave e isolamenti su una durata di 15 secondi.
-
-#### 📝 Prompt
-
-```
-🎥 Prompt Video (Grok Imagine)
-Condizioni Globali e BGM
-* Stile/Coerenza: Mantenere assoluta coerenza nei tratti del viso, nell'acconciatura e nell'outfit della persona in @Image1, @Image2, @Image3 (capelli neri raccolti in modo disordinato, abito gotico in velluto blu navy e rosso vino).
-* Musica/Atmosfera: Electro Hip-Hop lento e dark con bassi potenti. Un BGM ritmato e stiloso dal sapore POP. Esprimere una forza magnetica attraverso l'immobilità.
-Scena 1 (0-4s): Piano Medio
-* Immagine di base: @Image3
-* Azione (4s / 2 step):
-  * [0-2s]: Body wave che fluisce dolcemente dal petto al collo a tempo con il beat.
-  * [2-4s]: Isolamento netto del collo verso sinistra/destra, mantenendo lo sguardo fisso e freddo dritto davanti a sé.
-Scena 2 (4-8s): Campo Lungo (Figura Intera)
-* Immagine di base: @Image1
-* Azione (4s / 2 step):
-  * [4-6s]: Cavalcando il beat pesante, un'onda ampia e lenta fa ondeggiare bacino e parte superiore del corpo.
-  * [6-8s]: Isolamento netto delle mani che si incrociano in modo rapido e fluido. L'orlo dell'abito ondeggia con eleganza.
-Scena 3 (8-12s): Piano Medio
-* Immagine di base: @Image3
-* Azione (4s / 2 step):
-  * [8-10s]: Movimento back wave che collega spalle e petto in modo fluido.
-  * [10-12s]: Posa netta che blocca simultaneamente le punte delle dita e il collo, perfettamente a tempo con il climax del brano.
-Scena 4 (12-15s): Primo Piano (Ultima Scena)
-* Immagine di base: @Image2
-* Azione (3s):
-  * [12-14s]: Primo piano che zooma lentamente sempre più vicino al viso. Segue il ritmo con sottili isolamenti di testa e collo.
-  * [14-15s (Finale)]: Posa finale rivolta alla camera, strizza l'occhio destro in modo cool e sbarazzino, per poi immobilizzarsi.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="Video di Danza Hip Hop Electro Dark">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13608)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **Published:** Nov 5, 2026
-
----
-### Trasformazione Cinematografica di Optimus Prime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video cinematografico di fantascienza di alta qualità che mostra Optimus Prime mentre subisce complesse trasformazioni meccaniche.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera un video Sci-Fi cinematografico di altissimo livello con trasformazioni next-level protagoniste di Optimus, rappresentando le avanzate sequenze di conversione del robot in uno stile realistico e fotorealistico.
-
-[Sceneggiatura degli eventi]
-All'inizio, Optimus è in piedi, completamente formato come robot umanoide all'interno di un hangar industriale futuristico, illuminato da una drammatica luce volumetrica. L'evento principale si sviluppa attraverso una trasformazione next-level a più stadi: le piastre corazzate esterne e gli arti si muovono con un'articolazione meccanica di precisione, i sistemi interni si illuminano e si riconfigurano, i componenti si ripiegano e si riassemblano in configurazioni alternative da combattimento o veicolari, con una fisica ultrarealistica e dettagliata di metalli, sistemi idraulici e flussi energetici. Gli stati ibridi intermedi rivelano complessi meccanismi a incastro prima di completarsi in una modalità avanzata totalmente trasformata. Alla fine, Optimus si blocca nella configurazione finale, stabile e potente, circondato da effetti energetici residui e scintille che si dissolvono.
-
-[Mantenere la coerenza]
-Mantieni Optimus come unico soggetto centrale, con un linguaggio di design Sci-Fi next-level coerente, texture metalliche fotorealistiche, continuità dell'illuminazione e consequenzialità logica della trasformazione per tutta la durata del video. Le immagini offrono un realismo Sci-Fi cinematografico fotorealistico con materiali ad alta fedeltà, illuminazione subsurface sugli elementi energetici e profondità atmosferica. La camera utilizza un tracciamento cinematografico dinamico: parte da un piano medio eroico, ruota con fluidi movimenti di carrello e gru per seguire le articolazioni meccaniche chiave, poi stringe in primi piani dettagliati sui componenti in trasformazione, prima di allargarsi su un campo lungo d'ambientazione che mostra la forma definitiva. Il sonoro include profondi stridii metallici e il ronzio dei servomotori idraulici, stratificati con picchi di energia elettronica, impatti di bassi risonanti e una crescente colonna sonora orchestrale Sci-Fi cinematografica che intensifica il ritmo durante l'intera conversione.
-
-Avvertenza: Questo video è un concept Sci-Fi fittizio generato dall'IA, creato esclusivamente a scopo di intrattenimento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Trasformazione Cinematografica di Optimus Prime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13602)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2468,6 +2452,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T00:46:57.717Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T14:23:23.437Z</sub>
 
 </div>

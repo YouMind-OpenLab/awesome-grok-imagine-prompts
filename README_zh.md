@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3449** |
+| 📝 提示词总数 | **3451** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-25** |
 
@@ -189,6 +189,60 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### CIA 间谍电影界面视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成模拟 CIA 电脑屏幕扫描通缉面孔并在城市中定位目标的视频片段的提示词，风格类似间谍电影。
+
+#### 📝 提示词
+
+```
+一段视频片段，画面看起来就像 CIA 的电脑屏幕：系统正在快速扫描通缉犯的面部照片，随后锁定其中一张，紧接着地图上不断浮现出标记点，试图在城市中定位目标人物。那种感觉，就跟你在间谍电影里看到的一模一样。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125352364454363137/img/Mq1ShUyjRNE1zlD9.jpg" width="600" alt="CIA 间谍电影界面视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14162)**
+
+**作者:** [Bob ®️](https://x.com/Gundys69) | **来源:** [Link](https://x.com/Gundys69/status/2125352434570567771) | **发布时间:** Nov 24, 2026
+
+---
+### 定格动画末日纪录片视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 生成的详细视频提示词，用于制作关于人类消失的定格动画风格纪录片，包含具体的镜头和音频指令。
+
+#### 📝 提示词
+
+```
+视频生成提示词
+
+“如果全人类在一瞬间消失，会发生什么？”
+
+制作规格
+
+* 视频时长：15 秒，严格遵守
+* 画面比例：9:16，竖屏
+* 视觉风格：高品质定格木偶动画
+* 类型：末日纪录片、暗黑奇幻
+* 旁白：日语，低沉平静的男声
+* 剪辑：超快延时摄影与极具张力的运镜
+* 字幕/标题：无
+
+世界观与角色设定
+
+所有人类均以手工精制的微缩人偶呈现。布制衣物、树脂面庞、玻璃眼珠，动作略显生硬……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125255836331319296/img/Loy8ucDZ1IyMTQjf.jpg" width="600" alt="定格动画末日纪录片视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14163)**
+
+**作者:** [酒禁星人](https://x.com/Sakekinsijin) | **来源:** [Link](https://x.com/Sakekinsijin/status/2125255861128077806) | **发布时间:** Nov 24, 2026
+
+---
 ### 奇幻骑士 Cosplay 视频提示词
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2340,81 +2394,6 @@ SpaceX – Beyond Earth
 **作者:** [rxufnx](https://x.com/rxufnx) | **来源:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **发布时间:** Nov 5, 2026
 
 ---
-### 暗黑电子嘻哈舞蹈视频
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 为 Grok Imagine 设计的详细视频生成提示词，呈现一段嘻哈舞蹈序列。通过三张参考图片保持角色一致性（黑色竖发、天鹅绒哥特式连衣裙），并在 15 秒时长内精确编排身体波浪和隔离动作等四个场景。
-
-#### 📝 提示词
-
-```
-🎥 视频提示词（Grok Imagine）
-
-全局设定与 BGM
-* 风格/一致性：完全保持 @Image1、@Image2、@Image3 中人物的五官、发型与服装一致（凌乱黑色盘发，藏蓝与酒红丝绒哥特风连衣裙）。
-* 音乐/氛围：Slow & Dark Electro Hip-Hop，重低音。带有 POP 感的律动时尚 BGM。于静止中展现酷飒的力量感。
-
-场景 1（0-4s）：中景
-* 基础图片：@Image3
-* 动作（4s / 2 个阶段）：
-  * [0-2s]：身体 wave 随节拍从胸口流畅传导至颈部。
-  * [2-4s]：颈部左右 sharp isolation，目光冷峻直视前方。
-
-场景 2（4-8s）：全景（全身）
-* 基础图片：@Image1
-* 动作（4s / 2 个阶段）：
-  * [4-6s]：踩着重拍，髋部与上半身做出缓慢的大幅度 wave。
-  * [6-8s]：手部 sharp isolation，双手快速流畅交叉。裙摆优雅摇曳。
-
-场景 3（8-12s）：中景
-* 基础图片：@Image3
-* 动作（4s / 2 个阶段）：
-  * [8-10s]：Back wave 动作将肩膀与胸口流畅串联。
-  * [10-12s]：配合歌曲高潮，指尖与颈部同时 sharp posing 定格。
-
-场景 4（12-15s）：特写（结尾镜头）
-* 基础图片：@Image2
-* 动作（3s）：
-  * [12-14s]：特写镜头缓缓向面部推进。头部与颈部以细微的 isolation 卡点律动。
-  * [14-15s（结尾）]：最终 pose 直面镜头，右眼又酷又俏皮地眨一下，随后画面定格。
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="暗黑电子嘻哈舞蹈视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13608)**
-
-**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **发布时间:** Nov 5, 2026
-
----
-### 擎天柱电影级变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段高端科幻风格的视频，展示擎天柱进行复杂的机械变形过程。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段高端电影级科幻视频，展现 Optimus 的次世代变形过程，以写实、照片级逼真的风格呈现该机器人精密复杂的变形序列。
-
-[事件脚本]
-开场时，Optimus 以完整的人形机器人姿态伫立于充满未来感的工业机库中，沐浴在极具戏剧张力的体积光下。核心画面将展开一场多阶段的次世代变形：外部装甲板与四肢通过精密的机械关节联动发生位移，内部系统泛起光芒并重新排布，各部件折叠重组为不同的战斗或载具形态，金属、液压系统与能量流动的超精细物理效果逼真至极。过渡阶段的混合形态会展现出错综复杂的咬合机械结构，直至最终完成向高级形态的全面变形。结尾处，Optimus 锁定最终变形形态，在残余的能量光效与渐渐消散的火花中尽显沉稳与强悍。
-
-[保持一致性]
-全程确保 Optimus 作为唯一的视觉主体，保持统一的次世代科幻设计语言、照片级金属质感、连贯的光影效果以及合理的变形逻辑。画面需呈现照片级电影科幻质感，具备高保真材质、能量元素的次表面光照效果以及丰富的空间景深。镜头采用动态电影级运镜：以英雄式中景开场，通过流畅的轨道平移与摇臂运动环绕拍摄，紧跟关键的机械联动细节；随后推进至变形部件的特写镜头，最后拉远为全景，展现变形完成后的整体形态。音效包含低沉的金属摩擦声与液压伺服电机的运转声，交织着电子能量涌动声、浑厚的低频冲击音，以及层层递进的电影级科幻管弦配乐，随变形过程不断推高紧张氛围。
-
-免责声明：本视频为 AI 生成的虚构科幻概念作品，仅供娱乐之用。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="擎天柱电影级变形">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13602)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **发布时间:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2476,6 +2455,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-25T00:46:47.662Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-25T14:23:13.486Z</sub>
 
 </div>

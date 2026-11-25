@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3449** |
+| 📝 Total Prompts | **3451** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-25** |
 
@@ -189,6 +189,60 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### CIA Casus Filmi Arayüzü Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir casus filmi tarzında, CIA bilgisayar ekranının aranan yüzleri tarayıp bir şehirde hedef kişiyi haritalandırmasını simüle eden video klipler oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Bir CIA bilgisayar ekranını andıran, aranan yüzler arasında hızla tarama yapan ve ardından birinde duraklayan bir video klibi. Yüzde durduğu anda haritalar belirmeye başlıyor ve kişiyi bir şehir içinde konumlandırmaya çalışıyor. Tıpkı casus filmlerinde gördüğünüz sahneler gibi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125352364454363137/img/Mq1ShUyjRNE1zlD9.jpg" width="600" alt="CIA Casus Filmi Arayüzü Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14162)**
+
+**Author:** [Bob ®️](https://x.com/Gundys69) | **Source:** [Link](https://x.com/Gundys69/status/2125352434570567771) | **Published:** Nov 24, 2026
+
+---
+### Stop Motion Kıyamet Belgeseli Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> İnsanlığın kaybolmasını konu alan, durdurulmuş hareket (stop-motion) tarzında bir belgesel oluşturmak için Grok Imagine'a yönelik; özel kamera ve ses talimatları içeren detaylı video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Video Üretim Promptu
+
+"Ya tüm insanlık bir anda ortadan kaybolsaydı?"
+
+Yapım Özellikleri
+
+* Video süresi: 15 saniye, kesinlikle bu süreye uyulacak
+* En boy oranı: 9:16, dikey
+* Görseller: Yüksek kaliteli stop-motion kukla animasyonu
+* Tür: Kıyamet belgeseli, karanlık fantezi
+* Anlatım: Japonca, sakin ve pes erkek sesi
+* Kurgu: Ultra hızlı timelapse ve etkileyici kamera çalışması
+* Altyazılar/Kapanlar: Yok
+
+Dünya Tasarımı ve Karakterler
+
+Tüm insanlar, özenle el yapımı minyatür bebekler olarak tasvir ediliyor. Kumaş kıyafetler, reçine yüzler, cam gözler, hafif sakar hareketler...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125255836331319296/img/Loy8ucDZ1IyMTQjf.jpg" width="600" alt="Stop Motion Kıyamet Belgeseli Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14163)**
+
+**Author:** [酒禁星人](https://x.com/Sakekinsijin) | **Source:** [Link](https://x.com/Sakekinsijin/status/2125255861128077806) | **Published:** Nov 24, 2026
+
+---
 ### Fantastik Şövalye Cosplay Video İstemi
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2342,76 +2396,6 @@ melek yüzünü yavaşça kaldırıyor, yağmur yağıyor, kraterden duman yüks
 **Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
 
 ---
-### Karanlık Elektro Hip Hop Dans Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine için hazırlanmış, hip-hop dans sekansını içeren detaylı bir video oluşturma istemi. Karakter tutarlılığını korumak amacıyla (siyah dik saçlar, kadife gotik elbise) üç referans görsel kullanır ve 15 saniyelik süre boyunca vücut dalgaları ve izolasyon hareketleri gibi kesin koreografileri belirten dört sahneyi tanımlar.
-
-#### 📝 Prompt
-
-```
-🎥 Video Prompt (Grok Imagine)
-Genel Koşullar ve BGM
-* Stil/Tutarlılık: @Image1, @Image2, @Image3 görsellerindeki kişinin yüz hatları, saç stili ve kıyafet bütünlüğünü eksiksiz koru (dağınık siyah topuz saç, lacivert ve bordo kadife gotik elbise).
-* Müzik/Atmosfer: Ağır baslı, yavaş ve karanlık Electro Hip-Hop. POP hissi veren ritmik ve şık bir BGM. Hareketsizliğin içinde havalı bir gücü yansıt.
-Sahne 1 (0-4s): Orta Çekim
-* Temel Görsel: @Image3
-* Aksiyon (4s / 2 adım):
-  * [0-2s]: Vücut dalgası (body wave), ritimle uyumlu şekilde göğüsten boyna doğru akıcı biçimde yayılır.
-  * [2-4s]: Boynun sağa/sola keskin izolasyonu, bakışlar havalı bir şekilde sabitlenerek tam karşıya yönelir.
-Sahne 2 (4-8s): Tam Boy Çekim (Tüm Vücut)
-* Temel Görsel: @Image1
-* Aksiyon (4s / 2 adım):
-  * [4-6s]: Ağır ritme ayak uydurarak kalça ve üst vücutta büyük, yavaş bir dalgalanma.
-  * [6-8s]: Ellerin hızlı ve pürüzsüz şekilde çaprazlandığı keskin el izolasyonu. Elbisenin etek ucu zarifçe savrulur.
-Sahne 3 (8-12s): Orta Çekim
-* Temel Görsel: @Image3
-* Aksiyon (4s / 2 adım):
-  * [8-10s]: Omuzları ve göğsü birbirine bağlayan akıcı bir sırt dalgası (back wave) hareketi.
-  * [10-12s]: Şarkının zirve noktasıyla eş zamanlı olarak parmak uçlarının ve boynun aynı anda durduğu keskin bir poz.
-Sahne 4 (12-15s): Yakın Çekim (Son Sahne)
-* Temel Görsel: @Image2
-* Aksiyon (3s):
-  * [12-14s]: Yüze doğru yavaşça daha da yaklaşan yakın çekim. Baş ve boyunla yapılan ince izolasyonlarla ritmin tutulması.
-  * [14-15s (Son)]: Kameraya dönük son poz; sağ gözle havalı ve sevimli bir göz kırpma, ardından hareketsizleşme.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="Karanlık Elektro Hip Hop Dans Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13608)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **Published:** Nov 5, 2026
-
----
-### Optimus Prime Sinematik Dönüşüm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Optimus Prime'ın karmaşık mekanik dönüşümler geçirdiği, üst düzey sinematik bir bilim kurgu videosu oluşturur.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Optimus'un yer aldığı, bir üst seviye Dönüşümleri konu alan; robotun gelişmiş dönüşüm dizilerini gerçekçi ve fotogerçekçi bir tarzda yansıtan, üst düzey sinematik bir Bilim Kurgu videosu oluşturun.
-
-[Olay Senaryosu]
-Başlangıçta Optimus, dramatik hacimsel aydınlatma altındaki fütüristik bir endüstriyel hangarda tam formuyla bir insansı robot olarak ayakta durmaktadır. Ana olay, çok aşamalı ve bir üst seviye bir dönüşümle şekillenir: dış zırh plakaları ve uzuvlar hassas mekanik eklem hareketleriyle yer değiştirir, iç sistemler parlayarak yeniden yapılandırılır, bileşenler katlanıp alternatif savaş veya araç konfigürasyonlarında yeniden bir araya gelir; tüm bu süreç metal, hidrolik ve enerji akışlarının ultra detaylı, gerçekçi fiziğiyle işlenir. Ara hibrit formlar, dönüşümün ileri düzey bir moda tamamlanmasından önce karmaşık kenetlenme mekanizmalarını gözler önüne serer. Son sahnede ise Optimus, nihai dönüşüm konfigürasyonuna kilitlenerek kalıntı enerji efektleri ve sönen kıvılcımlar arasında kararlı ve güçlü bir şekilde durur.
-
-[Tutarlılığı Koruyun]
-Optimus'u baştan sona tek ana özne olarak tutun; bir üst seviye Bilim Kurgu tasarım dilini, fotogerçekçi metal dokularını, aydınlatma sürekliliğini ve dönüşüm nedenselliğini koruyun. Görseller; yüksek sadakatli materyaller, enerji unsurlarında yüzey altı aydınlatması ve atmosferik derinlikle fotogerçekçi bir sinematik bilim kurgu gerçekçiliği sunmalıdır. Kamera dinamik bir sinematik takip kullanır: kahramanca bir orta çekimle başlar, temel mekanik eklem hareketlerini izlemek için yumuşak dolly ve crane hareketleriyle etrafında döner, ardından dönüşen bileşenlerin detaylı yakın çekimlerine girer ve son olarak tamamlanan formun geniş bir genel plan görüntüsüne doğru geri çekilir. Ses tasarımı; derin metalik sürtünme sesleri ve hidrolik servo vızıltıları içerir; bunlara elektronik enerji dalgalanmaları, yankılanan bas vuruşları ve dönüşüm boyunca yoğunluğu artan, yükselen sinematik bir orkestral Bilim Kurgu müziği eşlik eder.
-
-Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zeka tarafından üretilen kurgusal bir bilim kurgu konseptidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Optimus Prime Sinematik Dönüşüm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13602)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2473,6 +2457,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T00:47:00.674Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T14:23:26.587Z</sub>
 
 </div>

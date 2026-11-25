@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3449** |
+| 📝 Total Prompts | **3451** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-25** |
 
@@ -189,6 +189,60 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### CIA Spy Movie Interface Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video clip that simulates a CIA computer screen scanning wanted faces and mapping a subject in a city, styled like a spy movie.
+
+#### 📝 Prompt
+
+```
+A video clip that looks like the screen of a CIA computer that is quickly scanning through wanted faces and then it stops on one and maps start emerging trying to locate the subject in a city. Like you would see in a spy movie
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125352364454363137/img/Mq1ShUyjRNE1zlD9.jpg" width="600" alt="CIA Spy Movie Interface Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14162)**
+
+**Author:** [Bob ®️](https://x.com/Gundys69) | **Source:** [Link](https://x.com/Gundys69/status/2125352434570567771) | **Published:** Nov 24, 2026
+
+---
+### Stop Motion Apocalypse Documentary Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for Grok Imagine creating a stop-motion style documentary about humanity disappearing, with specific camera and audio instructions.
+
+#### 📝 Prompt
+
+```
+Video Generation Prompt
+
+"What if all of humanity disappeared in an instant?"
+
+Production Specs
+
+* Video length: 15 seconds, strict adherence
+* Aspect ratio: 9:16, vertical
+* Visuals: High-quality stop-motion puppet animation
+* Genre: End-of-the-world documentary, dark fantasy
+* Narration: Japanese, low calm male voice
+* Editing: Ultra-fast timelapse and powerful camera work
+* Subtitles/Captions: None
+
+Worldview and Characters
+
+All humans are represented as intricately handmade miniature dolls. Cloth clothes, resin faces, glass eyes, slightly awkward movements...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125255836331319296/img/Loy8ucDZ1IyMTQjf.jpg" width="600" alt="Stop Motion Apocalypse Documentary Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14163)**
+
+**Author:** [酒禁星人](https://x.com/Sakekinsijin) | **Source:** [Link](https://x.com/Sakekinsijin/status/2125255861128077806) | **Published:** Nov 24, 2026
+
+---
 ### Fantasy Knight Cosplay Video Prompt
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2349,76 +2403,6 @@ the angel slowly raises her face, rain falls, smoke rises from the crater, the b
 **Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
 
 ---
-### Dark Electro Hip Hop Dance Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed video generation prompt for Grok Imagine featuring a hip-hop dance sequence. It uses three reference images to maintain character consistency (black up-hair, velvet gothic dress) and specifies four scenes with precise choreography like body waves and isolations over a 15-second duration.
-
-#### 📝 Prompt
-
-```
-🎥 Video Prompt (Grok Imagine)
-Global Conditions & BGM
-* Style/Consistency: Fully maintain facial features, hairstyle, and outfit consistency of the person in @Image1, @Image2, @Image3 (messy black up-hair, navy and wine-red velvet gothic dress).
-* Music/Atmosphere: Slow & Dark Electro Hip-Hop with heavy bass. POP-feeling rhythmic and stylish BGM. Express cool strength within stillness.
-Scene 1 (0-4s): Medium Shot
-* Base Image: @Image3
-* Action (4s / 2 steps):
-  * [0-2s]: Body wave smoothly rippling from chest to neck in sync with beat.
-  * [2-4s]: Sharp isolation of neck left/right, fixing gaze coolly straight ahead.
-Scene 2 (4-8s): Full Shot (Whole Body)
-* Base Image: @Image1
-* Action (4s / 2 steps):
-  * [4-6s]: Riding heavy beat, large slow wave undulating hips and upper body.
-  * [6-8s]: Sharp hand isolation crossing hands quickly and smoothly. Dress hem sways elegantly.
-Scene 3 (8-12s): Medium Shot
-* Base Image: @Image3
-* Action (4s / 2 steps):
-  * [8-10s]: Back wave movement linking shoulders and chest smoothly.
-  * [10-12s]: Sharp posing stopping fingertips and neck simultaneously in sync with song climax.
-Scene 4 (12-15s): Close-up (Last Scene)
-* Base Image: @Image2
-* Action (3s):
-  * [12-14s]: Close-up slowly zooming further into face. Beating rhythm with subtle isolation of head and neck.
-  * [14-15s (Last)]: Final pose facing camera, winking coolly and cutely with right eye, then freezing.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="Dark Electro Hip Hop Dance Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13608)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **Published:** Nov 5, 2026
-
----
-### Optimus Prime Transformation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine featuring Optimus Prime undergoing advanced mechanical transformations in a sci-fi setting.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a high-end cinematic Sci-Fi video of next-level Transformations featuring Optimus, portraying the robot's advanced conversion sequences in a realistic, photorealistic style.
-
-[Event Script]
-At the start, Optimus stands fully formed as a humanoid robot in a futuristic industrial hangar under dramatic volumetric lighting. The principal event unfolds as a multi-stage next-level transformation: external armor plates and limbs shift with precise mechanical articulation, internal systems glow and reconfigure, components fold and reassemble into alternate combat or vehicle configurations with ultra-detailed realistic physics of metal, hydraulics, and energy flows. Intermediate hybrid states reveal complex interlocking mechanisms before completing into a fully transformed advanced mode. At the end, Optimus locks into the final transformed configuration, stable and powerful amid residual energy effects and settling sparks.
-
-[Maintain Consistency]
-Keep Optimus as the sole central subject with consistent next-level Sci-Fi design language, photorealistic metal textures, lighting continuity, and transformation causality throughout. The visuals present photorealistic cinematic Sci-Fi realism with high-fidelity materials, subsurface lighting on energy elements, and atmospheric depth. The camera uses dynamic cinematic tracking: beginning in a heroic medium shot, circling with smooth dolly and crane movements to follow key mechanical articulations, then pushing into detailed close-ups of transforming components before pulling back to a wide establishing view of the completed form. The sound includes deep metallic grinding and hydraulic servo whirs, layered with electronic energy surges, resonant bass impacts, and a rising cinematic orchestral Sci-Fi score that builds intensity through the conversion.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Optimus Prime Transformation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13602)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2480,6 +2464,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T00:46:46.663Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T14:23:12.546Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3449** |
+| 📝 Total Prompts | **3451** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-25** |
 
@@ -189,6 +189,60 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Giao diện video phim điệp viên CIA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video mô phỏng màn hình máy tính của CIA đang quét khuôn mặt nghi phạm và lập bản đồ mục tiêu trong thành phố, theo phong cách phim gián điệp.
+
+#### 📝 Prompt
+
+```
+Một đoạn video trông giống hệt màn hình máy tính của CIA đang quét nhanh qua các khuôn mặt bị truy nã, rồi đột ngột dừng lại ở một người. Ngay sau đó, bản đồ bắt đầu hiện lên để xác định vị trí của đối tượng trong thành phố. Y như những gì bạn thường thấy trong các bộ phim điệp viên vậy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125352364454363137/img/Mq1ShUyjRNE1zlD9.jpg" width="600" alt="Giao diện video phim điệp viên CIA">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14162)**
+
+**Author:** [Bob ®️](https://x.com/Gundys69) | **Source:** [Link](https://x.com/Gundys69/status/2125352434570567771) | **Published:** Nov 24, 2026
+
+---
+### Prompt Video Tài Liệu Stop Motion Tận Thế
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt tạo video chi tiết cho Grok Imagine để sản xuất phim tài liệu phong cách stop-motion về sự biến mất của nhân loại, kèm theo các chỉ dẫn cụ thể về máy quay và âm thanh.
+
+#### 📝 Prompt
+
+```
+Prompt Tạo Video
+
+"Điều gì sẽ xảy ra nếu toàn bộ nhân loại biến mất chỉ trong một tích tắc?"
+
+Thông Số Sản Xuất
+
+* Thời lượng video: 15 giây, tuân thủ nghiêm ngặt
+* Tỷ lệ khung hình: 9:16, dọc
+* Hình ảnh: Hoạt hình rối stop-motion chất lượng cao
+* Thể loại: Phim tài liệu về ngày tận thế, dark fantasy
+* Lời bình: Tiếng Nhật, giọng nam trầm tĩnh
+* Dựng phim: Timelapse siêu tốc và góc máy đầy uy lực
+* Phụ đề/Chú thích: Không có
+
+Thế Giới Quan Và Nhân Vật
+
+Toàn bộ con người được khắc họa dưới dạng những búp bê thu nhỏ làm thủ công vô cùng tỉ mỉ. Quần áo bằng vải, khuôn mặt đúc từ nhựa resin, đôi mắt thủy tinh, cử động hơi gượng gạo...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125255836331319296/img/Loy8ucDZ1IyMTQjf.jpg" width="600" alt="Prompt Video Tài Liệu Stop Motion Tận Thế">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14163)**
+
+**Author:** [酒禁星人](https://x.com/Sakekinsijin) | **Source:** [Link](https://x.com/Sakekinsijin/status/2125255861128077806) | **Published:** Nov 24, 2026
+
+---
 ### Mô Tả Video Cho Nhân Vật Hiệp Sĩ Fantasy Cosplay
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2340,76 +2394,6 @@ thiên thần từ từ ngẩng mặt lên, mưa rơi, khói bốc lên từ h�
 **Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
 
 ---
-### Video Nhảy Hip Hop Dark Electro
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Hướng dẫn tạo video chi tiết cho Grok Imagine, tập trung vào chuỗi điệu nhảy hip-hop. Prompt sử dụng ba hình ảnh tham chiếu để duy trì sự nhất quán về nhân vật (tóc đen dựng đứng, váy gothic nhung) và mô tả bốn cảnh với các động tác vũ đạo chính xác như body wave và isolation trong thời lượng 15 giây.
-
-#### 📝 Prompt
-
-```
-🎥 Video Prompt (Grok Imagine)
-Điều kiện chung & BGM
-* Phong cách/Độ nhất quán: Giữ nguyên tuyệt đối đường nét khuôn mặt, kiểu tóc và trang phục của nhân vật trong @Image1, @Image2, @Image3 (tóc đen búi rối, đầm nhung gothic phối xanh navy và đỏ rượu).
-* Nhạc/Không khí: Slow & Dark Electro Hip-Hop với âm bass dày, nặng. BGM mang nhịp điệu POP thời thượng và phong cách. Thể hiện thần thái mạnh mẽ, chất lừ ngay cả khi đứng yên.
-Cảnh 1 (0-4s): Medium Shot
-* Ảnh gốc: @Image3
-* Hành động (4s / 2 bước):
-  * [0-2s]: Body wave uốn lượn mượt mà từ ngực lên cổ theo đúng nhịp beat.
-  * [2-4s]: Isolation cổ trái/phải dứt khoát, ánh mắt nhìn thẳng đầy lạnh lùng.
-Cảnh 2 (4-8s): Full Shot (Toàn thân)
-* Ảnh gốc: @Image1
-* Hành động (4s / 2 bước):
-  * [4-6s]: Bắt trọn nhịp beat nặng, thực hiện một cú wave lớn, chậm rãi lan tỏa từ hông lên phần thân trên.
-  * [6-8s]: Isolation tay sắc bén, đan chéo tay nhanh và mượt. Tà váy bay nhẹ nhàng, thanh lịch.
-Cảnh 3 (8-12s): Medium Shot
-* Ảnh gốc: @Image3
-* Hành động (4s / 2 bước):
-  * [8-10s]: Chuyển động back wave kết nối vai và ngực liền mạch.
-  * [10-12s]: Tạo dáng pose cực gắt, khóa chặt đầu ngón tay và cổ cùng lúc ngay khoảnh khắc cao trào của bài hát.
-Cảnh 4 (12-15s): Close-up (Cảnh cuối)
-* Ảnh gốc: @Image2
-* Hành động (3s):
-  * [12-14s]: Cảnh cận zoom chậm dần vào gương mặt. Nhún nhảy theo nhịp bằng những cú isolation đầu và cổ thật tinh tế.
-  * [14-15s (Cuối cùng)] : Pose kết thúc hướng thẳng về phía camera, nháy mắt phải vừa ngầu vừa đáng yêu rồi đóng băng khung hình.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="Video Nhảy Hip Hop Dark Electro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13608)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **Published:** Nov 5, 2026
-
----
-### Biến hình Optimus Prime phong cách điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo video khoa học viễn tưởng cao cấp mang phong cách điện ảnh, tái hiện quá trình biến hình cơ khí phức tạp của Optimus Prime.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video Sci-Fi điện ảnh cao cấp về quá trình Biến hình đỉnh cao với nhân vật Optimus, khắc họa các chuỗi chuyển đổi tiên tiến của robot theo phong cách chân thực, chuẩn photorealistic.
-
-[Kịch bản sự kiện]
-Mở đầu, Optimus đứng sừng sững dưới hình hài một robot hình người hoàn chỉnh trong một nhà chứa máy công nghiệp mang đậm chất tương lai, được bao trùm bởi ánh sáng volumetric đầy kịch tính. Sự kiện chính diễn ra qua một chuỗi biến hình đỉnh cao nhiều giai đoạn: các tấm giáp ngoài và chi tiết cơ khí dịch chuyển nhờ hệ thống khớp nối chính xác tuyệt đối, các bộ phận bên trong phát sáng và tự tái cấu trúc, từng linh kiện gập lại rồi lắp ráp thành các dạng chiến đấu hoặc phương tiện khác nhau, tuân theo nguyên lý vật lý siêu chi tiết và chân thực của kim loại, thủy lực cũng như dòng năng lượng. Các trạng thái trung gian hé lộ những cơ cấu khớp nối phức tạp đan xen vào nhau trước khi hoàn tất quá trình chuyển đổi sang chế độ nâng cao cuối cùng. Ở phân cảnh kết thúc, Optimus khóa chặt vào cấu hình biến hình sau cùng, vững chãi và uy mãnh giữa những vệt năng lượng còn sót lại cùng tàn lửa đang dần tắt.
-
-[Duy trì tính nhất quán]
-Giữ Optimus là chủ thể trung tâm duy nhất xuyên suốt video, với ngôn ngữ thiết kế Sci-Fi đỉnh cao nhất quán, chất liệu kim loại chuẩn photorealistic, ánh sáng liền mạch và logic biến hình hợp lý. Phần hình ảnh phải toát lên chất điện ảnh Sci-Fi chân thực với vật liệu có độ trung thực cao, hiệu ứng ánh sáng xuyên thấu (subsurface lighting) trên các yếu tố năng lượng và chiều sâu không khí ấn tượng. Góc máy sử dụng kỹ thuật tracking điện ảnh động: bắt đầu bằng cú máy medium shot đầy hào hùng, lia vòng quanh mượt mà bằng dolly và crane để bám sát các chuyển động cơ khí then chốt, sau đó đẩy cận cảnh vào từng chi tiết đang biến hình trước khi kéo ra góc rộng toàn cảnh để phô diễn hình hài hoàn chỉnh. Phần âm thanh bao gồm tiếng nghiến kim loại trầm đục và tiếng rít của servo thủy lực, hòa quyện cùng những đợt xung năng lượng điện tử, tiếng bass cộng hưởng và bản nhạc giao hưởng Sci-Fi điện ảnh dồn dập, liên tục đẩy cao trào cảm xúc xuyên suốt quá trình biến hình.
-
-Tuyên bố miễn trừ trách nhiệm: Video này là một ý tưởng Sci-Fi hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Biến hình Optimus Prime phong cách điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13602)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2471,6 +2455,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T00:46:52.650Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T14:23:17.961Z</sub>
 
 </div>

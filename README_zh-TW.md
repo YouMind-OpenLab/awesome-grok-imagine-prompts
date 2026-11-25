@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3449** |
+| 📝 提示詞總數 | **3451** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-25** |
 
@@ -189,6 +189,60 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### CIA 間諜電影介面影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這段提示詞用於生成模擬 CIA 電腦螢幕掃描通緝犯面孔並在地圖上標記城市中目標人物的影片片段，呈現間諜電影風格。
+
+#### 📝 提示詞
+
+```
+一段看起來像 CIA 電腦螢幕的影片片段，畫面正快速掃描通緝犯的臉孔，接著鎖定其中一張人臉後停下，隨即浮現出地圖，試圖在城市中定位目標人物。就像你在間諜電影裡會看到的那種場景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125352364454363137/img/Mq1ShUyjRNE1zlD9.jpg" width="600" alt="CIA 間諜電影介面影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14162)**
+
+**作者:** [Bob ®️](https://x.com/Gundys69) | **來源:** [Link](https://x.com/Gundys69/status/2125352434570567771) | **發布時間:** Nov 24, 2026
+
+---
+### 定格動畫末日紀錄片影片提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 專為 Grok Imagine 設計的詳細影片生成提示詞，用於製作關於人類消失的定格動畫風格紀錄片，包含具體的鏡頭與音效指令。
+
+#### 📝 提示詞
+
+```
+影片生成提示詞
+
+「如果全人類在一瞬間消失，世界會變成什麼樣？」
+
+製作規格
+
+* 影片長度：15 秒，須嚴格遵守
+* 畫面比例：9:16，直式
+* 視覺風格：高品質定格動畫木偶
+* 類型：末日紀錄片、黑暗奇幻
+* 旁白：日語，低沉平靜的男聲
+* 剪輯：超快縮時攝影與極具張力的運鏡
+* 字幕：無
+
+世界觀與角色
+
+所有人類都以精緻的手工微縮人偶呈現。布製衣物、樹脂臉龐、玻璃眼珠，動作略顯生硬笨拙……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125255836331319296/img/Loy8ucDZ1IyMTQjf.jpg" width="600" alt="定格動畫末日紀錄片影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14163)**
+
+**作者:** [酒禁星人](https://x.com/Sakekinsijin) | **來源:** [Link](https://x.com/Sakekinsijin/status/2125255861128077806) | **發布時間:** Nov 24, 2026
+
+---
 ### 奇幻騎士 Cosplay 影片提示詞
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2341,81 +2395,6 @@ SpaceX – Beyond Earth
 **作者:** [rxufnx](https://x.com/rxufnx) | **來源:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **發布時間:** Nov 5, 2026
 
 ---
-### 暗黑電音嘻哈舞蹈影片
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 專為 Grok Imagine 設計的詳細影片生成提示詞，呈現一段嘻哈舞蹈序列。透過三張參考圖片維持角色一致性（黑色聳立髮型、絲絨哥德風洋裝），並精確指定四個場景的編舞動作，如身體波浪與局部隔離，時長共 15 秒。
-
-#### 📝 提示詞
-
-```
-🎥 影片提示詞（Grok Imagine）
-
-全域條件與 BGM
-* 風格／一致性：完整維持 @Image1、@Image2、@Image3 中人物的五官、髮型與服裝一致性（凌亂的黑色盤髮、海軍藍與酒紅色絲絨哥德風洋裝）。
-* 音樂／氛圍：Slow & Dark Electro Hip-Hop，搭配厚重 Bass。具備 POP 感的節奏性與時尚感 BGM。在靜止中展現冷酷的力量感。
-
-場景 1（0-4s）：中景（Medium Shot）
-* 基礎圖片：@Image3
-* 動作（4s / 2 個步驟）：
-  * [0-2s]：配合節拍，身體 Wave 從胸口流暢地波動至頸部。
-  * [2-4s]：俐落的頸部 Isolation 左右移動，目光冷酷地直視前方。
-
-場景 2（4-8s）：全景（Full Shot，全身）
-* 基礎圖片：@Image1
-* 動作（4s / 2 個步驟）：
-  * [4-6s]：乘著重拍，以大幅且緩慢的 Wave 擺動臀部與上半身。
-  * [6-8s]：俐落的手部 Isolation，快速又流暢地交叉雙手。洋裝下襬優雅搖曳。
-
-場景 3（8-12s）：中景（Medium Shot）
-* 基礎圖片：@Image3
-* 動作（4s / 2 個步驟）：
-  * [8-10s]：Back wave 動作將肩膀與胸口流暢串連。
-  * [10-12s]：配合歌曲高潮，俐落地定格 Pose，指尖與頸部同時停住。
-
-場景 4（12-15s）：特寫（Close-up，最後一幕）
-* 基礎圖片：@Image2
-* 動作（3s）：
-  * [12-14s]：特寫鏡頭緩慢向臉部推進。以頭部與頸部細微的 Isolation 打出節奏。
-  * [14-15s（結尾）]：最終 Pose 正對鏡頭，右眼冷酷又可愛地眨一下，隨後定格。
-```
-
-<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="暗黑電音嘻哈舞蹈影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13608)**
-
-**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **發布時間:** Nov 5, 2026
-
----
-### Optimus Prime 電影級變形特效
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成高階科幻風格影片，呈現 Optimus Prime 進行複雜機械變形的過程。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段高端電影級科幻影片，呈現 Optimus 的次世代變形過程，以逼真、照片級的寫實風格展現這台機器人先進的轉換序列。
-
-[事件腳本]
-影片開場，Optimus 以完整的人形機器人姿態，佇立在充滿戲劇性體積光效果的未來工業機庫中。主要情節將展開一場多階段的次世代變形：外部裝甲板與肢體透過精密的機械關節連動進行位移，內部系統發出光芒並重新配置，各個組件摺疊並重組為不同的戰鬥或載具形態，金屬、液壓系統與能量流動皆呈現超精細的真實物理效果。中間的混合形態會展現複雜的交錯咬合機械結構，直到最終完成進階模式的全面變形。結尾時，Optimus 鎖定在最終的變形形態，在殘留的能量特效與逐漸消散的火花中，展現出穩固而強大的氣勢。
-
-[保持一致性]
-全程維持 Optimus 為唯一的畫面主體，並確保次世代科幻設計語言、照片級金屬材質、光影連貫性以及變形因果邏輯的一致性。視覺上需呈現照片級的電影科幻寫實感，具備高保真材質、能量元素的次表面光照效果以及大氣景深。鏡頭採用動態電影式追蹤：從氣勢磅礡的中景開始，透過流暢的推軌與搖臂運動環繞拍攝，捕捉關鍵的機械關節動作，接著推進至變形組件的細節特寫，最後拉遠為全景鏡頭，展現變形完成後的整體樣貌。音效包含低沉的金屬摩擦聲與液壓伺服馬達運轉聲，並層層疊加電子能量湧動聲、深沉的低頻撞擊聲，以及隨著變形過程逐步堆疊張力、氣勢漸強的電影管弦科幻配樂。
-
-免責聲明：本影片為 AI 生成的虛構科幻概念作品，僅供娛樂用途。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Optimus Prime 電影級變形特效">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13602)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **發布時間:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2477,6 +2456,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-25T00:46:48.609Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-25T14:23:14.457Z</sub>
 
 </div>
