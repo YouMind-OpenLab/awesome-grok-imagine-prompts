@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3451** |
+| 📝 총 프롬프트 수 | **3455** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-27** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 최강의 전쟁 기계 조립 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 영상 생성 프롬프트로, 미래지향적인 기계가 신체를 스캔하고 수백 개의 로봇 부품을 조립하여 거대한 빨간색과 검은색 여성형 전쟁 기계를 완성하는 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+얼티밋 워 머신(Ultimate War Machine): 미래형 기계가 그녀의 몸을 스캔한 뒤 수백 개의 로봇 부품을 발사합니다. 이 부품들이 서로 맞물리며 거대한 붉은색과 검은색의 여성형 전쟁 병기를 완성합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="최강의 전쟁 기계 조립 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **게시일:** Nov 27, 2026
+
+---
+### 사이버네틱 외골격 변신 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 캐릭터가 사이버네틱 외골격으로 변신하고 로봇 기계 장치가 주변에 조립되는 모습을 묘사하는 Grok Imagine용 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사이버네틱 외골격: 두 손을 맞대자 로봇 기계 장치가 작동합니다. 기계식 관절, 숄더 플레이트, 금속 다리가 결합하여 첨단 외골격을 완성합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="사이버네틱 외골격 변신 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **게시일:** Nov 27, 2026
+
+---
+### 새가 날아와 손에 앉는 것을 지켜보는 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 여성이 새가 자신의 앞을 날다가 결국 손 위에 내려앉는 모습을 지켜보는 장면을 묘사한 영상 생성 프롬프트로, 판타지 배경 음악이 함께합니다.
+
+#### 📝 프롬프트
+
+```
+여자가 눈앞을 날아가는 새를 바라보고, 환상적인 배경 음악이 흐르는 가운데 그 새가 결국 여자의 손에 내려앉게 해 보세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="새가 날아와 손에 앉는 것을 지켜보는 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**작성자:** [Eugenio Aguilar](https://x.com/EugyYesus) | **출처:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **게시일:** Nov 25, 2026
+
+---
+### 하프 음악이 흐르는 가운데 고양이를 쓰다듬는 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 배경에 하프 음악이 흐르는 가운데, 서로를 바라보며 고양이를 쓰다듬는 여성의 모습을 담은 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하프 소리를 배경 음악으로 깔고, 여성과 고양이가 서로를 바라보며 여성이 고양이를 쓰다듬게 해주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="하프 음악이 흐르는 가운데 고양이를 쓰다듬는 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**작성자:** [Eugenio Aguilar](https://x.com/EugyYesus) | **출처:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **게시일:** Nov 25, 2026
+
+---
 ### CIA 스파이 영화 인터페이스 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2305,106 +2381,6 @@ Optimus Prime 의 정체성과 금속 갑옷 형태, 그리고 단절 없이 이
 **작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **게시일:** Nov 6, 2026
 
 ---
-### 거대 로봇으로 변신하는 트럭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참고 이미지를 활용하여 중형 트럭이 질주하며 옵티머스 스타일 전사로 변신하는 연속 샷을 생성하는 복잡한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-산악 고속도로를 질주하는 미래형 대형 트럭이 거대한 Optimus 스타일의 전사로 변신하는 연속 영상을 생성합니다. 핵심 피사체는 빨간색과 파란색 트럭이며, 주요 사건은 고속 주행 후 정교한 기계적 변형을 거쳐 이족 보행 로봇 형태로 변신하는 과정입니다.
-
-[참조 에셋 역할]
-@image1 은 트럭의 전체적인 외관(파란색 불꽃 모양 데칼이 있는 빨간색 캡, 빨간색 그래피티가 그려진 파란색 컨테이너, 크롬 배기 스택, 헤드라이트, 바퀴)과 극적인 구름 낀 하늘 아래 골든아워 산악 도로 장면을 나타내는 데 사용됩니다. 추가 인물이나 차량을 임의로 만들지 마십시오.
-@image2 는 최종 거대 전사의 디자인(빨간색 및 파란색 장갑판, 크롬 기계 디테일, 파랗게 빛나는 눈, 가슴 창문, 바퀴 형태의 발, 전반적인 Optimus 영감 실루엣)을 위해 사용됩니다. @image2 의 산악 일몰 풍경은 조명과 환경의 연속성을 강화하는 데 활용할 수 있습니다.
-
-[피사체 및 관계]
-@image1 의 단일 트럭만이 유일한 차량이며, 이는 @image2 의 단일 거대 전사로 변신하는 바로 그 동일한 개체입니다. 추가 트럭, 로봇 또는 캐릭터는 등장하지 않습니다. 도로, 풀밭 언덕, 멀리 보이는 설산, 극적인 구름 낀 하늘은 영상 내내 일관되게 유지됩니다.
-
-[이벤트 스크립트]
-시작: 파란색 컨테이너를 단 빨간색 캡 트럭이 아스팔트 고속도로를 따라 카메라를 향해 질주합니다. 헤드라이트가 켜져 있고 엔진이 굉음을 내며 바퀴가 회전하고 바람이 스쳐 지나갑니다. 짙은 구름이 낀 황금빛 일몰 조명 아래에서 펼쳐집니다.
-주요 사건: 트럭이 잠시 고속으로 질주한 후, 정밀하고 사실적인 변신을 시작합니다. 모든 바퀴, 패널, 엔진 블록, 배기 스택, 트레일러 컨테이너, 기계식 관절이 복잡하고 묵직한 움직임으로 펼쳐지고 회전하며 재구성됩니다. 캡이 상승하여 몸통과 머리가 되고, 트레일러 부분은 사지와 장갑판을 형성하며, 바퀴는 발이 됩니다. 크롬 부품들이 제자리에 고정되면 거대한 Optimus 스타일의 전사가 같은 도로 위에 완전히 똑바로 서게 됩니다.
-끝: 거대 전사가 시청자를 향한 채 고속도로 위에 안정적으로 우뚝 서 있습니다. 파란 눈이 빛나고 빨간색과 파란색 장갑이 완성된 모습이며, 산악 풍경과 일몰 빛이 여전히 주변을 감싸고 있습니다. 원래의 트럭 형태는 더 이상 차량으로 존재하지 않습니다.
-
-[일관성 유지]
-빨간색과 파란색 배색, 불꽃/그래피티 마킹, 크롬 디테일, 기계적 미학을 트럭에서 로봇으로 변신하는 과정 내내 정확하게 유지하십시오. 단일 개체의 정체성을 보존하여 전사가 의심할 여지 없이 변신한 트럭임을 명확히 하십시오. 산악 고속도로 환경, 골든아워 조명, 극적인 구름 낀 하늘, 변신의 사실적인 스케일을 그대로 유지하십시오. 모든 기계적 움직임은 갑작스러운 생략이나 누락 없이 정밀하고 묵직하며 물리적으로 설득력 있게 표현되어야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="거대 로봇으로 변신하는 트럭">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **게시일:** Nov 6, 2026
-
----
-### Optimus Robot 하강 시네마틱 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 구름에서 미래적인 도시로 내려오는 거대한 Optimus 스타일 로봇을 묘사하는 상세한 영상 생성 프롬프트로, 시네마틱 카메라 무브먼트와 사운드 디자인이 포함됩니다.
-
-#### 📝 프롬프트
-
-```
-거대한 Optimus 로봇이 구름을 뚫고 미래 도시로 내려와, 우뚝 솟은 마천루 사이에 착지하며 강력한 충격파가 거리를 따라 사방으로 퍼져나갑니다. 카메라는 그의 거대한 금속 몸을 원을 그리며 선회하고, 파란 눈빛이 어둠을 밝힙니다.
-
-영상은 밤안개를 가르는 극적인 조명과 반사되는 금속 표면이 어우러진, 첨단 기술이 돋보이는 영화 같은 SF 분위기를 연출합니다.
-
-카메라는 거대 로봇 주위를 역동적으로 선회하며, 처음에는 넓은 앵글로 하강과 착지의 충격을 담아내고, 이후 빛나는 파란 눈을 향해 몸체를 따라 가까이 쓸어내리듯 다가갑니다.
-
-사운드에는 착지 시 울리는 깊고 웅장한 타격음, 퍼져나가는 충격파의 진동, 금속성 공명음, 그리고 이 극적인 장면 아래 깔리는 낮고 잔잔한 도시의 배경음이 담겨 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus Robot 하강 시네마틱 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **게시일:** Nov 5, 2026
-
----
-### Grok Imagine Video 1.5 Lite 립싱크 테스트 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Higgsfield에서 Grok Imagine Video 1.5 Lite를 사용하여 비 오는 장면에서 여성이 특정 대사를 정확한 입술 움직임과 함께 말하는 짧은 클립을 생성하기 위한 테스트 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-비가 내리는 버스 정류장, 노란 우비를 입은 한 여성이 카메라를 향해 돌아서며 말합니다. "늦어서 미안해요, 47 번 버스가 고장 났어요."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite 립싱크 테스트 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**작성자:** [Which AI Won](https://x.com/whichaiwon) | **출처:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **게시일:** Nov 5, 2026
-
----
-### 추락한 천사 시네마틱 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을(를) 사용하여 고대 도시의 분화구에서 추락한 천사의 시네마틱 영상을 생성하는 프롬프트입니다. 이 장면은 상승하는 연기, 내리는 비, 닫히는 빛줄기, 그리고 타오르는 깃털을 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-끝이 그을려 검게 변한 하얀 날개를 가진 여성 천사, 고대 도시 한가운데 연기가 피어오르는 크레이터에 무릎을 꿇고 하늘에서 빛줄기가 닫히는 곳을 올려다보는 모습, 가랑비, 하이 앵글, 시네마틱 판타지, 세로 4:5
-
-천사가 천천히 얼굴을 들고, 비가 내리며, 크레이터에서 연기가 피어오르고, 빛줄기가 닫힌다. 그을린 깃털들이 바람에 흩날리고, 카메라는 천사에게 닿을 때까지 천천히 내려온다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="추락한 천사 시네마틱 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**작성자:** [rxufnx](https://x.com/rxufnx) | **출처:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **게시일:** Nov 5, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2466,6 +2442,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-27T00:40:22.552Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-27T13:58:54.340Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3451** |
+| 📝 Total Prompts | **3455** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-27** |
 
@@ -189,6 +189,82 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Ultimate War Machine Assembly Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine showing a futuristic machine scanning a body and assembling hundreds of robotic components into a massive red-and-black female war machine.
+
+#### 📝 Prompt
+
+```
+Ultimate War Machine: A futuristic machine scans her body, then launches hundreds of robotic components that lock together, creating a massive red-and-black female war machine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="Ultimate War Machine Assembly Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **Published:** Nov 27, 2026
+
+---
+### Cybernetic Exoskeleton Transformation Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting a character transforming into a cybernetic exoskeleton with robotic machinery assembling around them.
+
+#### 📝 Prompt
+
+```
+Cybernetic Exoskeleton: Her hands touch together, activating robotic machinery. Mechanical joints, shoulder plates, and metallic legs assemble into an advanced exoskeleton.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="Cybernetic Exoskeleton Transformation Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **Published:** Nov 27, 2026
+
+---
+### Woman Watching Bird Fly and Land on Hand
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt describing a woman watching a bird fly in front of her and eventually land on her hand, accompanied by fantasy background music.
+
+#### 📝 Prompt
+
+```
+Let the woman watch the bird flying in front of her and the bird end up landing on her hand with fantasy background music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="Woman Watching Bird Fly and Land on Hand">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **Published:** Nov 25, 2026
+
+---
+### Woman Petting Cat with Harp Music
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt showing a woman petting a cat while they look at each other, with harp music playing in the background.
+
+#### 📝 Prompt
+
+```
+Let the woman pet the cat while both observe each other, with a harp sound as background music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="Woman Petting Cat with Harp Music">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **Published:** Nov 25, 2026
+
+---
 ### CIA Spy Movie Interface Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2301,108 +2377,6 @@ Disclaimer: This video is an AI-generated fictional sci-fi concept created for e
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
 
 ---
-### Truck Transformation Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for generating a video where a futuristic truck transforms into a giant warrior robot, including reference asset roles and event scripts.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a continuous video of a futuristic heavy-duty truck racing along a mountain highway, then transforming into a towering Optimus-style giant warrior. The core subject is the red-and-blue truck, and the principal event is its high-speed drive followed by a detailed mechanical transformation into the bipedal robot form.
-
-[Reference Asset Roles]
-@image1 is used for the truck's overall appearance, red cab with blue flame-like markings, blue shipping container with red graffiti, chrome exhaust stacks, headlights, wheels, and the golden-hour mountain road scene under dramatic cloudy skies; do not invent extra people or vehicles.
-@image2 is used for the final giant warrior's design: red-and-blue armored plating, chrome mechanical details, blue glowing eyes, chest windows, wheel-like feet, and overall Optimus-inspired silhouette; the mountain sunset landscape in @image2 may reinforce lighting and environment continuity.
-
-[Subjects and Relationships]
-The single truck from @image1 is the only vehicle and is the exact same entity that transforms into the single giant warrior from @image2. No additional trucks, robots, or characters appear. The road, grassy hills, distant snow-capped mountains, and dramatic cloudy sky remain consistent throughout.
-
-[Event Script]
-At the start: the red-cab truck with blue container races toward the camera along the asphalt highway, headlights on, engine roaring, wheels spinning, and wind rushing past under the golden sunset light with heavy clouds.
-Principal event: the truck continues at high speed for a short beat, then begins a precise, realistic transformation. Every wheel, panel, engine block, exhaust stack, trailer container, and mechanicals joint unfolds, rotates, and reconfigures with intricate, weighty motion. The cab rises and becomes the torso and head, the trailer sections form the limbs and armor plates, wheels become feet, and chrome components lock into place until the towering Optimus-style warrior stands fully upright on the same road.
-At the end: the giant warrior stands tall and stable on the highway facing the viewer, blue eyes glowing, red-and-blue armor complete, with the mountain landscape and sunset light still surrounding it; the original truck form no longer exists as a vehicle.
-
-[Maintain Consistency]
-Keep the exact red-and-blue color scheme, flame/graffiti markings, chrome details, and mechanical aesthetics continuous from truck to robot. Preserve the single-entity identity so the warrior is unmistakably the transformed truck. Maintain the mountain highway environment, golden-hour lighting, dramatic cloudy sky, and realistic scale of the transformation. All mechanical movements remain precise, heavy, and physically believable with no abrupt jumps or missing parts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Truck Transformation Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
-
----
-### Giant Optimus Robot Landing Cinematic Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for Grok Imagine featuring a massive Optimus robot descending into a futuristic city, with specific instructions on camera movement, lighting, and sound design.
-
-#### 📝 Prompt
-
-```
-A massive Optimus robot descends from the clouds into a futuristic city, landing between towering skyscrapers as powerful shockwaves ripple outward across the streets. The camera circles his enormous metallic body while his blue eyes illuminate the darkness.
-
-The visuals present a high-tech, cinematic sci-fi atmosphere with dramatic lighting cutting through night-time haze and reflective metallic surfaces.
-
-The camera uses a dynamic circling orbit around the giant robot, starting wide to capture the descent and landing impact, then sweeping closer along the body toward the glowing blue eyes.
-
-The sound includes deep booming impacts from the landing, spreading shockwave rumble, metallic resonance, and low ambient city hum under the drama.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Giant Optimus Robot Landing Cinematic Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Video 1.5 Lite Lip-Sync Test Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A test prompt for Grok Imagine Video 1.5 Lite on Higgsfield to generate a short clip of a woman speaking specific dialogue with accurate lip synchronization in a rainy setting.
-
-#### 📝 Prompt
-
-```
-A woman in a yellow raincoat at a rainy bus stop turns to the camera and says: 'Sorry I'm late, the 47 bus broke down.'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite Lip-Sync Test Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**Author:** [Which AI Won](https://x.com/whichaiwon) | **Source:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **Published:** Nov 5, 2026
-
----
-### Fallen Angel Cinematic Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic video of a fallen angel in an ancient city crater using Grok Imagine. The scene features rising smoke, falling rain, closing light beams, and burning feathers.
-
-#### 📝 Prompt
-
-```
-female angel with white wings burned and darkened at the tips, kneeling in a smoking crater in the middle of an ancient city, looking up where a beam of light closes in the sky, fine rain, high camera angle, cinematic fantasy, vertical 4:5
-
-the angel slowly raises her face, rain falls, smoke rises from the crater, the beam of light closes, burnt feathers fly in the wind, the camera slowly descends until it reaches her
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Fallen Angel Cinematic Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2464,6 +2438,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T00:40:18.513Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T13:58:51.739Z</sub>
 
 </div>

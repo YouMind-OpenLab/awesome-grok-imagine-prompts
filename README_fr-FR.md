@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3451** |
+| 📝 Total Prompts | **3455** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-27** |
 
@@ -189,6 +189,82 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Vidéo Ultime d'Assemblage de Machine de Guerre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de génération vidéo pour Grok Imagine montrant une machine futuriste scannant un corps et assemblant des centaines de composants robotiques en une imposante machine de guerre féminine rouge et noire.
+
+#### 📝 Prompt
+
+```
+Machine de guerre ultime : une machine futuriste scanne son corps, puis libère des centaines de composants robotiques qui s'emboîtent pour former une gigantesque machine de guerre féminine rouge et noire.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="Prompt Vidéo Ultime d'Assemblage de Machine de Guerre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **Published:** Nov 27, 2026
+
+---
+### Prompt vidéo de transformation en exosquelette cybernétique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour Grok Imagine dépeignant un personnage se transformant en exosquelette cybernétique, avec des machines robotiques s'assemblant autour de lui.
+
+#### 📝 Prompt
+
+```
+Exosquelette cybernétique : ses mains se joignent, activant un mécanisme robotique. Articulations mécaniques, épaulières et jambes métalliques s'assemblent pour former un exosquelette de pointe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="Prompt vidéo de transformation en exosquelette cybernétique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **Published:** Nov 27, 2026
+
+---
+### Femme regardant un oiseau voler et se poser sur sa main
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo décrivant une femme observant un oiseau voler devant elle, puis se poser sur sa main, le tout accompagné d'une musique de fond fantastique.
+
+#### 📝 Prompt
+
+```
+Faites en sorte que la femme observe l'oiseau qui vole devant elle, puis que celui-ci finisse par se poser sur sa main, le tout accompagné d'une musique de fond féerique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="Femme regardant un oiseau voler et se poser sur sa main">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **Published:** Nov 25, 2026
+
+---
+### Femme caressant un chat au son d'une harpe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de génération vidéo montrant une femme caressant un chat, les deux se regardant mutuellement, avec une musique de harpe en arrière-plan.
+
+#### 📝 Prompt
+
+```
+Laissez la femme caresser le chat pendant qu'ils s'observent mutuellement, sur un fond musical de harpe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="Femme caressant un chat au son d'une harpe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **Published:** Nov 25, 2026
+
+---
 ### Prompt vidéo interface film d'espionnage CIA
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2292,106 +2368,6 @@ La bande-son mêle le crépitement de la pluie battante sur le métal, le sourd 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
 
 ---
-### Camion se transformant en robot géant
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo complexe utilisant des images de référence pour créer un plan-séquence d'un camion lourd en course se transformant en un guerrier de style Optimus.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo continue d'un camion poids lourd futuriste filant à toute allure sur une route de montagne, puis se transformant en un guerrier géant colossal de type Optimus. Le sujet central est le camion rouge et bleu, et l'événement principal est sa course à grande vitesse suivie d'une transformation mécanique détaillée en robot bipède.
-
-[Rôle des éléments de référence]
-@image1 sert de référence pour l'apparence générale du camion : cabine rouge ornée de motifs bleus évoquant des flammes, conteneur bleu recouvert de graffitis rouges, pots d'échappement chromés, phares, roues, ainsi que la scène de route de montagne baignée par la lumière dorée sous un ciel nuageux dramatique ; n'ajoutez aucun personnage ni véhicule supplémentaire.
-@image2 définit le design final du guerrier géant : blindage rouge et bleu, détails mécaniques chromés, yeux bleus luminescents, vitres sur le torse, pieds en forme de roues et silhouette globale inspirée d'Optimus ; le paysage de coucher de soleil en montagne présent dans @image2 peut servir à renforcer la cohérence de l'éclairage et de l'environnement.
-
-[Sujets et relations]
-L'unique camion issu de @image1 est le seul véhicule à l'écran et constitue exactement la même entité qui se transforme en l'unique guerrier géant de @image2. Aucun autre camion, robot ou personnage ne doit apparaître. La route, les collines verdoyantes, les montagnes enneigées au loin et le ciel nuageux dramatique restent parfaitement cohérents tout au long de la vidéo.
-
-[Scénario de l'action]
-Au début : le camion à cabine rouge et conteneur bleu fonce vers la caméra sur la route asphaltée, phares allumés, moteur rugissant, roues tournant à pleine vitesse et vent s'engouffrant, le tout sous la lumière dorée du coucher de soleil et un ciel chargé de lourds nuages.
-Événement principal : le camion poursuit sa course à vive allure pendant un court instant, puis amorce une transformation précise et réaliste. Chaque roue, panneau, bloc-moteur, pot d'échappement, conteneur de remorque et articulation mécanique se déploie, pivote et se reconfigure dans un mouvement complexe et pesant. La cabine s'élève pour former le torse et la tête, les sections de la remorque deviennent les membres et les plaques de blindage, les roues se muent en pieds, et les pièces chromées se verrouillent en place jusqu'à ce que l'imposant guerrier de type Optimus se tienne entièrement debout sur cette même route.
-À la fin : le guerrier géant se dresse, haut et stable, sur la route face au spectateur, les yeux bleus étincelants et l'armure rouge et bleu complète, toujours entouré par le paysage montagneux et la lumière du crépuscule ; la forme initiale du camion n'existe plus en tant que véhicule.
-
-[Maintenir la cohérence]
-Conservez scrupuleusement la palette rouge et bleu, les motifs de flammes et de graffitis, les détails chromés et l'esthétique mécanique, de manière fluide du camion jusqu'au robot. Préservez l'identité de cette entité unique afin que le guerrier soit indubitablement le camion transformé. Maintenez l'environnement de la route de montagne, l'éclairage de l'heure dorée, le ciel nuageux dramatique et l'échelle réaliste de la transformation. Tous les mouvements mécaniques doivent rester précis, lourds et physiquement crédibles, sans sauts brusques ni pièces manquantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Camion se transformant en robot géant">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
-
----
-### Vidéo cinématique de la descente du robot Optimus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour la génération vidéo décrivant un immense robot de type Optimus descendant des nuages dans une ville futuriste, avec des mouvements de caméra cinématiques et un design sonore.
-
-#### 📝 Prompt
-
-```
-Un robot Optimus gigantesque descend des nuages vers une ville futuriste et atterrit entre d'imposants gratte-ciel, tandis que de puissantes ondes de choc se propagent à travers les rues. La caméra tourne autour de son immense corps métallique pendant que ses yeux bleus percent l'obscurité.
-
-L'image dégage une atmosphère de science-fiction cinématographique et high-tech, où un éclairage dramatique transperce la brume nocturne et fait scintiller les surfaces métalliques réfléchissantes.
-
-La caméra effectue un mouvement orbital dynamique autour du robot géant : elle commence par un plan large pour saisir sa descente et l'impact de l'atterrissage, puis se rapproche en balayant le corps jusqu'à atteindre ses yeux bleus lumineux.
-
-Le son mêle les grondements sourds de l'atterrissage, le roulement de l'onde de choc qui se propage et la résonance métallique, le tout porté par le bourdonnement ambiant et grave de la ville en toile de fond.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Vidéo cinématique de la descente du robot Optimus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **Published:** Nov 5, 2026
-
----
-### Prompt de test pour la synchronisation labiale de Grok Imagine Video 1.5 Lite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de test pour Grok Imagine Video 1.5 Lite sur Higgsfield, destiné à générer un court clip d'une femme prononçant un dialogue spécifique avec une synchronisation labiale précise dans un décor pluvieux.
-
-#### 📝 Prompt
-
-```
-Une femme en imperméable jaune, à un arrêt de bus sous la pluie, se tourne vers la caméra et dit : « Désolée pour le retard, le bus 47 est tombé en panne. »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Prompt de test pour la synchronisation labiale de Grok Imagine Video 1.5 Lite">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**Author:** [Which AI Won](https://x.com/whichaiwon) | **Source:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **Published:** Nov 5, 2026
-
----
-### Prompt Vidéo Cinématographique : Ange Déchu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo cinématographique d'un ange déchu dans le cratère d'une cité ancienne à l'aide de Grok Imagine. La scène met en vedette de la fumée montante, une pluie battante, des faisceaux lumineux qui se referment et des plumes enflammées.
-
-#### 📝 Prompt
-
-```
-ange féminin aux ailes blanches brûlées et noircies aux extrémités, agenouillée dans un cratère fumant au milieu d'une cité antique, le regard levé vers un faisceau de lumière qui se referme dans le ciel, pluie fine, angle de caméra en plongée, fantasy cinématographique, format vertical 4:5
-
-l'ange lève lentement le visage, la pluie tombe, la fumée s'élève du cratère, le faisceau de lumière se referme, des plumes calcinées tourbillonnent dans le vent, la caméra descend lentement jusqu'à elle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Prompt Vidéo Cinématographique : Ange Déchu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2453,6 +2429,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T00:40:29.287Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T13:58:58.889Z</sub>
 
 </div>

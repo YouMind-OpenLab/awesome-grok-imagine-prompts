@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3451** |
+| 📝 提示詞總數 | **3455** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-27** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 終極戰爭機器組裝影片提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示，展示一台未來主義機器掃描人體，並將數百個機器人組件組裝成一台巨大的紅黑配色女性戰爭機器的過程。
+
+#### 📝 提示詞
+
+```
+終極戰爭機器：一台充滿未來感的機器掃描了她的身體，隨即釋放出數百個機械組件並相互鎖定結合，最終化身為一尊巨大的紅黑配色女性戰爭機器。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="終極戰爭機器組裝影片提示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **發布時間:** Nov 27, 2026
+
+---
+### 賽博龐克外骨骼轉變影片提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於 Grok Imagine 的影片生成提示，描繪角色轉變為賽博龐克外骨骼的過程，周圍有機械裝置組裝。
+
+#### 📝 提示詞
+
+```
+賽博外骨骼：她雙手合十，啟動了機械裝置。機械關節、肩甲與金屬腿部迅速組裝，化為一套先進的外骨骼裝甲。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="賽博龐克外骨骼轉變影片提示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **發布時間:** Nov 27, 2026
+
+---
+### 女子凝視飛鳥停落掌心
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片生成提示詞，描述一位女子看著鳥兒在她面前飛翔並最終停落在她手上的場景，搭配奇幻風格的背景音樂。
+
+#### 📝 提示詞
+
+```
+讓女子凝視著在眼前飛翔的鳥兒，最後鳥兒停落在她的手上，並搭配充滿奇幻感的背景音樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="女子凝視飛鳥停落掌心">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**作者:** [Eugenio Aguilar](https://x.com/EugyYesus) | **來源:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **發布時間:** Nov 25, 2026
+
+---
+### 女子撫貓與豎琴音樂
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片生成提示，呈現一位女子撫摸貓咪的畫面，兩者深情對視，背景伴隨著豎琴音樂。
+
+#### 📝 提示詞
+
+```
+讓女子輕撫貓咪，雙方互相注視著彼此，並以豎琴聲作為背景音樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="女子撫貓與豎琴音樂">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**作者:** [Eugenio Aguilar](https://x.com/EugyYesus) | **來源:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **發布時間:** Nov 25, 2026
+
+---
 ### CIA 間諜電影介面影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2295,106 +2371,6 @@ SpaceX – Beyond Earth
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **發布時間:** Nov 6, 2026
 
 ---
-### 卡車變身巨型機器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 利用參考影像生成連續鏡頭的複雜影片提示詞，呈現重型卡車奔馳並變身為 Optimus 風格戰士的過程。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段連續影片：一輛充滿未來感的重型卡車在山區公路上疾馳，隨後變身為 towering 的 Optimus 風格巨型戰士。核心主體為紅藍配色的卡車，主要事件則是它的高速行駛，以及接著精細寫實的機械變形過程，最終化為雙足機器人形態。
-
-[參考素材用途]
-@image1 用於呈現卡車的整體外觀：紅色車頭搭配藍色火焰紋飾、帶有紅色塗鴉的藍色貨櫃、鍍鉻排氣管、大燈、輪胎，以及在壯闊雲層下沐浴於黃金時刻光線中的山區公路場景；請勿憑空添加額外的人物或車輛。
-@image2 用於定義最終巨型戰士的設計：紅藍裝甲板、鍍鉻機械細節、散發藍光的雙眼、胸部擋風玻璃、輪胎造型的雙腳，以及整體受 Optimus 啟發的剪影；@image2 中的山區夕陽景觀可用來強化光影與環境的一致性。
-
-[主體與關聯性]
-@image1 中的唯一一輛卡車是畫面中唯一的車輛，且與 @image2 中唯一的巨型戰士為完全相同的個體。不會出現其他卡車、機器人或角色。道路、草坡、遠方的雪山及壯闊的雲層天空在整段影片中須保持一致。
-
-[事件腳本]
-開場：這輛搭載藍色貨櫃的紅色車頭卡車沿著柏油公路朝鏡頭疾駛而來，大燈亮起、引擎轟鳴、輪胎飛轉，狂風呼嘯而過，背景是厚重雲層下的金色夕陽。
-主要事件：卡車維持高速行駛片刻後，開始進行精準且寫實的變形。每一個輪胎、鈑件、引擎本體、排氣管、拖車貨櫃與機械關節皆以細膩且具重量感的方式展開、旋轉並重新組裝。車頭抬升成為軀幹與頭部，拖車各部分構成四肢與裝甲板，輪胎化為雙腳，鍍鉻零件一一鎖定到位，直到 towering 的 Optimus 風格戰士在同一条道路上完全直立起身。
-結尾：巨型戰士穩固地佇立在公路上直面觀眾，雙眼泛著藍光，紅藍裝甲完整無缺，四周依然環繞著山景與夕陽光輝；原本的卡車已不再以車輛形態存在。
-
-[維持一致性]
-從卡車到機器人的過程中，必須保持完全一致的紅藍配色、火焰／塗鴉紋飾、鍍鉻細節與機械美學。確保單一主體的連貫性，讓觀眾能清楚辨識這位戰士就是由該卡車變形而來。維持山區公路環境、黃金時刻的光影、壯闊的雲層天空，以及符合現實比例的變形過程。所有機械動作都須精準、沉重且符合物理邏輯，不得出現突兀的跳接或零件消失的情況。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="卡車變身巨型機器人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **發布時間:** Nov 6, 2026
-
----
-### Optimus 機器人降落電影感影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for Grok Imagine featuring a massive Optimus robot descending into a futuristic city, with specific instructions on camera movement, lighting, and sound design.
-
-#### 📝 提示詞
-
-```
-巨大的 Optimus 機器人從雲端降臨未來城市，落在高聳的摩天大樓之間，強勁的衝擊波沿著街道向外擴散。鏡頭環繞他龐大的金屬身軀運鏡，湛藍的雙眼劃破黑暗。
-
-畫面呈現出高科技的電影級科幻氛圍，戲劇性的光影穿透夜色薄霧，映照在反光金屬表面上。
-
-鏡頭以動態環繞方式圍繞這尊巨型機器人拍攝，先以廣角捕捉降落與落地的震撼瞬間，再沿著機身推進，最終聚焦於發光的藍色雙眼。
-
-音效包含落地時深沉的轟然巨響、向外擴散的衝擊波低鳴、金屬共振聲，以及在戲劇張力之下隱約傳來的城市環境低頻嗡鳴。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus 機器人降落電影感影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **發布時間:** Nov 5, 2026
-
----
-### Grok Imagine Video 1.5 Lite 口型同步測試提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 在 Higgsfield 上使用 Grok Imagine Video 1.5 Lite 進行測試提示，生成一段女性在雨景中說話的短片，並確保口型與對白精準同步。
-
-#### 📝 提示詞
-
-```
-一名身穿黃色雨衣的女子站在雨中的公車站，轉頭對著鏡頭說：「抱歉我遲到了，47 號公車拋錨了。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite 口型同步測試提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**作者:** [Which AI Won](https://x.com/whichaiwon) | **來源:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **發布時間:** Nov 5, 2026
-
----
-### 墮落天使電影感影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成墮落天使在古城坑洞中的電影感影片提示。場景包含裊裊升起的煙霧、傾瀉而下的雨絲、逐漸收束的光束以及燃燒的羽毛。
-
-#### 📝 提示詞
-
-```
-擁有白色羽翼、翼尖焦黑燒毀的女性天使，跪在古城中央冒著煙的坑洞裡，仰望天空中一道光束逐漸收攏，細雨紛飛，高機位視角，電影感奇幻風格，直式 4:5
-
-天使緩緩抬起臉龐，雨水落下，坑洞升起裊裊煙霧，光束收攏，燒焦的羽毛隨風飄散，鏡頭緩慢下降直到對準她
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="墮落天使電影感影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**作者:** [rxufnx](https://x.com/rxufnx) | **來源:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **發布時間:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2456,6 +2432,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-27T00:40:20.539Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-27T13:58:52.950Z</sub>
 
 </div>

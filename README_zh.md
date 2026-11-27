@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3451** |
+| 📝 提示词总数 | **3455** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-27** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 终极战争机组装视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，展示一台未来主义机器扫描人体，并将数百个机器人组件组装成一台巨大的红黑配色女性战争机器。
+
+#### 📝 提示词
+
+```
+终极战争机器：一台充满未来感的机器扫描了她的身体，随即释放出数百个机械部件。这些部件彼此咬合拼接，最终化身为一台巨大的红黑配色女性战争机器。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="终极战争机组装视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **发布时间:** Nov 27, 2026
+
+---
+### 赛博义体外骨骼变身视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描绘角色变身为赛博义体外骨骼，周围有机械装置自动组装的场景。
+
+#### 📝 提示词
+
+```
+机械外骨骼：她双手合十，启动机器人装置。机械关节、肩甲与金属腿部组件迅速组装，构成一套先进的外骨骼装甲。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="赛博义体外骨骼变身视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **发布时间:** Nov 27, 2026
+
+---
+### 女子观看鸟儿飞翔并落于掌心
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频生成提示词，描述了一位女士注视着一只鸟在她面前飞翔并最终落在她手上的场景，背景配有奇幻风格的音乐。
+
+#### 📝 提示词
+
+```
+让这位女士注视眼前飞翔的鸟儿，最终小鸟停落在她的手心，并配上充满奇幻感的背景音乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="女子观看鸟儿飞翔并落于掌心">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**作者:** [Eugenio Aguilar](https://x.com/EugyYesus) | **来源:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **发布时间:** Nov 25, 2026
+
+---
+### 女子抚摸猫咪与竖琴音乐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，展示了一位女子在抚摸猫咪的同时与它对视，背景播放着竖琴音乐。
+
+#### 📝 提示词
+
+```
+让女士一边抚摸猫咪，一边与它互相打量，背景音乐配上竖琴声。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="女子抚摸猫咪与竖琴音乐">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**作者:** [Eugenio Aguilar](https://x.com/EugyYesus) | **来源:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **发布时间:** Nov 25, 2026
+
+---
 ### CIA 间谍电影界面视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2294,106 +2370,6 @@ SpaceX – Beyond Earth
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **发布时间:** Nov 6, 2026
 
 ---
-### 卡车变身巨型机器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的视频生成提示词，利用参考图像创建一个重型卡车疾驰并变身为擎天柱风格战士的连续镜头。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段连贯的视频：一辆充满未来感的重型卡车在山间公路上疾驰，随后变形为一尊高耸的 Optimus 风格巨型战士。核心主体是这辆红蓝配色的卡车，主要事件是它的高速行驶，以及随后精细的机械变形过程——最终化为双足机器人形态。
-
-[参考素材作用]
-@image1 用于确定卡车的整体外观：红色车头搭配蓝色火焰状涂装、带有红色涂鸦的蓝色货柜、镀铬排气管、前大灯、车轮，以及在极具张力的云层下沐浴着黄金时刻光线的山间公路场景；请勿凭空添加额外的人物或车辆。
-@image2 用于确定最终巨型战士的设计：红蓝相间的装甲板、镀铬机械细节、发光的蓝色双眼、胸部车窗、形似车轮的双脚，以及整体致敬 Optimus 的轮廓剪影；@image2 中的山间日落景观可用于强化光影与环境的连贯性。
-
-[主体与关系]
-@image1 中的那辆卡车是画面中唯一的车辆，它与 @image2 中唯一的巨型战士是完全相同的实体（由前者变形而来）。不得出现其他卡车、机器人或角色。公路、长满青草的山丘、远处的雪山以及极具张力的云层天空在整个过程中须保持一致。
-
-[事件脚本]
-开场：在金色夕阳与厚重云层的映衬下，这辆红色车头、蓝色货柜的卡车沿着柏油公路朝镜头疾驰而来，车灯亮起，引擎轰鸣，车轮飞转，风声呼啸而过。
-主要事件：卡车继续高速行驶片刻，随即开始精准且写实的变形。每一个车轮、面板、发动机缸体、排气管、货柜箱体和机械关节都在展开、旋转并重新组合，动作精密且充满厚重的力量感。车头升起化作躯干与头部，货柜各部分构成四肢与装甲板，车轮变为双脚，镀铬部件逐一锁定到位，直到这尊高耸的 Optimus 风格战士在同一条公路上完全直立起身。
-结尾：巨型战士稳稳矗立在公路上，面朝观众，蓝色双眼闪烁光芒，红蓝装甲完整呈现，四周依然是山间景观与落日余晖；原本的卡车已彻底完成变形，不再以车辆形态存在。
-
-[保持一致性]
-从卡车到机器人的整个过程中，必须严格保持红蓝配色方案、火焰/涂鸦图案、镀铬细节与机械美学的一致性。确保单一实体的身份特征贯穿始终，让观众一眼认出战士就是由该卡车变形而来。维持山间公路环境、黄金时刻的光影、极具张力的云层天空以及符合物理常识的变形比例。所有机械运动都必须精准、厚重且符合物理规律，不得出现突兀的跳变或零件缺失。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="卡车变身巨型机器人">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **发布时间:** Nov 6, 2026
-
----
-### Optimus 机器人降临电影感视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频生成提示词，描述了一个巨大的类 Optimus 机器人从云层中降落到未来城市，包含电影级运镜和音效设计。
-
-#### 📝 提示词
-
-```
-一台巨型 Optimus 机器人从云层中降落至未来都市，稳稳落在高耸的摩天大楼之间，强大的冲击波沿着街道向四周层层扩散。镜头环绕着他庞大的金属身躯缓缓移动，幽蓝的双眸瞬间点亮了整片黑暗。
-
-画面呈现出极具科技感与电影质感的科幻氛围，戏剧性的光影划破夜幕下的薄雾，在金属表面折射出冷冽的反光。
-
-镜头采用动态环绕运镜拍摄这台巨型机器人：起幅为全景，完整捕捉其从天而降与落地时的震撼冲击；随后沿机身一路推近，最终定格在那双泛着蓝光的眼睛上。
-
-音效方面，落地时传来沉闷的轰然巨响，冲击波的低频轰鸣不断向外蔓延，伴随着金属共振声，而在这些充满张力的声响之下，还铺垫着城市低沉的环境底噪。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus 机器人降临电影感视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **发布时间:** Nov 5, 2026
-
----
-### Grok Imagine Video 1.5 Lite 口型同步测试提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 在 Higgsfield 上用于 Grok Imagine Video 1.5 Lite 的测试提示词，旨在生成一段雨中女性说话并实现精准口型同步的短视频片段。
-
-#### 📝 提示词
-
-```
-一位身穿黄色雨衣的女子站在雨中的公交站，她转向镜头说道：“抱歉我迟到了，47 路公交车抛锚了。”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite 口型同步测试提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**作者:** [Which AI Won](https://x.com/whichaiwon) | **来源:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **发布时间:** Nov 5, 2026
-
----
-### 堕落天使电影感视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成古老城市陨石坑中堕落天使的电影感视频提示词。场景包含升腾的烟雾、飘落的雨滴、逐渐闭合的光束以及燃烧的羽毛。
-
-#### 📝 提示词
-
-```
-白色羽翼尖端焦黑燃烧的女天使，跪在古城中央冒着浓烟的巨坑中，仰望天空中正在合拢的光束，细雨纷飞，高机位俯拍，电影感奇幻风格，竖版 4:5
-
-天使缓缓抬起脸庞，雨丝飘落，弹坑中烟雾升腾，光束逐渐收拢，烧焦的羽毛随风飞舞，镜头缓缓下降直至推近她
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="堕落天使电影感视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**作者:** [rxufnx](https://x.com/rxufnx) | **来源:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **发布时间:** Nov 5, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2455,6 +2431,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-27T00:40:19.457Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-27T13:58:52.308Z</sub>
 
 </div>

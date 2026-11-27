@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3451** |
+| 📝 Total Prompts | **3455** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-27** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Lời Nhắc Video Lắp Ráp Cỗ Máy Chiến Tranh Tối Thượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine, mô tả một cỗ máy tương lai đang quét cơ thể và lắp ráp hàng trăm bộ phận robot thành một nữ chiến binh máy khổng lồ màu đỏ-đen.
+
+#### 📝 Prompt
+
+```
+Cỗ Máy Chiến Tranh Tối Thượng: Một cỗ máy tương lai quét qua cơ thể cô, sau đó phóng ra hàng trăm bộ phận robot tự động khớp nối với nhau, tạo thành một cỗ máy chiến tranh nữ khổng lồ mang hai sắc đỏ và đen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="Lời Nhắc Video Lắp Ráp Cỗ Máy Chiến Tranh Tối Thượng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **Published:** Nov 27, 2026
+
+---
+### Lời Nhắc Video Biến Hình Thành Bộ Xương Ngoài Điều Khiển Học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine mô tả một nhân vật biến đổi thành bộ xương ngoài điều khiển học với các máy móc robot lắp ráp xung quanh.
+
+#### 📝 Prompt
+
+```
+Bộ giáp ngoại xương điều khiển học: Hai bàn tay cô chạm vào nhau, kích hoạt hệ thống máy móc robot. Các khớp cơ khí, tấm giáp vai và đôi chân kim loại tự động lắp ráp thành một bộ giáp ngoại xương tối tân.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="Lời Nhắc Video Biến Hình Thành Bộ Xương Ngoài Điều Khiển Học">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **Published:** Nov 27, 2026
+
+---
+### Người Phụ Nữ Xem Chim Bay Và Đậu Lên Tay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video mô tả một người phụ nữ đang xem một chú chim bay trước mặt và cuối cùng đậu lên tay cô, với nhạc nền kỳ ảo.
+
+#### 📝 Prompt
+
+```
+Hãy để người phụ nữ ngắm nhìn chú chim đang bay trước mặt, rồi chú chim ấy hạ cánh xuống tay cô trên nền nhạc fantasy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="Người Phụ Nữ Xem Chim Bay Và Đậu Lên Tay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **Published:** Nov 25, 2026
+
+---
+### Phụ nữ vuốt ve mèo với nhạc hạc cầm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video hiển thị một phụ nữ đang vuốt ve con mèo trong khi cả hai nhìn nhau, với tiếng nhạc hạc cầm vang lên ở phía sau.
+
+#### 📝 Prompt
+
+```
+Hãy để người phụ nữ vuốt ve chú mèo trong khi cả hai cùng quan sát nhau, với tiếng đàn hạc làm nhạc nền.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="Phụ nữ vuốt ve mèo với nhạc hạc cầm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **Published:** Nov 25, 2026
+
+---
 ### Giao diện video phim điệp viên CIA
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2294,106 +2370,6 @@ Máy quay sử dụng góc máy tracking thấp, từ từ bám theo cô từ ph
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
 
 ---
-### Xe Tải Biến Hình Thành Robot Khổng Lồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video phức tạp sử dụng hình ảnh tham chiếu để tạo ra cảnh quay liên tục của một chiếc xe tải hạng nặng đang chạy và biến hình thành chiến binh phong cách Optimus.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo sinh]
-Tạo một video liền mạch về chiếc xe tải hạng nặng mang phong cách tương lai đang lao nhanh trên đường cao tốc vùng núi, sau đó biến hình thành một chiến binh khổng lồ sừng sững theo kiểu Optimus. Chủ thể trung tâm là chiếc xe tải hai tông màu đỏ - xanh, và sự kiện chính là cảnh xe phóng với tốc độ cao rồi chuyển hóa chi tiết bằng cơ khí thành hình dáng robot hai chân.
-
-[Vai trò của tài liệu tham khảo]
-@image1 được dùng để định hình diện mạo tổng thể của xe tải: cabin màu đỏ với các họa tiết ngọn lửa màu xanh, thùng container màu xanh có hình graffiti đỏ, ống xả mạ chrome, đèn pha, bánh xe, cùng khung cảnh con đường miền núi trong ánh sáng giờ vàng dưới bầu trời mây cuộn đầy kịch tính; không tự ý thêm người hay phương tiện khác.
-@image2 được dùng làm thiết kế cho chiến binh khổng lồ ở đoạn kết: lớp giáp đỏ - xanh, chi tiết cơ khí mạ chrome, đôi mắt phát sáng màu xanh, cửa kính ngực, bàn chân dạng bánh xe và tổng thể vóc dáng lấy cảm hứng từ Optimus; bối cảnh hoàng hôn miền núi trong @image2 có thể dùng để củng cố sự liền mạch về ánh sáng và môi trường.
-
-[Chủ thể và mối quan hệ]
-Chiếc xe tải duy nhất trong @image1 là phương tiện duy nhất xuất hiện, đồng thời chính là thực thể sẽ biến hình thành chiến binh khổng lồ duy nhất trong @image2. Không có thêm bất kỳ xe tải, robot hay nhân vật nào khác. Con đường, những ngọn đồi cỏ, dãy núi tuyết phía xa và bầu trời mây cuộn vẫn giữ nguyên sự nhất quán xuyên suốt.
-
-[Kịch bản sự kiện]
-Mở đầu: chiếc xe tải cabin đỏ kéo thùng container xanh lao thẳng về phía camera trên mặt đường nhựa, đèn pha bật sáng, động cơ gầm rú, bánh xe quay tít, gió rít qua thân xe dưới ánh hoàng hôn rực rỡ và tầng mây dày đặc.
-Sự kiện chính: xe tiếp tục lao đi với tốc độ cao trong chốc lát, rồi bắt đầu quá trình biến hình chuẩn xác và chân thực. Từng bánh xe, tấm ốp, khối động cơ, ống xả, thùng container và các khớp cơ khí lần lượt bung ra, xoay chuyển và tái cấu trúc bằng những chuyển động phức tạp, đầy sức nặng. Cabin nhô lên trở thành phần thân và đầu, các khoang thùng tạo nên tay chân cùng lớp giáp, bánh xe hóa thành bàn chân, và những chi tiết mạ chrome khớp chặt vào vị trí cho đến khi chiến binh khổng lồ kiểu Optimus đứng thẳng hoàn toàn ngay trên chính con đường đó.
-Kết thúc: chiến binh khổng lồ đứng vững chãi, sừng sững trên đường cao tốc hướng về phía người xem, đôi mắt xanh phát sáng, bộ giáp đỏ - xanh hoàn chỉnh, xung quanh vẫn là khung cảnh núi non và ánh hoàng hôn; hình dáng chiếc xe tải ban đầu đã hoàn toàn biến mất.
-
-[Duy trì tính nhất quán]
-Giữ nguyên vẹn bảng màu đỏ - xanh, các họa tiết ngọn lửa/graffiti, chi tiết mạ chrome và thẩm mỹ cơ khí xuyên suốt từ lúc còn là xe tải đến khi thành robot. Bảo toàn tính đồng nhất của thực thể duy nhất để người xem nhận ra ngay chiến binh chính là chiếc xe tải vừa biến hình. Duy trì bối cảnh đường cao tốc miền núi, ánh sáng giờ vàng, bầu trời mây cuộn đầy kịch tính và tỷ lệ biến hình chân thực. Mọi chuyển động cơ khí phải luôn chuẩn xác, nặng nề, tuân thủ vật lý, không bị giật cục hay thiếu hụt chi tiết.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Xe Tải Biến Hình Thành Robot Khổng Lồ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
-
----
-### Video Điện Ảnh Cảnh Robot Optimus Hạ Cánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video chi tiết mô tả một robot khổng lồ giống Optimus hạ cánh từ đám mây xuống thành phố tương lai, với các chuyển động camera điện ảnh và thiết kế âm thanh sống động.
-
-#### 📝 Prompt
-
-```
-Một robot Optimus khổng lồ từ trên mây giáng xuống một thành phố tương lai, đáp thẳng giữa những tòa nhà chọc trời sừng sững trong khi các luồng sóng xung kích mạnh mẽ lan tỏa khắp mặt đường. Ống kính lia vòng quanh thân hình kim loại đồ sộ của nó, đúng lúc đôi mắt xanh bừng sáng xé toạc màn đêm.
-
-Phần hình ảnh mang đậm chất điện ảnh khoa học viễn tưởng với công nghệ cao: ánh sáng đầy kịch tính xuyên qua lớp sương mù ban đêm và phản chiếu lấp lánh trên những bề mặt kim loại.
-
-Ống kính di chuyển theo quỹ đạo vòng cung đầy năng động quanh con robot khổng lồ, bắt đầu bằng góc rộng để ghi lại trọn vẹn cú giáng xuống cùng lực va chạm khi tiếp đất, sau đó lướt dần sát dọc theo cơ thể hướng về phía đôi mắt xanh phát sáng.
-
-Âm thanh bao gồm những tiếng va đập trầm đục khi hạ cánh, tiếng ầm ì của sóng xung kích lan rộng, âm vang kim loại, cùng tiếng ồn nền trầm thấp của thành phố ẩn dưới bầu không khí đầy kịch tính.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Video Điện Ảnh Cảnh Robot Optimus Hạ Cánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **Published:** Nov 5, 2026
-
----
-### Prompt thử nghiệm đồng bộ môi cho Grok Imagine Video 1.5 Lite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt thử nghiệm dành cho Grok Imagine Video 1.5 Lite trên Higgsfield, dùng để tạo một đoạn video ngắn về một phụ nữ đang nói lời thoại cụ thể với khả năng đồng bộ môi chính xác trong bối cảnh trời mưa.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ mặc áo mưa màu vàng tại trạm xe buýt giữa trời mưa quay sang phía camera và nói: 'Xin lỗi vì tôi đến trễ, chuyến xe buýt số 47 bị hỏng.'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Prompt thử nghiệm đồng bộ môi cho Grok Imagine Video 1.5 Lite">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**Author:** [Which AI Won](https://x.com/whichaiwon) | **Source:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **Published:** Nov 5, 2026
-
----
-### Prompt Video Điện Ảnh Thiên Thần Sa Ngã
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video điện ảnh về thiên thần sa ngã trong miệng hố cổ thành bằng Grok Imagine. Cảnh quay có khói bốc lên, mưa rơi, tia sáng khép lại và lông vũ đang cháy.
-
-#### 📝 Prompt
-
-```
-nữ thiên thần với đôi cánh trắng cháy sém và ngả màu tối ở phần đầu cánh, đang quỳ gối trong một hố sâu bốc khói giữa lòng thành phố cổ kính, ngước nhìn lên nơi một luồng ánh sáng khép lại trên bầu trời, mưa phùn, góc máy từ trên cao, fantasy điện ảnh, khung dọc 4:5
-
-thiên thần từ từ ngẩng mặt lên, mưa rơi, khói bốc lên từ hố sâu, luồng ánh sáng khép lại, những chiếc lông vũ cháy xém bay theo gió, camera chậm rãi hạ xuống cho đến khi tiến sát đến cô
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Prompt Video Điện Ảnh Thiên Thần Sa Ngã">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2455,6 +2431,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T00:40:24.491Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T13:58:55.504Z</sub>
 
 </div>

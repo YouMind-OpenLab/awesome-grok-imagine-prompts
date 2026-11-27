@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3451** |
+| 📝 プロンプト総数 | **3455** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-27** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 究極の戦争マシーン組立動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの動画生成プロンプト。未来的なマシンが人体をスキャンし、数百のロボット部品を組み立てて、巨大な赤と黒の女性型戦闘マシンへと変貌させる様子を描写します。
+
+#### 📝 プロンプト
+
+```
+Ultimate War Machine：未来的なマシンが彼女の身体をスキャンすると、無数のロボットパーツが一斉に射出され、互いに結合して巨大な赤と黒の女性型ウォーマシンへと姿を変えます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="究極の戦争マシーン組立動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **公開日:** Nov 27, 2026
+
+---
+### サイバーネット外骨格変身ビデオプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の動画生成プロンプト。キャラクターがサイバーネット外骨格に変身し、ロボティックな機械が周囲に組み上がっていく様子を描写します。
+
+#### 📝 プロンプト
+
+```
+サイバネティック・エグゾスケルトン：彼女が両手を合わせると、ロボット機構が起動する。機械式の関節、ショルダープレート、そして金属製の脚部が組み上がり、高度なエグゾスケルトンが完成する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="サイバーネット外骨格変身ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **公開日:** Nov 27, 2026
+
+---
+### 鳥が飛んで手に止まる様子を見つめる女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性が目の前を飛ぶ鳥を見つめ、最終的にその鳥が彼女の手に止まるシーンを描く動画生成プロンプト。ファンタジー調の BGM が添えられています。
+
+#### 📝 プロンプト
+
+```
+女性が目の前を飛ぶ鳥を見つめ、やがてその鳥が手に舞い降りるシーンを、幻想的な BGM とともに描きましょう。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="鳥が飛んで手に止まる様子を見つめる女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**作者:** [Eugenio Aguilar](https://x.com/EugyYesus) | **ソース:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **公開日:** Nov 25, 2026
+
+---
+### 女性が猫を撫でる動画生成プロンプト（ハープ音楽付き）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性が猫を撫でながら互いを見つめ合い、背景にハープの音楽が流れる動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ハープの音色を BGM に流しながら、女性と猫が互いを見つめ合う中、女性が猫を撫でるようにしましょう。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="女性が猫を撫でる動画生成プロンプト（ハープ音楽付き）">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**作者:** [Eugenio Aguilar](https://x.com/EugyYesus) | **ソース:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **公開日:** Nov 25, 2026
+
+---
 ### CIA スパイ映画風インターフェース ビデオ プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2308,106 +2384,6 @@ Optimus Prime のアイデンティティ、金属製のアーマー姿、途切
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **公開日:** Nov 6, 2026
 
 ---
-### トラックが巨大ロボットに変形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 参考画像を用いた複雑な動画生成プロンプトで、大型トラックが疾走しながらオプティマス風の戦士に変身する連続ショットを作成します。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-山岳ハイウェイを疾走する近未来的な大型トラックが、そびえ立つ Optimus スタイルの巨大戦士へと変形していく一連のシームレスな動画を生成します。中核となる被写体は赤と青のトラックであり、主要な出来事はその高速走行と、それに続く二足歩行ロボット形態への精密なメカニカル変形です。
-
-[参照アセットの役割]
-@image1 は、トラック全体の外観（青い炎のようなマーキングが入った赤いキャブ、赤いグラフィティが描かれた青いコンテナ、クローム製のエキゾーストスタック、ヘッドライト、ホイール）、および劇的な雲に覆われた空の下にあるゴールデンアワーの山道シーンのために使用します。余分な人物や車両を追加で生成しないでください。
-@image2 は、最終的な巨大戦士のデザイン（赤と青の装甲プレート、クロームのメカディテール、青く発光する目、胸部のウィンドウ、車輪状の足、全体的に Optimus を彷彿とさせるシルエット）のために使用します。@image2 にある山の夕暮れの風景は、ライティングと環境の一貫性を補強するために活用できます。
-
-[被写体と関係性]
-@image1 の 1 台のトラックのみが登場する唯一の車両であり、それが @image2 の 1 体の巨大戦士へと変形する全く同一の存在です。追加のトラック、ロボット、キャラクターは一切登場させません。道路、草生い茂る丘、遠くの雪を戴いた山々、そして劇的な雲の空は、全体を通して一貫して維持してください。
-
-[イベントスクリプト]
-開始時：青いコンテナを牽引した赤いキャブのトラックが、ヘッドライトを点灯させ、エンジンを轟かせ、ホイールを激しく回転させながら、アスファルトのハイウェイをカメラに向かって疾走します。風を切り裂き、重い雲が立ち込める黄金色の夕日の光の中を駆け抜けます。
-主要イベント：トラックは短時間そのまま高速で走り続けた後、正確かつリアルな変形を開始します。すべてのホイール、パネル、エンジンブロック、エキゾーストスタック、トレーラーコンテナ、機械式ジョイントが展開・回転し、重厚で緻密な動きで再構成されていきます。キャブがせり上がって胴体と頭部になり、トレーラー部分が四肢と装甲プレートを形成し、ホイールが足へと変わり、クロームパーツが所定の位置にロックされます。そして、そびえ立つ Optimus スタイルの戦士が、同じ道路上で完全に直立した姿となります。
-終了時：巨大戦士はハイウェイ上で安定して堂々と立ち、視聴者の方を向いています。青い目が輝き、赤と青の装甲は完成しており、周囲には山の風景と夕日の光がそのまま残っています。元のトラックの姿は、もはや車両としては存在しません。
-
-[一貫性の維持]
-赤と青のカラースキーム、炎／グラフィティのマーキング、クロームのディテール、メカニカルな美意識を、トラックからロボットへ移行する間、正確に連続させてください。単一の存在としてのアイデンティティを保ち、戦士が間違いなくあのトラックの変形後の姿であると分かるようにします。山岳ハイウェイの環境、ゴールデンアワーのライティング、劇的な雲の空、そして変形の現実的なスケール感を維持してください。すべてのメカニカルな動作は、唐突な飛躍やパーツの欠落がなく、精密で重厚、かつ物理的に説得力のあるものにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="トラックが巨大ロボットに変形">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **公開日:** Nov 6, 2026
-
----
-### Optimus ロボット降下 シネマティック動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雲の中から未来的な都市へ巨大な Optimus のようなロボットが降下する様子を、シネマティックなカメラワークとサウンドデザインで描写した詳細な動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-巨大な Optimus ロボットが雲を突き破って未来都市へと降下し、そびえ立つ高層ビルの間に着地する。その瞬間、強烈な衝撃波が街路全体へと広がっていく。青い目が暗闇を照らし出す中、カメラは巨大な金属のボディをぐるぐると旋回する。
-
-映像はハイテクで映画的な SF 世界を描き出し、ドラマチックな光が夜の靄と反射する金属表面を切り裂いていく。
-
-カメラは巨大ロボットを中心にダイナミックに周回する。まずは広角で降下と着地の衝撃をとらえ、その後、輝く青い目に向かってボディに沿うように一気に接近していく。
-
-サウンドには、着地時の重く響く轟音、広がる衝撃波の地鳴り、金属の共鳴音が含まれ、ドラマチックな展開の下では街の低い環境音が静かに鳴っている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus ロボット降下 シネマティック動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **公開日:** Nov 5, 2026
-
----
-### Grok Imagine Video 1.5 Lite リップシンクテスト用プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Higgsfield 上の Grok Imagine Video 1.5 Lite で、雨のシーンを背景に女性が特定のセリフを話す短いクリップを生成するためのテスト用プロンプトです。正確なリップシンクを実現します。
-
-#### 📝 プロンプト
-
-```
-雨の降るバス停で、黄色いレインコートを着た女性がカメラに向かって振り返り、「遅れてごめんね、 47 番のバスが故障しちゃって」と言います。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite リップシンクテスト用プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**作者:** [Which AI Won](https://x.com/whichaiwon) | **ソース:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **公開日:** Nov 5, 2026
-
----
-### Fallen Angel シネマティック動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、古代都市のクレーターに墜落した天使を描くシネマティック動画のプロンプトです。立ち上る煙、降り注ぐ雨、閉ざされる光線、燃え盛る羽根などの要素が含まれています。
-
-#### 📝 プロンプト
-
-```
-白い翼の先端が焼け焦げて黒ずんだ女性の天使が、古代都市の中心にある煙を上げるクレーターの中でひざまずき、空で光の筋が収束していく方を見上げている、細かい雨、ハイアングル、シネマティックなファンタジー、縦型 4:5
-
-天使がゆっくりと顔を上げ、雨が降り注ぎ、クレーターから煙が立ち上り、光の筋が閉じていく、焼け焦げた羽が風に舞い、カメラが彼女に到達するまでゆっくりと下降していく
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Fallen Angel シネマティック動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**作者:** [rxufnx](https://x.com/rxufnx) | **ソース:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **公開日:** Nov 5, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2469,6 +2445,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-27T00:40:21.478Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-27T13:58:53.694Z</sub>
 
 </div>

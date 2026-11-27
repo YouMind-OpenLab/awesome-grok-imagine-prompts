@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3451** |
+| 📝 Total Prompts | **3455** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-27** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Nihai Savaş Makinesi Montajı Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, fütüristik bir makinenin bir bedeni tarayıp yüzlerce robotik bileşeni devasa kırmızı-siyah kadın savaş makinesine dönüştürmesini gösteren video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Nihai Savaş Makinesi: Fütüristik bir makine kadının vücudunu tarar, ardından birbirine kenetlenen yüzlerce robotik parçayı fırlatarak devasa, kırmızı-siyah bir kadın savaş makinesine dönüştürür.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="Nihai Savaş Makinesi Montajı Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14183)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126204157870621111) | **Published:** Nov 27, 2026
+
+---
+### Sibernetik İskelet Dönüşüm Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir karakterin sibernetik iskeletine dönüştüğünü ve etrafında robotik mekanizmaların toplandığını tasvir eden video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Sibernetik Dış İskelet: Elleri birbirine değdiğinde robotik mekanizmalar devreye girer. Mekanik eklemler, omuz plakaları ve metalik bacaklar bir araya gelerek gelişmiş bir dış iskeleti oluşturur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126136101823787008/img/b0XrQkHRHXPMe8oK.jpg" width="600" alt="Sibernetik İskelet Dönüşüm Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14182)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126136237249708132) | **Published:** Nov 27, 2026
+
+---
+### Kadın Uçan Kuşu İzliyor ve Kuş Eline Konuyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının önünde uçan bir kuşu izlediği ve sonunda kuşun eline konduğu anı betimleyen, fantastik arka plan müziği eşliğinde video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Kadın önünde uçan kuşu izlesin ve kuş sonunda eline konsun; arka planda da fantastik bir müzik çalsın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125716271069036544/img/aAMCfaIto4bCWtT7.jpg" width="600" alt="Kadın Uçan Kuşu İzliyor ve Kuş Eline Konuyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14184)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125716293999280338) | **Published:** Nov 25, 2026
+
+---
+### Çalgı Müziği Eşliğinde Kediyi Okşayan Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka planda çalgı müziği eşliğinde birbirlerine bakan bir kadının kedi okşadığı bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Arka plan müziği olarak arp sesi eşliğinde, kadın ve kedi birbirlerini izlerken kadının kediyi sevmesine izin verin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125699972276330496/img/OSIgwKr_VIDKA27A.jpg" width="600" alt="Çalgı Müziği Eşliğinde Kediyi Okşayan Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14185)**
+
+**Author:** [Eugenio Aguilar](https://x.com/EugyYesus) | **Source:** [Link](https://x.com/EugyYesus/status/2125700001011564996) | **Published:** Nov 25, 2026
+
+---
 ### CIA Casus Filmi Arayüzü Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2296,106 +2372,6 @@ Ses tasarımında metale çarpan şiddetli yağmurun sesi, adımlarının çıka
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
 
 ---
-### Kamyon Dev Bir Robota Dönüşüyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ağır hizmet tipi bir kamyonun yarışırken Optimus tarzı bir savaşçıya dönüştüğünü gösteren, referans görseller kullanan ve tek çekim olarak tasarlanmış karmaşık bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Dağ otoyolunda hızla ilerleyen fütüristik bir ağır hizmet kamyonunun, ardından da göğe uzanan Optimus tarzı dev bir savaşçıya dönüştüğü kesintisiz bir video oluşturun. Ana özne kırmızı-mavi kamyondur; temel olay ise yüksek hızdaki sürüşünün ardından detaylı bir mekanik dönüşümle iki ayaklı robot formuna geçmesidir.
-
-[Referans Varlık Rolleri]
-@image1, kamyonun genel görünümü (mavi alev desenli kırmızı kabin, kırmızı grafitili mavi dorse konteyneri, krom egzoz boruları, farlar, tekerlekler) ve dramatik bulutlu gökyüzü altındaki altın saat ışığıyla aydınlanan dağ yolu sahnesi için kullanılır; ekstra insan veya araç eklemeyin.
-@image2, son haldeki dev savaşçının tasarımı için kullanılır: kırmızı-mavi zırh plakaları, krom mekanik detaylar, mavi parlayan gözler, göğüsteki camlar, tekerlek biçimli ayaklar ve genel Optimus ilhamlı siluet; @image2 içindeki dağ gün batımı manzarası, ışık ve ortam sürekliliğini pekiştirmek amacıyla kullanılabilir.
-
-[Özneler ve İlişkiler]
-@image1 içindeki tek kamyon videodaki yegâne araçtır ve @image2 içindeki tek dev savaşçıya dönüşen varlığın ta kendisidir. Ek kamyon, robot veya karakter yer almaz. Yol, çimenli tepeler, uzaktaki karlı dağlar ve dramatik bulutlu gökyüzü baştan sona tutarlı kalır.
-
-[Olay Akışı]
-Başlangıçta: Mavi dorseli, kırmızı kabinli kamyon, farları yanık, motoru kükreyerek, tekerlekleri dönüp rüzgârı yararak asfalt otoyolda kameraya doğru hızla yaklaşır; sahne, yoğun bulutların eşlik ettiği altın gün batımı ışığı altındadır.
-Temel olay: Kamyon kısa bir an daha yüksek hızda ilerlemeye devam eder, ardından kusursuz ve gerçekçi bir dönüşüme başlar. Her bir tekerlek, panel, motor bloğu, egzoz borusu, dorse konteyneri ve mekanik bağlantı noktası; karmaşık ve ağır hareketlerle açılır, döner ve yeniden şekillenir. Kabin yükselerek gövdeyi ve başı oluşturur, dorse bölümleri uzuvlara ve zırh plakalarına dönüşür, tekerlekler ayak olur ve krom parçalar yerine oturarak kilitlenir; sonunda göğe uzanan Optimus tarzı savaşçı aynı yol üzerinde tamamen dik konuma gelir.
-Sonda: Dev savaşçı otoyol üzerinde izleyiciye dönük, dimdik ve sağlam bir şekilde durur; mavi gözleri parlamakta, kırmızı-mavi zırhı tamamlanmış hâldedir ve dağ manzarası ile gün batımı ışığı onu çevrelemeye devam eder; orijinal kamyon formu artık bir araç olarak mevcut değildir.
-
-[Tutarlılığı Koruyun]
-Kırmızı-mavi renk paleti, alev/grafiti desenleri, krom detaylar ve mekanik estetik, kamyon formundan robot formuna eksiksiz aktarılmalıdır. Tek varlık kimliği korunmalı ve savaşçının dönüşmüş kamyon olduğu açıkça anlaşılmalıdır. Dağ otoyolu ortamı, altın saat ışığı, dramatik bulutlu gökyüzü ve dönüşümün gerçekçi ölçeği sabit tutulmalıdır. Tüm mekanik hareketler hassas, ağır ve fiziksel olarak inandırıcı olmalı; ani atlamalar veya eksik parçalar bulunmamalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Kamyon Dev Bir Robota Dönüşüyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
-
----
-### Optimus Robot İnişi Sinematik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Devasa bir Optimus benzeri robotun bulutlardan futuristik bir şehre inişini sinematik kamera hareketleri ve ses tasarımıyla anlatan detaylı bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Devasa bir Optimus robotu bulutların arasından fütüristik bir şehre doğru süzülüyor; gökdelenlerin arasına iniş yaparken sokaklarda güçlü şok dalgaları yayılıyor. Kamera, onun devasa metalik gövdesinin etrafında dönerken mavi gözleri karanlığı aydınlatıyor.
-
-Görseller; gece sisini yaran dramatik ışıklandırma ve yansıtıcı metalik yüzeylerle yüksek teknolojili, sinematik bir bilim kurgu atmosferi sunuyor.
-
-Kamera, dev robotun etrafında dinamik bir yörünge çizerken önce inişi ve yere çarpma anını yakalamak için geniş açıyla başlıyor, ardından gövdesi boyunca ilerleyerek parlayan mavi gözlerine doğru yaklaşıyor.
-
-Ses tasarımında ise inişten gelen derin ve gürleyen çarpma sesleri, yayılan şok dalgasının uğultusu, metalik yankılar ve bu dramatik sahnenin arka planında duyulan hafif bir şehir uğultusu yer alıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus Robot İnişi Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **Published:** Nov 5, 2026
-
----
-### Grok Imagine Video 1.5 Lite Dudak Senkronizasyonu Test İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Higgsfield üzerinde Grok Imagine Video 1.5 Lite için, yağmurlu bir ortamda belirli diyalogları konuşan bir kadının kısa bir klipini oluşturmak amacıyla dudak senkronizasyonunun doğru olduğu bir test istemi.
-
-#### 📝 Prompt
-
-```
-Yağmurlu bir otobüs durağında sarı yağmurluklu bir kadın kameraya dönerek şöyle der: "Geciktiğim için özür dilerim, 47 numaralı otobüs bozuldu."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite Dudak Senkronizasyonu Test İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13603)**
-
-**Author:** [Which AI Won](https://x.com/whichaiwon) | **Source:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **Published:** Nov 5, 2026
-
----
-### Düşmüş Melek Sinematik Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak antik bir şehir kraterinde düşmüş bir meleğin sinematik videosunu oluşturmak için bir istem. Sahne, yükselen duman, yağan yağmur, kapanan ışık huzmeleri ve yanan tüyleri içerir.
-
-#### 📝 Prompt
-
-```
-uçları yanmış ve kararmış beyaz kanatlı kadın melek, antik bir kentin ortasında dumanı tüten bir kraterin içinde diz çökmüş, gökyüzünü kapatan ışık huzmesine doğru bakıyor, ince yağmur, yüksek kamera açısı, sinematik fantezi, dikey 4:5
-
-melek yüzünü yavaşça kaldırıyor, yağmur yağıyor, kraterden duman yükseliyor, ışık huzmesi kapanıyor, yanmış tüyler rüzgârda uçuşuyor, kamera ona ulaşana kadar yavaşça aşağı iniyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Düşmüş Melek Sinematik Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13607)**
-
-**Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2457,6 +2433,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T00:40:32.884Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T13:59:01.615Z</sub>
 
 </div>
