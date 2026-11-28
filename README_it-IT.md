@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3455** |
+| 📝 Total Prompts | **3459** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Video dell'Armatura della Dea Dorata
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per la generazione di un video che mostra una Dea Dorata mentre assembla un'armatura futuristica con ali luminose, creato con Grok Imagine 4.7.
+
+#### 📝 Prompt
+
+```
+Dea Dorata: un cerchio di energia dorata appare dietro di lei. Migliaia di componenti meccanici dorati si assemblano a formare una lussuosa armatura futuristica con ali dorate luminose.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="Video dell'Armatura della Dea Dorata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **Published:** Nov 28, 2026
+
+---
+### Prompt Armatura Elettrica Dea per Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt di generazione video per Grok Imagine: fulmini che creano un'armatura dorata metallica e guanti energetici.
+
+#### 📝 Prompt
+
+```
+Dea Elettrica: i fulmini colpiscono il suolo intorno a lei. L'elettricità le attraversa il corpo, plasmando un'armatura dorata in metallo e potenti guanti energetici.
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Prompt Armatura Elettrica Dea per Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **Published:** Nov 27, 2026
+
+---
+### Prompt di Trasformazione in Guardiano della Galassia per Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di generazione video per Grok Imagine che descrive un personaggio che si trasforma in un'armatura cosmica con stelle e particelle energetiche.
+
+#### 📝 Prompt
+
+```
+Galaxy Guardian: stelle e galassie le danzano intorno. Le particelle di energia cosmica si trasformano in una splendida armatura metallica blu e viola, impreziosita da un reattore celeste luminoso.
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Prompt di Trasformazione in Guardiano della Galassia per Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **Published:** Nov 27, 2026
+
+---
 ### Prompt Video per l'Assemblaggio della Macchina da Guerra Definitiva
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2293,80 +2350,6 @@ la telecamera zooma lentamente sul finestrino dell'auto in movimento, mostrando 
 **Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
-### Montaggio SpaceX Oltre la Terra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt in stile documentario per un montaggio SpaceX che presenta avamposti orbitali, navi spaziali a lunga distanza e una narrazione ispiratrice sulla vita tra le stelle.
-
-#### 📝 Prompt
-
-```
-SpaceX – Oltre la Terra
-Un montaggio visionario delle tecnologie SpaceX e degli esploratori umani al lavoro oltre la Terra, dagli avamposti orbitali alle astronavi per lo spazio profondo, fino ai primi insediamenti permanenti tra le stelle.
-Le immagini adottano uno stile documentaristico cinematografico e ad alta tecnologia: hardware metallico dalle linee affusolate, l'Earthrise e distese di stelle, il linguaggio visivo pulito in bianco e nero tipico di SpaceX, una morbida luce volumetrica e un senso di silenziosa determinazione e meraviglia.
-La camera si muove con ampi movimenti orbitali di inseguimento, lente carrellate in avanti attraverso habitat e veicoli e delicate riprese aeree che esaltano le proporzioni e il senso di progresso.
-L'audio comprende una narrazione calma e ispirata che pronuncia le parole “L'umanità non si limita più ad allungare la mano verso le stelle. Stiamo costruendo la tecnologia per viverci in mezzo”, sovrapposta ai profondi ronzii ambientali dei motori, a brevi e soffiate accensioni dei propulsori e a una colonna sonora orchestrale sottile e coinvolgente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="Montaggio SpaceX Oltre la Terra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
-
----
-### Optimus: ascesa dall'oceano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico che descrive Optimus Prime mentre emerge da un oceano in tempesta, con l’acqua che scorre via dalla sua armatura e i fulmini che illuminano la scena.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera un video continuo di un'enorme sagoma metallica che emerge dalle profondità dell'oceano durante un violento temporale: l'acqua scroscia dall'armatura di Optimus Prime mentre si solleva completamente e svetta sopra le onde.
-
-[Sceneggiatura degli eventi]
-All'inizio: sono visibili solo la superficie scura dell'oceano e una forte tempesta, con pioggia e fulmini che squarciano un mare nero e in burrasca. Evento principale: un'enorme sagoma metallica rompe la superficie dell'acqua, emergendo con costanza; l'acqua precipita a fiotti da ogni giuntura e piastra dell'armatura di Optimus Prime. Continua a sollevarsi fino a far emergere prima tutto il busto e poi l'intera imponente figura, che si staglia nettamente sopra le onde. Alla fine: Optimus Prime è completamente emerso e si erge dritto sull'oceano in tempesta, con l'armatura ancora grondante d'acqua sotto un cielo squarciato dai fulmini.
-
-[Mantenere la coerenza]
-Mantieni stabili l'identità di Optimus Prime, la sua forma corazzata metallica e il singolo movimento continuo di emersione; preserva per tutta la durata l'ambientazione oceanica profonda, il violento temporale, l'acqua che scroscia e l'atmosfera cupa della tempesta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus: ascesa dall'oceano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
-
----
-### Scena Cyberpunk Femminile di Optimus sotto la Pioggia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt Grok Imagine per una scena cyberpunk cinematografica con un Optimus Prime femminile che cammina per strade bagnate dalla pioggia, con riflessi al neon.
-
-#### 📝 Prompt
-
-```
-Optimus femminile cammina lentamente attraverso una metropoli futuristica sferzata dalla pioggia. I riflessi al neon scivolano sulla sua armatura mentre centinaia di veicoli robotici si fermano a osservare la loro leader.
-
-Le immagini restituiscono un'estetica cyberpunk cinematografica e ad alto contrasto, con asfalto bagnato, insegne al neon luminose e scie di pioggia continue.
-
-La telecamera utilizza una carrellata dal basso che la segue lentamente da dietro, per poi ruotare e sollevarsi in un campo medio-lungo che rivela i veicoli robotici fermi allineati lungo le strade.
-
-Il sonoro comprende il rumore della pioggia battente sul metallo, il profondo ronzio meccanico dei suoi passi, il traffico in lontananza che sfuma nel silenzio e una colonna sonora ambientale profonda e risonante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Scena Cyberpunk Femminile di Optimus sotto la Pioggia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2428,6 +2411,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:15:11.242Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T07:45:26.827Z</sub>
 
 </div>

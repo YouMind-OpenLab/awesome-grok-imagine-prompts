@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3455** |
+| 📝 Total Prompts | **3459** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### गोल्डन गॉडेस आर्मर वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Golden Goddess के भविष्यवादी आर्मर और चमकते हुए पंखों को इकट्ठा करते हुए वीडियो जनरेशन प्रॉम्प्ट, Grok Imagine 4.7 से बनाया गया।
+
+#### 📝 Prompt
+
+```
+गोल्डन गॉडेस: उसके पीछे सुनहरी ऊर्जा का एक वृत्त प्रकट होता है। हज़ारों सुनहरे यांत्रिक टुकड़े जुड़कर चमकते हुए सुनहरे पंखों वाले शानदार फ्यूचरिस्टिक कवच का रूप ले लेते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="गोल्डन गॉडेस आर्मर वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **Published:** Nov 28, 2026
+
+---
+### Grok Imagine इलेक्ट्रिक गॉडेस आर्मर प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जिसमें बिजली गिरकर सुनहरी धातु की कवच और एनर्जी गॉन्टलेट्स का निर्माण करती है।
+
+#### 📝 Prompt
+
+```
+इलेक्ट्रिक गॉडेस: उसके चारों ओर ज़मीन पर बिजलियाँ गिर रही हैं। बिजली उसके शरीर पर दौड़ती है और सुनहरे धातुई कवच के साथ-साथ शक्तिशाली एनर्जी गॉन्टलेट्स का रूप ले लेती है।
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Grok Imagine इलेक्ट्रिक गॉडेस आर्मर प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **Published:** Nov 27, 2026
+
+---
+### Grok Imagine Galaxy Guardian ट्रांसफॉर्मेशन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो एक किरदार को तारों और ऊर्जा कणों के साथ कॉस्मिक आर्मर में बदलते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+Galaxy Guardian: उसके चारों ओर तारे और आकाशगंगाएँ नज़र आती हैं। ब्रह्मांडीय ऊर्जा के कण एक खूबसूरत नीले-बैंगनी मेटैलिक आर्मर में बदल जाते हैं, जिसमें एक चमकता हुआ सेलेस्टियल रिएक्टर लगा होता है।
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Grok Imagine Galaxy Guardian ट्रांसफॉर्मेशन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **Published:** Nov 27, 2026
+
+---
 ### अल्टीमेट वार मशीन असेंबली वीडियो प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2308,84 +2365,6 @@ Scene Structure (Total 15 seconds / 4 Scenes):
 **Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
-### SpaceX अंतरिक्ष से परे मोंटाज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX मोंटाज के लिए एक डॉक्यूमेंट्री-शैली का प्रॉम्प्ट जिसमें कक्षीय चौकियाँ, गहरे अंतरिक्ष के यान और तारों के बीच जीवन के बारे में प्रेरणादायक वर्णन शामिल हैं।
-
-#### 📝 Prompt
-
-```
-SpaceX – Beyond Earth
-
-पृथ्वी से परे काम करती SpaceX की तकनीकों और मानव अन्वेषकों का एक दूरदर्शी मोंटाज — कक्षीय चौकियों (orbital outposts) और डीप-स्पेस यानों से लेकर तारों के बीच हमारी पहली स्थायी पकड़ तक।
-
-दृश्य एक सिनेमाई, हाई-टेक डॉक्यूमेंट्री शैली पेश करते हैं: चिकना धात्विक हार्डवेयर, Earthrise और तारों से भरा आसमान, SpaceX की साफ-सुथरी सफेद और काली डिज़ाइन भाषा, कोमल वॉल्यूमेट्रिक लाइट, और एक शांत दृढ़ता व विस्मय का अहसास।
-
-कैमरा व्यापक ऑर्बिटल ट्रैकिंग शॉट्स के साथ चलता है, हैबिटैट्स और वाहनों के पार धीमे डॉली पुश होते हैं, और ऐसे कोमल एरियल नज़रिए उभरते हैं जो पैमाने और प्रगति को रेखांकित करते हैं।
-
-आवाज़ में एक शांत, प्रेरक वर्णन शामिल है जो ये पंक्तियाँ बोलता है — “Humanity isn't just reaching for the stars anymore. We're building the technology to live among them,” — जिसे गहरे एम्बिएंट इंजन की गूंज, थ्रस्टर्स की हल्की बौछारों और एक सूक्ष्म, उत्साहवर्धक ऑर्केस्ट्रल स्कोर के साथ पिरोया गया है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX अंतरिक्ष से परे मोंटाज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
-
----
-### समुद्र से उभरता ऑप्टिमस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक प्रॉम्प्ट जिसमें ऑप्टिमस प्राइम तूफानी समुद्र से उभरते हुए दिखाई दे रहे हैं, उनकी कवच पर पानी बह रहा है और बिजली की रोशनी पूरे दृश्य को जगमगा रही है।
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-एक भयंकर तूफ़ान के दौरान गहरे समुद्र से उभरते एक विशाल धातुई आकार का लगातार वीडियो जनरेट करें: Optimus Prime जब पूरी तरह बाहर निकलकर लहरों के ऊपर खड़ा होता है, तो उसके कवच से पानी झरने की तरह बहता है।
-
-[Event Script]
-शुरुआत में: केवल अंधेरा समुद्री सतह और भीषण तूफ़ान दिखाई देता है, जिसमें बारिश हो रही है और बिजली काले, उफनते समुद्र पर चमक रही है। मुख्य घटना: एक विशाल धातुई आकार सतह को चीरता हुआ बाहर आता है और लगातार ऊपर उठता जाता है; Optimus Prime के कवच के हर जोड़ और प्लेट से पानी मोटी धारों में बह रहा है। वह तब तक ऊपर उठता रहता है जब तक उसका पूरा ऊपरी शरीर और फिर उसका संपूर्ण ऊँचा रूप लहरों से पूरी तरह बाहर नहीं आ जाता। अंत में: Optimus Prime तूफ़ानी समुद्र के ऊपर पूरी तरह बाहर निकलकर सीधा खड़ा है, और बिजली से रोशन आसमान के नीचे उसके कवच से अभी भी पानी बह रहा है।
-
-[Maintain Consistency]
-Optimus Prime की पहचान, उसके धातुई कवच वाले रूप और एक ही लगातार ऊपर उठने वाली गति को स्थिर रखें; पूरे वीडियो में गहरे समुद्र का परिवेश, भयंकर तूफ़ान, बहता हुआ पानी और अंधेरे तूफ़ानी माहौल को बनाए रखें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="समुद्र से उभरता ऑप्टिमस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
-
----
-### महिला ऑप्टिमस साइबरपंक बारिश का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई साइबरपंक दृश्य के लिए Grok Imagine प्रॉम्प्ट जिसमें एक महिला ऑप्टिमस प्राइम नियोन प्रतिबिंबों वाले बारिश से भीगे सड़कों पर चलती हुई दिखाई दे रही हैं।
-
-#### 📝 Prompt
-
-```
-Female Optimus बारिश से भीगी एक भविष्यवादी महानगर में धीरे-धीरे चलती है। उनके आर्मर पर नियॉन लाइट्स की झलक चमक रही है, जबकि सैकड़ों रोबोटिक वाहन रुककर अपने लीडर को देख रहे हैं।
-
-यह विज़ुअल्स एक सिनेमाई, हाई-कंट्रास्ट साइबरपंक स्टाइल पेश करता है — जिसमें भीगी सड़कें, चमकते नियॉन साइन और लगातार गिरती बारिश की बूँदें नज़र आती हैं।
-
-कैमरा एक लो-एंगल ट्रैकिंग शॉट का इस्तेमाल करता है जो पीछे से उन्हें धीरे-धीरे फॉलो करता है, फिर पैन करके ऊपर उठता है और मीडियम वाइड शॉट में बदल जाता है, जहाँ सड़कों के किनारे खड़े रोबोटिक वाहनों की कतार दिखाई देती है।
-
-साउंड में मेटल पर गिरती तेज़ बारिश की आवाज़, उनके कदमों की हल्की मैकेनिकल गुंज, दूर जाती ट्रैफिक की आवाज़ जो धीरे-धीरे खामोशी में बदल जाती है, और एक गहरा, गूंजता हुआ एम्बिएंट बैकग्राउंड स्कोर शामिल है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="महिला ऑप्टिमस साइबरपंक बारिश का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2447,6 +2426,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:15:07.163Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T07:45:22.172Z</sub>
 
 </div>

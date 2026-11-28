@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3455** |
+| 📝 Total Prompts | **3459** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Altın Tanrıça Zırh Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 4.7 ile oluşturulan, parlayan kanatlı fütüristik zırh giyen Altın Tanrıça videosu için video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Altın Tanrıça: Arkasında altın rengi bir enerji çemberi belirir. Binlerce altın mekanik parça, ışıldayan altın kanatlarıyla lüks ve fütüristik bir zırh oluşturmak üzere bir araya gelir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="Altın Tanrıça Zırh Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **Published:** Nov 28, 2026
+
+---
+### Grok Imagine Elektrik Tanrıçası Zırh İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şimşeklerin altın metal zırh ve enerji eldivenleri oluşturduğu Grok Imagine için video üretim istemcisi.
+
+#### 📝 Prompt
+
+```
+Elektrik Tanrıçası: Şimşekler etrafındaki toprağa düşer. Elektrik bedeninde dolaşarak altın rengi metalik bir zırh ve güçlü enerji eldivenleri oluşturur.
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Grok Imagine Elektrik Tanrıçası Zırh İstemcisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **Published:** Nov 27, 2026
+
+---
+### Grok Imagine Galaksi Koruyucusu Dönüşüm İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için bir karakterin yıldızlar ve enerji parçacıklarıyla kozmik zırha dönüştüğünü tasvir eden video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Galaxy Guardian: Etrafında yıldızlar ve galaksiler belirir. Kozmik enerji parçacıkları, ışıldayan bir göksel reaktöre sahip muhteşem mavi-mor metalik bir zırha dönüşür.
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Grok Imagine Galaksi Koruyucusu Dönüşüm İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **Published:** Nov 27, 2026
+
+---
 ### Nihai Savaş Makinesi Montajı Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2295,83 +2352,6 @@ Kamera yavaşça hareket halindeki arabanın camına doğru yaklaşır; yüzü k
 **Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
-### SpaceX Dünya Ötesi Montaj
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yörünge üsleri, derin uzay araçları ve yıldızlar arasında yaşam hakkında ilham verici anlatımlar içeren SpaceX montajı için belgesel tarzı bir istem.
-
-#### 📝 Prompt
-
-```
-SpaceX – Dünya'nın Ötesinde
-Yörünge üslerinden derin uzay araçlarına ve yıldızlar arasındaki ilk kalıcı ayak izlerine kadar, SpaceX teknolojilerinin ve Dünya'nın ötesinde çalışan insan kaşiflerin vizyoner bir kolajı.
-
-Görseller sinematik, yüksek teknolojili bir belgesel tarzı sunuyor: şık metalik donanımlar, Earthrise (Dünya Doğuşu) ve yıldız tarlaları, temiz beyaz-siyah SpaceX tasarım dili, yumuşak hacimsel ışık ile sessiz bir kararlılık ve hayranlık hissi.
-
-Kamera; geniş açılı yörünge takip çekimleriyle, yaşam alanları ve araçlar boyunca yapılan yavaş dolly itme hareketleriyle ve ölçeği ile ilerlemeyi vurgulayan zarif hava perspektifleriyle akıyor.
-
-Ses tasarımı ise “İnsanlık artık sadece yıldızlara uzanmıyor. Onların arasında yaşamak için teknolojiyi inşa ediyoruz,” sözlerini söyleyen sakin ve ilham verici bir anlatımı; derin ambiyans motor uğultuları, yumuşak itici ateşleme sesleri ve ince, ruh yükseltici bir orkestral müzikle harmanlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX Dünya Ötesi Montaj">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
-
----
-### Optimus'un Okyanustan Yükselişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fırtınalı bir okyanustan yükselen Optimus Prime'ı, zırhından akan su ve sahneyi aydınlatan şimşeklerle betimleyen sinematik bir prompt.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Şiddetli bir fırtına sırasında derin okyanustan yükselen devasa metalik bir siluetin kesintisiz videosunu oluşturun: Optimus Prime tamamen su yüzeyine çıkıp dalgaların üzerinde dikildiğinde, zırhından sular şelale gibi aşağı dökülür.
-
-[Olay Senaryosu]
-Başlangıçta: Yalnızca karanlık okyanus yüzeyi ve ağır fırtına görünür; yağmur yağar ve şimşekler kapkara, köpüren denizin üzerinde çakar. Ana olay: Devasa metalik bir siluet su yüzeyini yararak istikrarlı bir şekilde yükselir; Optimus Prime'ın zırhındaki her eklem yerinden ve plakadan sular gürül gürül aşağı akar. Önce üst gövdesinin tamamı, ardından tüm görkemli boyu dalgaların üzerinde net bir şekilde belirene kadar yükselmeye devam eder. Sonunda: Optimus Prime, fırtınalı okyanusun üzerinde tamamen su yüzeyine çıkmış ve dimdik ayakta dururken, şimşeklerle aydınlanan gökyüzünün altında zırhından hâlâ sular süzülmektedir.
-
-[Tutarlılığı Koruyun]
-Optimus Prime'ın kimliğini, metalik zırhlı formunu ve tek parça, kesintisiz yükseliş hareketini sabit tutun; derin okyanus ortamını, şiddetli gök gürültülü fırtınayı, aşağı dökülen suları ve karanlık fırtına atmosferini baştan sona koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus'un Okyanustan Yükselişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
-
----
-### Kadın Optimus Cyberpunk Yağmurlu Sahne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Islak sokaklarda neon yansımaları eşliğinde yürüyen kadın Optimus Prime'ı konu alan sinematik bir siberpunk sahnesi için Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Kadın Optimus, yağmurdan sırılsıklam olmuş fütüristik bir metropolde ağır adımlarla ilerliyor. Yüzlerce robot araç durup liderlerini izlerken neon yansımaları zırhının üzerinde geziniyor.
-
-Görseller; ıslak asfalt, parlayan neon tabelalar ve kesintisiz yağan yağmur damlalarıyla sinematik, yüksek kontrastlı bir cyberpunk tarzı sunuyor.
-
-Kamera, onu arkadan yavaşça takip eden alçak açılı bir kaydırma çekimi kullanıyor; ardından panoramik hareketle yükselerek sokakları kaplayan durmuş robot araçları gözler önüne seren orta genişlikte bir plana geçiyor.
-
-Ses tasarımında metale çarpan şiddetli yağmurun sesi, adımlarının çıkardığı boğuk mekanik uğultu, sessizliğe karışarak uzaklaşan trafik sesleri ve derin, yankılanan bir ambient müzik yer alıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Kadın Optimus Cyberpunk Yağmurlu Sahne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2433,6 +2413,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:15:14.228Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T07:45:29.538Z</sub>
 
 </div>

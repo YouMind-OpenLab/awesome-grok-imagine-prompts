@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3455** |
+| 📝 총 프롬프트 수 | **3459** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 골든 여신 아머 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 4.7로 제작된, 빛나는 날개를 가진 골든 여신이 미래형 아머를 조립하는 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+골든 갓데스: 등 뒤로 황금빛 에너지 원이 펼쳐집니다. 수천 개의 황금빛 기계 부품들이 모여 눈부신 황금 날개를 단 화려한 미래형 갑옷으로 완성됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="골든 여신 아머 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **게시일:** Nov 28, 2026
+
+---
+### Grok Imagine 전기 여신 갑옷 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 번개가 치며 황금색 금속 갑옷과 에너지 건틀릿을 형성하는 Grok Imagine용 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+전기 여신: 번개가 그녀의 주변 대지를 내리칩니다. 전류가 온몸을 타고 흐르며 황금빛 금속 갑옷과 강력한 에너지 건틀릿으로 형상화됩니다.
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Grok Imagine 전기 여신 갑옷 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **게시일:** Nov 27, 2026
+
+---
+### Grok Imagine 은하 수호자 변신 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 별과 에너지 입자로 우주 갑옷으로 변신하는 캐릭터를 묘사하는 Grok Imagine용 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Galaxy Guardian: 그녀의 주변으로 별과 은하수가 펼쳐집니다. 우주 에너지 입자들이 빛나는 천체 반응기를 품은 아름다운 블루 퍼플 메탈릭 아머로 변합니다.
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Grok Imagine 은하 수호자 변신 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **게시일:** Nov 27, 2026
+
+---
 ### 최강의 전쟁 기계 조립 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2304,83 +2361,6 @@ Alerele, 정말 신기한 일이네요.
 **작성자:** [Zidan �丹](https://x.com/liluocheng13) | **출처:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **게시일:** Nov 7, 2026
 
 ---
-### SpaceX Beyond Earth 몽타주
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 궤도 전초 기지, 심우주 우주선, 그리고 별 사이에서의 삶에 대한 영감을 주는 내레이션이 포함된 SpaceX 몽타주를 위한 다큐멘터리 스타일 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-SpaceX – Beyond Earth
-궤도 전초기지와 심우주 탐사선부터 별들 사이에 마련된 인류 최초의 영구 거점까지, 지구 너머에서 활약하는 SpaceX 의 기술과 인간 탐험가들의 모습을 담은 비전 있는 몽타주입니다.
-
-영상은 영화적이고 하이테크한 다큐멘터리 스타일을 구현합니다. 유려한 메탈릭 하드웨어, 떠오르는 지구(Earthrise)와 별이 쏟아지는 우주, 깔끔한 화이트 앤 블랙 톤의 SpaceX 디자인 언어, 부드러운 볼류메트릭 조명, 그리고 고요한 결의와 경외감이 어우러집니다.
-
-카메라는 궤도를 따라 넓게 훑어가는 트래킹 숏, 서식지와 기체를 가로지르며 천천히 밀고 들어가는 돌리 푸시, 규모감과 진척도를 강조하는 부드러운 공중 시점으로 움직입니다.
-
-사운드는 “인류는 더 이상 별을 향해 손을 뻗기만 하지 않습니다. 우리는 그 별들 사이에서 살아갈 기술을 만들고 있습니다.”라는 내레이션이 차분하고 감동적인 목소리로 울려 퍼지며, 깊은 앰비언트 엔진음, 부드러운 스러스터 분사 소리, 은은하면서도 희망을 북돋우는 오케스트라 사운드트랙 위에 겹쳐집니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX Beyond Earth 몽타주">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **게시일:** Nov 7, 2026
-
----
-### 바다에서 떠오르는 옵티머스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 폭풍우 치는 바다에서 등장하는 옵티머스 프라임의 시네마틱한 장면을 묘사하는 프롬프트로, 그의 아머를 타고 흐르는 물줄기와 번개가 비추는 드라마틱한 연출을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-거센 뇌우가 몰아치는 깊은 바다에서 거대한 금속 실루엣이 솟아오르는 장면을 끊김 없는 영상으로 생성합니다. Optimus Prime 이 완전히 수면 위로 나와 파도 위에 우뚝 서는 순간, 그의 갑옷에서 물줄기가 폭포처럼 쏟아져 내립니다.
-
-[이벤트 스크립트]
-시작: 어두운 바다 표면과 거센 폭풍만 보이며, 빗줄기와 번개가 검게 요동치는 바다 위를 가로지릅니다. 주요 이벤트: 거대한 금속 실루엣이 수면을 뚫고 steadily 솟아오르며, Optimus Prime 의 갑옷 관절과 판금 곳곳에서 두꺼운 물줄기가 폭포처럼 쏟아집니다. 그는 계속 몸을 일으켜 상체 전체가 드러나고, 마침내 압도적인 전신이 파도 위로 완전히 모습을 드러냅니다. 끝: Optimus Prime 이 폭풍이 휘몰아치는 바다 위에 온전히 일어난 채 곧게 서 있으며, 번개가 하늘을 가르는 동안 갑옷에서는 여전히 물이 흘러내립니다.
-
-[일관성 유지]
-Optimus Prime 의 정체성과 금속 갑옷 형태, 그리고 단절 없이 이어지는 상승 동작을 일정하게 유지하세요. 심해 배경, 격렬한 뇌우, 쏟아지는 물줄기, 어둡고 폭풍우 치는 분위기는 영상 전반에 걸쳐 그대로 유지해야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="바다에서 떠오르는 옵티머스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **게시일:** Nov 6, 2026
-
----
-### 여성 옵티머스 사이버펑크 비 오는 거리 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 네온 반사가 빛나는 비에 젖은 거리를 걷는 여성 옵티머스 프라임을 담은 시네마틱 사이버펑크 장면을 위한 Grok Imagine 프롬프트.
-
-#### 📝 프롬프트
-
-```
-여성형 Optimus 가 빗물에 흠뻑 젖은 미래형 대도시를 천천히 걸어갑니다. 수백 대의 로봇 차량이 멈춰 서서 자신들의 리더를 지켜보는 가운데, 네온 불빛이 그녀의 갑옷 위로 반사되어 흘러갑니다.
-
-영상은 젖은 아스팔트와 빛나는 네온사인, 끊임없이 쏟아지는 빗줄기를 담아내며 영화적이고 대비가 강렬한 사이버펑크 스타일을 연출합니다.
-
-카메라는 로우 앵글 트래킹 숏으로 뒤에서 그녀를 천천히 따라가다가, 패닝하며 상승해 미디엄 와이드 숏으로 전환되어 거리를 가득 메운 채 멈춰 선 로봇 차량들을 드러냅니다.
-
-사운드에는 금속 위로 세차게 내리꽂히는 빗소리, 발걸음에서 울리는 낮고 기계적인 웅웅거림, 점차 잦아들며 정적으로 사라지는 먼 곳의 교통 소음, 그리고 깊고 묵직하게 울려 퍼지는 앰비언트 스코어가 담겨 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="여성 옵티머스 사이버펑크 비 오는 거리 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **게시일:** Nov 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2442,6 +2422,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-28T00:15:04.626Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-28T07:45:19.179Z</sub>
 
 </div>

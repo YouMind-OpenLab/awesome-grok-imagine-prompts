@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3455** |
+| 📝 Total Prompts | **3459** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -189,11 +189,68 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Ultimate War Machine Assembly Video Prompt
+### Golden Goddess Armor Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine showing a futuristic machine scanning a body and assembling hundreds of robotic components into a massive red-and-black female war machine.
+> Video generation prompt for a Golden Goddess assembling futuristic armor with glowing wings, created with Grok Imagine 4.7.
+
+#### 📝 Prompt
+
+```
+Golden Goddess: A golden energy circle appears behind her. Thousands of golden mechanical pieces assemble into luxurious futuristic armor with glowing golden wings.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="Golden Goddess Armor Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **Published:** Nov 28, 2026
+
+---
+### Grok Imagine Electric Goddess Armor Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine featuring lightning striking to form golden metallic armor and energy gauntlets.
+
+#### 📝 Prompt
+
+```
+Electric Goddess: Lightning strikes the ground around her. Electricity travels across her body, forming golden metallic armor and powerful energy gauntlets.
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Grok Imagine Electric Goddess Armor Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **Published:** Nov 27, 2026
+
+---
+### Grok Imagine Galaxy Guardian Transformation Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting a character transforming into cosmic armor with stars and energy particles.
+
+#### 📝 Prompt
+
+```
+Galaxy Guardian: Stars and galaxies appear around her. Cosmic energy particles transform into a beautiful blue-and-purple metallic armor with a glowing celestial reactor.
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Grok Imagine Galaxy Guardian Transformation Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **Published:** Nov 27, 2026
+
+---
+### Grok Imagine War Machine Assembly Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine showing a futuristic assembly of robotic components into a female war machine.
 
 #### 📝 Prompt
 
@@ -201,7 +258,7 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Ultimate War Machine: A futuristic machine scans her body, then launches hundreds of robotic components that lock together, creating a massive red-and-black female war machine.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="Ultimate War Machine Assembly Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126203983362740224/img/4UgGL1CMh5ySY5mv.jpg" width="600" alt="Grok Imagine War Machine Assembly Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14183)**
 
@@ -2302,81 +2359,6 @@ the camera zooms slowly into the window of the moving car, showing a man looking
 **Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
-### SpaceX Beyond Earth Documentary Style Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine creating a cinematic montage of SpaceX technologies and human explorers beyond Earth, including specific narration lines and atmospheric details.
-
-#### 📝 Prompt
-
-```
-SpaceX – Beyond Earth
-A visionary montage of SpaceX technologies and human explorers working beyond Earth, from orbital outposts and deep-space craft to the first permanent footholds among the stars.
-The visuals present a cinematic, high-tech documentary style: sleek metallic hardware, Earthrise and starfields, clean white and black SpaceX design language, soft volumetric light, and a sense of quiet determination and awe.
-The camera moves with sweeping orbital tracking shots, slow dolly pushes across habitats and vehicles, and gentle aerial perspectives that emphasize scale and progress.
-The sound includes a calm, inspiring narration speaking the lines “Humanity isn't just reaching for the stars anymore. We're building the technology to live among them,” layered over deep ambient engine hums, soft thruster bursts, and a subtle, uplifting orchestral score.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX Beyond Earth Documentary Style Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
-
----
-### Optimus Prime Rising from Ocean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for Grok Imagine describing Optimus Prime emerging from a stormy ocean. Includes specific instructions on motion, environment, and consistency.
-
-#### 📝 Prompt
-
-```
-Generate a continuous video of an enormous metallic silhouette rising from a deep ocean during a violent thunderstorm: water cascades from Optimus Prime's armor as he fully emerges and stands above the waves.
-
-At the start: only the dark ocean surface and heavy storm are visible, with rain and lightning flashing across a black, churning sea. Principal event: an enormous metallic silhouette breaks the surface, rising steadily; water cascades in heavy sheets from every joint and plate of Optimus Prime's armor. He continues climbing until his full upper body and then his complete towering form stand clear above the waves. At the end: Optimus Prime stands fully emerged and upright above the storm-tossed ocean, armor still streaming with water under the lightning-lit sky.
-
-Keep Optimus Prime's identity, metallic armored form, and single continuous rising motion stable; maintain the deep-ocean setting, violent thunderstorm, cascading water, and dark storm atmosphere throughout.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus Prime Rising from Ocean">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
-
----
-### Cyberpunk Female Optimus Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic cyberpunk video of a female Optimus Prime walking through a rain-soaked metropolis using Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Female Optimus walks slowly through a rain-soaked futuristic metropolis. Neon reflections move across her armor as hundreds of robotic vehicles stop and watch their leader.
-
-The visuals present a cinematic, high-contrast cyberpunk style with wet asphalt, glowing neon signs, and continuous rain streaks.
-
-The camera uses a low-angle tracking shot that slowly follows her from behind, then pans and rises to a medium wide shot revealing the stopped robotic vehicles lining the streets.
-
-The sound includes heavy rain on metal, the low mechanical hum of her footsteps, distant traffic fading into silence, and a deep resonant ambient score.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Cyberpunk Female Optimus Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2438,6 +2420,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:15:01.543Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T07:45:15.403Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3455** |
+| 📝 Total Prompts | **3459** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video Nữ Thần Giáp Vàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video về Nữ thần Vàng lắp ráp bộ giáp tương lai với đôi cánh phát sáng, được tạo bằng Grok Imagine 4.7.
+
+#### 📝 Prompt
+
+```
+Nữ Thần Vàng: Một vòng năng lượng vàng rực hiện ra phía sau nàng. Hàng ngàn mảnh cơ khí màu vàng kim tự động ghép nối, tạo thành bộ giáp tương lai xa hoa lộng lẫy cùng đôi cánh vàng phát sáng lấp lánh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="Video Nữ Thần Giáp Vàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **Published:** Nov 28, 2026
+
+---
+### Prompt Grok Imagine: Nữ thần điện với áo giáp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine, mô tả cảnh tia sét đánh để hình thành bộ áo giáp kim loại vàng và găng tay năng lượng.
+
+#### 📝 Prompt
+
+```
+Nữ Thần Sấm Sét: Tia chớp giáng xuống mặt đất xung quanh nàng. Luồng điện chạy dọc cơ thể, hóa thành bộ giáp kim loại vàng óng cùng đôi găng tay năng lượng đầy uy lực.
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Prompt Grok Imagine: Nữ thần điện với áo giáp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **Published:** Nov 27, 2026
+
+---
+### Prompt Biến Hình Thành Người Bảo Hộ Thiên Hà Cho Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine mô tả nhân vật biến hình thành bộ giáp vũ trụ với các ngôi sao và hạt năng lượng.
+
+#### 📝 Prompt
+
+```
+Galaxy Guardian: Các vì sao và thiên hà xoay quanh nàng. Những hạt năng lượng vũ trụ hóa thành bộ giáp kim loại xanh tím tuyệt đẹp, tỏa sáng rực rỡ cùng lõi phản ứng tinh cầu phát quang.
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Prompt Biến Hình Thành Người Bảo Hộ Thiên Hà Cho Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **Published:** Nov 27, 2026
+
+---
 ### Lời Nhắc Video Lắp Ráp Cỗ Máy Chiến Tranh Tối Thượng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2296,80 +2353,6 @@ camera từ từ zoom vào cửa kính chiếc xe đang chạy, cho thấy một
 **Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
-### Bản Dựng Phim SpaceX Vượt Ra Ngoài Trái Đất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt phong cách tài liệu cho một bản dựng phim về SpaceX, bao gồm các tiền đồn trên quỹ đạo, tàu vũ trụ không gian sâu và lời kể truyền cảm hứng về cuộc sống giữa các vì sao.
-
-#### 📝 Prompt
-
-```
-SpaceX – Beyond Earth
-Một bản dựng đầy tầm nhìn về các công nghệ của SpaceX và những nhà thám hiểm đang làm việc ngoài Trái Đất, từ các tiền đồn trên quỹ đạo, tàu vũ trụ không gian sâu cho đến những bước chân định cư vĩnh viễn đầu tiên giữa các vì sao.
-Phần hình ảnh mang phong cách phim tài liệu điện ảnh, đậm chất công nghệ cao: những thiết bị kim loại bóng bẩy, cảnh Trái Đất mọc lên cùng bầu trời đầy sao, ngôn ngữ thiết kế trắng đen tinh giản đặc trưng của SpaceX, ánh sáng thể tích mềm mại, toát lên sự quyết tâm thầm lặng xen lẫn niềm kinh ngạc.
-Camera di chuyển bằng những cú lia theo quỹ đạo bao quát, những cú đẩy dolly chậm rãi qua các khu sinh sống và phương tiện, cùng góc máy trên không nhẹ nhàng nhằm tôn lên quy mô và tiến trình phát triển.
-Âm thanh bao gồm phần lời dẫn trầm tĩnh, truyền cảm hứng với câu nói “Nhân loại không còn chỉ vươn tay tới các vì sao nữa. Chúng ta đang kiến tạo công nghệ để sống giữa chúng,” được lồng ghép trên nền tiếng động cơ ambient trầm ấm, những luồng phụt động cơ đẩy êm ái và một bản nhạc giao hưởng tinh tế, đầy cảm hứng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="Bản Dựng Phim SpaceX Vượt Ra Ngoài Trái Đất">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
-
----
-### Optimus trỗi dậy từ đại dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả hình ảnh điện ảnh về Optimus Prime bước ra từ đại dương bão tố, nước chảy tràn trên bộ giáp và ánh chớp chiếu sáng toàn cảnh.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video liền mạch về bóng dáng kim loại khổng lồ trồi lên từ đáy đại dương sâu thẳm giữa cơn bão sấm sét dữ dội: nước tuôn xối xả từ lớp giáp của Optimus Prime khi anh hoàn toàn nhô lên và đứng sừng sững trên những con sóng.
-
-[Kịch bản sự kiện]
-Mở đầu: chỉ thấy mặt biển tối đen và cơn bão cuồng nộ, mưa trút xuống cùng những tia chớp xé ngang vùng biển đen ngòm đang cuộn trào. Sự kiện chính: một bóng dáng kim loại khổng lồ phá vỡ mặt nước, từ từ vươn lên; nước đổ thành từng mảng lớn từ mọi khớp nối và tấm giáp trên cơ thể Optimus Prime. Anh tiếp tục trồi lên cho đến khi toàn bộ phần thân trên, rồi cả vóc dáng cao lớn uy nghi hiện ra trọn vẹn phía trên những ngọn sóng. Kết thúc: Optimus Prime đứng thẳng, hoàn toàn nhô lên khỏi mặt đại dương đang dậy sóng, lớp giáp vẫn còn ướt đẫm nước chảy ròng ròng dưới bầu trời rực sáng ánh chớp.
-
-[Duy trì tính nhất quán]
-Giữ nguyên hình ảnh nhận diện, dáng vẻ bọc giáp kim loại và chuyển động trồi lên liên tục, duy nhất của Optimus Prime; duy trì bối cảnh đại dương sâu thẳm, cơn bão sấm sét dữ dội, dòng nước tuôn xối xả và bầu không khí u ám của cơn bão xuyên suốt toàn bộ video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus trỗi dậy từ đại dương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
-
----
-### Cảnh Cyberpunk Nữ Optimus Trong Mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt Grok Imagine cho một cảnh cyberpunk điện ảnh, với hình ảnh nữ Optimus Prime bước đi trên những con phố ướt đẫm mưa và phản chiếu ánh đèn neon.
-
-#### 📝 Prompt
-
-```
-Nữ Optimus chậm rãi bước qua một siêu đô thị tương lai ướt đẫm trong mưa. Ánh đèn neon phản chiếu lướt trên lớp giáp của cô khi hàng trăm phương tiện robot dừng lại, dõi theo vị thủ lĩnh của mình.
-
-Phần hình ảnh mang đậm phong cách cyberpunk điện ảnh với độ tương phản cao: mặt đường nhựa ướt nhẹp, những biển hiệu neon rực sáng và vệt mưa rơi không ngớt.
-
-Máy quay sử dụng góc máy tracking thấp, từ từ bám theo cô từ phía sau, rồi lia và nâng dần lên cỡ cảnh trung toàn (medium wide shot), để lộ ra hàng loạt phương tiện robot đang nối đuôi nhau đỗ kín hai bên đường.
-
-Âm thanh bao gồm tiếng mưa nặng hạt gõ xuống kim loại, tiếng động cơ trầm đục vang lên theo từng bước chân của cô, tiếng xe cộ xa xăm nhạt dần vào thinh lặng, cùng bản nhạc nền ambient trầm bổng đầy cộng hưởng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Cảnh Cyberpunk Nữ Optimus Trong Mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2431,6 +2414,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:15:06.311Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T07:45:21.008Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3455** |
+| 📝 プロンプト総数 | **3459** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 黄金の女神アーマー動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 4.7 で作成された、光り輝く翼を持つ未来的なアーマーを装着する黄金の女神を描く動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+黄金の女神：背後に黄金のエネルギーサークルが現れる。無数の黄金の機械パーツが組み上がり、輝く黄金の翼を備えた豪華な未来型アーマーへと姿を変える。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="黄金の女神アーマー動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **公開日:** Nov 28, 2026
+
+---
+### Grok Imagine 電気女神アーマー プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 稲妻が金色のメタリックアーマーとエネルギーガントレットを形成する Grok Imagine の動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+電撃の女神：彼女の周囲の地面に雷が落ちる。電流が全身を駆け巡り、黄金の金属鎧と強力なエネルギーガントレットを形成する。
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Grok Imagine 電気女神アーマー プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **公開日:** Nov 27, 2026
+
+---
+### Grok Imagine 銀河の守護者変身プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine でキャラクターが星やエネルギー粒子を纏った宇宙の鎧に変身する様子を描写した動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+Galaxy Guardian：彼女の周囲には星々や銀河が浮かび上がります。宇宙エネルギーの粒子は、輝く天体リアクターを備えた美しい青紫のメタリックアーマーへと姿を変えます。
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Grok Imagine 銀河の守護者変身プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **公開日:** Nov 27, 2026
+
+---
 ### 究極の戦争マシーン組立動画プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2306,84 +2363,6 @@ BGM ：温かみのあるアコースティックギターと、柔らかく落�
 **作者:** [Zidan �丹](https://x.com/liluocheng13) | **ソース:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **公開日:** Nov 7, 2026
 
 ---
-### SpaceX 地球の向こう側 モンタージュ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙での暮らしを描く感動的なナレーションとともに、軌道上の拠点や深宇宙探査機が登場する SpaceX のドキュメンタリー風モンタージュのプロンプト
-
-#### 📝 プロンプト
-
-```
-SpaceX – Beyond Earth
-
-地球の外で活動する SpaceX のテクノロジーと人類の探査者たちを描いた、未来を見据えるモンタージュ。軌道上の前線基地や深宇宙船から、星々の間に築かれる最初の恒久的な拠点までを映し出します。
-
-映像はシネマティックでハイテクなドキュメンタリースタイルを採用しています。流線型のメタリックな機体、地球の出（アースライズ）と満天の星空、白と黒を基調としたクリーンな SpaceX のデザイン言語、柔らかなボリュメトリックライト、そして静かなる決意と畏敬の念が漂います。
-
-カメラは、雄大な軌道トラッキングショット、居住区や機体を横切るゆっくりとしたドリーイン、そしてスケール感と前進を強調する穏やかな空撮視点で動いていきます。
-
-サウンドには、落ち着いたトーンで希望を与えるナレーション「人類はもはや、ただ星に手を伸ばしているだけではない。星々の中で生きるためのテクノロジーを築いているのだ」が重なります。その下には、深く響くアンビエントなエンジンの駆動音、柔らかなスラスターの噴射音、そしてさりげなく心を高揚させるオーケストラスコアがレイヤーされています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX 地球の向こう側 モンタージュ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **公開日:** Nov 7, 2026
-
----
-### 海から現れるオプティマス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 嵐の海から現れるオプティマスプライムのシネマティックなプロンプト。鎧から水が滴り落ち、稲妻がシーンを照らし出す。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-激しい雷雨の中、深海から巨大な金属のシルエットが立ち上がる連続動画を生成します。 Optimus Prime が完全に姿を現して波の上にそびえ立つと、そのアーマーからは大量の水が流れ落ちます。
-
-[イベントスクリプト]
-開始時：暗い海面と激しい嵐だけが映し出され、黒く荒れ狂う海に雨と稲妻が走ります。主要イベント：巨大な金属のシルエットが海面を破り、着実に上昇します。 Optimus Prime のアーマーのあらゆる関節やプレートから、水が滝のように流れ落ちます。彼は上半身全体、そして最終的にはそびえ立つ全身が波の上にはっきりと現れるまで、上昇を続けます。終了時： Optimus Prime は嵐で荒れ狂う海の上で完全に直立した姿となり、稲妻に照らされた空の下、アーマーからはまだ水が流れ続けています。
-
-[一貫性の維持]
-Optimus Prime のアイデンティティ、金属製のアーマー姿、途切れのない一連の上昇動作を安定して保ちます。また、深海という舞台設定、激しい雷雨、流れ落ちる水、暗い嵐の雰囲気を全体を通して維持してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="海から現れるオプティマス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **公開日:** Nov 6, 2026
-
----
-### 女性オプティマス プライム サイバーパンク 雨のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨に濡れた街を歩く女性版オプティマスプライムとネオンの反射を描いた、シネマティックなサイバーパンクシーンのGrok Imagineプロンプト。
-
-#### 📝 プロンプト
-
-```
-女性の Optimus が、雨に濡れた未来都市をゆっくりと歩き進みます。ネオンの反射光が彼女の装甲の上を滑るように動き、何百台ものロボット車両が足を止め、自らのリーダーを見つめています。
-
-映像は、映画のようなハイコントラストのサイバーパンクスタイルで描かれ、濡れたアスファルト、輝くネオンサイン、そして降り続く雨筋が画面を彩ります。
-
-カメラはローアングルのトラッキングショットで背後から彼女をゆっくりと追いかけ、その後パンしながら上昇してミディアムワイドショットへと移行し、路上に立ち並んで停止したロボット車両群を映し出します。
-
-サウンドは、金属に叩きつける激しい雨音、足取りから響く低く機械的な駆動音、次第に静寂へと溶けていく遠くの交通音、そして深く重厚なアンビエントスコアで構成されています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="女性オプティマス プライム サイバーパンク 雨のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **公開日:** Nov 6, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2445,6 +2424,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-28T00:15:03.795Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-28T07:45:18.322Z</sub>
 
 </div>

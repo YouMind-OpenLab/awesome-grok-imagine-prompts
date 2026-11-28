@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3455** |
+| 📝 Total Prompts | **3459** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอเกราะเทพีทองคำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอ Golden Goddess กำลังประกอบเกราะล้ำยุคพร้อมปีกเรืองแสง สร้างด้วย Grok Imagine 4.7
+
+#### 📝 Prompt
+
+```
+Golden Goddess: วงแหวนพลังงานสีทองปรากฏขึ้นเบื้องหลังเธอ ชิ้นส่วนจักรกลสีทองนับพันชิ้นประกอบร่างเข้าด้วยกันกลายเป็นชุดเกราะล้ำยุคสุดหรูหรา พร้อมปีกสีทองเปล่งประกายเรืองรอง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="วิดีโอเกราะเทพีทองคำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **Published:** Nov 28, 2026
+
+---
+### พรอมต์ Grok Imagine: เทพธิดาไฟฟ้าในชุดเกราะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine ที่แสดงสายฟ้าฟาดจนกลายเป็นชุดเกราะโลหะสีทองและถุงมือพลังงาน
+
+#### 📝 Prompt
+
+```
+เทพีแห่งสายฟ้า: สายฟ้าฟาดลงสู่พื้นดินรอบตัวเธอ กระแสไฟฟ้าวิ่งพล่านไปทั่วร่าง หลอมรวมกันกลายเป็นชุดเกราะโลหะสีทองและถุงมือพลังงานอันทรงพลัง
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="พรอมต์ Grok Imagine: เทพธิดาไฟฟ้าในชุดเกราะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **Published:** Nov 27, 2026
+
+---
+### พรอมต์ Grok Imagine: การแปลงร่างเป็นผู้พิทักษ์กาแล็กซี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine ที่แสดงการแปลงร่างของตัวละครเป็นชุดเกราะจักรวาลพร้อมดาวและอนุภาคพลังงาน
+
+#### 📝 Prompt
+
+```
+Galaxy Guardian: ดวงดาวและกาแล็กซีปรากฏขึ้นรอบตัวเธอ อนุภาคพลังงานจักรวาลแปรเปลี่ยนเป็นชุดเกราะโลหะสีน้ำเงินอมม่วงอันงดงาม พร้อมเครื่องปฏิกรณ์แห่งดวงดาวที่เปล่งประกายเจิดจ้า
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="พรอมต์ Grok Imagine: การแปลงร่างเป็นผู้พิทักษ์กาแล็กซี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **Published:** Nov 27, 2026
+
+---
 ### พรอมต์วิดีโอประกอบร่าง Ultimate War Machine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2297,80 +2354,6 @@ Visual Style: 3D CGI สมจริงขั้นสุด, หุ่นยน
 **Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
-### SpaceX: ภาพรวมการเดินทางไกลกว่าโลก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์สารคดีสำหรับคลิปมอนทาจของ SpaceX ที่นำเสนอฐานอวกาศในวงโคจร ยานอวกาศสำหรับภารกิจห้วงลึก และบทบรรยายสร้างแรงบันดาลใจเกี่ยวกับการดำรงชีวิตท่ามกลางดวงดาว
-
-#### 📝 Prompt
-
-```
-SpaceX – Beyond Earth
-ภาพตัดต่อที่ถ่ายทอดวิสัยทัศน์ของเทคโนโลยี SpaceX และนักสำรวจมนุษย์ที่กำลังปฏิบัติงานอยู่นอกโลก ตั้งแต่สถานีโคจรและยานอวกาศห้วงลึก ไปจนถึงการตั้งถิ่นฐานถาวรแห่งแรกท่ามกลางดวงดาว
-ภาพทั้งหมดนำเสนอในรูปแบบสารคดีสไตล์ภาพยนตร์ที่เปี่ยมด้วยเทคโนโลยีล้ำสมัย ทั้งฮาร์ดแวร์โลหะผิวเรียบมันวาว ภาพ Earthrise และทุ่งดาว ภาษาการออกแบบสีขาวดำอันสะอาดตาแบบฉบับของ SpaceX แสงวอลูเมตริกนุ่มนวล พร้อมความรู้สึกถึงความมุ่งมั่นอันเงียบงันและความน่าเกรงขาม
-กล้องเคลื่อนที่ด้วยการแพนติดตามวงโคจรอย่างกว้างไกล ค่อยๆ ดอลลี่เข้าหาที่พักอาศัยและยานพาหนะ รวมถึงมุมมองทางอากาศที่นุ่มนวลซึ่งช่วยขับเน้นขนาดความยิ่งใหญ่และความก้าวหน้า
-เสียงประกอบมาพร้อมคำบรรยายที่สงบนิ่งและสร้างแรงบันดาลใจ ด้วยประโยคว่า “มนุษยชาติไม่ได้แค่เอื้อมมือไปหาดวงดาวอีกต่อไป แต่เรากำลังสร้างเทคโนโลยีเพื่อใช้ชีวิตอยู่ท่ามกลางดวงดาวเหล่านั้น” ซ้อนทับกับเสียงครางต่ำของเครื่องยนต์แอมเบียนต์ เสียงพ่นไอของทรัสเตอร์เบาๆ และดนตรีออร์เคสตราที่แฝงความปลุกใจอย่างละมุนละไม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX: ภาพรวมการเดินทางไกลกว่าโลก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
-
----
-### Optimus Rising from Ocean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์ภาพยนตร์ที่บรรยายฉาก Optimus Prime โผล่ขึ้นจากมหาสมุทรท่ามกลางพายุ คลื่นน้ำไหลรินลงจากเกราะของเขา และสายฟ้าฟาดสว่างไสวทั่วทั้งฉาก
-
-#### 📝 Prompt
-
-```
-[เป้าหมายการสร้างวิดีโอ]
-สร้างวิดีโอแบบต่อเนื่องของเงาโลหะขนาดมหึมาที่โผล่ขึ้นมาจากมหาสมุทรอันลึกมืดมิดท่ามกลางพายุฝนฟ้าคะนองรุนแรง: สายน้ำไหลทะลักลงมาจากชุดเกราะของ Optimus Prime ขณะที่เขาโผล่พ้นน้ำขึ้นมาทั้งตัวและยืนตระหง่านอยู่เหนือเกลียวคลื่น
-
-[บทเหตุการณ์]
-ช่วงเริ่มต้น: มองเห็นเพียงผิวน้ำทะเลสีเข้มและพายุที่โหมกระหน่ำ ฝนตกหนักและสายฟ้าแลบฉาบไปทั่วท้องทะเลสีดำที่ปั่นป่วน เหตุการณ์หลัก: เงาโลหะขนาดมหึมาแหวกผิวน้ำขึ้นมา ค่อย ๆ โผล่สูงขึ้นอย่างมั่นคง สายน้ำไหลทะลักเป็นแผ่นหนาจากทุกข้อต่อและทุกแผ่นเกราะของ Optimus Prime เขายังคงเคลื่อนตัวสูงขึ้นเรื่อย ๆ จนกระทั่งลำตัวท่อนบนทั้งหมด และในที่สุดร่างสูงตระหง่านทั้งตัวก็โผล่พ้นเหนือเกลียวคลื่นอย่างสมบูรณ์ ช่วงท้าย: Optimus Prime ยืนตรงเต็มตัวเหนือน่านมหาสมุทรที่ถูกพายุซัดกระหน่ำ ชุดเกราะยังคงมีสายน้ำไหลรินลงมาไม่ขาดสายภายใต้ท้องฟ้าที่สว่างวาบด้วยแสงสายฟ้า
-
-[รักษาความสอดคล้อง]
-รักษารูปแบบตัวตน ร่างกายในชุดเกราะโลหะ และการเคลื่อนไหวโผล่ขึ้นอย่างต่อเนื่องเป็นจังหวะเดียวของ Optimus Prime ให้คงเส้นคงวา พร้อมทั้งรักษาฉากมหาสมุทรอันลึกมืด พายุฝนฟ้าคะนองรุนแรง สายน้ำที่ไหลทะลัก และบรรยากาศมืดครึ้มของพายุไว้ตลอดทั้งวิดีโอ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus Rising from Ocean">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
-
----
-### ฉากหญิง Optimus ในบรรยากาศไซเบอร์พังค์กลางสายฝน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ Grok Imagine สำหรับฉากไซเบอร์พังค์แบบภาพยนตร์ที่นำเสนอภาพ Optimus Prime หญิงเดินผ่านถนนเปียกฝนพร้อมแสงสะท้อนจากไฟนีออน
-
-#### 📝 Prompt
-
-```
-Optimus เวอร์ชันหญิงก้าวเดินอย่างเชื่องช้าผ่านมหานครแห่งอนาคตที่ชุ่มฉ่ำไปด้วยสายฝน แสงสะท้อนจากป้ายนีออนเคลื่อนตัววาววับไปทั่วชุดเกราะของเธอ ขณะที่พาหนะหุ่นยนต์นับร้อยคันหยุดนิ่งเพื่อเฝ้ามองผู้นำของพวกตน
-
-ภาพทั้งหมดถ่ายทอดสไตล์ไซเบอร์พังก์แบบภาพยนตร์ที่มีความเปรียบต่างสูง ทั้งพื้นแอสฟัลต์เปียกชื้น ป้ายไฟนีออนเรืองแสง และสายฝนที่โปรยปรายลงมาไม่ขาดสาย
-
-กล้องใช้มุมต่ำแบบ Tracking shot ค่อยๆ เคลื่อนตามเธอไปจากด้านหลัง ก่อนจะแพนและยกขึ้นเป็นช็อต Medium wide เผยให้เห็นขบวนพาหนะหุ่นยนต์ที่จอดเรียงรายอยู่เต็มสองฝั่งถนน
-
-ส่วนเสียงประกอบนั้นประกอบด้วยเสียงฝนตกกระหน่ำกระทบโลหะ เสียงฮัมเชิงกลทุ้มต่ำจากฝีเท้าของเธอ เสียงจราจรไกลๆ ที่ค่อยๆ จางหายไปในความเงียบงัน และดนตรีแอมเบียนต์บรรยากาศที่ดังก้องกังวานลึกซึ้ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="ฉากหญิง Optimus ในบรรยากาศไซเบอร์พังค์กลางสายฝน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2432,6 +2415,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:15:05.492Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T07:45:20.129Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3455** |
+| 📝 Total Prompts | **3459** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -189,6 +189,63 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Goldene Göttin Rüstungs-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video-Generierungs-Prompt für eine goldene Göttin, die futuristische Rüstung mit leuchtenden Flügeln zusammenbaut, erstellt mit Grok Imagine 4.7.
+
+#### 📝 Prompt
+
+```
+Goldene Göttin: Hinter ihr erscheint ein goldener Energiekreis. Tausende goldene mechanische Teile fügen sich zu einer luxuriösen, futuristischen Rüstung mit leuchtend goldenen Flügeln zusammen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="Goldene Göttin Rüstungs-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **Published:** Nov 28, 2026
+
+---
+### Grok Imagine Prompt: Elektrische Göttinnen-Rüstung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, der zeigt, wie Blitze goldene metallische Rüstungen und Energie-Panzerhandschuhe formen.
+
+#### 📝 Prompt
+
+```
+Elektrische Göttin: Blitze schlagen rund um sie in den Boden ein. Elektrizität fließt über ihren Körper und formt eine goldene Metallrüstung sowie mächtige Energiehandschuhe.
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Grok Imagine Prompt: Elektrische Göttinnen-Rüstung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **Published:** Nov 27, 2026
+
+---
+### Grok Imagine Galaxy Guardian Verwandlungs-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, der die Verwandlung eines Charakters in kosmische Rüstung mit Sternen und Energiepartikeln darstellt.
+
+#### 📝 Prompt
+
+```
+Galaxy Guardian: Sterne und Galaxien erscheinen um sie herum. Kosmische Energiepartikel verwandeln sich in eine wunderschöne blau-violette Metallrüstung mit einem leuchtenden Himmelsreaktor.
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Grok Imagine Galaxy Guardian Verwandlungs-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **Published:** Nov 27, 2026
+
+---
 ### Ultimatives Prompt für das Video zur Montage der ultimativen Kriegsmaschine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2293,80 +2350,6 @@ Die Kamera zoomt langsam auf das Fenster des fahrenden Autos und zeigt einen Man
 **Author:** [Zidan �丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **Published:** Nov 7, 2026
 
 ---
-### SpaceX-Montage: Jenseits der Erde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dokumentarischer Prompt für eine SpaceX-Montage mit orbitalen Außenposten, Raumschiffen für die Tiefsee und inspirierender Erzählung über das Leben zwischen den Sternen.
-
-#### 📝 Prompt
-
-```
-SpaceX – Beyond Earth
-Eine visionäre Montage aus SpaceX-Technologien und menschlichen Entdeckern, die jenseits der Erde arbeiten – von orbitalen Außenposten und Raumschiffen für den tiefen Weltraum bis hin zu den ersten dauerhaften Stützpunkten unter den Sternen.
-Die Bilder sind im Stil eines cineastischen High-Tech-Dokumentarfilms gehalten: stromlinienförmige Metallkonstruktionen, Erdaufgang und Sternenhimmel, die klare Design-Sprache von SpaceX in Schwarz und Weiß, weiches volumetrisches Licht sowie eine Atmosphäre stiller Entschlossenheit und Ehrfurcht.
-Die Kamera bewegt sich in weitläufigen orbitalen Verfolgungsfahrten, mit langsamen Dolly-Fahrten über Habitate und Fahrzeuge hinweg sowie sanften Luftaufnahmen, die Dimension und Fortschritt betonen.
-Der Ton umfasst eine ruhige, inspirierende Erzählstimme, die die Worte spricht: „Die Menschheit greift nicht mehr nur nach den Sternen. Wir entwickeln die Technologie, um unter ihnen zu leben.“ Diese wird mit tiefem, atmosphärischem Triebwerksbrummen, leisen Schubstößen und einer dezenten, erhebenden Orchestermusik unterlegt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX-Montage: Jenseits der Erde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
-
----
-### Optimus steigt aus dem Ozean auf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmreifer Prompt, der Optimus Prime beschreibt, wie er aus einem stürmischen Ozean auftaucht, während Wasser von seiner Rüstung tropft und Blitze die Szene erhellen.
-
-#### 📝 Prompt
-
-```
-[Generierungsziel]
-Erzeuge ein durchgehendes Video einer gewaltigen metallischen Silhouette, die während eines heftigen Gewitters aus den Tiefen des Ozeans aufsteigt: Wasser stürzt in Kaskaden von Optimus Primes Rüstung herab, als er vollständig aus dem Meer auftaucht und sich über den Wellen erhebt.
-
-[Ereignis-Skript]
-Zu Beginn: Nur die dunkle Meeresoberfläche und der schwere Sturm sind zu sehen, Regen peitscht und Blitze zucken über eine schwarze, aufgewühlte See. Hauptereignis: Eine riesige metallische Silhouette durchbricht die Wasseroberfläche und steigt stetig empor; in schweren Strömen ergießt sich das Wasser aus jeder Fuge und jedem Panzersegment von Optimus Primes Rüstung. Er taucht immer weiter auf, bis zunächst sein gesamter Oberkörper und schließlich seine turmhohe Gestalt vollständig über den Wellen steht. Am Ende: Optimus Prime steht vollends aufgerichtet über dem vom Sturm gepeitschten Ozean, während unter dem blitzdurchzuckten Himmel noch immer das Wasser von seiner Rüstung strömt.
-
-[Konsistenz bewahren]
-Halte Optimus Primes Identität, seine gepanzerte Metallgestalt und die einzige, ununterbrochene Aufwärtsbewegung konstant bei; behalte zudem durchgehend das Setting der Tiefsee, das heftige Gewitter, das herabstürzende Wasser und die düstere Sturmatmosphäre bei.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus steigt aus dem Ozean auf">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
-
----
-### Weiblicher Optimus Cyberpunk Regenszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine Prompt für eine cineastische Cyberpunk-Szene mit einem weiblichen Optimus Prime, der durch regennasse Straßen mit Neonreflexionen geht.
-
-#### 📝 Prompt
-
-```
-Eine weibliche Optimus schreitet langsam durch eine regennasse Metropole der Zukunft. Neonreflexionen gleiten über ihre Rüstung, während Hunderte von Roboterfahrzeugen anhalten und ihrer Anführerin nachblicken.
-
-Die Bilder zeigen einen cineastischen Cyberpunk-Stil mit hohem Kontrast: nasser Asphalt, leuchtende Neonschilder und unablässig fallende Regenschlieren.
-
-Die Kamera nutzt eine tiefe Verfolgungsfahrt, die ihr langsam von hinten folgt, dann schwenkt und sich zu einer Halbtotale erhebt, in der die am Straßenrand aufgereihten, stillstehenden Roboterfahrzeuge sichtbar werden.
-
-Der Ton umfasst prasselnden Regen auf Metall, das tiefe mechanische Summen ihrer Schritte, fernen Verkehr, der in Stille verklingt, sowie einen tiefen, resonanten Ambient-Soundtrack.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Weiblicher Optimus Cyberpunk Regenszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2428,6 +2411,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:15:09.609Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T07:45:24.903Z</sub>
 
 </div>

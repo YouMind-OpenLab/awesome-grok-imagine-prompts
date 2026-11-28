@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3455** |
+| 📝 提示词总数 | **3459** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-28** |
 
@@ -189,6 +189,63 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 黄金女神盔甲视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 4.7 生成的视频提示词，展示一位黄金女神组装带有发光翅膀的未来主义盔甲。
+
+#### 📝 提示词
+
+```
+黄金女神：她身后浮现出一道金色能量光环。成千上万的金色机械部件汇聚组合，化作一套奢华的未来感战甲，并展开闪耀着金光的翅膀。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126559044718477312/img/GnA2pskKJQyA54CC.jpg" width="600" alt="黄金女神盔甲视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14207)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2126559358607581242) | **发布时间:** Nov 28, 2026
+
+---
+### Grok Imagine 雷电女神盔甲提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，展现闪电击中形成金色金属盔甲与能量护手的效果。
+
+#### 📝 提示词
+
+```
+雷电女神：闪电劈落在她四周的地面上。电流在她周身游走，凝聚成金色的金属铠甲与威力强大的能量护臂。
+```
+
+<img src="https://pbs.twimg.com/media/HYJ5TBlWMAAVoYg.jpg" width="600" alt="Grok Imagine 雷电女神盔甲提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14208)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2126395781720822002) | **发布时间:** Nov 27, 2026
+
+---
+### Grok Imagine 银河守护者变身提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的视频生成提示词，描绘角色变身为带有星辰与能量粒子的宇宙装甲。
+
+#### 📝 提示词
+
+```
+Galaxy Guardian：星辰与星系环绕在她身畔。宇宙能量粒子幻化为一套蓝紫交织的绝美金属战甲，胸前的星核反应炉熠熠生辉。
+```
+
+<img src="https://pbs.twimg.com/media/HYIhJy_XsAAGI0E.jpg" width="600" alt="Grok Imagine 银河守护者变身提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=14205)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2126298580990521524) | **发布时间:** Nov 27, 2026
+
+---
 ### 终极战争机组装视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2296,80 +2353,6 @@ Alerele，真是件稀奇事呢。
 **作者:** [Zidan �丹](https://x.com/liluocheng13) | **来源:** [Link](https://x.com/liluocheng13/status/2118927245159157921) | **发布时间:** Nov 7, 2026
 
 ---
-### SpaceX Beyond Earth 混剪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段纪录片风格的 SpaceX 混剪提示词，展示轨道前哨站、深空飞船以及关于在群星间生活的鼓舞人心的旁白。
-
-#### 📝 提示词
-
-```
-SpaceX – Beyond Earth
-一部充满远见的混剪作品，展现 SpaceX 技术与人类探索者在地外空间协同工作的场景——从轨道前哨站、深空飞行器，到人类在星辰间建立的首个永久立足点。
-画面呈现出电影级的高科技纪录片风格：流线型的金属硬件、地出（Earthrise）与浩瀚星海、简洁的黑白 SpaceX 设计语言、柔和的体积光，以及一种静谧而坚定的敬畏感。
-镜头运用宏大的轨道跟拍、缓慢推近栖息舱与飞行器的移动摄影，以及凸显规模感与探索进程的轻柔航拍视角。
-声音部分包含沉稳而振奋人心的旁白，念出这样的台词：“人类不再只是仰望星空，我们正在打造真正栖居群星之间的技术。”旁白交织着深沉的环境引擎低鸣、轻柔的推进器喷射声，以及细腻昂扬的管弦配乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX Beyond Earth 混剪">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13675)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **发布时间:** Nov 7, 2026
-
----
-### 擎天柱从海洋中崛起
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感提示词，描绘擎天柱从暴风雨中的海洋崛起，水珠顺着他的装甲倾泻而下，闪电照亮整个场景。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段连贯的视频：在狂风暴雨中，一个巨大的金属轮廓从深海缓缓升起——当擎天柱（Optimus Prime）完全浮出水面、屹立于波涛之上时，海水顺着他的装甲倾泻而下。
-
-[事件脚本]
-开场：画面中只有漆黑的海面与猛烈的风暴，暴雨如注，闪电划破翻涌的黑色海洋。核心事件：一个巨大的金属轮廓破水而出，稳步上升；海水如瀑布般从 Optimus Prime 装甲的每一处关节与甲板上奔流而下。他不断向上攀升，先是上半身完全露出，随后整个巍峨的身躯彻底脱离海浪。结尾：Optimus Prime 全身挺立于惊涛骇浪之上，在电闪雷鸣的天空下，装甲上依然水流如注。
-
-[保持一致性]
-保持 Optimus Prime 的身份特征、金属装甲形态以及连贯的上升动作稳定不变；全程维持深海场景、猛烈雷暴、倾泻的水流与阴沉的风暴氛围。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="擎天柱从海洋中崛起">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13674)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **发布时间:** Nov 6, 2026
-
----
-### 女性擎天柱赛博朋克雨景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Grok Imagine 提示词，用于生成电影感赛博朋克场景：女性版擎天柱行走在雨水浸透的街道上，霓虹灯倒影闪烁。
-
-#### 📝 提示词
-
-```
-女性版 Optimus 缓步穿行于被雨水浸透的未来都市。霓虹光影在她的装甲上流转，数百辆机器人车辆纷纷停下，注视着它们的领袖。
-
-画面呈现出电影感十足的高对比度赛博朋克风格：湿漉漉的柏油路面、闪烁的霓虹招牌，以及连绵不断的雨丝。
-
-镜头采用低角度跟拍，从她身后缓缓跟随，随后平移并抬升为中远景，展现出沿街停驻的机器人车队。
-
-声音方面，包括大雨敲击金属的声响、她脚步中低沉的机械嗡鸣、远处车流声逐渐归于寂静，以及深沉浑厚的环境配乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="女性擎天柱赛博朋克雨景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13645)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **发布时间:** Nov 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2431,6 +2414,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-28T00:15:02.273Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-28T07:45:16.421Z</sub>
 
 </div>
